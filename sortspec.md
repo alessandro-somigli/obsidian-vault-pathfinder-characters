@@ -1,5 +1,5 @@
 ---
-sorting-spec: |
+sorting-spec: |-
   target-folder: /
   pf_ch_02
   sortspec
@@ -11,5 +11,5 @@ sorting-spec: |
   Incantesimi
   Forma Selvatica
   Creature Evocate
-  Domande & Risposte
+  Domande e Risposte
 ---
