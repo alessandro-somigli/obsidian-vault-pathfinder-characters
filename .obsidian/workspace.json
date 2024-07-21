@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "pf_ch_02/Forma Selvatica.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,6 +166,8 @@
   },
   "active": "0631588325284441",
   "lastOpenFiles": [
+    "pf_ch_02/Incantesimi.md",
+    "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Domande & Risposte.md",
     "sortspec.md",
     "sortspec.md",
@@ -173,13 +176,11 @@
     "pf_ch_02/sortspec.md",
     "pf_ch_02/Level Up Changes.md",
     "pf_ch_02/Creature Evocate.md",
-    "pf_ch_02/Forma Selvatica.md",
     "new_folder",
     "pf_ch_02/Backstory.md",
     "pf_ch_02/Equipaggiamento.md",
     "Untitled Page.md",
     "test note.md",
-    "pf_ch_02/Incantesimi.md",
     "pf_ch_02/old test note.md",
     "obsidian_git/Untitled.md",
     "obsidian_git",
