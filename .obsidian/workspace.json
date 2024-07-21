@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "055cffea2edd4a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled Page.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_02/Equipaggiamento.md",
+                "file": "Untitled Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_02/Equipaggiamento.md",
+                "file": "Untitled Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_02/Equipaggiamento.md"
+                "file": "Untitled Page.md"
               }
             }
           },
@@ -162,10 +175,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a37f47cd706a4a93",
+  "active": "06e52a5d61a5b2c5",
   "lastOpenFiles": [
-    "test note.md",
     "pf_ch_02/Equipaggiamento.md",
+    "Untitled Page.md",
+    "test note.md",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/Backstory.md",
