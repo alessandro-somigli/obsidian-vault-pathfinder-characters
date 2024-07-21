@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f837d6f3fec6b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_02/Equipaggiamento.md",
+                "file": "test note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_02/Equipaggiamento.md",
+                "file": "test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_02/Equipaggiamento.md"
+                "file": "test note.md"
               }
             }
           },
@@ -162,14 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06e52a5d61a5b2c5",
+  "active": "3f837d6f3fec6b4d",
   "lastOpenFiles": [
+    "pf_ch_02/Equipaggiamento.md",
+    "test note.md",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/Backstory.md",
     "pf_ch_02/old test note.md",
     "obsidian_git/Untitled.md",
-    "pf_ch_02/Equipaggiamento.md",
     "obsidian_git",
     "obsidian-remote",
     "pf_ch_02/Forma selvatica.md",
