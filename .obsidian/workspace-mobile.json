@@ -11,8 +11,12 @@
             "id": "50b22bcca4e49b82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pf_ch_02/Incantesimi.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "pf_ch_02/Incantesimi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "pf_ch_02/Incantesimi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -108,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "pf_ch_02/Incantesimi.md"
           }
         }
       },
@@ -133,8 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28d51c6fc06598bd",
+  "active": "50b22bcca4e49b82",
   "lastOpenFiles": [
+    "pf_ch_02/PG.md",
+    "pf_ch_02/Incantesimi.md",
+    "pf_ch_02/Backstory.md",
     "Untitled.md"
   ]
 }

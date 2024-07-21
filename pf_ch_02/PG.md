@@ -25,6 +25,9 @@ tratti:
 
 # Stats
 
+LV: 1
+PE: 0
+
 stats:          TOT | MOD
 for: 14         14 -> `+2`
 dex: 16         16 -> `+3`
