@@ -15,7 +15,7 @@
               "state": {
                 "file": "sortspec.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -163,9 +163,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0631588325284441",
+  "active": "06e52a5d61a5b2c5",
   "lastOpenFiles": [
     "sortspec.md",
+    "sortspec.md",
+    "new_one",
     "pf_ch_02/PG.md",
     "pf_ch_02/sortspec.md",
     "pf_ch_02/Level Up Changes.md",
