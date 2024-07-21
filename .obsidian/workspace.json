@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06e52a5d61a5b2c5",
+  "active": "c8366908eb4d9d34",
   "lastOpenFiles": [
     "pf_ch_02/Equipaggiamento.md",
     "Untitled Page.md",
