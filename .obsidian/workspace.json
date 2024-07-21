@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sortspec.md",
+                "file": "pf_ch_02/Forma Selvatica.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sortspec.md",
+                "file": "pf_ch_02/Forma Selvatica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sortspec.md",
+                "file": "pf_ch_02/Forma Selvatica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sortspec.md"
+                "file": "pf_ch_02/Forma Selvatica.md"
               }
             }
           },
@@ -163,8 +163,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "06e52a5d61a5b2c5",
+  "active": "0631588325284441",
   "lastOpenFiles": [
+    "pf_ch_02/Domande & Risposte.md",
     "sortspec.md",
     "sortspec.md",
     "new_one",
@@ -176,7 +177,6 @@
     "new_folder",
     "pf_ch_02/Backstory.md",
     "pf_ch_02/Equipaggiamento.md",
-    "pf_ch_02/Domande & Risposte.md",
     "Untitled Page.md",
     "test note.md",
     "pf_ch_02/Incantesimi.md",
