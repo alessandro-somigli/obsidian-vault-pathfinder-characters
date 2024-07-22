@@ -46,72 +46,66 @@ tratti razziali:
 # Classe
 
 classe: [Guerriero](https://golarion.altervista.org/wiki/Guerriero)
-archetipo: [Guerriero con Arma a Due Mani](https://golarion.altervista.org/wiki/Druido/Archetipi#Saggio_del_Menhir)
+archetipo: [Guerriero con Arma a Due Mani](https://golarion.altervista.org/wiki/Guerriero/Archetipi#Guerriero_con_Arma_a_Due_Mani)
 
-gradi abilità per livello: `4 + MOD.INT`
+gradi abilità per livello: `2 + MOD.INT`
 
 privilegi di classe:
-1)   [x] lancio spontaneo
-1)   [x] legame con la natura (compagno animale)
-1)   [x] percepire spiriti
-2)   [ ] piazzare magia
-4)   [ ] resistenza al richiamo della natura
-4)   [ ] forma selvatica
-9)   [ ] seguire le linee
-13)  [ ] corpo vuoto
-15)  [ ] corpo senza tempo
+1)   [x] talento bonus
+2)   [ ] colpo frantumatore
+3)   [ ] fendente dall'alto
+5)   [ ] addestramento nelle armi (solo armi da mischia a due mani)
+7)   [ ] fendente di ritorno
+11)  [ ] ariete
+15)  [ ] attacco poderoso superiore
+19)  [ ] colpo devastatore
+20)  [ ] padronanza dell'arma
 
 # Abilità
 
-| abilità (1-10)                                                                | l.1 | l.2 | l.3 | l.4 | l.5 | l.6 | l.7 | l.8 | l.9 | l.10 |
-| ----------------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| [addestrare animali](https://golarion.altervista.org/wiki/Addestrare_Animali) | 1   | 1   | 1   | 2   | 2   | 2   | 2   | 3   | 3   | 4    |
-| [conoscenze (natura)](https://golarion.altervista.org/wiki/Conoscenze)        | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   |
-| [conoscenze (religioni)](https://golarion.altervista.org/wiki/Conoscenze)     | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   |
-| [conoscenze (piani)](https://golarion.altervista.org/wiki/Conoscenze)         | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   |
-| [guarire](https://golarion.altervista.org/wiki/Guarire)                       | 0   | 1   | 2   | 2   | 3   | 3   | 4   | 4   | 5   | 5    |
-| [percezione](https://golarion.altervista.org/wiki/Percezione)                 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   |
-| [sapienza magica](https://golarion.altervista.org/wiki/Sapienza_Magica)       | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0    |
-| [volare](https://golarion.altervista.org/wiki/Volare)                         | 0   | 0   | 0   | 0   | 0   | 1   | 1   | 1   | 1   | 1    |
+| abilità (1-10) | l.1 | l.2 | l.3 | l.4 | l.5 | l.6 | l.7 | l.8 | l.9 | l.10 |
+| -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+|                |     |     |     |     |     |     |     |     |     |      |
+|                |     |     |     |     |     |     |     |     |     |      |
+|                |     |     |     |     |     |     |     |     |     |      |
+|                |     |     |     |     |     |     |     |     |     |      |
+|                |     |     |     |     |     |     |     |     |     |      |
+|                |     |     |     |     |     |     |     |     |     |      |
+|                |     |     |     |     |     |     |     |     |     |      |
+|                |     |     |     |     |     |     |     |     |     |      |
 
-| abilità (11-20)                                                               | l.11 | l.12 | l.13 | l.14 | l.15 | l.16 | l.17 | l.18 | l.19 | l.20 |
-| ----------------------------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [addestrare animali](https://golarion.altervista.org/wiki/Addestrare_Animali) | 4    | 4    | 4    | 4    | 4    | 4    | 4    | 4    | 4    | 4    |
-| [conoscenze (natura)](https://golarion.altervista.org/wiki/Conoscenze)        | 11   | 12   | 13   | 14   | 15   | 16   | 17   | 18   | 19   | 20   |
-| [conoscenze (religioni)](https://golarion.altervista.org/wiki/Conoscenze)     | 11   | 12   | 13   | 14   | 15   | 16   | 17   | 18   | 19   | 20   |
-| [conoscenze (piani)](https://golarion.altervista.org/wiki/Conoscenze)         | 11   | 12   | 13   | 14   | 15   | 16   | 17   | 18   | 19   | 20   |
-| [guarire](https://golarion.altervista.org/wiki/Guarire)                       | 5    | 6    | 6    | 7    | 7    | 8    | 8    | 8    | 8    | 8    |
-| [percezione](https://golarion.altervista.org/wiki/Percezione)                 | 11   | 12   | 13   | 14   | 15   | 16   | 17   | 18   | 19   | 20   |
-| [sapienza magica](https://golarion.altervista.org/wiki/Sapienza_Magica)       | 1    | 1    | 2    | 2    | 3    | 3    | 4    | 5    | 6    | 7    |
-| [volare](https://golarion.altervista.org/wiki/Volare)                         | 1    | 1    | 1    | 1    | 1    | 1    | 1    | 1    | 1    | 1    |
+| abilità (11-20) | l.11 | l.12 | l.13 | l.14 | l.15 | l.16 | l.17 | l.18 | l.19 | l.20 |
+| --------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|                 |      |      |      |      |      |      |      |      |      |      |
+|                 |      |      |      |      |      |      |      |      |      |      |
+|                 |      |      |      |      |      |      |      |      |      |      |
+|                 |      |      |      |      |      |      |      |      |      |      |
+|                 |      |      |      |      |      |      |      |      |      |      |
+|                 |      |      |      |      |      |      |      |      |      |      |
+|                 |      |      |      |      |      |      |      |      |      |      |
+|                 |      |      |      |      |      |      |      |      |      |      |
 
 # Talenti
 
-1)   [x] [servitore celestiale](https://golarion.altervista.org/wiki/Servitore_Celestiale)
-3)   [ ] [compagno evoluto](https://golarion.altervista.org/wiki/Compagno_Evoluto) (artigli)
-5)   [ ] [incantesimi naturali](https://golarion.altervista.org/wiki/Incantesimi_Naturali)
-7)   [ ] [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (trasmutazione)
-9)   [ ] [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione)
-11)  [ ] [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)
-13)  [ ] [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)
-15)  [ ] [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)
-17)  [ ] [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)
-19)  [ ] [iniziativa migliorata](https://golarion.altervista.org/wiki/Iniziativa_Migliorata)
-
-# Compagno Animale
-
-nome: Celeste
-animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/Compagni_Animali#Gatto_da_Guerra_di_Rull)
-
-abilità:
- - [percezione](https://golarion.altervista.org/wiki/Percezione) 16
-
-talenti:
-1)   [x] [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (artigli)
-2)   [ ] [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)
-5)   [ ] [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli)
-8)   [ ] [colpo senz armi migliorato](https://golarion.altervista.org/wiki/Colpo_Senz%27Armi_Migliorato)
-10)  [ ] [stile del drago](https://golarion.altervista.org/wiki/Stile_del_Drago)
-13)  [ ] [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)
-16)  [ ] [lottare migliorato](https://golarion.altervista.org/wiki/Lottare_Migliorato)
-18)  [ ] [lottare superiore](https://golarion.altervista.org/wiki/Lottare_Superiore)
+1)   [x] [arma focalizzata]()
+1)   [x] [attacco poderoso]()
+2)   [ ] [incalzare]()
+3)   [ ] [furia focalizzata]()
+4)   [ ] [arma specializzata]()
+5)   [ ] [vigoria in combattimento]()
+6)   [ ] [rissaiolo da taverna]()
+7)   [ ] [spezzare migliorato]()
+8)   [ ] [critico migliorato]()
+8)   [ ] [arma focalizzata superiore]() (rimuovi [incalzare]())
+9)   [ ] []()
+10)  [ ] []()
+11)  [ ] []()
+12)  [ ] []()
+13)  [ ] []()
+14)  [ ] []()
+15)  [ ] []()
+16)  [ ] []()
+17)  [ ] []()
+18)  [ ] []()
+19)  [ ] []()
+20)  [ ] []()
