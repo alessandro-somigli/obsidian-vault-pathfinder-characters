@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2ad34a053ec220",
+        "id": "1354b1f8f1c603ba",
         "type": "tabs",
         "children": [
           {
-            "id": "a79a268472559929",
+            "id": "5bb9aaa758347200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/Creature Evocate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/Creature Evocate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/Creature Evocate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md"
+                "file": "pf_ch_02/Creature Evocate.md"
               }
             }
           },
@@ -163,24 +163,24 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a79a268472559929",
+  "active": "5bb9aaa758347200",
   "lastOpenFiles": [
-    "pf_ch_02/Equipaggiamento.md",
-    "pf_ch_02/PG.md",
-    "X.md",
     "pf_ch_03/PG.md",
     "pf_ch_03/Rissaiolo da Taverna.md",
     "pf_ch_03/Espedienti di Combattimento.md",
-    "pf_ch_02/Incantesimi.md",
+    "pf_ch_02/PG.md",
+    "pf_ch_02/Backstory.md",
     "pf_ch_03/Backstory.md",
+    "pf_ch_02/Incantesimi.md",
+    "pf_ch_02/Equipaggiamento.md",
+    "pf_ch_02/Creature Evocate.md",
+    "pf_ch_02/Forma Selvatica.md",
+    "X.md",
     "sortspec.md",
     "().md",
     "pf_ch_03",
-    "pf_ch_02/Forma Selvatica.md",
-    "pf_ch_02/Creature Evocate.md",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Level Up.md",
-    "pf_ch_02/Backstory.md",
     "new_one",
     "pf_ch_02/sortspec.md",
     "pf_ch_02/Level Up Changes.md",
