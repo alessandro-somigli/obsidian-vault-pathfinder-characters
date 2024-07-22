@@ -1,5 +1,6 @@
+capacità magiche di creature evocate con [Evoca Alleato Naturale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Naturale)
 ## Capacità Magiche
- - [shikigami](https://golarion.altervista.org/wiki/Shikigami) (3) {
+ - [shikigami](https://golarion.altervista.org/wiki/Shikigami) (lv.3) {
    a volontà:
     - [invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Invisibilit%C3%A0) (solo se stesso)
     - [statua](https://golarion.altervista.org/wiki/Incantesimi/Statua) (solo se stesso)
@@ -9,7 +10,7 @@
    1/g:
     - [comunione con la natura](https://golarion.altervista.org/wiki/Incantesimi/Comunione_con_la_Natura) (LI 12°)
  }
- - [satiro](https://golarion.altervista.org/wiki/Satiro) (4) {
+ - [satiro](https://golarion.altervista.org/wiki/Satiro) (lv.4) {
    a volontà: 
     - [charme su persone](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Persone) (CD 15)
     - [luci danzanti](https://golarion.altervista.org/wiki/Incantesimi/Luci_Danzanti)
@@ -20,7 +21,7 @@
     - [evoca alleato naturale III](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Naturale#Evoca_Alleato_Naturale_III)
     - [paura](https://golarion.altervista.org/wiki/Paura) (CD 18)
  }
- - [kodama](https://golarion.altervista.org/wiki/Kodama) (5) {
+ - [kodama](https://golarion.altervista.org/wiki/Kodama) (lv.5) {
    a volontà:
     - [forma arborea](https://golarion.altervista.org/wiki/Incantesimi/Forma_Arborea)
     - [parlare con i vegetali](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_i_Vegetali) (solo alberi)
@@ -29,7 +30,7 @@
     - [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (CD 14)
     - [traslazione arborea](https://golarion.altervista.org/wiki/Incantesimi/Traslazione_Arborea) (solo se stesso più 25 kg di oggetti)
  }
- - [zuishin](https://golarion.altervista.org/wiki/Zuishin) (7) {
+ - [zuishin](https://golarion.altervista.org/wiki/Zuishin) (lv.7) {
    permanenti:
     - [individuazione del male](https://golarion.altervista.org/wiki/Incantesimi/Individuazione_del_Male)
     - [vedere invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Vedere_Invisibilit%C3%A0)
@@ -48,7 +49,7 @@
     - [guarigione](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
     - [visione del vero](https://golarion.altervista.org/wiki/Incantesimi/Visione_del_Vero)
  }
- - [pixie](https://golarion.altervista.org/wiki/Pixie) (9) {
+ - [pixie](https://golarion.altervista.org/wiki/Pixie) (lv.9) {
    permanenti:
     - [individuazione del bene](https://golarion.altervista.org/wiki/Incantesimi/Individuazione_del_Bene)
     - [individuazione del caos](https://golarion.altervista.org/wiki/Incantesimi/Individuazione_del_Caos)
@@ -63,7 +64,7 @@
     - [luci danzanti](https://golarion.altervista.org/wiki/Incantesimi/Luci_Danzanti)
     - [scudo](https://golarion.altervista.org/wiki/Incantesimi/Scudo)
  }
- - [toshigami](https://golarion.altervista.org/wiki/Toshigami) (9) {
+ - [toshigami](https://golarion.altervista.org/wiki/Toshigami) (lv.9) {
    permanenti:
     - [previsione](https://golarion.altervista.org/wiki/Incantesimi/Previsione)
     - [parlare con i vegetali](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_i_Vegetali)

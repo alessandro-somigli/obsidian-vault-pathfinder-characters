@@ -25,8 +25,8 @@ tratti:
 
 # Stats
 
-LV: 1
-PE: 0
+livello: 1
+punti eroe: 0
 
 stats:          TOT | MOD
 for: 14         14 -> `+2`

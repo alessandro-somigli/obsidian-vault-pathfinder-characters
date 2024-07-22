@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Forma Selvatica.md",
-                "mode": "preview",
+                "file": "pf_ch_02/Incantesimi.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_02/Forma Selvatica.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_02/Forma Selvatica.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_02/Forma Selvatica.md"
+                "file": "pf_ch_02/Incantesimi.md"
               }
             }
           },
@@ -166,18 +166,20 @@
   },
   "active": "0631588325284441",
   "lastOpenFiles": [
+    "pf_ch_02/Level Up.md",
     "pf_ch_02/Incantesimi.md",
-    "pf_ch_02/Forma Selvatica.md",
+    "pf_ch_02/PG.md",
+    "pf_ch_02/Backstory.md",
+    "pf_ch_02/Creature Evocate.md",
+    "().md",
     "pf_ch_02/Domande & Risposte.md",
+    "pf_ch_02/Forma Selvatica.md",
     "sortspec.md",
     "sortspec.md",
     "new_one",
-    "pf_ch_02/PG.md",
     "pf_ch_02/sortspec.md",
     "pf_ch_02/Level Up Changes.md",
-    "pf_ch_02/Creature Evocate.md",
     "new_folder",
-    "pf_ch_02/Backstory.md",
     "pf_ch_02/Equipaggiamento.md",
     "Untitled Page.md",
     "test note.md",
@@ -186,7 +188,6 @@
     "obsidian_git",
     "obsidian-remote",
     "Untitled.canvas",
-    "().md",
     "pf_ch_02/Milestones.md",
     "pf_ch_02/Scheda.md",
     "pf_ch_02/Razza.md",
