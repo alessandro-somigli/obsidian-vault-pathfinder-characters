@@ -51,7 +51,7 @@ archetipo: [Guerriero con Arma a Due Mani](https://golarion.altervista.org/wiki/
 gradi abilità per livello: `2 + MOD.INT`
 
 privilegi di classe:
-1)   [x] talento bonus
+1 [ ] talento bonus
 2)   [ ] colpo frantumatore
 3)   [ ] fendente dall'alto
 5)   [ ] addestramento nelle armi (solo armi da mischia a due mani)
@@ -80,34 +80,34 @@ privilegi di classe:
 
 # Talenti
 
-1)   [ ] [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata)
-1)   [ ] [attacco poderoso](https://golarion.altervista.org/wiki/Attacco_Poderoso)
-2)   [ ] [incalzare](https://golarion.altervista.org/wiki/Incalzare)
-3)   [ ] [furia focalizzata](https://golarion.altervista.org/wiki/Furia_Focalizzata)
-4)   [ ] [arma specializzata](https://golarion.altervista.org/wiki/Arma_Specializzata)
-5)   [ ] [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)
-6)   [ ] [rissaiolo da taverna](https://golarion.altervista.org/wiki/Rissaiolo_da_Taverna)
-7)   [ ] [spezzare migliorato](https://golarion.altervista.org/wiki/Spezzare_Migliorato)
-8)   [ ] [critico migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)
-8)   [ ] [arma focalizzata superiore](https://golarion.altervista.org/wiki/Arma_Focalizzata_Superiore) (sost. [incalzare](https://golarion.altervista.org/wiki/Incalzare))
-9)   [ ] [critico focalizzato](https://golarion.altervista.org/wiki/Critico_Focalizzato)
-10)  [ ] [colpo spezzante](https://golarion.altervista.org/wiki/Colpo_Spezzante)
-11)  [ ] [critico debilitante](https://golarion.altervista.org/wiki/Critico_Debilitante)
-12)  [ ] [campione dell'equilibrio](https://golarion.altervista.org/wiki/Campione_dell%27Equilibrio)
-12)  [ ] [arma specializzata superiore](https://golarion.altervista.org/wiki/Arma_Specializzata_Superiore) (sost. [rissaiolo da taverna](https://golarion.altervista.org/wiki/Rissaiolo_da_Taverna))
-13)  [ ] [critico incapacitante](https://golarion.altervista.org/wiki/Critico_Incapacitante)
-14)  [ ] [critico prodigioso](https://golarion.altervista.org/wiki/Critico_Prodigioso)
-15)  [ ] [colpo penetrante](https://golarion.altervista.org/wiki/Colpo_Penetrante)
-16)  [ ] [colpo penetrante superiore](https://golarion.altervista.org/wiki/Colpo_Penetrante_Superiore)
-17)  [ ] [rissaiolo da taverna](https://golarion.altervista.org/wiki/Rissaiolo_da_Taverna)
-18)  [ ] [riflessi fulminei](https://golarion.altervista.org/wiki/Riflessi_Fulminei)
-19)  [ ] [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)
-20)  [ ] [volontà di ferro migliorata](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro_Migliorata)
+- [ ] `lv.1`  [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata)
+- [ ] `lv.1`  [attacco poderoso](https://golarion.altervista.org/wiki/Attacco_Poderoso)
+- [ ] `lv.2`  [incalzare](https://golarion.altervista.org/wiki/Incalzare)
+- [ ] `lv.3`  [furia focalizzata](https://golarion.altervista.org/wiki/Furia_Focalizzata)
+- [ ] `lv.4`  [arma specializzata](https://golarion.altervista.org/wiki/Arma_Specializzata)
+- [ ] `lv.5`  [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)
+- [ ] `lv.6`  [rissaiolo da taverna](https://golarion.altervista.org/wiki/Rissaiolo_da_Taverna)
+- [ ] `lv.7`  [spezzare migliorato](https://golarion.altervista.org/wiki/Spezzare_Migliorato)
+- [ ] `lv.8`  [critico migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)
+- [ ] `lv.8`  [arma focalizzata superiore](https://golarion.altervista.org/wiki/Arma_Focalizzata_Superiore) (sost. [incalzare](https://golarion.altervista.org/wiki/Incalzare))
+- [ ] `lv.9`  [critico focalizzato](https://golarion.altervista.org/wiki/Critico_Focalizzato)
+- [ ] `lv.10` [colpo spezzante](https://golarion.altervista.org/wiki/Colpo_Spezzante)
+- [ ] `lv.11` [critico debilitante](https://golarion.altervista.org/wiki/Critico_Debilitante)
+- [ ] `lv.12` [campione dell'equilibrio](https://golarion.altervista.org/wiki/Campione_dell%27Equilibrio)
+- [ ] `lv.12` [arma specializzata superiore](https://golarion.altervista.org/wiki/Arma_Specializzata_Superiore) (sost. [rissaiolo da taverna](https://golarion.altervista.org/wiki/Rissaiolo_da_Taverna))
+- [ ] `lv.13` [critico incapacitante](https://golarion.altervista.org/wiki/Critico_Incapacitante)
+- [ ] `lv.14` [critico prodigioso](https://golarion.altervista.org/wiki/Critico_Prodigioso)
+- [ ] `lv.15` [colpo penetrante](https://golarion.altervista.org/wiki/Colpo_Penetrante)
+- [ ] `lv.16` [colpo penetrante superiore](https://golarion.altervista.org/wiki/Colpo_Penetrante_Superiore)
+- [ ] `lv.17` [rissaiolo da taverna](https://golarion.altervista.org/wiki/Rissaiolo_da_Taverna)
+- [ ] `lv.18` [riflessi fulminei](https://golarion.altervista.org/wiki/Riflessi_Fulminei)
+- [ ] `lv.19` [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)
+- [ ] `lv.20` [volontà di ferro migliorata](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro_Migliorata)
 
 talenti sostitutivi:
-4)   [ ] 
-8)   [ ] [incalzare](https://golarion.altervista.org/wiki/Incalzare) -> [arma focalizzata superiore](https://golarion.altervista.org/wiki/Arma_Focalizzata_Superiore)
-12)  [ ] [rissaiolo da taverna](https://golarion.altervista.org/wiki/Rissaiolo_da_Taverna) -> [arma specializzata superiore](https://golarion.altervista.org/wiki/Arma_Specializzata_Superiore)
-16)  [ ] 
-20)  [ ] 
+- [ ] `lv.4` 
+- [ ] `lv.8`  [incalzare](https://golarion.altervista.org/wiki/Incalzare) -> [arma focalizzata superiore](https://golarion.altervista.org/wiki/Arma_Focalizzata_Superiore)
+- [ ] `lv.12` [rissaiolo da taverna](https://golarion.altervista.org/wiki/Rissaiolo_da_Taverna) -> [arma specializzata superiore](https://golarion.altervista.org/wiki/Arma_Specializzata_Superiore)
+- [ ] `lv.16` 
+- [ ] `lv.20` 
 
