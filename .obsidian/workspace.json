@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cdad0be259a64d87",
+        "id": "ef2ad34a053ec220",
         "type": "tabs",
         "children": [
           {
-            "id": "9dca3f31c4fa391c",
+            "id": "a79a268472559929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_03/PG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "616b981bc7af73bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pf_ch_03/PG.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_03/PG.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_03/PG.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_03/PG.md"
+                "file": "pf_ch_02/Incantesimi.md"
               }
             }
           },
@@ -176,13 +163,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "616b981bc7af73bf",
+  "active": "a79a268472559929",
   "lastOpenFiles": [
-    "pf_ch_02/PG.md",
-    "pf_ch_03/Rissaiolo da Taverna.md",
-    "pf_ch_03/PG.md",
-    "pf_ch_03/Espedienti di Combattimento.md",
     "pf_ch_02/Equipaggiamento.md",
+    "pf_ch_02/PG.md",
+    "X.md",
+    "pf_ch_03/PG.md",
+    "pf_ch_03/Rissaiolo da Taverna.md",
+    "pf_ch_03/Espedienti di Combattimento.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_03/Backstory.md",
     "sortspec.md",
