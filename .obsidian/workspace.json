@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_03/PG.md",
+                "file": "pf_ch_02/PG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_03/PG.md",
+                "file": "pf_ch_02/PG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_03/PG.md",
+                "file": "pf_ch_02/PG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_03/PG.md"
+                "file": "pf_ch_02/PG.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "a9917d673a9941b5",
   "lastOpenFiles": [
+    "pf_ch_03/PG.md",
     "pf_ch_03/Backstory.md",
     "pf_ch_03/Espedienti di Combattimento.md",
     "pf_ch_03/Rissaiolo da Taverna.md",
@@ -174,7 +175,6 @@
     "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Backstory.md",
-    "pf_ch_03/PG.md",
     "pf_ch_02/Forma Selvatica.md",
     "X.md",
     "sortspec.md",
