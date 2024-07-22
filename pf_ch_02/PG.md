@@ -28,14 +28,14 @@ tratti:
 livello: 1
 punti eroe: 0
 
-| stats | base | age | race | total | mod |
-| ----- | ---- | --- | ---- | ----- | --- |
-| FOR   | 14   |     |      | 14    | +2  |
-| DEX   | 16   |     |      | 16    | +3  |
-| COS   | 15   |     |      | 15    | +2  |
-| INT   | 11   | +1  |      | 12    | +1  |
-| SAG   | 18   | +1  | +2   | 21    | +5  |
-| CAR   | 11   | +1  | +2   | 14    | +2  |
+| stats | base | age | race | tot | mod |
+| ----- | ---- | --- | ---- | --- | --- |
+| FOR   | 14   |     |      | 14  | +2  |
+| DEX   | 16   |     |      | 16  | +3  |
+| COS   | 15   |     |      | 15  | +2  |
+| INT   | 11   | +1  |      | 12  | +1  |
+| SAG   | 18   | +1  | +2   | 21  | +5  |
+| CAR   | 11   | +1  | +2   | 14  | +2  |
 
 # Razza
 
@@ -63,17 +63,17 @@ gradi abilità per livello: `4 + MOD.INT`
 
 privilegi di classe:
 
-| lvl | check | privilegio di classe                    |
-| --- | ----- | --------------------------------------- |
-| 1   | X     | lancio spontaneo                        |
-| 1   | X     | legame con la natura (compagno animale) |
-| 1   | X     | percepire spiriti                       |
-| 2   |       | piazzare magia                          |
-| 4   |       | resistenza al richiamo della natura     |
-| 4   |       | forma selvatica                         |
-| 9   |       | seguire le linee                        |
-| 13  |       | corpo vuoto                             |
-| 15  |       | corpo senza tempo                       |
+| lvl | chk | privilegio di classe                    |
+| --- | --- | --------------------------------------- |
+| 1   | X   | lancio spontaneo                        |
+| 1   | X   | legame con la natura (compagno animale) |
+| 1   | X   | percepire spiriti                       |
+| 2   |     | piazzare magia                          |
+| 4   |     | resistenza al richiamo della natura     |
+| 4   |     | forma selvatica                         |
+| 9   |     | seguire le linee                        |
+| 13  |     | corpo vuoto                             |
+| 15  |     | corpo senza tempo                       |
 
 # Abilità
 
@@ -101,18 +101,18 @@ privilegi di classe:
 
 # Talenti
 
-| lvl | check | talento                                                                                                                     |
-| --- | ----- | --------------------------------------------------------------------------------------------------------------------------- |
-| 1   | X     | [servitore celestiale](https://golarion.altervista.org/wiki/Servitore_Celestiale)                                           |
-| 3   |       | [compagno evoluto](https://golarion.altervista.org/wiki/Compagno_Evoluto) (artigli)                                         |
-| 5   |       | [incantesimi naturali](https://golarion.altervista.org/wiki/Incantesimi_Naturali)                                           |
-| 7   |       | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (trasmutazione)                     |
-| 9   |       | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione) |
-| 11  |       | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                             |
-| 13  |       | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                                 |
-| 15  |       | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)             |
-| 17  |       | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                               |
-| 19  |       | [iniziativa migliorata](https://golarion.altervista.org/wiki/Iniziativa_Migliorata)                                         |
+| lvl | chk | talento                                                                                                                     |
+| --- | --- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1   | X   | [servitore celestiale](https://golarion.altervista.org/wiki/Servitore_Celestiale)                                           |
+| 3   |     | [compagno evoluto](https://golarion.altervista.org/wiki/Compagno_Evoluto) (artigli)                                         |
+| 5   |     | [incantesimi naturali](https://golarion.altervista.org/wiki/Incantesimi_Naturali)                                           |
+| 7   |     | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (trasmutazione)                     |
+| 9   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione) |
+| 11  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                             |
+| 13  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                                 |
+| 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)             |
+| 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                               |
+| 19  |     | [iniziativa migliorata](https://golarion.altervista.org/wiki/Iniziativa_Migliorata)                                         |
 
 
 # Compagno Animale
@@ -125,14 +125,14 @@ abilità:
 
 talenti:
 
-| lvl | check | talento                                                                                                   |
-| --- | ----- | --------------------------------------------------------------------------------------------------------- |
-| 1   | X     | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (artigli)                       |
-| 2   |       | [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)                            |
-| 5   |       | [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli) |
-| 8   |       | [colpo senz armi migliorato](https://golarion.altervista.org/wiki/Colpo_Senz%27Armi_Migliorato)           |
-| 10  |       | [stile del drago](https://golarion.altervista.org/wiki/Stile_del_Drago)                                   |
-| 13  |       | [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)                 |
-| 16  |       | [lottare migliorato](https://golarion.altervista.org/wiki/Lottare_Migliorato)                             |
-| 18  |       | [lottare superiore](https://golarion.altervista.org/wiki/Lottare_Superiore)                               |
+| lvl | chk | talento                                                                                                   |
+| --- | --- | --------------------------------------------------------------------------------------------------------- |
+| 1   | X   | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (artigli)                       |
+| 2   |     | [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)                            |
+| 5   |     | [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli) |
+| 8   |     | [colpo senz armi migliorato](https://golarion.altervista.org/wiki/Colpo_Senz%27Armi_Migliorato)           |
+| 10  |     | [stile del drago](https://golarion.altervista.org/wiki/Stile_del_Drago)                                   |
+| 13  |     | [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)                 |
+| 16  |     | [lottare migliorato](https://golarion.altervista.org/wiki/Lottare_Migliorato)                             |
+| 18  |     | [lottare superiore](https://golarion.altervista.org/wiki/Lottare_Superiore)                               |
 
