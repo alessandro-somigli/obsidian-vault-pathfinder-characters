@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Domande & Risposte.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pf_ch_02/Domande & Risposte.md",
+            "file": "pf_ch_02/Incantesimi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pf_ch_02/Domande & Risposte.md",
+            "file": "pf_ch_02/Incantesimi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pf_ch_02/Domande & Risposte.md"
+            "file": "pf_ch_02/Incantesimi.md"
           }
         }
       },
@@ -140,13 +140,26 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "28d51c6fc06598bd",
+  "active": "50b22bcca4e49b82",
   "lastOpenFiles": [
-    "pf_ch_02/Forma Selvatica.md",
+    "pf_ch_03/PG.md",
+    "pf_ch_03/Espedienti di Combattimento.md",
+    "pf_ch_03/Backstory.md",
+    "/sortspec.md",
+    "pf_ch_03/Rissaiolo da Taverna.md",
+    "/pf_ch_03/PG.md",
+    "/pf_ch_03/Espedienti di Combattimento.md",
+    "/pf_ch_03/Backstory.md",
+    "/pf_ch_02/PG.md",
+    "/pf_ch_02/Incantesimi.md",
+    "/pf_ch_02/Creature evocate.md",
+    "/pf_ch_03/Rissaiolo da Taverna.md",
+    "pf_ch_03",
+    "/pf_ch_03",
     "pf_ch_02/Domande & Risposte.md",
+    "pf_ch_02/Forma Selvatica.md",
     "sortspec.md",
     "pf_ch_02/Incantesimi.md",
-    "/sortspec.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Backstory.md",
     "Untitled.md"
