@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac62477adfdb9d85",
+        "id": "cdad0be259a64d87",
         "type": "tabs",
         "children": [
           {
-            "id": "c895997f3baade55",
+            "id": "9dca3f31c4fa391c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,16 +163,18 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c895997f3baade55",
+  "active": "9dca3f31c4fa391c",
   "lastOpenFiles": [
-    "().md",
-    "pf_ch_03/PG.md",
-    "pf_ch_02/PG.md",
-    "pf_ch_03/Backstory.md",
-    "sortspec.md",
-    "pf_ch_03",
-    "pf_ch_02/Incantesimi.md",
+    "pf_ch_03/Espedienti di Combattimento.md",
     "pf_ch_02/Equipaggiamento.md",
+    "pf_ch_02/Incantesimi.md",
+    "pf_ch_03/Rissaiolo da Taverna.md",
+    "pf_ch_03/Backstory.md",
+    "pf_ch_03/PG.md",
+    "sortspec.md",
+    "().md",
+    "pf_ch_02/PG.md",
+    "pf_ch_03",
     "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Creature Evocate.md",
     "pf_ch_02/Domande & Risposte.md",

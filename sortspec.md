@@ -13,4 +13,12 @@ sorting-spec: |-
   Forma Selvatica
   Creature Evocate
   Domande e Risposte
+
+  target-folder: pf_ch_03
+  Backstory
+  PG
+  Espedienti di Combattimento
+  Rissaiolo da Taverna
+  Equipaggiamento
+  
 ---
