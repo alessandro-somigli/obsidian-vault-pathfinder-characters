@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4de65f2e767d8ee4",
+        "id": "ed6116abd3dbd983",
         "type": "tabs",
         "children": [
           {
-            "id": "0631588325284441",
+            "id": "0f8f55598619a27f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/PG.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "da0b1b2ece69ce08",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/PG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/PG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md"
+                "file": "pf_ch_02/PG.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,23 +163,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0631588325284441",
+  "active": "a37f47cd706a4a93",
   "lastOpenFiles": [
-    "pf_ch_02/Level Up.md",
+    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Incantesimi.md",
+    "pf_ch_02/Forma Selvatica.md",
+    "pf_ch_02/Creature Evocate.md",
+    "pf_ch_02/Domande & Risposte.md",
+    "pf_ch_02/Level Up.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Backstory.md",
-    "pf_ch_02/Creature Evocate.md",
     "().md",
-    "pf_ch_02/Domande & Risposte.md",
-    "pf_ch_02/Forma Selvatica.md",
     "sortspec.md",
     "sortspec.md",
     "new_one",
     "pf_ch_02/sortspec.md",
     "pf_ch_02/Level Up Changes.md",
     "new_folder",
-    "pf_ch_02/Equipaggiamento.md",
     "Untitled Page.md",
     "test note.md",
     "pf_ch_02/old test note.md",
