@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_03/Espedienti di Combattimento.md",
-                "mode": "source",
+                "file": "pf_ch_03/Rissaiolo da Taverna.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_03/Espedienti di Combattimento.md",
+                "file": "pf_ch_03/Rissaiolo da Taverna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_03/Espedienti di Combattimento.md",
+                "file": "pf_ch_03/Rissaiolo da Taverna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_03/Espedienti di Combattimento.md"
+                "file": "pf_ch_03/Rissaiolo da Taverna.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "616b981bc7af73bf",
   "lastOpenFiles": [
-    "pf_ch_03/PG.md",
     "pf_ch_03/Espedienti di Combattimento.md",
+    "pf_ch_03/PG.md",
     "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_03/Rissaiolo da Taverna.md",
