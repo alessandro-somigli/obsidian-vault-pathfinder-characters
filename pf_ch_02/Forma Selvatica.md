@@ -1,17 +1,17 @@
-## - uso generale
- - elementale ([aria](https://golarion.altervista.org/wiki/Elementale_dell%27Aria_Piccolo), [acqua](https://golarion.altervista.org/wiki/Elementale_dell%27Acqua_Piccolo), [terra](https://golarion.altervista.org/wiki/Elementale_della_Terra_Piccolo), [fuoco](https://golarion.altervista.org/wiki/Elementale_del_Fuoco_Piccolo)) {
-   esterno piccolo/medio/grande/enorme
-   scurovisione 18m
-   resistenza al fuoco 20, vulnerabilità al freddo (fuoco)
-   immunità: sanguinamento, colpi critici, attacchi furtivi
-   RD 5/-
-   scavare 6m (terra)/volare 18m (perfetta) (aria)/nuotare 18m (acqua)
-   portata -/-/3m/4.5m
-   linguaggi: auran/acquan/terran/ignan
- } -> (scurovisione, scavare/volare/nuotare, linguaggi, portata, immunità, RD)
+## Uso Generale
+#### elementale ([aria](https://golarion.altervista.org/wiki/Elementale_dell%27Aria_Piccolo), [acqua](https://golarion.altervista.org/wiki/Elementale_dell%27Acqua_Piccolo), [terra](https://golarion.altervista.org/wiki/Elementale_della_Terra_Piccolo), [fuoco](https://golarion.altervista.org/wiki/Elementale_del_Fuoco_Piccolo)):
+- esterno piccolo/medio/grande/enorme
+- scurovisione 18m
+- resistenza al fuoco 20, vulnerabilità al freddo (fuoco)
+- immunità: sanguinamento, colpi critici, attacchi furtivi
+- RD 5/-
+- scavare 6m (terra)/volare 18m (perfetta) (aria)/nuotare 18m (acqua)
+- portata -/-/3m/4.5m
+- linguaggi: auran/acquan/terran/ignan
+- (scurovisione, scavare/volare/nuotare, linguaggi, portata, immunità, RD)
 
-## - volare
- - [cigno trombettiere](https://golarion.altervista.org/wiki/Cigno_Trombettiere) {
+## Volare
+[cigno trombettiere](https://golarion.altervista.org/wiki/Cigno_Trombettiere) {
    animale piccolo
    visione crepuscolare
    velocità 3m, volare 30m (media)
