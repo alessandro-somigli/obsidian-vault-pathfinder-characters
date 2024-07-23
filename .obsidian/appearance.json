@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "textFontFamily": "Consolas"
+  "textFontFamily": "Consolas",
+  "baseFontSize": 14
 }
