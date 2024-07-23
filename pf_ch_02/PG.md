@@ -51,7 +51,7 @@ tratti razziali:
 	 - `(+1 sag, car, int)`
  - scintilla immortale: 
 	 - [Resistenza all'Invecchiamento Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Resistenza_all%27Invecchiamento_Inferiore) (1/g)
-	 - `+2 con. storia`
+	 - `+2 conoscenze (storia)`
 	 - `+2 TS contro effetti di morte`
 
 # Classe
