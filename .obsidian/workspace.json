@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96ed0b3e5669872a",
+        "id": "960775809ecaa75a",
         "type": "tabs",
         "children": [
           {
-            "id": "6091e1243cfb79de",
+            "id": "14d29d216999658f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Forma Selvatica.md",
+                "file": "pf_ch_02/Domande & Risposte.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pf_ch_02/Forma Selvatica.md",
+                "file": "pf_ch_02/Domande & Risposte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_02/Forma Selvatica.md",
+                "file": "pf_ch_02/Domande & Risposte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pf_ch_02/Forma Selvatica.md"
+                "file": "pf_ch_02/Domande & Risposte.md"
               }
             }
           },
@@ -163,8 +163,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6091e1243cfb79de",
+  "active": "14d29d216999658f",
   "lastOpenFiles": [
+    "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/PG.md",
     "pf_ch_03/Equipaggiamento.md",
     "sortspec.md",
@@ -175,7 +176,6 @@
     "pf_ch_02/Backstory.md",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Creature Evocate.md",
-    "pf_ch_02/Forma Selvatica.md",
     "pf_ch_03/PG.md",
     "pf_ch_03/Backstory.md",
     "X.md",
