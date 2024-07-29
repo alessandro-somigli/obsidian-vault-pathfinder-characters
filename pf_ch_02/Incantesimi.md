@@ -43,9 +43,9 @@
 	- (0) [passo morbido](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido) 
 	- (0) [zanna magica](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica) 
 - battaglia:
+	- (1) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
 	- (1) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
 	- (0) [congelamento](https://golarion.altervista.org/wiki/Incantesimi/Congelamento) (TRA) (no TS) 
-	- (1) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
 	- (0) [produrre fiamma](https://golarion.altervista.org/wiki/Incantesimi/Produrre_Fiamma) (no TS) 
 	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
 	- (0) [scudo d'onda](https://golarion.altervista.org/wiki/Incantesimi/Scudo_d%27Onda) (I) 
@@ -70,30 +70,26 @@
 - battaglia:
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (TRA) (no SR) (no TS) 
 	- (0) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
-	- (0) [ammorbidire terra e pietra](https://golarion.altervista.org/wiki/Incantesimi/Ammorbidire_Terra_e_Pietra) (TRA) (no SR) (no TS) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA)
 	- (0) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
 	- (0) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
 	- (0) [raggio rovente](https://golarion.altervista.org/wiki/Incantesimi/Raggio_Rovente) (no TS) 
 	- (0) [tocco glaciale](https://golarion.altervista.org/wiki/Incantesimi/Tocco_Glaciale) (no TS) 
 	- (0) [blocca animali](https://golarion.altervista.org/wiki/Incantesimi/Blocca_Animali) 
+	- (0) [deformare legno](https://golarion.altervista.org/wiki/Incantesimi/Deformare_Legno) (TRA)
 - cure:
 	- (0) [ristorare inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) 
 - utilità:
-	- (0) [disposizione geografica](https://golarion.altervista.org/wiki/Incantesimi/Disposizione_Geografica) (1d) 
 	- (0) [passo nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Passo_nell%27Aria) 
-	- (0) [movimenti del ragno](https://golarion.altervista.org/wiki/Incantesimi/Movimenti_del_Ragno) 
 	- (0) [polmoni da aboleth](https://golarion.altervista.org/wiki/Incantesimi/Polmoni_da_Aboleth) (1h/lv) 
 	- (0) [forma arborea](https://golarion.altervista.org/wiki/Incantesimi/Forma_Arborea) (1h/lv) 
 	- (0) [parlata bestiale](https://golarion.altervista.org/wiki/Incantesimi/Parlata_Bestiale) 
 	- (0) [scolpire legno](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Legno) 
-	- (0) [deformare legno](https://golarion.altervista.org/wiki/Incantesimi/Deformare_Legno) 
 	- (0) [compagno portatile](https://golarion.altervista.org/wiki/Incantesimi/Compagno_Portatile) (∞) 
-	- (0) [ridurre animali](https://golarion.altervista.org/wiki/Incantesimi/Ridurre_Animali) (1h/lv) 
 	- (0) [muro per campo](https://golarion.altervista.org/wiki/Incantesimi/Muro_per_Campo) (1h/lv) 
 	- (0) [addestratre animale a compito generico](https://golarion.altervista.org/wiki/Incantesimi/Addestrare_Animale_a_Compito_Generico) (1h/lv) 
 	- (0) [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150-300mo) 
-	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS)
+	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS) 
 
 ## lv.3: (0)
 - prep:
