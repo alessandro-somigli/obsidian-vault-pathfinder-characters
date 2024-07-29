@@ -92,6 +92,7 @@
 	- (0) [muro per campo](https://golarion.altervista.org/wiki/Incantesimi/Muro_per_Campo) (1h/lv) 
 	- (0) [addestratre animale a compito generico](https://golarion.altervista.org/wiki/Incantesimi/Addestrare_Animale_a_Compito_Generico) (1h/lv) 
 	- (0) [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150-300mo) 
+	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS)
 
 ## lv.3: (0)
 - prep:
