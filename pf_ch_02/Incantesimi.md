@@ -71,6 +71,7 @@
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (TRA) (no SR) (no TS) 
 	- (0) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [ammorbidire terra e pietra](https://golarion.altervista.org/wiki/Incantesimi/Ammorbidire_Terra_e_Pietra) (TRA) (no SR) (no TS) 
+	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA)
 	- (0) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
 	- (0) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
 	- (0) [raggio rovente](https://golarion.altervista.org/wiki/Incantesimi/Raggio_Rovente) (no TS) 
@@ -179,6 +180,7 @@
 	- (0) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
 	- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore) (no SR) (no TS) 
 	- (0) [arcobaleno splendente](https://golarion.altervista.org/wiki/Incantesimi/Arcobaleno_Splendente) (no SR) (no TS) 
+	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA)
 - cure:
 	- (0) [cura ferite leggere di massa](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere_di_Massa) 
 - utilità:
