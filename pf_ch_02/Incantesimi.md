@@ -207,9 +207,9 @@
 
 ## lv.8: (0)
 - buff:
-	- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante) 
+	- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante) (meta)
 - battaglia:
-	- (0) [inversione della gravità](https://golarion.altervista.org/wiki/Incantesimi/Inversione_della_Gravit%C3%A- (TRA) (no SR) 
+	- (0) [inversione della gravità](https://golarion.altervista.org/wiki/Incantesimi/Inversione_della_Gravit%C3%A0) (TRA) (no SR) 
 	- (0) [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi) 
 	- (0) [esplosione solare](https://golarion.altervista.org/wiki/Incantesimi/Esplosione_Solare) 
 	- (0) [dito della morte](https://golarion.altervista.org/wiki/Incantesimi/Dito_della_Morte) 
