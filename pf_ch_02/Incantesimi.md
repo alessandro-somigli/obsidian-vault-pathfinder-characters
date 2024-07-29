@@ -146,7 +146,7 @@
 	- (0) [cura ferite gravi](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Gravi) 
 - utilità:
 	- (0) [controllare acqua](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Acqua) 
-	- (0) [liberta di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento) 
+	- (0) [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento) 
 	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) 
 	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (F 1000mo) 
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
@@ -154,14 +154,15 @@
 ## lv.5: (0)
 - buffs:
 	- (0) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale) 
+	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - battaglia:
-	- (0) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (TRA) (bradipo) 
+	- (0) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo) 
 	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR) 
 	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR) 
 	- (0) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS) 
 	- (0) [serpente di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Serpente_di_Fuoco) 
 - cure:
-	- (0) [benedizione della salamandra](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_della_Salamandra) 
+	- (0) [benedizione della salamandra](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_della_Salamandra) (meta)
 	- (0) [cura ferite critiche](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Critiche) 
 	- (0) [rianimare compagno animale](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Compagno_Animale) (M 1000mo) 
 - utilità:
@@ -169,7 +170,7 @@
 
 ## lv.6: (0)
 - preparazione:
-	- (0) [bastone dell'incantesimo](https://golarion.altervista.org/wiki/Incantesimi/Bastone_dell%27Incante) (∞) 
+	- (0) [bastone dell'incantesimo](https://golarion.altervista.org/wiki/Incantesimi/Bastone_dell%27Incantesimo) (∞) 
 	- (0) [querciaviva](https://golarion.altervista.org/wiki/Incantesimi/Querciaviva) (1d/lv) 
 	- (0) [semi di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Semi_di_Fuoco) 
 - battaglia:
@@ -188,7 +189,7 @@
 
 ## lv.7: (0)
 - preparazione:
-	- (0) [trasforma bastone](https://golarion.altervista.org/wiki/Incantesimi/Trasforma_Bastone) 
+	- (0) [trasforma bastone](https://golarion.altervista.org/wiki/Incantesimi/Trasforma_Bastone) (1h/lv)
 - battaglia:
 	- (0) [bombardamento elementale](https://golarion.altervista.org/wiki/Incantesimi/Bombardamento_Elementale) (no SR) (no TS) 
 	- (0) [trasmutare metallo in legno](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Metallo_in_Legno) (TRA) (no TS) 
