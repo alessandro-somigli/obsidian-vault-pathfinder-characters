@@ -39,7 +39,7 @@
 	- (0) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
 	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
-	- (1) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato)
+	- (1) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
 	- (0) [passo morbido](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido) 
 	- (0) [zanna magica](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica) 
 - battaglia:
