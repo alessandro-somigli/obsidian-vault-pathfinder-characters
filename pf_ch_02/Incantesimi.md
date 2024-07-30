@@ -142,7 +142,6 @@
 	- (0) [reincarnazione](https://golarion.altervista.org/wiki/Incantesimi/Reincarnazione) (M 1000mo) 
 	- (0) [cura ferite gravi](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Gravi) 
 - utilità:
-	- (0) [controllare acqua](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Acqua) 
 	- (0) [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento) 
 	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) 
 	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (F 1000mo) 
@@ -172,11 +171,11 @@
 	- (0) [semi di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Semi_di_Fuoco) 
 - battaglia:
 	- (0) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
+	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA) 
 	- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
 	- (0) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
 	- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore) (no SR) (no TS) 
 	- (0) [arcobaleno splendente](https://golarion.altervista.org/wiki/Incantesimi/Arcobaleno_Splendente) (no SR) (no TS) 
-	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA)
 - cure:
 	- (0) [cura ferite leggere di massa](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere_di_Massa) 
 - utilità:
@@ -205,7 +204,7 @@
 
 ## lv.8: (0)
 - buff:
-	- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante) (meta)
+	- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante) (meta) 
 - battaglia:
 	- (0) [inversione della gravità](https://golarion.altervista.org/wiki/Incantesimi/Inversione_della_Gravit%C3%A0) (TRA) (no SR) 
 	- (0) [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi) 
