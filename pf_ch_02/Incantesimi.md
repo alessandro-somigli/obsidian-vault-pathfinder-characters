@@ -30,7 +30,6 @@
 	- (1) [individuazione del magico](https://golarion.altervista.org/wiki/Incantesimi/Individuazione_del_Magico) 
 	- (0) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce) 
 	- (0) [creare acqua](https://golarion.altervista.org/wiki/Incantesimi/Creare_Acqua) 
-
 ## lv.1: (3)
 - prep:
 	- (0) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
@@ -45,14 +44,13 @@
 - battaglia:
 	- (1) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
 	- (1) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
-	- (0) [congelamento](https://golarion.altervista.org/wiki/Incantesimi/Congelamento) (TRA) (no TS) 
 	- (0) [produrre fiamma](https://golarion.altervista.org/wiki/Incantesimi/Produrre_Fiamma) (no TS) 
 	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
+	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
 	- (0) [scudo d'onda](https://golarion.altervista.org/wiki/Incantesimi/Scudo_d%27Onda) (I) 
 	- (0) [fuga nel vento](https://golarion.altervista.org/wiki/Incantesimi/Fuga_nel_Vento) (I) 
 	- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
 	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
-	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
 - cure:
 	- (0) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
 - utilità:
@@ -60,7 +58,6 @@
 	- (0) [bolla d'aria](https://golarion.altervista.org/wiki/Incantesimi/Bolla_d%27Aria) 
 	- (0) [comunione con gli uccelli](https://golarion.altervista.org/wiki/Incantesimi/Comunione_con_gli_Uccelli) 
 	- (0) [parlare con gli animali](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_gli_Animali) 
-
 ## lv.2: (0)
 - buffs:
 	- (0) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
@@ -68,7 +65,7 @@
 	- (0) [pelle coriacea](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Coriacea) 
 	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia) 
 - battaglia:
-	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (TRA) (no SR) (no TS) 
+	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (no SR) (no TS) 
 	- (0) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA)
 	- (0) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
@@ -90,7 +87,6 @@
 	- (0) [addestratre animale a compito generico](https://golarion.altervista.org/wiki/Incantesimi/Addestrare_Animale_a_Compito_Generico) (1h/lv) 
 	- (0) [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150-300mo) 
 	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS) 
-
 ## lv.3: (0)
 - prep:
 	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
@@ -104,7 +100,7 @@
 - battaglia:
 	- (0) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
 	- (0) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
-	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (TRA) (no SR) (no TS) 
+	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
 	- (0) [sabbie mobili](https://golarion.altervista.org/wiki/Incantesimi/Sabbie_Mobili) (TRA) (no SR) 
 	- (0) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
 	- (0) [tempesta di nevischio](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Nevischio) (no SR) (no TS) 
@@ -123,7 +119,6 @@
 	- (0) [scolpire pietra](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Pietra) 
 	- (0) [migliora trappola](https://golarion.altervista.org/wiki/Incantesimi/Migliora_Trappola) 
 	- (0) [creare mappa del tesoro](https://golarion.altervista.org/wiki/Incantesimi/Creare_Mappa_del_Tesoro) (M 100mo) 
-
 ## lv.4: (0)
 - prep:
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
@@ -146,7 +141,6 @@
 	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) 
 	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (F 1000mo) 
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
-
 ## lv.5: (0)
 - buffs:
 	- (0) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale) 
@@ -163,7 +157,6 @@
 	- (0) [rianimare compagno animale](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Compagno_Animale) (M 1000mo) 
 - utilità:
 	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo) 
-
 ## lv.6: (0)
 - preparazione:
 	- (0) [bastone dell'incantesimo](https://golarion.altervista.org/wiki/Incantesimi/Bastone_dell%27Incantesimo) (∞) 
@@ -183,13 +176,12 @@
 	- (0) [nido d'aquila](https://golarion.altervista.org/wiki/Incantesimi/Nido_d%27Aquila) (1h/lv) 
 	- (0) [legno di ferro](https://golarion.altervista.org/wiki/Incantesimi/Legno_di_Ferro) (1d/lv) 
 	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) 
-
 ## lv.7: (0)
 - preparazione:
 	- (0) [trasforma bastone](https://golarion.altervista.org/wiki/Incantesimi/Trasforma_Bastone) (1h/lv)
 - battaglia:
 	- (0) [bombardamento elementale](https://golarion.altervista.org/wiki/Incantesimi/Bombardamento_Elementale) (no SR) (no TS) 
-	- (0) [trasmutare metallo in legno](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Metallo_in_Legno) (TRA) (no TS) 
+	- (0) [trasmutare metallo in legno](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Metallo_in_Legno) (no TS) 
 	- (0) [tempesta di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Fuoco) 
 	- (0) [venti erosivi](https://golarion.altervista.org/wiki/Incantesimi/Venti_Erosivi) (no TS) 
 	- (0) [bagliore solare](https://golarion.altervista.org/wiki/Incantesimi/Bagliore_Solare) 
@@ -201,7 +193,6 @@
 	- (0) [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv) 
 	- (0) [riparo fatato](https://golarion.altervista.org/wiki/Incantesimi/Riparo_Fatato) (2h/lv) 
 	- (0) [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore) 
-
 ## lv.8: (0)
 - buff:
 	- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante) (meta) 
@@ -217,7 +208,6 @@
 	- (0) [cura ferite gravi di massa](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Gravi_di_Massa) 
 - utilità:
 	- (0) [forme animali](https://golarion.altervista.org/wiki/Incantesimi/Forme_Animali) (TRA) (1h/lv) 
-
 ## lv.9: (0)
 - preparazione:
 	- (0) [cumulo strisciante](https://golarion.altervista.org/wiki/Incantesimi/Cumulo_Strisciante) (7d) 
