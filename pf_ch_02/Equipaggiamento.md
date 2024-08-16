@@ -1,4 +1,4 @@
-ricchezza iniziale: 94.4.2mo (120mo) (+10mo abito) -> 14.3.4mo
+ricchezza iniziale: 94.4.2mo (120mo) (+10mo abito) -> 9.3.4mo
 peso trasportato: 28.95Kg (29Kg max.leggero) -> 0.25Kg
 peso animale: 40.5Kg (49.5Kg max.leggero) -> 8.75Kg
 
@@ -8,7 +8,7 @@ equipaggiamento:
  - [bastone ferrato](https://golarion.altervista.org/wiki/Armi/Bastone_Ferrato) x2 (-) (4Kg)
  - [lancia](https://golarion.altervista.org/wiki/Armi/Lancia) (2mo) (3Kg)
  - [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (7mo) (5Kg)
- - [armatura di pelle](https://golarion.altervista.org/wiki/Armature/Pelle) (15mo) (12.5Kg)
+ - [armatura di legno](https://golarion.altervista.org/wiki/Armature/Armatura_di_Legno ) (20mo) (12.5Kg)
  - [kerambit](https://golarion.altervista.org/wiki/Armi/Kerambit) (2mo) (-)
  - [fionda](https://golarion.altervista.org/wiki/Armi/Fionda) x99 (-) (-)
 
