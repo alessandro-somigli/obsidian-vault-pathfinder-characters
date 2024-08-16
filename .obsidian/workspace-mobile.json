@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/PG.md",
+                "file": "pf_ch_02/Equipaggiamento.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pf_ch_02/PG.md",
+            "file": "pf_ch_02/Equipaggiamento.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pf_ch_02/PG.md",
+            "file": "pf_ch_02/Equipaggiamento.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pf_ch_02/PG.md"
+            "file": "pf_ch_02/Equipaggiamento.md"
           }
         }
       },
@@ -142,6 +142,7 @@
   },
   "active": "50b22bcca4e49b82",
   "lastOpenFiles": [
+    "pf_ch_02/Incantesimi.md",
     "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Backstory.md",
@@ -150,7 +151,6 @@
     "pf_ch_02/Creature evocate.md",
     "/pf_ch_02/Incantesimi.md",
     "pf_ch_03/PG.md",
-    "pf_ch_02/Incantesimi.md",
     "pf_ch_03/Espedienti di Combattimento.md",
     "pf_ch_03/Equipaggiamento.md",
     "/pf_ch_03/Equipaggiamento.md",
