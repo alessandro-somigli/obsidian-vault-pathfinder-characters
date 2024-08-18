@@ -26,7 +26,7 @@ tratti:
 # Stats
 
 livello: 1
-punti eroe: 0
+punti eroe: 1
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |

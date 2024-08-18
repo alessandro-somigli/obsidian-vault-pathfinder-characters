@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ceec9e14f00fc4bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pf_ch_02/PG.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pf_ch_02/Incantesimi.md",
+            "file": "pf_ch_02/PG.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pf_ch_02/Incantesimi.md",
+            "file": "pf_ch_02/PG.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pf_ch_02/Incantesimi.md"
+            "file": "pf_ch_02/PG.md"
           }
         }
       },
@@ -140,13 +153,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "50b22bcca4e49b82",
+  "active": "ceec9e14f00fc4bf",
   "lastOpenFiles": [
-    "pf_ch_02/PG.md",
-    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Incantesimi.md",
-    "pf_ch_02/Forma Selvatica.md",
+    "pf_ch_02/PG.md",
+    "Appunti.md",
+    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Backstory.md",
+    "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Creature evocate.md",
     "/pf_ch_02/Incantesimi.md",
@@ -166,7 +180,6 @@
     "/pf_ch_03/Espedienti di Combattimento.md",
     "/pf_ch_03/Backstory.md",
     "pf_ch_03",
-    "/pf_ch_03",
-    "Untitled.md"
+    "/pf_ch_03"
   ]
 }

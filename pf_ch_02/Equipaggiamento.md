@@ -36,7 +36,7 @@ carico animale:
  - corda 15m (1mo) (5Kg)
  - zaino (2mo) (1Kg)
  - coperta (5ma) (1.5Kg)
- - pan speziato x25 (25mr) (6.25Kg)
+ - pan speziato x22 (25mr) (6.25Kg)
 
 oggetti d'avventura:
  - camera d'aria (1 ma) (0.25Kg)
