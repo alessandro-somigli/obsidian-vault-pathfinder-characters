@@ -20,6 +20,7 @@ animali:
  - [Calliope la Volpe](https://golarion.altervista.org/wiki/Volpe) (8mo) (6Kg)
 
 oggetti:
+ - bacche benefiche x7 (-) (-)
  - razioni da viaggio x5 (-) (-)
  - nutrimento per animali x5 (-) (-)
  - acciarino e pietra focaia (1mo) (-)

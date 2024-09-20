@@ -22,19 +22,19 @@
 | 18  | 4   | 6   | 6   | 6   | 5   | 5   | 5   | 4   | 3   | 2   |
 | 19  | 4   | 6   | 6   | 6   | 5   | 5   | 5   | 5   | 3   | 3   |
 | 20  | 4   | 6   | 6   | 6   | 6   | 5   | 5   | 5   | 5   | 4   |
-## lv.0: (3)
+## lv.0: (4)
 - buff: 
 	- (1) [guida](https://golarion.altervista.org/wiki/Incantesimi/Guida) 
 - utilità:
 	- (1) [riparare](https://golarion.altervista.org/wiki/Incantesimi/Riparare) 
 	- (1) [individuazione del magico](https://golarion.altervista.org/wiki/Incantesimi/Individuazione_del_Magico) 
-	- (0) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce) 
+	- (1) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce) 
 	- (0) [creare acqua](https://golarion.altervista.org/wiki/Incantesimi/Creare_Acqua) 
-## lv.1: (3)
+## lv.1: (4)
 - prep:
-	- (1) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
+	- (0) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
-	- (0) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
+	- (1) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
 	- (0) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
 	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
@@ -52,7 +52,7 @@
 	- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
 	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
 - cure:
-	- (0) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
+	- (1) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
 - utilità:
 	- (0) [mimetizzazione](https://golarion.altervista.org/wiki/Incantesimi/Mimetizzazione) 
 	- (0) [bolla d'aria](https://golarion.altervista.org/wiki/Incantesimi/Bolla_d%27Aria) 

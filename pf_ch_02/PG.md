@@ -25,7 +25,7 @@ tratti:
 
 # Stats
 
-livello: 1
+livello: 2
 punti eroe: 1
 
 | stats | base | misc | tot | mod |
@@ -68,7 +68,7 @@ privilegi di classe:
 | 1   | X   | lancio spontaneo                        |
 | 1   | X   | legame con la natura (compagno animale) |
 | 1   | X   | percepire spiriti                       |
-| 2   |     | piazzare magia                          |
+| 2   | X   | piazzare magia                          |
 | 4   |     | resistenza al richiamo della natura     |
 | 4   |     | forma selvatica                         |
 | 9   |     | seguire le linee                        |
@@ -121,14 +121,14 @@ nome: Celeste
 animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/Compagni_Animali#Gatto_da_Guerra_di_Rull)
 
 abilità:
- - [percezione](https://golarion.altervista.org/wiki/Percezione) 16
+ - [sopravvivenza](https://golarion.altervista.org/wiki/Sopravvivenza) 16
 
 talenti:
 
 | lvl | chk | talento                                                                                                   |
 | --- | --- | --------------------------------------------------------------------------------------------------------- |
 | 1   | X   | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (artigli)                       |
-| 2   |     | [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)                            |
+| 2   | X   | [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)                            |
 | 5   |     | [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli) |
 | 8   |     | [colpo senz armi migliorato](https://golarion.altervista.org/wiki/Colpo_Senz%27Armi_Migliorato)           |
 | 10  |     | [stile del drago](https://golarion.altervista.org/wiki/Stile_del_Drago)                                   |
