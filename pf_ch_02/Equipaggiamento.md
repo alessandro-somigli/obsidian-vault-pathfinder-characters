@@ -1,8 +1,8 @@
 soldi: 5.3.4mo
-conio: 6
+conio: 156
 
 ricchezza iniziale: 94.4.2mo (120mo) (+10mo abito) -> 9.3.4mo
-peso trasportato: 28.95Kg (29Kg max.leggero) -> 0.25Kg
+peso trasportato: 28.45Kg (29Kg max.leggero) -> 0.25Kg
 peso animale: 40.5Kg (49.5Kg max.leggero) -> 8.75Kg
 
 equipaggiamento:
@@ -37,7 +37,7 @@ carico animale:
  - corda 15m (1mo) (5Kg)
  - zaino (2mo) (1Kg)
  - coperta (5ma) (1.5Kg)
- - pan speziato x22 (25mr) (6.25Kg)
+ - pan speziato x20 (25mr) (6.25Kg)
 
 oggetti d'avventura:
  - camera d'aria (1 ma) (0.25Kg)
