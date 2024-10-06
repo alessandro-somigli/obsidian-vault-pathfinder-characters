@@ -1,5 +1,5 @@
 soldi: 5.3.4mo
-conio: 156
+conio: 149
 
 ricchezza iniziale: 94.4.2mo (120mo) (+10mo abito) -> 9.3.4mo
 peso trasportato: 28.45Kg (29Kg max.leggero) -> 0.25Kg
