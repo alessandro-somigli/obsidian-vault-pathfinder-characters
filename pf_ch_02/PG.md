@@ -25,10 +25,10 @@ tratti:
 
 # Stats
 
-livello: 2
+livello: 3
 punti eroe: 2
 
-pf: 17
+pf: 27
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |
@@ -106,7 +106,7 @@ privilegi di classe:
 | lvl | chk | talento                                                                                                                     |
 | --- | --- | --------------------------------------------------------------------------------------------------------------------------- |
 | 1   | X   | [servitore celestiale](https://golarion.altervista.org/wiki/Servitore_Celestiale)                                           |
-| 3   |     | [compagno evoluto](https://golarion.altervista.org/wiki/Compagno_Evoluto) (artigli)                                         |
+| 3   | X   | [compagno evoluto](https://golarion.altervista.org/wiki/Compagno_Evoluto) (artigli)                                         |
 | 5   |     | [incantesimi naturali](https://golarion.altervista.org/wiki/Incantesimi_Naturali)                                           |
 | 7   |     | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (trasmutazione)                     |
 | 9   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione) |
@@ -121,7 +121,7 @@ privilegi di classe:
 
 nome: Celeste
 animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/Compagni_Animali#Gatto_da_Guerra_di_Rull)
-pf: 28
+pf: 37
 
 abilità:
  - [sopravvivenza](https://golarion.altervista.org/wiki/Sopravvivenza) 16
