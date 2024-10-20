@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/PG.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pf_ch_02/PG.md",
+            "file": "pf_ch_02/Incantesimi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pf_ch_02/PG.md",
+            "file": "pf_ch_02/Incantesimi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pf_ch_02/PG.md"
+            "file": "pf_ch_02/Incantesimi.md"
           }
         }
       },
@@ -155,11 +155,12 @@
   },
   "active": "ceec9e14f00fc4bf",
   "lastOpenFiles": [
+    "pf_ch_02/Equipaggiamento.md",
+    "pf_ch_03/Backstory.md",
+    "pf_ch_02/PG.md",
     "pf_ch_02/Creature evocate.md",
     "pf_ch_02/Incantesimi.md",
-    "pf_ch_02/PG.md",
     "pf_ch_02/Backstory.md",
-    "pf_ch_02/Equipaggiamento.md",
     "/pf_ch_02/PG.md",
     "/pf_ch_02/Incantesimi.md",
     "/pf_ch_02/Equipaggiamento.md",
@@ -174,7 +175,6 @@
     "/pf_ch_02/Creature evocate.md",
     "/pf_ch_03/PG.md",
     "pf_ch_03/Rissaiolo da Taverna.md",
-    "pf_ch_03/Backstory.md",
     "/pf_ch_03/Rissaiolo da Taverna.md",
     "sortspec.md",
     "/sortspec.md",
