@@ -52,7 +52,7 @@
 	- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
 	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
 - cure:
-	- (1) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
+	- (0) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
 - utilità:
 	- (0) [mimetizzazione](https://golarion.altervista.org/wiki/Incantesimi/Mimetizzazione) 
 	- (0) [bolla d'aria](https://golarion.altervista.org/wiki/Incantesimi/Bolla_d%27Aria) 
@@ -61,7 +61,7 @@
 ## lv.2: (2)
 - buffs:
 	- (0) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
-	- (1) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
+	- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
 	- (0) [pelle coriacea](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Coriacea) 
 	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia) 
 - battaglia:
