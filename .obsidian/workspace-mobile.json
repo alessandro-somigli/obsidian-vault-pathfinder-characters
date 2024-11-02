@@ -16,7 +16,9 @@
                 "file": "pf_ch_02/Incantesimi.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Incantesimi"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "pf_ch_02/PG.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "PG"
             }
           }
         ],
@@ -48,7 +52,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -63,7 +69,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -74,7 +82,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -82,7 +92,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -106,7 +118,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -118,7 +132,9 @@
             "file": "pf_ch_02/PG.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -128,7 +144,9 @@
           "type": "outline",
           "state": {
             "file": "pf_ch_02/PG.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -136,7 +154,9 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -157,8 +177,8 @@
   "lastOpenFiles": [
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/Equipaggiamento.md",
-    "pf_ch_03/Backstory.md",
     "pf_ch_02/PG.md",
+    "pf_ch_03/Backstory.md",
     "pf_ch_02/Creature evocate.md",
     "pf_ch_02/Backstory.md",
     "/pf_ch_02/PG.md",
