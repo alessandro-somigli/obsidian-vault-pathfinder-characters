@@ -38,6 +38,7 @@ carico animale:
  - zaino (2mo) (1Kg)
  - coperta (5ma) (1.5Kg)
  - pan speziato x20 (25mr) (6.25Kg)
+ - armatura cuoio borchiato grande +3 (10Kg)
 
 oggetti d'avventura:
  - camera d'aria (1 ma) (0.25Kg)
