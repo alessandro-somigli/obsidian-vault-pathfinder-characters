@@ -30,6 +30,7 @@ oggetti:
  - agrifoglio e vischio (-) (-)
  - sacchetto di semi (pino silvestre) (-) (-)
  - borsa per componenti di incantesimi (5mo) (1Kg)
+ - pozione di zanna magica superiore
 
 carico animale:
  - [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) (50mo) (20Kg)
