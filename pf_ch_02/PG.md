@@ -25,10 +25,10 @@ tratti:
 
 # Stats
 
-livello: 3
+livello: 4
 punti eroe: 4
 
-pf: 27
+pf: 36
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |
@@ -36,7 +36,7 @@ pf: 27
 | DEX   | 16   |      | 16  | +3  |
 | COS   | 15   |      | 15  | +2  |
 | INT   | 11   | +1   | 12  | +1  |
-| SAG   | 18   | +3   | 21  | +5  |
+| SAG   | 19   | +3   | 22  | +6  |
 | CAR   | 11   | +3   | 14  | +2  |
 
 # Razza
@@ -71,8 +71,8 @@ privilegi di classe:
 | 1   | X   | legame con la natura (compagno animale) |
 | 1   | X   | percepire spiriti                       |
 | 2   | X   | piazzare magia                          |
-| 4   |     | resistenza al richiamo della natura     |
-| 4   |     | forma selvatica                         |
+| 4   | X   | resistenza al richiamo della natura     |
+| 4   | X   | forma selvatica                         |
 | 9   |     | seguire le linee                        |
 | 13  |     | corpo vuoto                             |
 | 15  |     | corpo senza tempo                       |
