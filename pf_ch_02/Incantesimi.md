@@ -43,7 +43,7 @@
 	- (0) [zanna magica](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica) 
 - battaglia:
 	- (1) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
-	- (1) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
+	- (0) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
 	- (0) [produrre fiamma](https://golarion.altervista.org/wiki/Incantesimi/Produrre_Fiamma) (no TS) 
 	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
 	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
@@ -61,7 +61,7 @@
 ## lv.2: (4)
 - buffs:
 	- (0) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
-	- (1) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
+	- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
 	- (0) [pelle coriacea](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Coriacea) 
 	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia) 
 - battaglia:

@@ -26,7 +26,7 @@ tratti:
 # Stats
 
 livello: 4
-punti eroe: 4
+punti eroe: 2
 
 pf: 36
 
@@ -107,7 +107,7 @@ privilegi di classe:
 | --- | --- | --------------------------------------------------------------------------------------------------------------------------- |
 | 1   | X   | [servitore celestiale](https://golarion.altervista.org/wiki/Servitore_Celestiale)                                           |
 | 3   | X   | [compagno evoluto](https://golarion.altervista.org/wiki/Compagno_Evoluto) (artigli)                                         |
-| 5   |     | [incantesimi naturali](https://golarion.altervista.org/wiki/Incantesimi_Naturali)                                           |
+| 5   | X   | [incantesimi naturali](https://golarion.altervista.org/wiki/Incantesimi_Naturali)                                           |
 | 7   |     | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (trasmutazione)                     |
 | 9   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione) |
 | 11  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                             |
@@ -132,7 +132,7 @@ talenti:
 | --- | --- | --------------------------------------------------------------------------------------------------------- |
 | 1   | X   | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (artigli)                       |
 | 2   | X   | [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)                            |
-| 5   |     | [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli) |
+| 5   | X   | [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli) |
 | 8   |     | [colpo senz armi migliorato](https://golarion.altervista.org/wiki/Colpo_Senz%27Armi_Migliorato)           |
 | 10  |     | [stile del drago](https://golarion.altervista.org/wiki/Stile_del_Drago)                                   |
 | 13  |     | [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)                 |
