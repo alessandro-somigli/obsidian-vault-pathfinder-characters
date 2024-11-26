@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/Creature evocate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incantesimi"
+              "title": "Creature evocate"
             }
           }
         ],
@@ -175,10 +175,10 @@
   },
   "active": "ceec9e14f00fc4bf",
   "lastOpenFiles": [
+    "pf_ch_02/Backstory.md",
+    "pf_ch_02/Incantesimi.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Equipaggiamento.md",
-    "pf_ch_02/Incantesimi.md",
-    "pf_ch_02/Backstory.md",
     "pf_ch_02/Creature evocate.md",
     "pf_ch_02/Forma Selvatica.md",
     "pf_ch_03/Backstory.md",
