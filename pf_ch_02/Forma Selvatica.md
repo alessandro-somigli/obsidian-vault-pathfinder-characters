@@ -5,7 +5,7 @@
 - resistenza al fuoco 20, vulnerabilità al freddo (fuoco)
 - immunità: sanguinamento, colpi critici, attacchi furtivi
 - RD 5/-
-- scavare 6m (terra)/volare 18m (perfetta) (aria)/nuotare 18m (acqua)
+- scavare 6m (terra)/volare 30m (perfetta) (aria)/nuotare 27m (acqua)
 - portata -/-/3m/4.5m
 - linguaggi: auran/acquan/terran/ignan
 - (scurovisione, scavare/volare/nuotare, linguaggi, portata, immunità, RD)
@@ -159,8 +159,8 @@
 - scurovisione 18m
 - resistenza elettricità 20, fuoco 10
 - velocità 6m
-- mischia: 2 schianti (2d6 più Afferrare)
-- attacchi speciali: Stritolare (2d6+7)
+- mischia: 2 schianti (2d6 più afferrare)
+- attacchi speciali: Stritolare (2d6)
 - portata 3m
 - (✰ resistenza elettricità e fuoco, scurovisione, portata)
 #### [tendriculous](https://golarion.altervista.org/wiki/Tendriculos):
