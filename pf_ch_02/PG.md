@@ -25,10 +25,10 @@ tratti:
 
 # Stats
 
-livello: 4
+livello: 5
 punti eroe: 2
 
-pf: 36
+pf: 47
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |
@@ -121,7 +121,7 @@ privilegi di classe:
 
 nome: Celeste
 animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/Compagni_Animali#Gatto_da_Guerra_di_Rull)
-pf: 37
+pf: 55
 
 abilità:
  - [sopravvivenza](https://golarion.altervista.org/wiki/Sopravvivenza) 16
