@@ -1,4 +1,4 @@
-soldi: 555.3.4mo
+soldi: 2554.3.4mo
 conio: 149
 
 ricchezza iniziale: 94.4.2mo (120mo) (+10mo abito) -> 9.3.4mo
@@ -15,10 +15,11 @@ equipaggiamento:
  - [armatura di legno](https://golarion.altervista.org/wiki/Armature/Armatura_di_Legno ) (20mo) (12.5Kg)
  - [kerambit](https://golarion.altervista.org/wiki/Armi/Kerambit) (2mo) (-)
  - [fionda](https://golarion.altervista.org/wiki/Armi/Fionda) x99 (-) (-)
+ - bacche benefiche x49
 
 animali:
- - [Wally il Rospo](https://golarion.altervista.org/wiki/Rospo) (2mr) (0.2Kg)
- - [Calliope la Volpe](https://golarion.altervista.org/wiki/Volpe) (8mo) (6Kg)
+ - [Wally il Rospo](https://golarion.altervista.org/wiki/Rospo) (intrattenere) (2mr) (0.2Kg)
+ - [Calliope la Volpe](https://golarion.altervista.org/wiki/Volpe) (intrattenere) (fiuto) (8mo) (6Kg)
 
 oggetti:
  - razioni da viaggio x5 (-) (-)
