@@ -121,7 +121,7 @@ privilegi di classe:
 
 nome: Celeste
 animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/Compagni_Animali#Gatto_da_Guerra_di_Rull)
-pf: 55
+pf: 66
 
 abilità:
  - [sopravvivenza](https://golarion.altervista.org/wiki/Sopravvivenza) 16
