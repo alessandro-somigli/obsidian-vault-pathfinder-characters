@@ -22,7 +22,7 @@ animali:
  - [Calliope la Volpe](https://golarion.altervista.org/wiki/Volpe) (intrattenere) (fiuto) (8mo) (6Kg)
 
 oggetti:
- - razioni da viaggio x5 (-) (-)
+ - razioni da viaggio x3 (-) (-)
  - nutrimento per animali x5 (-) (-)
  - acciarino e pietra focaia (1mo) (-)
  - borsa da cintura (1mo) (0.25Kg)

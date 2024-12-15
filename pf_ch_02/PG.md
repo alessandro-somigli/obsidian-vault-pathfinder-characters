@@ -26,7 +26,7 @@ tratti:
 # Stats
 
 livello: 5
-punti eroe: 1
+punti eroe: 2
 
 pf: 47
 
