@@ -7,6 +7,7 @@ peso animale: 40.5Kg (49.5Kg max.leggero) -> 8.75Kg
 
 equipaggiamento:
 -  prisma rosa pallido incrinato (0Kg)
+- anello dell'eloquenza (0Kg)
  - mantello patchwork (5mo) (0.25Kg)
  - abito da borseggiatore (5mo) (1.5Kg)
  - [bastone ferrato](https://golarion.altervista.org/wiki/Armi/Bastone_Ferrato) x2 (-) (4Kg)
