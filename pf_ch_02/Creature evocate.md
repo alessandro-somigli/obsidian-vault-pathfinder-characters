@@ -2,24 +2,78 @@ buone creature da evocare per ogni livello
 
 ### Lv.3:
 #### [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo):
- - [CA](https://golarion.altervista.org/wiki/CA "CA"): 14, contatto 10, impreparato 13
- - [PF](https://golarion.altervista.org/wiki/PF "PF"): 22
- - [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza: Tempra +6, Riflessi +4, Volontà +2
- - Velocità: 6m, [Nuotare](https://golarion.altervista.org/wiki/Nuotare "Nuotare") 9m; [Scatto](https://golarion.altervista.org/wiki/Coccodrillo#Scatto_(Str))
- - Mischia: Morso +5 (1d8+4 più [Afferrare](https://golarion.altervista.org/wiki/Coccodrillo#Afferrare_(Str))), e colpo di coda +0 (1d12+2)  
- - Attacchi Speciali: [Rotolata Letale](https://golarion.altervista.org/wiki/Coccodrillo#Rotolata_Letale_(Str)) (1d8+6 più [Sbilanciare](https://golarion.altervista.org/wiki/Coccodrillo#Sbilanciare_(Str)))  
- - Spazio: 3 m  
- - Portata: 1,5 m
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 14, contatto 10, impreparato 13
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 22
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza: Tempra +6, Riflessi +4, Volontà +2
+- Velocità: 6m, [Nuotare](https://golarion.altervista.org/wiki/Nuotare "Nuotare") 9m; [Scatto](https://golarion.altervista.org/wiki/Coccodrillo#Scatto_(Str))
+- Mischia: Morso +5 (1d8+4 più [Afferrare](https://golarion.altervista.org/wiki/Coccodrillo#Afferrare_(Str))), e colpo di coda +0 (1d12+2)
+- Attacchi Speciali: [Rotolata Letale](https://golarion.altervista.org/wiki/Coccodrillo#Rotolata_Letale_(Str)) (1d8+6 più [Sbilanciare](https://golarion.altervista.org/wiki/Coccodrillo#Sbilanciare_(Str)))
+- Spazio: 3m
+- Portata: 1.5m
 #### [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
-[CA](https://golarion.altervista.org/wiki/CA "CA"): 15, contatto 14, impreparato 11
-**[PF](https://golarion.altervista.org/wiki/PF "PF")**: 19 
-[Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +5, Riflessi +7, Volontà +2
-Velocità: 9m, [Scalare](https://golarion.altervista.org/wiki/Scalare "Scalare") 6m  
-Mischia: Morso +6 (1d6+3 più [Afferrare](https://golarion.altervista.org/wiki/Leopardo#Afferrare_(Str))), 2 artigli +6 (1d3+3)
-Attacchi Speciali [Balzare](https://golarion.altervista.org/wiki/Leopardo#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Leopardo#Sperone_(Str)) (2 artigli +6, 1d3+3)
-
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 15, contatto 14, impreparato 11
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 19
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +5, Riflessi +7, Volontà +2
+- Velocità: 9m, [Scalare](https://golarion.altervista.org/wiki/Scalare "Scalare") 6m
+- Mischia: Morso +6 (1d6+3 più [Afferrare](https://golarion.altervista.org/wiki/Leopardo#Afferrare_(Str))), 2 artigli +6 (1d3+3)
+- Attacchi Speciali [Balzare](https://golarion.altervista.org/wiki/Leopardo#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Leopardo#Sperone_(Str)) (2 artigli +6, 1d3+3)
 ### Lv.4:
+#### [Orso Grigio](https://golarion.altervista.org/wiki/Orso_Grigio):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 16, contatto 10, impreparato 15
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 42
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +8, Riflessi +5, Volontà +2
+- Velocità: 12m
+- Mischia: 2 artigli +7 (1d6+5 più [Afferrare](https://golarion.altervista.org/wiki/Orso_Grigio#Afferrare_(Str))), morso +7 (1d6+5)
+- Spazio: 3m
+- Portata: 1.5m
+#### [Orsogufo](https://golarion.altervista.org/wiki/Orsogufo):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 15, contatto 10, impreparato 14
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 47
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +10, Riflessi +5, Volontà +2
+- Velocità: 9m
+- Mischia: 2 artigli +8 (1d6+4 più [Afferrare](https://golarion.altervista.org/wiki/Orsogufo#Afferrare_(Str))), morso +8 (1d6+4)
+- Spazio: 3m
+- Portata: 1.5m
+#### [Tigre](https://golarion.altervista.org/wiki/Tigre):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 14, contatto 11, impreparato 12
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 45
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): [Tempra](https://golarion.altervista.org/wiki/Tempra "Tempra") +8, [Riflessi](https://golarion.altervista.org/wiki/Riflessi "Riflessi") +7, [Volontà](https://golarion.altervista.org/wiki/Volont%C3%A0 "Volontà") +3
+- Velocità: 12m
+- Mischia: 2 artigli +10 (1d8+6 più [Afferrare](https://golarion.altervista.org/wiki/Tigre#Afferrare_(Str))), morso +9 (2d6+6 più [Afferrare](https://golarion.altervista.org/wiki/Tigre#Afferrare_(Str)))
+- Attacchi Speciali: [Balzare](https://golarion.altervista.org/wiki/Tigre#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Tigre#Sperone_(Str)) (2 artigli +10, 1d8+6)
+- Spazio: 3m
+- Portata: 1.5m
+#### [Grifone](https://golarion.altervista.org/wiki/Grifone):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 17, contatto 11, impreparato 15
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 42
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +7, Riflessi +6, Volontà +4
+- Velocità: 9m, [Volare](https://golarion.altervista.org/wiki/Volo "Volo") 24m (media)  
+- Mischia: Morso +8 (1d6+3), 2 artigli +7 (1d6+3)  
+- Attacchi Speciali: [Balzare](https://golarion.altervista.org/wiki/Grifone#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Grifone#Sperone_(Str)) (2 artigli +7, 1d4+3)  
+- Spazio: 3 m  
+- Portata: 1,5 m
+#### [Scorpione Gigante](https://golarion.altervista.org/wiki/Scorpione_Gigante)
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 16, contatto 9, impreparato 16
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 37
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +7, Riflessi +1, Volontà +1
+- Immunità: Effetti di influenza mentale
+- Velocità: 15m
+- Mischia: 2 artigli +6 (1d6+4 più [Afferrare](https://golarion.altervista.org/wiki/Scorpione_Gigante#Afferrare_(Str))), pungiglione +6 (1d6+4 più [Veleno](https://golarion.altervista.org/wiki/Scorpione_Gigante#Veleno_(Str)))  
+- Attacchi Speciali: [Stritolare](https://golarion.altervista.org/wiki/Scorpione_Gigante#Stritolare_(Str)) (1d6+4)  
+- Spazio: 3m
+- Portata: 3m
+#### [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro)
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 22, contatto 8, impreparato 22
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 75 (10d8+30)
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +12, Riflessi +7, Volontà +4
+- Velocità: 9m
+- Mischia: coda +14 (3d6+12 più [Stordimento](https://golarion.altervista.org/wiki/Anchilosauro#Stordimento_(Str)))
+- Spazio: 4.5m
+- Portata: 4.5m
 #### 
+
+
+
 
 ## Capacità Magiche
 
