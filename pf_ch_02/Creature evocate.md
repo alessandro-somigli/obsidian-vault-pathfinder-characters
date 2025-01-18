@@ -70,7 +70,7 @@ buone creature da evocare per ogni livello
 - Mischia: coda +14 (3d6+12 più [Stordimento](https://golarion.altervista.org/wiki/Anchilosauro#Stordimento_(Str)))
 - Spazio: 4.5m
 - Portata: 4.5m
-#### 
+#### [](,)
 
 
 
