@@ -1,4 +1,26 @@
-capacità magiche di creature evocate con [Evoca Alleato Naturale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Naturale)
+buone creature da evocare per ogni livello
+
+### Lv.3:
+#### [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo):
+ - [CA](https://golarion.altervista.org/wiki/CA "CA"): 14, contatto 10, impreparato 13
+ - [PF](https://golarion.altervista.org/wiki/PF "PF"): 22
+ - [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza: Tempra +6, Riflessi +4, Volontà +2
+ - Velocità: 6m, [Nuotare](https://golarion.altervista.org/wiki/Nuotare "Nuotare") 9m; [Scatto](https://golarion.altervista.org/wiki/Coccodrillo#Scatto_(Str))
+ - Mischia: Morso +5 (1d8+4 più [Afferrare](https://golarion.altervista.org/wiki/Coccodrillo#Afferrare_(Str))), e colpo di coda +0 (1d12+2)  
+ - Attacchi Speciali: [Rotolata Letale](https://golarion.altervista.org/wiki/Coccodrillo#Rotolata_Letale_(Str)) (1d8+6 più [Sbilanciare](https://golarion.altervista.org/wiki/Coccodrillo#Sbilanciare_(Str)))  
+ - Spazio: 3 m  
+ - Portata: 1,5 m
+#### [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
+[CA](https://golarion.altervista.org/wiki/CA "CA"): 15, contatto 14, impreparato 11
+**[PF](https://golarion.altervista.org/wiki/PF "PF")**: 19 
+[Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +5, Riflessi +7, Volontà +2
+Velocità: 9m, [Scalare](https://golarion.altervista.org/wiki/Scalare "Scalare") 6m  
+Mischia: Morso +6 (1d6+3 più [Afferrare](https://golarion.altervista.org/wiki/Leopardo#Afferrare_(Str))), 2 artigli +6 (1d3+3)
+Attacchi Speciali [Balzare](https://golarion.altervista.org/wiki/Leopardo#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Leopardo#Sperone_(Str)) (2 artigli +6, 1d3+3)
+
+### Lv.4:
+#### 
+
 ## Capacità Magiche
 
 #### [shikigami](https://golarion.altervista.org/wiki/Shikigami) (lv.3):

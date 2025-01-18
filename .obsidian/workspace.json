@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Creature Evocate"
             }
-          },
-          {
-            "id": "58301ead790c39ff",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pf_ch_02/Creature Evocate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Creature Evocate"
             }
           },
           {
@@ -124,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pf_ch_02/Creature Evocate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Creature Evocate"
             }
           },
           {
@@ -149,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "pf_ch_02/Creature Evocate.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Creature Evocate"
             }
           },
           {
@@ -192,14 +183,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "58301ead790c39ff",
+  "active": "14d29d216999658f",
   "lastOpenFiles": [
-    "pf_ch_02/Forma Selvatica.md",
+    "pf_ch_02/Domande & Risposte.md",
+    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Incantesimi.md",
-    "pf_ch_02/Equipaggiamento.md",
-    "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Creature Evocate.md",
+    "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Backstory.md",
     "Appunti.md",
     "pf_ch_03/Espedienti di Combattimento.md",
