@@ -1,6 +1,26 @@
 buone creature da evocare per ogni livello
-
-### Lv.3:
+### Lv.1
+#### [Stirge](https://golarion.altervista.org/wiki/Strige):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 16, contatto 16, impreparato 12
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 5
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +2, Riflessi +6, Volontà +1
+- Velocità: 3m, [Volare](https://golarion.altervista.org/wiki/Volare "Volare") 12m (media)
+- Mischia: contatto +7 ([Attaccarsi](https://golarion.altervista.org/wiki/Strige#Attaccarsi_(Str)))
+- Attacchi Speciali: [Risucchio di Sangue](https://golarion.altervista.org/wiki/Strige#Risucchio_di_Sangue_(Str))
+- Spazio: 75cm
+- Portata: 0m
+- (✰)
+### Lv.2
+### [Ragno Gigante](https://golarion.altervista.org/wiki/Ragno_Gigante):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 14, contatto 13, impreparato 11
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 16
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +4, Riflessi +4, Volontà +1
+- Immunità: Effetti di influenza mentale
+- Velocità: 9m, [Scalare](https://golarion.altervista.org/wiki/Scalare "Scalare") 9m
+- Mischia: Morso +2 (1d6 più [Veleno](https://golarion.altervista.org/wiki/Ragno_Gigante#Veleno_(Str)))
+- Attacchi Speciali: [Ragnatela](https://golarion.altervista.org/wiki/Ragno_Gigante#Ragnatela_(Str)) (+5 a distanza, CD 12, pf 2)
+- (✰)
+### Lv.3
 #### [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 14, contatto 10, impreparato 13
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 22
@@ -17,7 +37,7 @@ buone creature da evocare per ogni livello
 - Velocità: 9m, [Scalare](https://golarion.altervista.org/wiki/Scalare "Scalare") 6m
 - Mischia: Morso +6 (1d6+3 più [Afferrare](https://golarion.altervista.org/wiki/Leopardo#Afferrare_(Str))), 2 artigli +6 (1d3+3)
 - Attacchi Speciali [Balzare](https://golarion.altervista.org/wiki/Leopardo#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Leopardo#Sperone_(Str)) (2 artigli +6, 1d3+3)
-### Lv.4:
+### Lv.4
 #### [Orso Grigio](https://golarion.altervista.org/wiki/Orso_Grigio):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 16, contatto 10, impreparato 15
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 42
