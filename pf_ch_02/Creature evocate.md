@@ -90,7 +90,7 @@ buone creature da evocare per ogni livello
 - Attacchi Speciali: [Balzare](https://golarion.altervista.org/wiki/Tigre_Crudele#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Tigre_Crudele#Sperone_(Str)) (2 artigli +18, 2d4+8)  
 - Spazio: 3m  
 - Portata: 1.5m
-#### [Calamaro Gigante](https://golarion.altervista.org/wiki/Calamaro_Gigante)
+#### [Calamaro Gigante](https://golarion.altervista.org/wiki/Calamaro_Gigante):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 20, contatto 11, impreparato 17 (+3 [Destrezza](https://golarion.altervista.org/wiki/Destrezza "Destrezza"), +9 [Naturale](https://golarion.altervista.org/wiki/Armatura_Naturale "Armatura Naturale"), -2 [Taglia](https://golarion.altervista.org/wiki/Modificatore_di_Taglia "Modificatore di Taglia"))
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 102
 - [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +14, Riflessi +13, Volontà +5  
@@ -118,13 +118,58 @@ buone creature da evocare per ogni livello
 - Attacchi Speciali: [Rotolata Letale](https://golarion.altervista.org/wiki/Coccodrillo_Crudele#Rotolata_Letale_(Str)) (3d6+19 più [Sbilanciare](https://golarion.altervista.org/wiki/Coccodrillo_Crudele#Sbilanciare_(Str))), [Inghiottire](https://golarion.altervista.org/wiki/Coccodrillo_Crudele#Inghiottire_(Str)) (3d6+13, [CA](https://golarion.altervista.org/wiki/CA "CA") 16, 13 [PF](https://golarion.altervista.org/wiki/PF "PF"))
 - Spazio: 6m
 - Portata: 4.5m
-
-
-
-
-
-
-
+#### [Squalo Crudele](https://golarion.altervista.org/wiki/Squalo_Crudele):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 23, contatto 8, impreparato 21  
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 112
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +14, Riflessi +13, Volontà +8
+- Velocità: [Nuotare](https://golarion.altervista.org/wiki/Nuotare "Nuotare") 18m
+- Mischia: Morso +17 (4d10+15/19-20 più [Afferrare](https://golarion.altervista.org/wiki/Squalo_Crudele#Afferrare_(Str)))
+- Attacchi Speciali: [Inghiottire](https://golarion.altervista.org/wiki/Squalo_Crudele#Inghiottire_(Str)) (2d6+15 danni, [CA](https://golarion.altervista.org/wiki/CA "CA") 17, 11 [PF](https://golarion.altervista.org/wiki/PF "PF"))
+- Spazio: 6m  
+- Portata: 6m
+#### [Gigante del Fuoco](https://golarion.altervista.org/wiki/Gigante_del_Fuoco):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 24, contatto 8, impreparato 24
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 142
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +14, Riflessi +4, Volontà +9
+- Immunità: [Fuoco](https://golarion.altervista.org/wiki/Immunit%C3%A0_all%27Energia "Immunità all'Energia")
+- Capacità Difensive: [Afferrare Rocce](https://golarion.altervista.org/wiki/Gigante_del_Fuoco#Afferrare_Rocce_(Str))
+- Debolezze: [Vulnerabilità al Freddo](https://golarion.altervista.org/wiki/Vulnerabilit%C3%A0_all%27Energia "Vulnerabilità all'Energia")
+- Velocità: 12 m (9 m in armatura)
+- Mischia: [Spadone](https://golarion.altervista.org/wiki/Armi/Spadone "Armi/Spadone") +21/+16+/+11 (3d6+15) o 2 schianti +20 (1d8+10)
+- Distanza: roccia +10 (1d8+15 più 1d6 [Fuoco](https://golarion.altervista.org/wiki/Gigante_del_Fuoco#Scaldare_Rocce_(Sop)))
+- Attacchi Speciali: [Scaldare Rocce](https://golarion.altervista.org/wiki/Gigante_del_Fuoco#Scaldare_Rocce_(Sop)), [Scagliare Rocce](https://golarion.altervista.org/wiki/Gigante_del_Fuoco#Scagliare_Rocce_(Str)) (36 m)
+- Spazio: 3m
+- Portata: 3m
+### Lv.8
+#### [Verme Purpureo](https://golarion.altervista.org/wiki/Verme_Purpureo):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 24, contatto 8, impreparato 24
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 142
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +14, Riflessi +4, Volontà +9
+- Immunità: [Fuoco](https://golarion.altervista.org/wiki/Immunit%C3%A0_all%27Energia "Immunità all'Energia")
+- Capacità Difensive: [Afferrare Rocce](https://golarion.altervista.org/wiki/Gigante_del_Fuoco#Afferrare_Rocce_(Str))
+- Debolezze: [Vulnerabilità al Freddo](https://golarion.altervista.org/wiki/Vulnerabilit%C3%A0_all%27Energia "Vulnerabilità all'Energia")
+- Velocità: 12 m (9 m in armatura)
+- Mischia: [Spadone](https://golarion.altervista.org/wiki/Armi/Spadone "Armi/Spadone") +21/+16+/+11 (3d6+15) o 2 schianti +20 (1d8+10)
+- Distanza: roccia +10 (1d8+15 più 1d6 [Fuoco](https://golarion.altervista.org/wiki/Gigante_del_Fuoco#Scaldare_Rocce_(Sop)))
+- Attacchi Speciali: [Scaldare Rocce](https://golarion.altervista.org/wiki/Gigante_del_Fuoco#Scaldare_Rocce_(Sop)), [Scagliare Rocce](https://golarion.altervista.org/wiki/Gigante_del_Fuoco#Scagliare_Rocce_(Str)) (36 m)
+- Spazio: 3m
+- Portata: 3m
+### Lv.9
+#### [Gigante delle Tempeste](https://golarion.altervista.org/wiki/Gigante_delle_Tempeste):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 28, contatto 10, impreparato 26
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 199
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +17, Riflessi +8, Volontà +13
+- Immunità: [Elettricità](https://golarion.altervista.org/wiki/Immunit%C3%A0_all%27Energia "Immunità all'Energia")
+- Capacità Difensive: [Afferrare Rocce](https://golarion.altervista.org/wiki/Gigante_delle_Tempeste#Afferrare_Rocce_(Str))
+- Velocità: 15m, [Nuotare](https://golarion.altervista.org/wiki/Nuotare "Nuotare") 12m (10.5 m, [Nuotare](https://golarion.altervista.org/wiki/Nuotare "Nuotare") 9m in armatura)
+- Mischia: [Spadone](https://golarion.altervista.org/wiki/Armi/Spadone "Armi/Spadone") [Perfetto](https://golarion.altervista.org/wiki/Armi#Armi_Perfette "Armi") +27/+22/+17 (4d6+21/17-20) o 2 schianti +26 (2d6+14)
+- Distanza: [Arco Lungo Composito](https://golarion.altervista.org/wiki/Armi/Arco_Lungo_Composito "Armi/Arco Lungo Composito") [Perfetto](https://golarion.altervista.org/wiki/Armi#Armi_Perfette "Armi") +15/+10/+5 (3d6+14/x3)
+- Spazio: 4.5m
+- Portata: 4.5m
+- [Capacità Magiche](https://golarion.altervista.org/wiki/Capacit%C3%A0_Magiche "Capacità Magiche"): [LI](https://golarion.altervista.org/wiki/LI "LI") 15°
+	- Permanenti—_[Libertà di Movimento](https://golarion.altervista.org/wiki/Libert%C3%A0_di_Movimento "Libertà di Movimento")_
+	- 2/giorno—_[Controllare Tempo Atmosferico](https://golarion.altervista.org/wiki/Controllare_Tempo_Atmosferico "Controllare Tempo Atmosferico")_, _[Levitazione](https://golarion.altervista.org/wiki/Levitazione "Levitazione")_
+	- 1/giorno—_[Catena di Fulmini](https://golarion.altervista.org/wiki/Catena_di_Fulmini "Catena di Fulmini")_ (CD 18), _[Invocare il Fulmine](https://golarion.altervista.org/wiki/Invocare_il_Fulmine "Invocare il Fulmine")_ (CD 15)
 
 ## Capacità Magiche
 
