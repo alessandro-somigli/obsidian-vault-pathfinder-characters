@@ -101,13 +101,23 @@ buone creature da evocare per ogni livello
 - Spazio: 4.5m  
 - Portata: 4.5m (9m con braccia e tentacoli)
 #### [Stegosauro](https://golarion.altervista.org/wiki/Stegosauro):
-[CA](https://golarion.altervista.org/wiki/CA "CA"): 22, contatto 10, impreparato 20 (+2 [Destrezza](https://golarion.altervista.org/wiki/Destrezza "Destrezza"), +12 [Naturale](https://golarion.altervista.org/wiki/Armatura_Naturale "Armatura Naturale"), -2 [Taglia](https://golarion.altervista.org/wiki/Modificatore_di_Taglia "Modificatore di Taglia"))  
-[PF](https://golarion.altervista.org/wiki/PF "PF"): 90
-[Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +13, Riflessi +10, Volontà +5
-Velocità: 9m  
-Mischia: coda +16 (4d6+12 più [Sbilanciare](https://golarion.altervista.org/wiki/Stegosauro#Sbilanciare_(Str)))  
-Spazio: 4.5m  
-Portata: 4.5m
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 22, contatto 10, impreparato 20
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 90
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +13, Riflessi +10, Volontà +5
+- Velocità: 9m
+- Mischia: coda +16 (4d6+12 più [Sbilanciare](https://golarion.altervista.org/wiki/Stegosauro#Sbilanciare_(Str)))
+- Spazio: 4.5m
+- Portata: 4.5m
+### Lv.7
+#### [Coccodrillo Crudele](https://golarion.altervista.org/wiki/Coccodrillo_Crudele):
+- [CA](https://golarion.altervista.org/wiki/CA "CA"): 21, contatto 6, impreparato 21
+- [PF](https://golarion.altervista.org/wiki/PF "PF"): 138
+- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +15, Riflessi +8, Volontà +8
+- Velocità: 6m, [Nuotare](https://golarion.altervista.org/wiki/Nuotare "Nuotare") 9m; [Scatto](https://golarion.altervista.org/wiki/Coccodrillo_Crudele#Scatto_(Str))
+- Mischia: morso +18 (3d6+13/19-20 più [Afferrare](https://golarion.altervista.org/wiki/Coccodrillo_Crudele#Afferrare_(Str))), e colpo di coda +13 (4d8+6)
+- Attacchi Speciali: [Rotolata Letale](https://golarion.altervista.org/wiki/Coccodrillo_Crudele#Rotolata_Letale_(Str)) (3d6+19 più [Sbilanciare](https://golarion.altervista.org/wiki/Coccodrillo_Crudele#Sbilanciare_(Str))), [Inghiottire](https://golarion.altervista.org/wiki/Coccodrillo_Crudele#Inghiottire_(Str)) (3d6+13, [CA](https://golarion.altervista.org/wiki/CA "CA") 16, 13 [PF](https://golarion.altervista.org/wiki/PF "PF"))
+- Spazio: 6m
+- Portata: 4.5m
 
 
 
