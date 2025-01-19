@@ -30,6 +30,7 @@ buone creature da evocare per ogni livello
 - Attacchi Speciali: [Rotolata Letale](https://golarion.altervista.org/wiki/Coccodrillo#Rotolata_Letale_(Str)) (1d8+6 più [Sbilanciare](https://golarion.altervista.org/wiki/Coccodrillo#Sbilanciare_(Str)))
 - Spazio: 3m
 - Portata: 1.5m
+- (Afferrare, Nuotare)
 #### [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 15, contatto 14, impreparato 11
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 19
@@ -37,15 +38,8 @@ buone creature da evocare per ogni livello
 - Velocità: 9m, [Scalare](https://golarion.altervista.org/wiki/Scalare "Scalare") 6m
 - Mischia: Morso +6 (1d6+3 più [Afferrare](https://golarion.altervista.org/wiki/Leopardo#Afferrare_(Str))), 2 artigli +6 (1d3+3)
 - Attacchi Speciali [Balzare](https://golarion.altervista.org/wiki/Leopardo#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Leopardo#Sperone_(Str)) (2 artigli +6, 1d3+3)
+- (✰ DPS, Scalare)
 ### Lv.4
-#### [Orso Grigio](https://golarion.altervista.org/wiki/Orso_Grigio):
-- [CA](https://golarion.altervista.org/wiki/CA "CA"): 16, contatto 10, impreparato 15
-- [PF](https://golarion.altervista.org/wiki/PF "PF"): 42
-- [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +8, Riflessi +5, Volontà +2
-- Velocità: 12m
-- Mischia: 2 artigli +7 (1d6+5 più [Afferrare](https://golarion.altervista.org/wiki/Orso_Grigio#Afferrare_(Str))), morso +7 (1d6+5)
-- Spazio: 3m
-- Portata: 1.5m
 #### [Orsogufo](https://golarion.altervista.org/wiki/Orsogufo):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 15, contatto 10, impreparato 14
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 47
@@ -54,6 +48,7 @@ buone creature da evocare per ogni livello
 - Mischia: 2 artigli +8 (1d6+4 più [Afferrare](https://golarion.altervista.org/wiki/Orsogufo#Afferrare_(Str))), morso +8 (1d6+4)
 - Spazio: 3m
 - Portata: 1.5m
+- (Tank)
 #### [Tigre](https://golarion.altervista.org/wiki/Tigre):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 14, contatto 11, impreparato 12
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 45
@@ -63,6 +58,7 @@ buone creature da evocare per ogni livello
 - Attacchi Speciali: [Balzare](https://golarion.altervista.org/wiki/Tigre#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Tigre#Sperone_(Str)) (2 artigli +10, 1d8+6)
 - Spazio: 3m
 - Portata: 1.5m
+- (✰, DPS, Afferrare)
 #### [Grifone](https://golarion.altervista.org/wiki/Grifone):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 17, contatto 11, impreparato 15
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 42
@@ -70,8 +66,9 @@ buone creature da evocare per ogni livello
 - Velocità: 9m, [Volare](https://golarion.altervista.org/wiki/Volo "Volo") 24m (media)  
 - Mischia: Morso +8 (1d6+3), 2 artigli +7 (1d6+3)  
 - Attacchi Speciali: [Balzare](https://golarion.altervista.org/wiki/Grifone#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Grifone#Sperone_(Str)) (2 artigli +7, 1d4+3)  
-- Spazio: 3 m  
-- Portata: 1,5 m
+- Spazio: 3m
+- Portata: 1.5m
+- (Volare)
 #### [Scorpione Gigante](https://golarion.altervista.org/wiki/Scorpione_Gigante):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 16, contatto 9, impreparato 16
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 37
@@ -82,6 +79,7 @@ buone creature da evocare per ogni livello
 - Attacchi Speciali: [Stritolare](https://golarion.altervista.org/wiki/Scorpione_Gigante#Stritolare_(Str)) (1d6+4)  
 - Spazio: 3m
 - Portata: 3m
+- (Portata, Veleno)
 ### Lv.5
 #### [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 22, contatto 8, impreparato 22
@@ -91,6 +89,7 @@ buone creature da evocare per ogni livello
 - Mischia: coda +14 (3d6+12 più [Stordimento](https://golarion.altervista.org/wiki/Anchilosauro#Stordimento_(Str)))
 - Spazio: 4.5m
 - Portata: 4.5m
+- (✰, Stordimento, Portata, Tank)
 #### [Murena Gigante](https://golarion.altervista.org/wiki/Murena_Gigante):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 19, contatto 11, impreparato 17
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 52
@@ -100,16 +99,18 @@ buone creature da evocare per ogni livello
 - Attacchi Speciali: [Rodere](https://golarion.altervista.org/wiki/Murena_Gigante#Rodere_(Str))
 - Spazio: 3m
 - Portata: 3m
+- (Nuotare, Portata)
 ### Lv.6
 #### [Tigre Crudele](https://golarion.altervista.org/wiki/Tigre_Crudele):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 17, contatto 11, impreparato 15
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 105
 - [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza"): Tempra +12, Riflessi +11, Volontà +5
 - Velocità: 12m  
-- Mischia: 2 artigli +18 (2d4+8 più [Afferrare](https://golarion.altervista.org/wiki/Tigre_Crudele#Afferrare_(Str))), morso +18 (2d6+8/19-20 più [Afferrare](https://golarion.altervista.org/wiki/Tigre_Crudele#Afferrare_(Str)))  
+- Mischia: 2 artigli +18 (2d4+8 più [Afferrare](https://golarion.altervista.org/wiki/Tigre_Crudele#Afferrare_(Str))), morso +18 (2d6+8/19-20 più [Afferrare](https://golarion.altervista.org/wiki/Tigre_Crudele#Afferrare_(Str)))
 - Attacchi Speciali: [Balzare](https://golarion.altervista.org/wiki/Tigre_Crudele#Balzare_(Str)), [Sperone](https://golarion.altervista.org/wiki/Tigre_Crudele#Sperone_(Str)) (2 artigli +18, 2d4+8)  
 - Spazio: 3m  
 - Portata: 1.5m
+- (✰, DPS, Afferrare)
 #### [Calamaro Gigante](https://golarion.altervista.org/wiki/Calamaro_Gigante):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 20, contatto 11, impreparato 17 (+3 [Destrezza](https://golarion.altervista.org/wiki/Destrezza "Destrezza"), +9 [Naturale](https://golarion.altervista.org/wiki/Armatura_Naturale "Armatura Naturale"), -2 [Taglia](https://golarion.altervista.org/wiki/Modificatore_di_Taglia "Modificatore di Taglia"))
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 102
@@ -120,6 +121,7 @@ buone creature da evocare per ogni livello
 - Attacchi Speciali: [Stritolare](https://golarion.altervista.org/wiki/Calamaro_Gigante#Stritolare_(Str)) (4d6+10)  
 - Spazio: 4.5m  
 - Portata: 4.5m (9m con braccia e tentacoli)
+- (Nuotare, Afferrare, Portata)
 #### [Stegosauro](https://golarion.altervista.org/wiki/Stegosauro):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 22, contatto 10, impreparato 20
 - [PF](https://golarion.altervista.org/wiki/PF "PF"): 90
@@ -128,6 +130,7 @@ buone creature da evocare per ogni livello
 - Mischia: coda +16 (4d6+12 più [Sbilanciare](https://golarion.altervista.org/wiki/Stegosauro#Sbilanciare_(Str)))
 - Spazio: 4.5m
 - Portata: 4.5m
+- (Tank, Sbilanciare, Portata)
 ### Lv.7
 #### [Coccodrillo Crudele](https://golarion.altervista.org/wiki/Coccodrillo_Crudele):
 - [CA](https://golarion.altervista.org/wiki/CA "CA"): 21, contatto 6, impreparato 21
