@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "14d29d216999658f",
+  "active": "932bce2eded60e64",
   "lastOpenFiles": [
     "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Domande & Risposte.md",
