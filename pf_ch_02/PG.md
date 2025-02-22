@@ -25,10 +25,10 @@ tratti:
 
 # Stats
 
-livello: 5
-punti eroe: 2
+livello: 6
+punti eroe: 3
 
-pf: 47
+pf: 56
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |

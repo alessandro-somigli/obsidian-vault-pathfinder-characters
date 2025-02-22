@@ -52,7 +52,7 @@
 	- (1) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
 	- (1) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
 - cure:
-	- (1) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
+	- (0) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
 - utilità:
 	- (0) [mimetizzazione](https://golarion.altervista.org/wiki/Incantesimi/Mimetizzazione) 
 	- (0) [bolla d'aria](https://golarion.altervista.org/wiki/Incantesimi/Bolla_d%27Aria) 
@@ -66,7 +66,7 @@
 	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia) 
 - battaglia:
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (no SR) (no TS) 
-	- (0) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
+	- (1) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA) 
 	- (2) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
 	- (0) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
@@ -90,7 +90,7 @@
 ## lv.3: (3)
 - prep:
 	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
-	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
+	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
 	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
@@ -98,7 +98,7 @@
 	- (0) [protezione dall'energia](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia) 
 	- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) 
 - battaglia:
-	- (0) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
+	- (1) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
 	- (0) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
 	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
 	- (0) [sabbie mobili](https://golarion.altervista.org/wiki/Incantesimi/Sabbie_Mobili) (TRA) (no SR) 
