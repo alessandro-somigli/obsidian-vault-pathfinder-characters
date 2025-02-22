@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9fd29d6d44dfcb04",
+  "active": "932bce2eded60e64",
   "lastOpenFiles": [
     "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Creature Evocate.md",
