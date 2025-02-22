@@ -26,4 +26,4 @@ La missione di Cailean è duplice: catturare lo Zomok ostile e scoprire perché 
 
 Cailean è ora in viaggio verso l'Arcipelago Senzanome (?): infatti, la creatura sembra aver bruscamente interrotto il suo itinerario senza motivo apparente per dirigersi lì il più in fretta possibile.
 
-provan1
+provan2
