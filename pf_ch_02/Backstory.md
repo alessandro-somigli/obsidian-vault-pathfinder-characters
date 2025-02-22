@@ -25,3 +25,5 @@ Dopo anni di ricerche, testimonianze e indizi raccolti Cailean è abbastanza sic
 La missione di Cailean è duplice: catturare lo Zomok ostile e scoprire perché i sigilli hanno fallito. Cailean crede che la tempesta che ha causato tutto questo non fosse una semplice bufera, sospetta infatti che una forza oscura sia all'opera, una che cerca di distruggere o rimodellare l'equilibrio naturale. In particolare, diffida di un gruppo di megere che poco tempo prima degli avvenimenti si erano stanziate vicino al Monte Loric e sono sparite poco dopo senza lasciare traccia.
 
 Cailean è ora in viaggio verso l'Arcipelago Senzanome (?): infatti, la creatura sembra aver bruscamente interrotto il suo itinerario senza motivo apparente per dirigersi lì il più in fretta possibile.
+
+provan1
