@@ -61,7 +61,7 @@
 ## lv.2: (5)
 - buffs:
 	- (0) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
-	- (1) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
+	- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
 	- (0) [pelle coriacea](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Coriacea) 
 	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia) 
 - battaglia:
@@ -102,7 +102,7 @@
 	- (0) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
 	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
 	- (0) [sabbie mobili](https://golarion.altervista.org/wiki/Incantesimi/Sabbie_Mobili) (TRA) (no SR) 
-	- (1) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
+	- (0) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
 	- (0) [tempesta di nevischio](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Nevischio) (no SR) (no TS) 
 	- (0) [sputare veleno](https://golarion.altervista.org/wiki/Incantesimi/Sputare_Veleno) (TRA) (no SR) 
 	- (0) [rubare taglia](https://golarion.altervista.org/wiki/Incantesimi/Rubare_Taglia) (TRA) 
