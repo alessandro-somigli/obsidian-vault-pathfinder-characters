@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/PG.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PG"
+              "title": "Incantesimi"
             }
           }
         ],
@@ -176,8 +176,8 @@
   },
   "active": "ceec9e14f00fc4bf",
   "lastOpenFiles": [
-    "pf_ch_02/Incantesimi.md",
     "pf_ch_02/PG.md",
+    "pf_ch_02/Incantesimi.md",
     "pf_ch_02/Backstory.md",
     "Appunti.md",
     "sortspec.md",
