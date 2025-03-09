@@ -33,6 +33,10 @@ oggetti:
  - sacchetto di semi (pino silvestre) (-) (-)
  - borsa per componenti di incantesimi (5mo) (1Kg)
  - pozione di zanna magica superiore
+ - pergamena di scrutare
+ - amuleto dell'armatura naturale +3
+ - vambracci del genio
+ - perla del potere lv.5
 
 carico animale:
  - [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) (50mo) (20Kg)
