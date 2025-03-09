@@ -39,13 +39,12 @@ oggetti:
  - perla del potere lv.5
 
 carico animale:
- - [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) (50mo) (20Kg)
+ - [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) grande +3 (mo) (10Kg)
  - borraccia (2mo) (0.5Kg)
  - corda 15m (1mo) (5Kg)
  - zaino (2mo) (1Kg)
  - coperta (5ma) (1.5Kg)
  - pan speziato x20 (25mr) (6.25Kg)
- - armatura cuoio borchiato grande +3 (10Kg)
 
 oggetti d'avventura:
  - camera d'aria (1 ma) (0.25Kg)
