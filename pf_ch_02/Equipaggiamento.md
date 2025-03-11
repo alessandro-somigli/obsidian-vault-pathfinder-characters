@@ -35,8 +35,8 @@ oggetti:
  - pozione di zanna magica superiore
  - pergamena di scrutare
  - amuleto dell'armatura naturale +3
- - vambracci del genio
  - perla del potere lv.5
+ - camicia del corridore
 
 carico animale:
  - [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) grande +3 (mo) (10Kg)
