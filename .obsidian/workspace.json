@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Backstory"
             }
-          },
-          {
-            "id": "4109f882b5301e62",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +184,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4109f882b5301e62",
+  "active": "9fd29d6d44dfcb04",
   "lastOpenFiles": [
     "pf_ch_02/Creature Evocate.md",
     "pf_ch_02/Backstory.md",
