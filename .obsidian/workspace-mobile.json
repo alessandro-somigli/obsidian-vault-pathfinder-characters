@@ -15,7 +15,7 @@
               "state": {
                 "file": "pf_ch_02/PG.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "PG"
