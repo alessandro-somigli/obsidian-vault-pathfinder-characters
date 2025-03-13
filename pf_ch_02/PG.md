@@ -25,7 +25,7 @@ tratti:
 
 # Stats
 
-livello: 6
+livello: 7
 punti eroe: 3
 
 pf: 56
