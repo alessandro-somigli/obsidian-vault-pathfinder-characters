@@ -121,4 +121,23 @@ privilegi di classe:
 
 nome: Celeste
 animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/Compagni_Animali#Gatto_da_Guerra_di_Rull)
-pf: 
+
+
+ pf: 66
+ 
+ abilità:
+  - [sopravvivenza](https://golarion.altervista.org/wiki/Sopravvivenza) 16
+ 
+ talenti:
+ 
+| lvl | chk | talento |
+| --- | --- | --- |
+| 1   | X   | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (artigli) |
+| 2   | X   | [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro) |
+| 5   | X   | [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli) |
+| 8   |     | [colpo senz armi migliorato](https://golarion.altervista.org/wiki/Colpo_Senz%27Armi_Migliorato) |
+| 10  |     | [stile del drago](https://golarion.altervista.org/wiki/Stile_del_Drago) |
+| 13  |     | [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento) |
+| 16  |     | [lottare migliorato](https://golarion.altervista.org/wiki/Lottare_Migliorato) |
+| 18  |     | [lottare superiore](https://golarion.altervista.org/wiki/Lottare_Superiore) |
+ 
