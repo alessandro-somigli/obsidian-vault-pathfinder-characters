@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Equipaggiamento"
             }
+          },
+          {
+            "id": "520d705c50481a4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9fd29d6d44dfcb04",
+  "active": "520d705c50481a4c",
   "lastOpenFiles": [
     "pf_ch_02/Backstory.md",
     "pf_ch_02/Creature Evocate.md",
