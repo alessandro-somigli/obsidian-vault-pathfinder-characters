@@ -36,7 +36,7 @@
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
 	- (0) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
 	- (1) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
-	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
+	- (1) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
 	- (0) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
 	- (0) [passo morbido](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido) 
@@ -45,7 +45,7 @@
 	- (0) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
 	- (0) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
 	- (0) [produrre fiamma](https://golarion.altervista.org/wiki/Incantesimi/Produrre_Fiamma) (no TS) 
-	- (1) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
+	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
 	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
 	- (0) [scudo d'onda](https://golarion.altervista.org/wiki/Incantesimi/Scudo_d%27Onda) (I) 
 	- (0) [fuga nel vento](https://golarion.altervista.org/wiki/Incantesimi/Fuga_nel_Vento) (I) 
@@ -60,7 +60,7 @@
 	- (0) [parlare con gli animali](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_gli_Animali) 
 ## lv.2: (5)
 - buffs:
-	- (0) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
+	- (1) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
 	- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
 	- (0) [pelle coriacea](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Coriacea) 
 	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia) 
@@ -69,7 +69,7 @@
 	- (0) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA) 
 	- (2) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
-	- (0) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
+	- (2) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
 	- (0) [raggio rovente](https://golarion.altervista.org/wiki/Incantesimi/Raggio_Rovente) (no TS) 
 	- (0) [tocco glaciale](https://golarion.altervista.org/wiki/Incantesimi/Tocco_Glaciale) (no TS) 
 	- (0) [blocca animali](https://golarion.altervista.org/wiki/Incantesimi/Blocca_Animali) 
@@ -99,10 +99,10 @@
 	- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) 
 - battaglia:
 	- (0) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
-	- (0) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
+	- (1) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
 	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
 	- (0) [sabbie mobili](https://golarion.altervista.org/wiki/Incantesimi/Sabbie_Mobili) (TRA) (no SR) 
-	- (1) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
+	- (0) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
 	- (0) [tempesta di nevischio](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Nevischio) (no SR) (no TS) 
 	- (0) [sputare veleno](https://golarion.altervista.org/wiki/Incantesimi/Sputare_Veleno) (TRA) (no SR) 
 	- (0) [rubare taglia](https://golarion.altervista.org/wiki/Incantesimi/Rubare_Taglia) (TRA) 
@@ -119,7 +119,7 @@
 	- (0) [scolpire pietra](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Pietra) 
 	- (0) [migliora trappola](https://golarion.altervista.org/wiki/Incantesimi/Migliora_Trappola) 
 	- (0) [creare mappa del tesoro](https://golarion.altervista.org/wiki/Incantesimi/Creare_Mappa_del_Tesoro) (M 100mo) 
-## lv.4: (2) +1
+## lv.4: (2) (+1 perla del potere lv.5)
 - prep:
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
 - buffs:
