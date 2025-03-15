@@ -32,7 +32,7 @@
 ## Percezione Cieca
 #### [pipistrello](https://golarion.altervista.org/wiki/Pipistrello):
 - animale minuto
-- percezione cieca: 6m
+- percezione cieca: 6m 
 - visione crepuscolare
 - velocità 1.5m, volare 12m (buona)
 - (✰ percezione cieca, volare)
