@@ -128,7 +128,7 @@
 	- (1) [fauci robuste](https://golarion.altervista.org/wiki/Incantesimi/Fauci_Robuste) 
 	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
 - battaglia:
-	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR) 
+	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
 	- (1) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
 	- (0) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
 	- (0) [fulmine globulare](https://golarion.altervista.org/wiki/Incantesimi/Fulmine_Globulare) 
