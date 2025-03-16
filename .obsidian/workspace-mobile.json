@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/PG.md",
+                "file": "pf_ch_02/Equipaggiamento.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PG"
+              "title": "Equipaggiamento"
             }
           }
         ]
@@ -161,21 +161,21 @@
   },
   "active": "ceec9e14f00fc4bf",
   "lastOpenFiles": [
-    "pf_ch_02/Equipaggiamento.md",
-    "pf_ch_02/PG.md",
     "pf_ch_02/Incantesimi.md",
-    "pf_ch_03/PG.md",
+    "pf_ch_02/PG.md",
+    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Creature evocate.md",
+    "/pf_ch_02/PG.md",
+    "/pf_ch_02/Incantesimi.md",
+    "/pf_ch_02/Forma Selvatica.md",
+    "/pf_ch_02",
+    "pf_ch_03/PG.md",
     "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Backstory.md",
     "Appunti.md",
     "sortspec.md",
     "/pf_ch_02/Backstory.md",
-    "/pf_ch_02",
     "pf_ch_03/Backstory.md",
-    "/pf_ch_02/Forma Selvatica.md",
-    "/pf_ch_02/PG.md",
-    "/pf_ch_02/Incantesimi.md",
     "/pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_03/Espedienti di Combattimento.md",
@@ -187,7 +187,6 @@
     "/pf_ch_03/Rissaiolo da Taverna.md",
     "/sortspec.md",
     "/pf_ch_03/Espedienti di Combattimento.md",
-    "/pf_ch_03/Backstory.md",
     "pf_ch_03",
     "/pf_ch_03"
   ]

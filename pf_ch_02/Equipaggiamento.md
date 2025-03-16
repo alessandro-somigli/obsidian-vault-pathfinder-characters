@@ -1,4 +1,4 @@
-soldi: 2554.3.4mo
+soldi: 1314.3.4mo
 conio: 149
 
 ricchezza iniziale: 94.4.2mo (120mo) (+10mo abito) -> 9.3.4mo
