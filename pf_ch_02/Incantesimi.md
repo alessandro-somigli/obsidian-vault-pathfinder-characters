@@ -90,7 +90,7 @@
 ## lv.3: (3)
 - prep:
 	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
-	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
+	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
 	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
