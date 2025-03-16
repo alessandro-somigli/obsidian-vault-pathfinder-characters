@@ -68,7 +68,7 @@
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (no SR) (no TS) 
 	- (0) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA) 
-	- (2) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
+	- (0) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
 	- (2) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
 	- (0) [raggio rovente](https://golarion.altervista.org/wiki/Incantesimi/Raggio_Rovente) (no TS) 
 	- (0) [tocco glaciale](https://golarion.altervista.org/wiki/Incantesimi/Tocco_Glaciale) (no TS) 
