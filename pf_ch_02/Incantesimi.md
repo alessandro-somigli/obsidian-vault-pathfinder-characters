@@ -92,9 +92,9 @@
 	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
 	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
-	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
+	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante)
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
-	- (0) [pelle resinosa](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Resinosa) 
+	- (0) [pelle resinosa](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Resinosa)
 	- (0) [protezione dall'energia](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia) 
 	- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) 
 - battaglia:
