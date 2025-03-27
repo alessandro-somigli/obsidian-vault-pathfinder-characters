@@ -6,8 +6,6 @@ peso trasportato: 28.45Kg (29Kg max.leggero) -> 0.25Kg
 peso animale: 40.5Kg (49.5Kg max.leggero) -> 8.75Kg
 
 equipaggiamento:
--  prisma rosa pallido incrinato (0Kg)
-- anello dell'eloquenza (0Kg)
  - mantello patchwork (5mo) (0.25Kg)
  - abito da borseggiatore (5mo) (1.5Kg)
  - [bastone ferrato](https://golarion.altervista.org/wiki/Armi/Bastone_Ferrato) x2 (-) (4Kg)
@@ -32,14 +30,6 @@ oggetti:
  - agrifoglio e vischio (-) (-)
  - sacchetto di semi (pino silvestre) (-) (-)
  - borsa per componenti di incantesimi (5mo) (1Kg)
- - pozione di zanna magica superiore
- - pergamena di scrutare
- - amuleto dell'armatura naturale +3
- - perla del potere lv.5
- - camicia del corridore
-
-carico animale:
- - [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) grande +3 (mo) (10Kg)
  - borraccia (2mo) (0.5Kg)
  - corda 15m (1mo) (5Kg)
  - zaino (2mo) (1Kg)
@@ -54,8 +44,6 @@ oggetti d'avventura:
  - cruciverba x20 (2ma) (-)
  - gessetti x20 (2ma) (-)
  - dadi (1ma) (-)
-
-oggetti d'avventura (su animale):
  - mazzo da cartomante comune (1mo) (0.25Kg)
  - cialdiera comune (1mo) (2.5Kg)
  - aquilone (1ma) (0.5Kg)
@@ -63,6 +51,17 @@ oggetti d'avventura (su animale):
  - poncho (5ma) (1Kg)
  - kit da pesca (5ma) (1.5Kg)
  - magnete (5ma) (0.25Kg)
+
+oggetti magici:
+- prisma rosa pallido incrinato
+- anello dell'eloquenza
+- pozione di zanna magica superiore
+- pergamena di scrutare
+- amuleto dell'armatura naturale +3
+- perla del potere lv.5
+- camicia del corridore
+- [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) grande +3 (mo) (10Kg)
+- amuleto dei pugni potenti
 
 # Wishlist
 
