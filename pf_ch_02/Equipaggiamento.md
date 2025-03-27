@@ -1,4 +1,4 @@
-soldi: 1314.3.4mo
+soldi: 1315.3.4mo
 conio: 149
 
 ricchezza iniziale: 94.4.2mo (120mo) (+10mo abito) -> 9.3.4mo
@@ -6,63 +6,61 @@ peso trasportato: 28.45Kg (29Kg max.leggero) -> 0.25Kg
 peso animale: 40.5Kg (49.5Kg max.leggero) -> 8.75Kg
 
 equipaggiamento:
- - mantello patchwork (5mo) (0.25Kg)
- - abito da borseggiatore (5mo) (1.5Kg)
- - [bastone ferrato](https://golarion.altervista.org/wiki/Armi/Bastone_Ferrato) x2 (-) (4Kg)
- - [lancia](https://golarion.altervista.org/wiki/Armi/Lancia) (2mo) (3Kg)
- - [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (7mo) (5Kg)
- - [armatura di legno](https://golarion.altervista.org/wiki/Armature/Armatura_di_Legno ) (20mo) (12.5Kg)
- - [kerambit](https://golarion.altervista.org/wiki/Armi/Kerambit) (2mo) (-)
- - [fionda](https://golarion.altervista.org/wiki/Armi/Fionda) x99 (-) (-)
- - bacche benefiche x49
+ - [armatura di legno](https://golarion.altervista.org/wiki/Armature/Armatura_di_Legno ) (12.5Kg)
+ - [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (5Kg)
+ - [bastone ferrato](https://golarion.altervista.org/wiki/Armi/Bastone_Ferrato) x2 (4Kg)
+ - [lancia](https://golarion.altervista.org/wiki/Armi/Lancia) (3Kg)
+ - abito da borseggiatore (1.5Kg)
+ - mantello patchwork (0.25Kg)
+ - [kerambit](https://golarion.altervista.org/wiki/Armi/Kerambit)
 
 animali:
- - [Wally il Rospo](https://golarion.altervista.org/wiki/Rospo) (intrattenere) (2mr) (0.2Kg)
- - [Calliope la Volpe](https://golarion.altervista.org/wiki/Volpe) (intrattenere) (fiuto) (8mo) (6Kg)
+ - [Wally il Rospo](https://golarion.altervista.org/wiki/Rospo) (intrattenere) (0.2Kg)
+ - [Calliope la Volpe](https://golarion.altervista.org/wiki/Volpe) (intrattenere) (fiuto) (6Kg)
 
 oggetti:
- - razioni da viaggio x3 (-) (-)
- - nutrimento per animali x5 (-) (-)
- - acciarino e pietra focaia (1mo) (-)
- - borsa da cintura (1mo) (0.25Kg)
- - bandoliera (5 ma) (-)
- - zaino (2mo) (1Kg)
- - agrifoglio e vischio (-) (-)
- - sacchetto di semi (pino silvestre) (-) (-)
- - borsa per componenti di incantesimi (5mo) (1Kg)
- - borraccia (2mo) (0.5Kg)
- - corda 15m (1mo) (5Kg)
- - zaino (2mo) (1Kg)
- - coperta (5ma) (1.5Kg)
- - pan speziato x20 (25mr) (6.25Kg)
+ - corda 15m (5Kg)
+ - coperta (1.5Kg)
+ - zaino x2 (2Kg)
+ - borsa per componenti di incantesimi (1Kg)
+ - borraccia (0.5Kg)
+ - borsa da cintura (0.25Kg)
+ - acciarino e pietra focaia
+ - bandoliera
+ - agrifoglio e vischio
+ - sacchetto di semi (pino silvestre)
+ - bacche benefiche x49
+ - pan speziato x20
+ - biscotti della fortuna x20
+ - cruciverba x20
+ - gessetti x20
+- fuoco d'artificio candela di carta x5
 
 oggetti d'avventura:
- - camera d'aria (1 ma) (0.25Kg)
- - fischietto silenzioso (9ma) (-)
- - fuoco d'artificio candela di carta x5 (2mo) (-)
- - biscotti della fortuna x20 (2ma) (-)
- - cruciverba x20 (2ma) (-)
- - gessetti x20 (2ma) (-)
- - dadi (1ma) (-)
- - mazzo da cartomante comune (1mo) (0.25Kg)
- - cialdiera comune (1mo) (2.5Kg)
- - aquilone (1ma) (0.5Kg)
- - trapano (5ma) (0.5Kg)
- - poncho (5ma) (1Kg)
- - kit da pesca (5ma) (1.5Kg)
- - magnete (5ma) (0.25Kg)
+ - kit da pesca (1.5Kg)
+ - poncho (1Kg)
+ - aquilone (0.5Kg)
+ - trapano (0.5Kg)
+ - magnete (0.25Kg)
+ - camera d'aria (0.25Kg)
+ - mazzo da cartomante comune (0.25Kg)
+ - fischietto silenzioso
+ - dadi
+
+oggetti magici animale:
+- [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) grande +3 (mo) (10Kg)
+- [cintura della forza del gigante](https://golarion.altervista.org/wiki/Cintura_della_Forza_del_Gigante) +6
+- [amuleto dei pugni potenti](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +1
+- [camicia del corridore veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce)
 
 oggetti magici:
+- perla del potere lv.5
 - prisma rosa pallido incrinato
 - anello dell'eloquenza
-- pozione di zanna magica superiore
-- pergamena di scrutare
-- amuleto dell'armatura naturale +3
-- perla del potere lv.5
-- camicia del corridore
-- [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) grande +3 (mo) (10Kg)
-- amuleto dei pugni potenti
+- pozione di zanna magica superiore (x1)
+- pergamena di scrutare (x1)
 
+- amuleto dell'armatura naturale +3
 # Wishlist
 
 ## oggetti essenziali
