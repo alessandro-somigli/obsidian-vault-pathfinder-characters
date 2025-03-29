@@ -60,7 +60,6 @@ oggetti magici:
 - pozione di zanna magica superiore (x1)
 - pergamena di scrutare (x1)
 
-- amuleto dell'armatura naturale +3
 # Wishlist
 
 ## oggetti essenziali
@@ -104,4 +103,3 @@ tot: 28.25 kmo
 tot: 67 kmo
 
 tot finale: 227.05 kmo (oggetti ultra-costosi omessi) 
-
