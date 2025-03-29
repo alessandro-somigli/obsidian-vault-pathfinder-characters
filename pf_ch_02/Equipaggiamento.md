@@ -80,7 +80,7 @@ tot: 69.3 kmo
 
 ## oggetti utili
  - (7.5 kmo) [talismano superiore di percezione del pericolo](https://golarion.altervista.org/wiki/Talismano_Superiore#Percezione_del_Pericolo)
- - (1/4/9 kmo) [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) (+1/+2/+3) (animale)
+ - [X] (1/4/9 kmo) [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) (+1/+2/+3) (animale)
  - (9 kmo) [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
  - (9 kmo) [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
  - (0.5 kmo) [fasce dell'attaccabrighe](https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe) (animale)
