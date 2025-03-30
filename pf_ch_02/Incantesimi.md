@@ -35,8 +35,8 @@
 	- (0) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
 	- (0) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
-	- (1) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
-	- (1) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
+	- (0) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
+	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
 	- (0) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
 	- (0) [passo morbido](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido) 
@@ -89,8 +89,8 @@
 	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS) 
 ## lv.3: (3)
 - prep:
-	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
-	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
+	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
+	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
 	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
@@ -99,7 +99,7 @@
 	- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) 
 - battaglia:
 	- (0) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
-	- (0) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
+	- (1) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
 	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
 	- (0) [sabbie mobili](https://golarion.altervista.org/wiki/Incantesimi/Sabbie_Mobili) (TRA) (no SR) 
 	- (0) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
@@ -114,7 +114,7 @@
 	- (0) [neutralizza veleno](https://golarion.altervista.org/wiki/Incantesimi/Neutralizza_Veleno) 
 	- (0) [rimuovi malattia](https://golarion.altervista.org/wiki/Incantesimi/Rimuovi_Malattia) 
 - utilità:
-	- (1) [respirare sott'acqua](https://golarion.altervista.org/wiki/Incantesimi/Respirare_Sott%27Acqua) (2h/lv) 
+	- (0) [respirare sott'acqua](https://golarion.altervista.org/wiki/Incantesimi/Respirare_Sott%27Acqua) (2h/lv) 
 	- (0) [movimenti del ragno collettivo](https://golarion.altervista.org/wiki/Incantesimi/Movimenti_del_Ragno_Collettivo) 
 	- (0) [scolpire pietra](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Pietra) 
 	- (0) [migliora trappola](https://golarion.altervista.org/wiki/Incantesimi/Migliora_Trappola) 
