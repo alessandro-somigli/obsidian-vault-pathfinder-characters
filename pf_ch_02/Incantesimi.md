@@ -126,7 +126,7 @@
 	- (0) [protezione dall'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia_Collettivo) 
 	- (1) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
 	- (1) [fauci robuste](https://golarion.altervista.org/wiki/Incantesimi/Fauci_Robuste) 
-	- (1) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
+	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
 - battaglia:
 	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
 	- (0) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
