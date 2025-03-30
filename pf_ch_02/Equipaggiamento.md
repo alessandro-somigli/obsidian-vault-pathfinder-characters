@@ -1,6 +1,8 @@
 soldi: 1314.3.4mo
 conio: 149
 
+soldi condivisi: 229225
+
 ricchezza iniziale: 94.4.2mo (120mo) (+10mo abito) -> 9.3.4mo
 peso trasportato: 28.45Kg (29Kg max.leggero) -> 0.25Kg
 peso animale: 40.5Kg (49.5Kg max.leggero) -> 8.75Kg
