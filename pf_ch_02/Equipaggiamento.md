@@ -10,15 +10,15 @@ peso animale: 40.5Kg (49.5Kg max.leggero) -> 8.75Kg
 equipaggiamento:
 -  prisma rosa pallido incrinato (0Kg)
 - anello dell'eloquenza (0Kg)
- - mantello patchwork (5mo) (0.25Kg)
- - abito da borseggiatore (5mo) (1.5Kg)
- - [bastone ferrato](https://golarion.altervista.org/wiki/Armi/Bastone_Ferrato) x2 (-) (4Kg)
- - [lancia](https://golarion.altervista.org/wiki/Armi/Lancia) (2mo) (3Kg)
- - [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (7mo) (5Kg)
- - [armatura di legno](https://golarion.altervista.org/wiki/Armature/Armatura_di_Legno ) (20mo) (12.5Kg)
- - [kerambit](https://golarion.altervista.org/wiki/Armi/Kerambit) (2mo) (-)
- - [fionda](https://golarion.altervista.org/wiki/Armi/Fionda) x99 (-) (-)
- - bacche benefiche x49
+- mantello patchwork (5mo) (0.25Kg)
+- abito da borseggiatore (5mo) (1.5Kg)
+- [bastone ferrato](https://golarion.altervista.org/wiki/Armi/Bastone_Ferrato) x2 (-) (4Kg)
+- [lancia](https://golarion.altervista.org/wiki/Armi/Lancia) (2mo) (3Kg)
+- [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (7mo) (5Kg)
+- [armatura di legno](https://golarion.altervista.org/wiki/Armature/Armatura_di_Legno ) (20mo) (12.5Kg)
+- [kerambit](https://golarion.altervista.org/wiki/Armi/Kerambit) (2mo) (-)
+- [fionda](https://golarion.altervista.org/wiki/Armi/Fionda) x99 (-) (-)
+- bacche benefiche x49
 
 animali:
  - [Wally il Rospo](https://golarion.altervista.org/wiki/Rospo) (intrattenere) (2mr) (0.2Kg)
