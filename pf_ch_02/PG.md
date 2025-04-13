@@ -140,4 +140,6 @@ animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/C
 | 13  |     | [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)                 |
 | 16  |     | [lottare migliorato](https://golarion.altervista.org/wiki/Lottare_Migliorato)                             |
 | 18  |     | [lottare superiore](https://golarion.altervista.org/wiki/Lottare_Superiore)                               |
- 
+ talenti alternativi:
+ lv:8 ???
+ lv.10 campione dell'equilibrio
