@@ -36,7 +36,7 @@
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
 	- (0) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
 	- (0) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
-	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
+	- (1) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
 	- (0) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
 	- (0) [passo morbido](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido) 
@@ -50,7 +50,7 @@
 	- (0) [scudo d'onda](https://golarion.altervista.org/wiki/Incantesimi/Scudo_d%27Onda) (I) 
 	- (0) [fuga nel vento](https://golarion.altervista.org/wiki/Incantesimi/Fuga_nel_Vento) (I) 
 	- (1) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
-	- (2) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
+	- (1) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
 - cure:
 	- (0) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
 - utilità:
@@ -89,7 +89,7 @@
 	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS) 
 ## lv.3: (3)
 - prep:
-	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
+	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
 	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
 	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
@@ -123,8 +123,8 @@
 - prep:
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
 - buffs:
-	- (1) [protezione dall'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia_Collettivo) 
-	- (1) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
+	- (0) [protezione dall'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia_Collettivo) 
+	- (0) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
 	- (1) [fauci robuste](https://golarion.altervista.org/wiki/Incantesimi/Fauci_Robuste) 
 	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
 - battaglia:
