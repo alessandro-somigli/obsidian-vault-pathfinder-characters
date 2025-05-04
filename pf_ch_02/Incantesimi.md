@@ -43,14 +43,14 @@
 	- (0) [zanna magica](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica) 
 - battaglia:
 	- (0) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
-	- (0) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
+	- (1) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
 	- (0) [produrre fiamma](https://golarion.altervista.org/wiki/Incantesimi/Produrre_Fiamma) (no TS) 
 	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
 	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
 	- (0) [scudo d'onda](https://golarion.altervista.org/wiki/Incantesimi/Scudo_d%27Onda) (I) 
 	- (0) [fuga nel vento](https://golarion.altervista.org/wiki/Incantesimi/Fuga_nel_Vento) (I) 
-	- (1) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
-	- (1) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
+	- (2) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
+	- (3) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
 - cure:
 	- (0) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
 - utilità:
@@ -68,8 +68,8 @@
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (no SR) (no TS) 
 	- (1) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA) 
-	- (2) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
-	- (2) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
+	- (3) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
+	- (1) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
 	- (0) [raggio rovente](https://golarion.altervista.org/wiki/Incantesimi/Raggio_Rovente) (no TS) 
 	- (0) [tocco glaciale](https://golarion.altervista.org/wiki/Incantesimi/Tocco_Glaciale) (no TS) 
 	- (0) [blocca animali](https://golarion.altervista.org/wiki/Incantesimi/Blocca_Animali) 
@@ -130,7 +130,7 @@
 - battaglia:
 	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
 	- (0) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
-	- (0) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
+	- (2) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
 	- (0) [fulmine globulare](https://golarion.altervista.org/wiki/Incantesimi/Fulmine_Globulare) 
 	- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
 - cure:
