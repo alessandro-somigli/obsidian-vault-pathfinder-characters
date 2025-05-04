@@ -30,7 +30,7 @@
 	- (1) [individuazione del magico](https://golarion.altervista.org/wiki/Incantesimi/Individuazione_del_Magico) 
 	- (1) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce) 
 	- (0) [creare acqua](https://golarion.altervista.org/wiki/Incantesimi/Creare_Acqua) 
-## lv.1: (5)
+## lv.1: (7)
 - prep:
 	- (0) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
@@ -87,7 +87,7 @@
 	- (0) [addestratre animale a compito generico](https://golarion.altervista.org/wiki/Incantesimi/Addestrare_Animale_a_Compito_Generico) (1h/lv) 
 	- (0) [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150-300mo) 
 	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS) 
-## lv.3: (3)
+## lv.3: (5)
 - prep:
 	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
 	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
@@ -119,7 +119,7 @@
 	- (0) [scolpire pietra](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Pietra) 
 	- (0) [migliora trappola](https://golarion.altervista.org/wiki/Incantesimi/Migliora_Trappola) 
 	- (0) [creare mappa del tesoro](https://golarion.altervista.org/wiki/Incantesimi/Creare_Mappa_del_Tesoro) (M 100mo) 
-## lv.4: (2) (+1 perla del potere lv.5)
+## lv.4: (4) (+1 perla del potere lv.5)
 - prep:
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
 - buffs:
