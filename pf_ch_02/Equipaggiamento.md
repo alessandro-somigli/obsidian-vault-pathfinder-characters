@@ -78,7 +78,7 @@ oggetti magici:
 - piedi:
 - [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.5
 - [pietra magica prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
-- [bacchetta](https://golarion.altervista.org/wiki/Bacchette) di [cura ferite moderate](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate) (48 cariche)
+- [bacchetta](https://golarion.altervista.org/wiki/Bacchette) di [cura ferite moderate](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate) (46 cariche)
 
 
 oggetti magici compagno animale:
