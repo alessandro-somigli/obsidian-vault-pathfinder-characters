@@ -75,6 +75,7 @@ oggetti magici:
 - mani:
 - anello 1: [anello dell'eloquenza](https://golarion.altervista.org/wiki/Anello_dell%27Eloquenza)
 - anello 2:
+- piedi:
 - [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.5
 - [pietra magica prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
 - [bacchetta](https://golarion.altervista.org/wiki/Bacchette) di [cura ferite moderate](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate) (48 cariche)
@@ -125,6 +126,7 @@ tot: 39.5 kmo
 ## oggetti fighi
  - (5kmo) [Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante)
  - (8kmo) [Veste della Conservazione Arcana](https://golarion.altervista.org/wiki/Veste_della_Conservazione_Arcana)
+ - (12kmo) [Stivali della Velocità](https://golarion.altervista.org/wiki/Stivali_della_Velocit%C3%A0)
 
 tot: 28.25 kmo
 
