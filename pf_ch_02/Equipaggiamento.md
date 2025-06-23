@@ -8,8 +8,6 @@ peso trasportato: 28.45Kg (29Kg max.leggero) -> 0.25Kg
 peso animale: 40.5Kg (49.5Kg max.leggero) -> 8.75Kg
 
 equipaggiamento:
--  prisma rosa pallido incrinato (0Kg)
-- anello dell'eloquenza (0Kg)
 - mantello patchwork (5mo) (0.25Kg)
 - abito da borseggiatore (5mo) (1.5Kg)
 - [bastone ferrato](https://golarion.altervista.org/wiki/Armi/Bastone_Ferrato) x2 (-) (4Kg)
@@ -64,14 +62,22 @@ oggetti d'avventura:
  - magnete (0.25Kg)
 
 oggetti magici:
-- [fascia dell'ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +6
-- [mantello della resistenza](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
-- [pietra magica prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
-- [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
-- [anello dell'eloquenza](https://golarion.altervista.org/wiki/Anello_dell%27Eloquenza)
-- [lenti dell'aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila)
+- testa:
+- fronte: [fascia dell'ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +6
+- occhi: [lenti dell'aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila)
+- spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
+- collo:
+- torace:
+- corpo:
+- armatura: [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
+- cintura:
+- polsi:
+- mani:
+- anello 1: [anello dell'eloquenza](https://golarion.altervista.org/wiki/Anello_dell%27Eloquenza)
+- anello 2:
 - [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.5
-- (0.75 kmo) [bacchetta](https://golarion.altervista.org/wiki/Bacchette) di [cura ferite moderate](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate) (48 cariche)
+- [pietra magica prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
+- [bacchetta](https://golarion.altervista.org/wiki/Bacchette) di [cura ferite moderate](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate) (48 cariche)
 
 
 oggetti magici compagno animale:
@@ -115,6 +121,10 @@ tot: 39.5 kmo
  - [X] (2.5 kmo) [lenti dell'aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila)
  - [X] (9 kmo)   [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.3
  - [X] (16 kmo)  [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.4
+
+## oggetti fighi
+ - (5kmo) [Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante)
+ - (8kmo) [Veste della Conservazione Arcana](https://golarion.altervista.org/wiki/Veste_della_Conservazione_Arcana)
 
 tot: 28.25 kmo
 
