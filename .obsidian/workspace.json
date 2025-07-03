@@ -25,12 +25,14 @@
             "id": "a65c6c1bddbce52a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "pf_ch_elio/Builds.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Builds"
             }
           }
         ],
@@ -199,6 +201,13 @@
   },
   "active": "a65c6c1bddbce52a",
   "lastOpenFiles": [
+    "pf_ch_03/PG.md",
+    "pf_ch_03/Espedienti di Combattimento.md",
+    "pf_ch_elio/Builds.md",
+    "Appunti.md",
+    "pf_ch_elio",
+    "Untitled.md",
+    "sortspec.md",
     "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Creature Evocate.md",
     "pf_ch_02/Backstory.md",
@@ -208,12 +217,8 @@
     "Untitled.canvas",
     "pf_ch_02/Domande & Risposte.md",
     "2025-02-09.md",
-    "Appunti.md",
-    "pf_ch_03/Espedienti di Combattimento.md",
     "pf_ch_03/Rissaiolo da Taverna.md",
     "pf_ch_03/Equipaggiamento.md",
-    "sortspec.md",
-    "pf_ch_03/PG.md",
     "pf_ch_03/Backstory.md",
     "X.md",
     "().md",
@@ -229,7 +234,6 @@
     "obsidian_git/Untitled.md",
     "obsidian_git",
     "obsidian-remote",
-    "pf_ch_02/Milestones.md",
     "pf_ch_02"
   ]
 }
