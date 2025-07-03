@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Equipaggiamento"
             }
+          },
+          {
+            "id": "a65c6c1bddbce52a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9fd29d6d44dfcb04",
+  "active": "a65c6c1bddbce52a",
   "lastOpenFiles": [
     "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Creature Evocate.md",
