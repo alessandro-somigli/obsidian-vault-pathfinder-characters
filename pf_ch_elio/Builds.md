@@ -47,4 +47,5 @@ distruzione
 
 Allineamento: N
 
-Domini: Follia, Gloria
+Domini: Follia, Caos (Protean)
+
