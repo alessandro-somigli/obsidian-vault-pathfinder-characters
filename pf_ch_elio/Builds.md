@@ -1,12 +1,14 @@
 
 ## Build 1: chierico da battaglia ottimizzato
 
+Razza: Umano/Suli
+
 Allineamento: N
 
 Archetipo: [Cultista dei Miti Antichi](https://golarion.altervista.org/wiki/Chierico/Archetipi#Cultista_dei_Miti_Antichi)
 
 Divinità: [Groetus](https://golarion.altervista.org/wiki/Groetus)
-Dominio: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia), ([Sottodominio dell'Incubo](https://golarion.altervista.org/wiki/Dominio_della_Follia#Sottodominio_dell'Incubo))
+Dominio: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia)
 ### Talenti:
 
 1: 
