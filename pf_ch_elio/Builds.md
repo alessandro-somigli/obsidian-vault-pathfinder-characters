@@ -35,3 +35,5 @@ Equipaggiamento:
 Mazzafrusto Pesante
 
 ricordati di guardare: [Incanalare Alternativi](https://golarion.altervista.org/wiki/Chierico/Incanalare_Alternativi#Follia)
+### Benedizione da Battaglia
+distruzione
