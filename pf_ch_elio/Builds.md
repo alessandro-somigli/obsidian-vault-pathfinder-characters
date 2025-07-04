@@ -9,6 +9,8 @@ Archetipo: [Cultista dei Miti Antichi](https://golarion.altervista.org/wiki/Chie
 
 Divinità: [Groetus](https://golarion.altervista.org/wiki/Groetus)
 Dominio: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia)
+
+Arma: Mazzafrusto
 ### Talenti:
 
 1: [Arma Focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) [Vigoria in Combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)
@@ -21,6 +23,13 @@ Dominio: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia)
 15: [Spezzare Migliorato](https://golarion.altervista.org/wiki/Spezzare_Migliorato)
 17: [Colpo Spezzante](https://golarion.altervista.org/wiki/Colpo_Spezzante)
 19: 
+
+16
+12
+18
+18
+20
+11
 
 ## Incantesimi Buoni:
 
@@ -42,3 +51,4 @@ distruzione
 # Build 2: chierico buffer/debuffer
 
 Allineamento: N
+
