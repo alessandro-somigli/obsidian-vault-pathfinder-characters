@@ -47,3 +47,4 @@ distruzione
 
 Allineamento: N
 
+Domini: Follia, Gloria
