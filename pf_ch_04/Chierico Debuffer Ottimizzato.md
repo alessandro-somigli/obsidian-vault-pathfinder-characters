@@ -11,7 +11,6 @@ Razza: Umano
 Talenti:
 
 1: Arma Focalizzata
-1: 
 3: Vigoria in Combattimento
 5: 
 7: 
@@ -21,9 +20,6 @@ Talenti:
 15:
 17:
 19:
-
-Incanalare Punizione
-Mano Guidata
 
 Incanalare Migliorato
 Capacità Focalizzata
