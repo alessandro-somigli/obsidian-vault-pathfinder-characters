@@ -12,8 +12,8 @@ Talenti:
 
 1: Arma Focalizzata
 1: 
-3: 
-5: Incanalare Rapido
+3: Vigoria in Combattimento
+5: 
 7: 
 9: Armonizzazione d'Emergenza
 11: Interferenza Divina
@@ -21,6 +21,9 @@ Talenti:
 15:
 17:
 19:
+
+Incanalare Punizione
+Mano Guidata
 
 Incanalare Migliorato
 Capacità Focalizzata
