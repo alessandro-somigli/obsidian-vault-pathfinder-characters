@@ -21,10 +21,7 @@ Talenti:
 17:
 19:
 
-Incanalare Migliorato
-Capacità Focalizzata
-Incanalare Selettivo
-Incanalare Rapido
+
 
 Equipaggiamento:
 Armi: Berdica (1d10 19-20/x2)
