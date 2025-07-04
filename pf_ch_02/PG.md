@@ -109,7 +109,7 @@ privilegi di classe:
 | 3   | X   | [compagno evoluto](https://golarion.altervista.org/wiki/Compagno_Evoluto) (artigli)                                         |
 | 5   | X   | [incantesimi naturali](https://golarion.altervista.org/wiki/Incantesimi_Naturali)                                           |
 | 7   | X   | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (trasmutazione)                     |
-| 9   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione) |
+| 9   | X   | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione) |
 | 11  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                             |
 | 13  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                                 |
 | 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)             |
