@@ -1,7 +1,7 @@
 
 ## Build 1: chierico da battaglia ottimizzato
 
-Razza: Umano/Suli
+Razza: Umano
 
 Allineamento: N
 
@@ -17,9 +17,9 @@ Dominio: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia)
 7: [Incanalare Punizione](https://golarion.altervista.org/wiki/Incanalare_Punizione)
 9: [Critico Migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)
 11: [Campione dell'Equilibrio](https://golarion.altervista.org/wiki/Campione_dell%27Equilibrio)
-13: [Interferenza Divina](https://golarion.altervista.org/wiki/Interferenza_Divina)
-15: [Critico Focalizzato](https://golarion.altervista.org/wiki/Critico_Focalizzato)
-17: 
+13: [Critico Focalizzato](https://golarion.altervista.org/wiki/Critico_Focalizzato)
+15: [Spezzare Migliorato](https://golarion.altervista.org/wiki/Spezzare_Migliorato)
+17: [Colpo Spezzante](https://golarion.altervista.org/wiki/Colpo_Spezzante)
 19: 
 
 ## Incantesimi Buoni:
@@ -37,3 +37,8 @@ Mazzafrusto Pesante
 ricordati di guardare: [Incanalare Alternativi](https://golarion.altervista.org/wiki/Chierico/Incanalare_Alternativi#Follia)
 ### Benedizione da Battaglia
 distruzione
+
+
+# Build 2: chierico buffer/debuffer
+
+Allineamento: N
