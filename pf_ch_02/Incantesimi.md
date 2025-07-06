@@ -43,7 +43,7 @@
 	- (0) [zanna magica](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica) 
 - battaglia:
 	- (0) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
-	- (1) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
+	- (0) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
 	- (0) [produrre fiamma](https://golarion.altervista.org/wiki/Incantesimi/Produrre_Fiamma) (no TS) 
 	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
 	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
@@ -66,10 +66,10 @@
 	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia) 
 - battaglia:
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (no SR) (no TS) 
-	- (0) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
+	- (1) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA) 
-	- (4) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
-	- (1) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
+	- (1) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
+	- (4) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
 	- (0) [raggio rovente](https://golarion.altervista.org/wiki/Incantesimi/Raggio_Rovente) (no TS) 
 	- (0) [tocco glaciale](https://golarion.altervista.org/wiki/Incantesimi/Tocco_Glaciale) (no TS) 
 	- (0) [blocca animali](https://golarion.altervista.org/wiki/Incantesimi/Blocca_Animali) 
