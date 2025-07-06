@@ -124,7 +124,7 @@
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
 - buffs:
 	- (0) [protezione dall'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia_Collettivo) 
-	- (1) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
+	- (0) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
 	- (1) [fauci robuste](https://golarion.altervista.org/wiki/Incantesimi/Fauci_Robuste) 
 	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
 - battaglia:
@@ -143,8 +143,8 @@
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
 ## lv.5: (4) (+1 perla del potere lv.5)
 - buffs:
-	- (1) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale) 
-	- (1) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
+	- (0) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale) 
+	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - battaglia:
 	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo) 
 	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR) 
