@@ -145,6 +145,7 @@ X bracciali della protezione dagli incantesimi
 budget iniziale: 93.116
 
 si prende:
+prisma rosa pallido: 5
 amuleto dei pugni potenti +3: 36
 -amuleto dei pugni potenti +2: -16
 
@@ -155,8 +156,6 @@ si compera:
 stivali dell'escursione: 7.2
 fasce dell'attaccabrighe (aimale): 0.5
 guanti deliquescenti (animale): 8
-
-talismano sup. percezione del pericolo: 7.5
 talismano sup. della libertà: 9
 
 budget rimanente: 27.030
