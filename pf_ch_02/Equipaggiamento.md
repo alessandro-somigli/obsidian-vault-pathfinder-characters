@@ -141,3 +141,19 @@ stivali della falcata in battaglia
 
 X stivali dell escursione 7.6kmo
 X bracciali della protezione dagli incantesimi
+
+budget iniziale: 93.116
+
+si prende:
+amuleto dei pugni potenti +3: 36
+-amuleto dei pugni potenti +2: -16
+
+budget prima di vendita: 73.116
+budget dopo vendita (w × 0.475): 34.730
+
+si compera:
+stivali dell'escursione: 7.2
+fasce dell'attaccabrighe 0.5
+
+budget rimanente: 27.030
+ 
