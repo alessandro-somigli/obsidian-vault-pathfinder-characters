@@ -137,6 +137,7 @@ tot: 67 kmo
 
 tot finale: 227.05 kmo (oggetti ultra-costosi omessi) 
 
-stivali della falcata in battaglia
+stivali della falcata in battaglia 
 
-X stivali dell escursione
+X stivali dell escursione 7.6kmo
+X bracciali della protezione dagli incantesimi
