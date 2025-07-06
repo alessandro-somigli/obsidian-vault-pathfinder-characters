@@ -154,6 +154,10 @@ budget dopo vendita (w × 0.475): 34.730
 si compera:
 stivali dell'escursione: 7.2
 fasce dell'attaccabrighe 0.5
+guanti deliquescenti (animale): 8
+
+talismano sup. percezione del pericolo: 7.5
+talismano sup. della libertà: 9
 
 budget rimanente: 27.030
  
