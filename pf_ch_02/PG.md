@@ -135,9 +135,9 @@ animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/C
 | 1   | X   | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (artigli)                       |
 | 2   | X   | [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)                            |
 | 5   | X   | [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli) |
-| 8   |     | [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)                                                                              |
-| 10  |     |                                   |
-| 13  |     |                  |
+| 8   | X   | [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)                 |
+| 10  |     |                                                                                                           |
+| 13  |     |                                                                                                           |
 | 16  |     | [lottare migliorato](https://golarion.altervista.org/wiki/Lottare_Migliorato)                             |
 | 18  |     | [lottare superiore](https://golarion.altervista.org/wiki/Lottare_Superiore)                               |
  talenti alternativi:

@@ -58,7 +58,7 @@
 	- (0) [bolla d'aria](https://golarion.altervista.org/wiki/Incantesimi/Bolla_d%27Aria) 
 	- (0) [comunione con gli uccelli](https://golarion.altervista.org/wiki/Incantesimi/Comunione_con_gli_Uccelli) 
 	- (0) [parlare con gli animali](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_gli_Animali) 
-## lv.2: (5)
+## lv.2: (6)
 - buffs:
 	- (0) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
 	- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
@@ -119,7 +119,7 @@
 	- (0) [scolpire pietra](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Pietra) 
 	- (0) [migliora trappola](https://golarion.altervista.org/wiki/Incantesimi/Migliora_Trappola) 
 	- (0) [creare mappa del tesoro](https://golarion.altervista.org/wiki/Incantesimi/Creare_Mappa_del_Tesoro) (M 100mo) 
-## lv.4: (4) (+1 perla del potere lv.5)
+## lv.4: (4)
 - prep:
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
 - buffs:
@@ -141,12 +141,12 @@
 	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) 
 	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (F 1000mo) 
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
-## lv.5: (0)
+## lv.5: (4) (+1 perla del potere lv.5)
 - buffs:
-	- (0) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale) 
-	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
+	- (1) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale) 
+	- (1) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - battaglia:
-	- (0) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo) 
+	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo) 
 	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR) 
 	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR) 
 	- (0) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS) 
