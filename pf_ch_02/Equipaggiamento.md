@@ -137,3 +137,6 @@ tot: 67 kmo
 
 tot finale: 227.05 kmo (oggetti ultra-costosi omessi) 
 
+stivali della falcata in battaglia
+
+X stivali dell escursione
