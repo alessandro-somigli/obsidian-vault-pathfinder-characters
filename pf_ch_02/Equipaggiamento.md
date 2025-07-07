@@ -149,13 +149,11 @@ prisma rosa pallido: 5
 amuleto dei pugni potenti +3: 36
 -amuleto dei pugni potenti +2: -16
 
-<<<<<<< HEAD
 budget prima di vendita: 68.116
 budget dopo vendita (w × 0.475): 32.355
-=======
+
 budget prima di vendita: 
 budget dopo vendita (w × 0.475): 
->>>>>>> origin/main
 
 si compera:
 stivali dell'escursione: 7.2
