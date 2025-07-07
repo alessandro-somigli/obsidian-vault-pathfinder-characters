@@ -152,15 +152,13 @@ amuleto dei pugni potenti +3: 36
 budget prima di vendita: 68.116
 budget dopo vendita (w × 0.475): 32.355
 
-budget prima di vendita: 
-budget dopo vendita (w × 0.475): 
-
 si compera:
 stivali dell'escursione: 7.2
 fasce dell'attaccabrighe (aimale): 0.5
 guanti deliquescenti (animale): 8
 talismano sup. della libertà: 9
 pietra disco muscoso incrinato: 0.2
+scudo pesante di legno selvatico: 9
 
 budget rimanente: 
  
