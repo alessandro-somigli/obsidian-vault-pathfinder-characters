@@ -137,10 +137,6 @@ tot: 67 kmo
 
 tot finale: 227.05 kmo (oggetti ultra-costosi omessi) 
 
-stivali della falcata in battaglia 
-
-X stivali dell escursione 7.6kmo
-X bracciali della protezione dagli incantesimi
 
 budget iniziale: 93.116
 
@@ -160,5 +156,4 @@ talismano sup. della libertà: 9
 pietra disco muscoso incrinato: 0.2
 scudo pesante di legno selvatico: 9
 
-budget rimanente: 
- 
+denaro rimanente: -1.5k (hihi :3)
