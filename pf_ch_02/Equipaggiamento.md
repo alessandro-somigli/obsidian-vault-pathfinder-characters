@@ -149,14 +149,15 @@ prisma rosa pallido: 5
 amuleto dei pugni potenti +3: 36
 -amuleto dei pugni potenti +2: -16
 
-budget prima di vendita: 73.116
-budget dopo vendita (w × 0.475): 34.730
+budget prima di vendita: 
+budget dopo vendita (w × 0.475): 
 
 si compera:
 stivali dell'escursione: 7.2
 fasce dell'attaccabrighe (aimale): 0.5
 guanti deliquescenti (animale): 8
 talismano sup. della libertà: 9
+pietra disco muscoso incrinato: 0.2
 
-budget rimanente: 27.030
+budget rimanente: 
  
