@@ -66,33 +66,38 @@ oggetti magici:
 - fronte: [fascia dell'ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +6
 - occhi: [lenti dell'aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila)
 - spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
-- collo:
+- collo: [talismano superiore della libertà](https://golarion.altervista.org/wiki/Talismano_Superiore#Libert%C3%A0)
 - torace:
 - corpo:
 - armatura: [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
+- scudo: [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
 - cintura:
 - polsi:
 - mani:
 - anello 1: [anello dell'eloquenza](https://golarion.altervista.org/wiki/Anello_dell%27Eloquenza)
 - anello 2:
-- piedi:
+- piedi: [stivali dell'escursione](https://golarion.altervista.org/wiki/Stivali_dell%27Escursione)
 - [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.5
 - [pietra magica prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
+- [pietra magica disco muscoso incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
 - [bacchetta](https://golarion.altervista.org/wiki/Bacchette) di [cura ferite moderate](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate) (38 cariche)
 
 
 oggetti magici compagno animale:
-- [amuleto dei pugni potenti](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +2
-- [cintura della forza del gigante](https://golarion.altervista.org/wiki/Cintura_della_Forza_del_Gigante) +6
-- [mantello della resistenza](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
-- [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) +3
-- [camicia del corridore veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce)
+- spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
+- collo: [amuleto dei pugni potenti](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
+- torace: [camicia del corridore veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce)
+- armatura: [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) +3
+- cintura: [cintura della forza del gigante](https://golarion.altervista.org/wiki/Cintura_della_Forza_del_Gigante) +6
+- polsi: [fasce dell'attaccabrighe](https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe)
+- mani: [guanti deliquescenti](https://golarion.altervista.org/wiki/Guanti_Deliquescenti)
+- [pietra magica prisma rosa pallido](https://golarion.altervista.org/wiki/Pietre_Magiche)
 
 # Wishlist
 
 ## oggetti essenziali
  - [X] (4/16/36 kmo) [fascia dell'ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) (+2/+4/+6)
- - (4/16/36 kmo) [amuleto dei pugni potenti](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) (+1/+2/+3) (animale)
+ - [X] (4/16/36 kmo) [amuleto dei pugni potenti](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) (+1/+2/+3) (animale)
  - [X] (1/4/9 kmo)   [mantello della resistenza](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) (+1/+2/+3) x2
 
 tot: 90 kmo
@@ -109,9 +114,9 @@ tot: 69.3 kmo
 ## oggetti utili
  - (7.5 kmo) [talismano superiore di percezione del pericolo](https://golarion.altervista.org/wiki/Talismano_Superiore#Percezione_del_Pericolo)
  - [X] (1/4/9 kmo) [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) (+1/+2/+3) (animale)
- - (9 kmo) [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
+ - [X] (9 kmo) [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
  - [X] (9 kmo) [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
- - (0.5 kmo) [fasce dell'attaccabrighe](https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe) (animale)
+ - [X] (0.5 kmo) [fasce dell'attaccabrighe](https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe) (animale)
  - [X] (1 kmo) [camicia del corridore veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce) (animale)
  - [X] (3.5 kmo) [anello dell'eloquenza](https://golarion.altervista.org/wiki/Anello_dell%27Eloquenza)
 
@@ -150,7 +155,7 @@ amuleto dei pugni potenti +2: -16
 valore prima di vendita: 68.116
 valore dopo vendita (w × 0.475): 32.355
 
-si compera:
+si compra:
 stivali dell'escursione: 7.2
 fasce dell'attaccabrighe (aimale): 0.5
 guanti deliquescenti (animale): 8
@@ -158,4 +163,4 @@ talismano sup. della libertà: 9
 pietra disco muscoso incrinato: 0.2
 scudo pesante di legno selvatico: 9
 
-denaro rimanente: -1.5k (hihi :3)
+soldi rimanenti: -1.5k (hihi :3)
