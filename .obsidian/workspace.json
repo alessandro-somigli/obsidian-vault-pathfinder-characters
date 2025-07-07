@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "459198a6d75fc655",
+            "id": "57b9d3fed39c4840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "pf_ch_02/Equipaggiamento.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Equipaggiamento"
@@ -184,12 +184,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "459198a6d75fc655",
+  "active": "57b9d3fed39c4840",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "pf_ch_02/PG.md",
+    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_03/PG.md",
     "pf_ch_elio/Builds.md",
     "pf_ch_04/Chierico Debuffer Ottimizzato.md",
-    "pf_ch_02/PG.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_04",
     "Untitled.md",
@@ -202,7 +204,6 @@
     "sortspec.md",
     "pf_ch_02/Creature Evocate.md",
     "pf_ch_02/Backstory.md",
-    "pf_ch_02/Equipaggiamento.md",
     "Untitled.canvas",
     "pf_ch_02/Domande & Risposte.md",
     "2025-02-09.md",
@@ -217,7 +218,6 @@
     "new_folder",
     "Untitled Page.md",
     "test note.md",
-    "pf_ch_02/old test note.md",
     "obsidian_git",
     "obsidian-remote",
     "pf_ch_02"
