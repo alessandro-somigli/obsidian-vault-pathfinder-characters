@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Azioni in Combattimento.md",
+                "file": "pf_ch_02/PG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Azioni in Combattimento"
+              "title": "PG"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "57b9d3fed39c4840",
   "lastOpenFiles": [
+    "pf_ch_02/Azioni da Ricordare.md",
     "pf_ch_02/PG.md",
-    "pf_ch_02/Azioni in Combattimento.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Forma Selvatica.md",
