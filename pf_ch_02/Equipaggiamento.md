@@ -138,15 +138,17 @@ tot: 67 kmo
 tot finale: 227.05 kmo (oggetti ultra-costosi omessi) 
 
 
-budget iniziale: 93.116
+valore iniziale: 93.116
 
 si prende:
 prisma rosa pallido: 5
 amuleto dei pugni potenti +3: 36
--amuleto dei pugni potenti +2: -16
 
-budget prima di vendita: 68.116
-budget dopo vendita (w × 0.475): 32.355
+si aggiunge:
+amuleto dei pugni potenti +2: -16
+
+valore prima di vendita: 68.116
+valore dopo vendita (w × 0.475): 32.355
 
 si compera:
 stivali dell'escursione: 7.2
