@@ -80,6 +80,7 @@ oggetti magici:
 - [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.5
 - [pietra magica prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
 - [pietra magica disco muscoso incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
+- [rosario delle molte preghiere](https://golarion.altervista.org/wiki/Rosario_delle_Molte_Preghiere)
 - [bacchetta](https://golarion.altervista.org/wiki/Bacchette) di [cura ferite moderate](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate) (38 cariche)
 
 
