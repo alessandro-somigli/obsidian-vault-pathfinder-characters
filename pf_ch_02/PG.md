@@ -73,7 +73,7 @@ privilegi di classe:
 | 2   | X   | piazzare magia                          |
 | 4   | X   | resistenza al richiamo della natura     |
 | 4   | X   | forma selvatica                         |
-| 9   |     | seguire le linee                        |
+| 9   | X   | seguire le linee                        |
 | 13  |     | corpo vuoto                             |
 | 15  |     | corpo senza tempo                       |
 
@@ -136,7 +136,7 @@ animale: [Gatto da Guerra di Rull](https://golarion.altervista.org/wiki/Druido/C
 | 2   | X   | [volontà di ferro](https://golarion.altervista.org/wiki/Volont%C3%A0_di_Ferro)                            |
 | 5   | X   | [attacco naturale migliorato](https://golarion.altervista.org/wiki/Attacco_Naturale_Migliorato) (artigli) |
 | 8   | X   | [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)                 |
-| 10  |     |                                                                                                           |
+| 10  |     | [campione dell'equilibrio](https://golarion.altervista.org/wiki/Campione_dell%27Equilibrio)               |
 | 13  |     |                                                                                                           |
 | 16  |     | [lottare migliorato](https://golarion.altervista.org/wiki/Lottare_Migliorato)                             |
 | 18  |     | [lottare superiore](https://golarion.altervista.org/wiki/Lottare_Superiore)                               |
