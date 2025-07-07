@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f4e14d2db61d16",
+        "id": "519accce892f7c8e",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd29d6d44dfcb04",
+            "id": "459198a6d75fc655",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,26 +184,31 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "9fd29d6d44dfcb04",
+  "active": "459198a6d75fc655",
   "lastOpenFiles": [
+    "pf_ch_03/PG.md",
+    "pf_ch_elio/Builds.md",
+    "pf_ch_04/Chierico Debuffer Ottimizzato.md",
+    "pf_ch_02/PG.md",
+    "pf_ch_02/Incantesimi.md",
+    "pf_ch_04",
+    "Untitled.md",
+    "().md",
     "pf_ch_02/Forma Selvatica.md",
+    "pf_ch_03/Rissaiolo da Taverna.md",
+    "pf_ch_03/Espedienti di Combattimento.md",
+    "Appunti.md",
+    "pf_ch_elio",
+    "sortspec.md",
     "pf_ch_02/Creature Evocate.md",
     "pf_ch_02/Backstory.md",
-    "pf_ch_02/Incantesimi.md",
-    "pf_ch_02/PG.md",
     "pf_ch_02/Equipaggiamento.md",
     "Untitled.canvas",
     "pf_ch_02/Domande & Risposte.md",
     "2025-02-09.md",
-    "Appunti.md",
-    "pf_ch_03/Espedienti di Combattimento.md",
-    "pf_ch_03/Rissaiolo da Taverna.md",
     "pf_ch_03/Equipaggiamento.md",
-    "sortspec.md",
-    "pf_ch_03/PG.md",
     "pf_ch_03/Backstory.md",
     "X.md",
-    "().md",
     "pf_ch_03",
     "pf_ch_02/Level Up.md",
     "new_one",
@@ -213,10 +218,8 @@
     "Untitled Page.md",
     "test note.md",
     "pf_ch_02/old test note.md",
-    "obsidian_git/Untitled.md",
     "obsidian_git",
     "obsidian-remote",
-    "pf_ch_02/Milestones.md",
     "pf_ch_02"
   ]
 }
