@@ -169,6 +169,7 @@
 	- (0) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
 	- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore) (no SR) (no TS) 
 	- (0) [arcobaleno splendente](https://golarion.altervista.org/wiki/Incantesimi/Arcobaleno_Splendente) (no SR) (no TS) 
+	- (0) [respingere legno](https://golarion.altervista.org/wiki/Incantesimi/Respingere_Legno) (no SR) (no TS)
 - cure:
 	- (0) [cura ferite leggere di massa](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere_di_Massa) 
 - utilità:
@@ -204,6 +205,7 @@
 	- (0) [tranquillità euforica](https://golarion.altervista.org/wiki/Incantesimi/Tranquillit%C3%A0_Euforica) (no TS) 
 	- (0) [muro di lava](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Lava) (no SR) 
 	- (0) [foschia di sangue](https://golarion.altervista.org/wiki/Incantesimi/Foschia_di_Sangue) 
+	- (0) [respingere metallo o pietra](https://golarion.altervista.org/wiki/Incantesimi/Respingere_Metallo_o_Pietra) (no SR) (no TS)
 - cure:
 	- (0) [cura ferite gravi di massa](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Gravi_di_Massa) 
 - utilità:
