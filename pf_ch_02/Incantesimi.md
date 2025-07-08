@@ -199,7 +199,7 @@
 - battaglia:
 	- (0) [inversione della gravità](https://golarion.altervista.org/wiki/Incantesimi/Inversione_della_Gravit%C3%A0) (TRA) (no SR) 
 	- (0) [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi) 
-	- (0) [esplosione solare](https://golarion.altervista.org/wiki/Incantesimi/Esplosione_Solare) 
+	- (0) [esplosione solare](https://golarion.altervista.org/wiki/Incantesimi/Esplosione_Solare)
 	- (0) [dito della morte](https://golarion.altervista.org/wiki/Incantesimi/Dito_della_Morte) 
 	- (0) [tranquillità euforica](https://golarion.altervista.org/wiki/Incantesimi/Tranquillit%C3%A0_Euforica) (no TS) 
 	- (0) [muro di lava](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Lava) (no SR) 
