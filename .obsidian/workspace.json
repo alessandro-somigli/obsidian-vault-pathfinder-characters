@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/Azioni da Ricordare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incantesimi"
+              "title": "Azioni da Ricordare"
             }
           },
           {
-            "id": "5473371248ebdbc4",
+            "id": "dd6920a5257ac558",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/PG.md",
+                "file": "pf_ch_02/Equipaggiamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PG"
+              "title": "Equipaggiamento"
             }
           }
         ]
@@ -200,10 +200,11 @@
   },
   "active": "57b9d3fed39c4840",
   "lastOpenFiles": [
+    "pf_ch_02/Equipaggiamento.md",
+    "pf_ch_02/Azioni da Ricordare.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Incantesimi.md",
-    "pf_ch_02/Azioni da Ricordare.md",
-    "pf_ch_02/Equipaggiamento.md",
+    "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Forma Selvatica.md",
     "conflict-files-obsidian-git.md",
     "pf_ch_03/PG.md",
@@ -220,7 +221,6 @@
     "pf_ch_02/Creature Evocate.md",
     "pf_ch_02/Backstory.md",
     "Untitled.canvas",
-    "pf_ch_02/Domande & Risposte.md",
     "2025-02-09.md",
     "pf_ch_03/Equipaggiamento.md",
     "pf_ch_03/Backstory.md",
