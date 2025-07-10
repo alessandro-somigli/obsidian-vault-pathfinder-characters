@@ -55,13 +55,17 @@
 ### Azioni Standard:
  - attacco in mischia
  - [Difesa Totale](https://golarion.altervista.org/wiki/Azioni_Standard#Difesa_Totale)
-### Azioni di Movimento
+### Azioni di Movimento:
  - muoversi
  - fiutare con [Fiuto](https://golarion.altervista.org/wiki/Fiuto)
-### A
+### Azioni Veloci:
+ - [Camicia del Corridore Veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce)
 ### Azioni Gratuite:
  - [Punire il Male](https://golarion.altervista.org/wiki/Paladino#Punire_il_Male_(Sop))
+ - afferrare
+ - vigoria
 ### Abilità Automatiche:
  - [Resistenza agli Incantesimi](https://golarion.altervista.org/wiki/Resistenza_agli_Incantesimi)
  - [Eludere](https://golarion.altervista.org/wiki/Druido/Compagni_Animali#Eludere_(Str))
  - [Scambio Amichevole](https://golarion.altervista.org/wiki/Scambio_Amichevole)
+
