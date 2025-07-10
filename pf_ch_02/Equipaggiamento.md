@@ -147,3 +147,4 @@ pietra disco muscoso incrinato: 0.2
 scudo pesante di legno selvatico: 9
 
 soldi rimanenti: -1.5k (hihi :3)
+
