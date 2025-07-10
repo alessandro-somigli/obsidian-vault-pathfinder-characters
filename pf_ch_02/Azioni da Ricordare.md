@@ -42,7 +42,7 @@
 ### Azioni Gratuite:
  - parlare
  - [Piazzare Magia](https://golarion.altervista.org/wiki/Druido/Archetipi#Piazzare_Magia_(Sop))
-### Non Considerate Azioni:
+### Abilità Automatiche:
  - attivare [Talismano Superiore della Libertà](https://golarion.altervista.org/wiki/Talismano_Superiore#Libert%C3%A0)
 
 ## Azioni in Combattimento Compagno Animale
@@ -58,8 +58,10 @@
 ### Azioni di Movimento
  - muoversi
  - fiutare con [Fiuto](https://golarion.altervista.org/wiki/Fiuto)
+### A
 ### Azioni Gratuite:
  - [Punire il Male](https://golarion.altervista.org/wiki/Paladino#Punire_il_Male_(Sop))
-### Non Considerate Azioni:
+### Abilità Automatiche:
  - [Resistenza agli Incantesimi](https://golarion.altervista.org/wiki/Resistenza_agli_Incantesimi)
+ - [Eludere](https://golarion.altervista.org/wiki/Druido/Compagni_Animali#Eludere_(Str))
  - [Scambio Amichevole](https://golarion.altervista.org/wiki/Scambio_Amichevole)
