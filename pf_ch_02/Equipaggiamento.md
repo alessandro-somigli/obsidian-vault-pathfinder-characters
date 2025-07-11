@@ -104,7 +104,7 @@ oggetti magici compagno animale:
  - [X] (20 kmo) [collana della preghiera con perla del karma](https://golarion.altervista.org/wiki/Collana_della_Preghiera)
  - [X] (0.5 kmo) [pietra magica prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
  - [X] (1/4/9 kmo) [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) (+1/+2/+3) (animale)
- - [X] (9 kmo) [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
+ - [ ] (9 kmo) [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
  - [X] (9 kmo) [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
  - [X] (0.5 kmo) [fasce dell'attaccabrighe](https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe) (animale)
  - [X] (1 kmo) [camicia del corridore veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce) (animale)
