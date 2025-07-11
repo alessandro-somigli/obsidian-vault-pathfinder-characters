@@ -131,12 +131,13 @@ valore iniziale: 93.116
 si prende:
 prisma rosa pallido: 5
 amuleto dei pugni potenti +3: 36
+cintura dell'agilità +4: 16
 
 si aggiunge:
 amuleto dei pugni potenti +2: -16
 
-valore prima di vendita: 68.116
-valore dopo vendita (w × 0.475): 32.355
+valore prima di vendita: 52.116
+valore dopo vendita (w × 0.475): 24.755
 
 si compra:
 stivali dell'escursione: 7.2
@@ -144,7 +145,8 @@ fasce dell'attaccabrighe (aimale): 0.5
 guanti deliquescenti (animale): 8
 talismano sup. della libertà: 9
 pietra disco muscoso incrinato: 0.2
-scudo pesante di legno selvatico: 9
 
-soldi rimanenti: -1.5k (hihi :3)
+X scudo pesante di legno selvatico: 9
+
+soldi rimanenti: -0.145
 
