@@ -25,10 +25,10 @@ tratti:
 
 # Stats
 
-livello: 7
+livello: 9
 punti eroe: 3
 
-pf: 56
+pf: 87
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |
@@ -36,7 +36,7 @@ pf: 56
 | DEX   | 16   |      | 16  | +3  |
 | COS   | 15   |      | 15  | +2  |
 | INT   | 11   | +1   | 12  | +1  |
-| SAG   | 19   | +3   | 22  | +6  |
+| SAG   | 20   | +3   | 23  | +6  |
 | CAR   | 11   | +3   | 14  | +2  |
 
 # Razza
