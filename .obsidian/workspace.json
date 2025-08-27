@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Equipaggiamento"
             }
-          },
-          {
-            "id": "29e49cf7209163f1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +185,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "29e49cf7209163f1",
+  "active": "dd6920a5257ac558",
   "lastOpenFiles": [
     "pf_ch_02/PG.md",
     "pf_ch_02/Equipaggiamento.md",
