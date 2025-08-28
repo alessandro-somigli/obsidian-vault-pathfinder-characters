@@ -35,7 +35,7 @@
 	- (0) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
 	- (0) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
-	- (0) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
+	- (2) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
 	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
 	- (0) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
@@ -57,7 +57,7 @@
 	- (0) [mimetizzazione](https://golarion.altervista.org/wiki/Incantesimi/Mimetizzazione) 
 	- (0) [bolla d'aria](https://golarion.altervista.org/wiki/Incantesimi/Bolla_d%27Aria) 
 	- (0) [comunione con gli uccelli](https://golarion.altervista.org/wiki/Incantesimi/Comunione_con_gli_Uccelli) 
-	- (0) [parlare con gli animali](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_gli_Animali) 
+	- (1) [parlare con gli animali](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_gli_Animali) 
 ## lv.2: (6)
 - buffs:
 	- (0) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
@@ -89,8 +89,8 @@
 	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS) 
 ## lv.3: (5)
 - prep:
-	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
-	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
+	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
+	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
 	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
@@ -102,10 +102,10 @@
 	- (0) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
 	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
 	- (0) [sabbie mobili](https://golarion.altervista.org/wiki/Incantesimi/Sabbie_Mobili) (TRA) (no SR) 
-	- (1) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
+	- (0) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
 	- (0) [tempesta di nevischio](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Nevischio) (no SR) (no TS) 
 	- (0) [sputare veleno](https://golarion.altervista.org/wiki/Incantesimi/Sputare_Veleno) (TRA) (no SR) 
-	- (0) [rubare taglia](https://golarion.altervista.org/wiki/Incantesimi/Rubare_Taglia) (TRA) 
+	- (0) [rubare taglia](https://golarion.altervista.org/wiki/Incantesimi/Rubare_Taglia) (TRA)
 	- (0) [scimmie folli](https://golarion.altervista.org/wiki/Incantesimi/Scimmie_Folli) (no SR) (no TS) 
 	- (0) [avversione](https://golarion.altervista.org/wiki/Incantesimi/Avversione) (1d/lv) 
 	- (0) [taumaturgia collaborativa](https://golarion.altervista.org/wiki/Incantesimi/Taumaturgia_Collaborativa) (I) 
@@ -143,13 +143,13 @@
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
 ## lv.5: (3) (+1 perla del potere lv.5)
 - buffs:
-	- (0) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale) 
+	- (1) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - battaglia:
-	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo) 
-	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR) 
-	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR) 
-	- (0) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS) 
+	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
+	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR)
+	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR)
+	- (0) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS)
 	- (0) [serpente di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Serpente_di_Fuoco) 
 - cure:
 	- (0) [benedizione della salamandra](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_della_Salamandra) (meta)

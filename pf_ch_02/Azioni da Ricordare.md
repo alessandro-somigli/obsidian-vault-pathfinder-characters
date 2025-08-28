@@ -5,6 +5,7 @@
  - [Guida](https://golarion.altervista.org/wiki/Incantesimi/Guida)
  - [Fiuto](https://golarion.altervista.org/wiki/Fiuto)
 ## Combattimento
+ - Incantesimi Immediati
  - Lancio Spontaneo ([Evoca Alleato Naturale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Naturale))
  - [Rosario delle Molte Preghiere](https://golarion.altervista.org/wiki/Rosario_delle_Molte_Preghiere) (benedizione, cura ferite gravi)
  - [Difesa Totale](https://golarion.altervista.org/wiki/Azioni_Standard#Difesa_Totale)
