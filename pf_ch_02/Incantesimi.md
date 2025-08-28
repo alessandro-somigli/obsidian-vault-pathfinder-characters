@@ -92,14 +92,14 @@
 	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
 	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
-	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
+	- (1) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
 	- (0) [pelle resinosa](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Resinosa) 
 	- (0) [protezione dall'energia](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia) 
 	- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) 
 - battaglia:
 	- (1) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
-	- (0) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
+	- (1) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
 	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
 	- (0) [sabbie mobili](https://golarion.altervista.org/wiki/Incantesimi/Sabbie_Mobili) (TRA) (no SR) 
 	- (0) [intralcio bruciante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Bruciante) (no SR) 
@@ -124,8 +124,8 @@
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
 - buffs:
 	- (0) [protezione dall'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia_Collettivo) 
-	- (0) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
-	- (1) [fauci robuste](https://golarion.altervista.org/wiki/Incantesimi/Fauci_Robuste) 
+	- (1) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
+	- (0) [fauci robuste](https://golarion.altervista.org/wiki/Incantesimi/Fauci_Robuste) 
 	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
 - battaglia:
 	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
