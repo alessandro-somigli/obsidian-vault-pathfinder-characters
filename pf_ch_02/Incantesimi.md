@@ -197,6 +197,7 @@
 ## lv.8: (0)
 - buff:
 	- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante) (meta) 
+	- (0) [manto del mare](https://golarion.altervista.org/wiki/Incantesimi/Manto_del_Mare)
 - battaglia:
 	- (0) [inversione della gravità](https://golarion.altervista.org/wiki/Incantesimi/Inversione_della_Gravit%C3%A0) (TRA) (no SR) 
 	- (0) [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi) 
