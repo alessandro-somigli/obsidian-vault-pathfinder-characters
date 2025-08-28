@@ -1,4 +1,3 @@
-
 ## Fuori Combattimento
  - percepire spiriti
  - seguire le linee

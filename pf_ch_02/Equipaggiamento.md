@@ -70,8 +70,8 @@ oggetti magici:
 - torace: 
 - corpo: 
 - armatura: [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
-- scudo: [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
-- cintura: 
+- scudo:
+- cintura: [cintura dell'agilità](https://golarion.altervista.org/wiki/Cintura_dell%27Agilit%C3%A0) +4
 - polsi: 
 - mani: 
 - anello 1: [anello dell'eloquenza](https://golarion.altervista.org/wiki/Anello_dell%27Eloquenza)
@@ -104,7 +104,6 @@ oggetti magici compagno animale:
  - [X] (20 kmo) [collana della preghiera con perla del karma](https://golarion.altervista.org/wiki/Collana_della_Preghiera)
  - [X] (0.5 kmo) [pietra magica prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate)
  - [X] (1/4/9 kmo) [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) (+1/+2/+3) (animale)
- - [X] (9 kmo) [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
  - [X] (9 kmo) [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
  - [X] (0.5 kmo) [fasce dell'attaccabrighe](https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe) (animale)
  - [X] (1 kmo) [camicia del corridore veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce) (animale)
@@ -114,11 +113,14 @@ oggetti magici compagno animale:
  - [X] (9 kmo)   [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.3
  - [X] (16 kmo)  [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.4
 
+
 ## wishlist
  - (7.8 kmo) [anello dell'armonizzazione naturale (Kami)](https://golarion.altervista.org/wiki/Anello_dell%27Armonizzazione_Naturale_(Kami)) (da lv.14)
  - (5 kmo) [pietra dell'alleanza](https://golarion.altervista.org/wiki/Pietra_dell%27Alleanza) (animale)
  - (7.5 kmo) [talismano superiore di percezione del pericolo](https://golarion.altervista.org/wiki/Talismano_Superiore#Percezione_del_Pericolo)
  - (67 kmo) [kimono ultraterreno](https://golarion.altervista.org/wiki/Chimono_Ultraterreno)
+ - (9 kmo) [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) [selvatico](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
+ - (4/16/36 kmo) [cintura dell'agilità](https://golarion.altervista.org/wiki/Cintura_dell%27Agilit%C3%A0) (+2/+4/+6)
 
 ## oggetti fighi
  - (5kmo) [Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante)
@@ -131,12 +133,13 @@ valore iniziale: 93.116
 si prende:
 prisma rosa pallido: 5
 amuleto dei pugni potenti +3: 36
+cintura dell'agilità +4: 16
 
 si aggiunge:
 amuleto dei pugni potenti +2: -16
 
-valore prima di vendita: 68.116
-valore dopo vendita (w × 0.475): 32.355
+valore prima di vendita: 52.116
+valore dopo vendita (w × 0.475): 24.755
 
 si compra:
 stivali dell'escursione: 7.2
@@ -144,6 +147,7 @@ fasce dell'attaccabrighe (aimale): 0.5
 guanti deliquescenti (animale): 8
 talismano sup. della libertà: 9
 pietra disco muscoso incrinato: 0.2
-scudo pesante di legno selvatico: 9
 
-soldi rimanenti: -1.5k (hihi :3)
+X scudo pesante di legno selvatico: 9
+
+soldi rimanenti: -0.145
