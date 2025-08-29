@@ -41,7 +41,7 @@
 	- (0) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
 	- (0) [passo morbido](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido) 
 	- (0) [zanna magica](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica) 
-- battaglia:
+- combattimento:
 	- (0) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
 	- (0) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
 	- (0) [produrre fiamma](https://golarion.altervista.org/wiki/Incantesimi/Produrre_Fiamma) (no TS) 
@@ -64,7 +64,7 @@
 	- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
 	- (0) [pelle coriacea](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Coriacea) 
 	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia) 
-- battaglia:
+- combattimento:
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (no SR) (no TS) 
 	- (1) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA) 
@@ -97,7 +97,7 @@
 	- (0) [pelle resinosa](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Resinosa) 
 	- (0) [protezione dall'energia](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia) 
 	- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) 
-- battaglia:
+- combattimento:
 	- (1) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
 	- (1) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
 	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
@@ -127,7 +127,7 @@
 	- (1) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
 	- (0) [fauci robuste](https://golarion.altervista.org/wiki/Incantesimi/Fauci_Robuste) 
 	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
-- battaglia:
+- combattimento:
 	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
 	- (1) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
 	- (1) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
@@ -145,7 +145,7 @@
 - buffs:
 	- (1) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
-- battaglia:
+- combattimento:
 	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
 	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR)
 	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR)
@@ -162,7 +162,7 @@
 	- (0) [bastone dell'incantesimo](https://golarion.altervista.org/wiki/Incantesimi/Bastone_dell%27Incantesimo) (∞) 
 	- (0) [querciaviva](https://golarion.altervista.org/wiki/Incantesimi/Querciaviva) (1d/lv) 
 	- (0) [semi di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Semi_di_Fuoco) 
-- battaglia:
+- combattimento:
 	- (0) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
 	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA) 
 	- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
@@ -180,7 +180,7 @@
 ## lv.7: (0)
 - preparazione:
 	- (0) [trasforma bastone](https://golarion.altervista.org/wiki/Incantesimi/Trasforma_Bastone) (1h/lv)
-- battaglia:
+- combattimento:
 	- (0) [bombardamento elementale](https://golarion.altervista.org/wiki/Incantesimi/Bombardamento_Elementale) (no SR) (no TS) 
 	- (0) [trasmutare metallo in legno](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Metallo_in_Legno) (no TS) 
 	- (0) [tempesta di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Fuoco) 
@@ -198,7 +198,7 @@
 - buff:
 	- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante) (meta) 
 	- (0) [manto del mare](https://golarion.altervista.org/wiki/Incantesimi/Manto_del_Mare)
-- battaglia:
+- combattimento:
 	- (0) [inversione della gravità](https://golarion.altervista.org/wiki/Incantesimi/Inversione_della_Gravit%C3%A0) (TRA) (no SR) 
 	- (0) [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi) 
 	- (0) [esplosione solare](https://golarion.altervista.org/wiki/Incantesimi/Esplosione_Solare)
@@ -214,7 +214,7 @@
 ## lv.9: (0)
 - preparazione:
 	- (0) [cumulo strisciante](https://golarion.altervista.org/wiki/Incantesimi/Cumulo_Strisciante) (7d) 
-- battaglia:
+- combattimento:
 	- (0) [sciame elementale](https://golarion.altervista.org/wiki/Incantesimi/Sciame_Elementale) (no SR) (no TS) 
 	- (0) [rocce cozzanti](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Cozzanti) (no SR) 
 	- (0) [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare) (TRA) 

@@ -68,35 +68,7 @@ incantesimi focalizzati superiore
 
 ### Incantesimi Buoni
 
-## lv.1
- - (0) santuario
- - (0) scudo di pietra (I)
- - (0) comando di liberazione (I)
-## lv.2
- - (0) suono dirompente
- - (0) baratto del martire (I)
- - (0) grazia (V)
-## lv.3
- - (0) veste magica
- - (0) barriera stordente superiore
- - (0) taumaturgia collaborativa (I)
-## lv.4
- - (0) aura di devastazione
- - (0) camminare nell'aria
- - (0) benedizione del fervore
- - (0) infondi capacità magiche
- - (0) arma magica superiore
- - (0) cura ferite critiche
-## lv.5
- - (0) camminare nell'aria di massa
- - (0) respiro di vita
- - (0) spezzare incantamento
- - (0) distruggere viventi
-## lv.6
- - (0) guarigione
-## lv.7
-## lv.8
-## lv.9
+
 
 
 10 + 2 + 2 + 4 + 1
