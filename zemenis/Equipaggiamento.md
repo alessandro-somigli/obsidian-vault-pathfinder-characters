@@ -46,8 +46,30 @@ Cintura della Potenza Fisica (For, Dex) (40.000 mo)
 Casacca del Lancio Prudente (5.000 mo)
 Guanti Elfici (7.500 mo)
 
+### Tutti gli Oggetti Proposti
 
+oggetti magici:
+- testa: 
+- fronte: fascia della seduzione
+- occhi:
+- spalle: mantello della resistenza
+- collo: amuleto dell'armatura naturale
+- torace: casacca del lancio prudente
+- corpo: fasciatura dei colpi potenti
+- armatura: corazza di piastre
+- scudo: scudo di legno
+- cintura: cintura dell'agilità
+- polsi: 
+- mani: guanti elfici
+- anello 1: anello della protezione
+- anello 2: 
+- piedi:
+- altro:
+	- pietra magica prisma rosa pallido
+	- ferro di cavallo fortunato
+	- perla del potere
 
+sigillo malleabile
 
 ---
 
