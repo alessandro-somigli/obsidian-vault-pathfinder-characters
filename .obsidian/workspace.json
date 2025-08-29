@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "pf_ch_02/Equipaggiamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incantesimi"
+              "title": "Equipaggiamento"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zemenis/Incantesimi.md",
+                "file": "pf_ch_02/Equipaggiamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incantesimi"
+              "title": "Equipaggiamento"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +200,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "790d7b43fd4cb89d",
+  "active": "dd6920a5257ac558",
   "lastOpenFiles": [
-    "zemenis/Incantesimi.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/PG.md",
+    "zemenis/Equipaggiamento.md",
+    "pf_ch_02/Equipaggiamento.md",
+    "zemenis/Incantesimi.md",
     "zemenis/Azioni da Compiere (Zamenis).md",
     "pf_ch_02/Backstory.md",
     "pf_ch_02/Creature Evocate.md",
@@ -211,7 +214,6 @@
     "pf_ch_02/Azioni da Ricordare.md",
     "sortspec.md",
     "2025-02-09.md",
-    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Forma Selvatica.md",
     "conflict-files-obsidian-git.md",
@@ -232,7 +234,6 @@
     "pf_ch_02/Level Up.md",
     "new_one",
     "pf_ch_02/sortspec.md",
-    "pf_ch_02/Level Up Changes.md",
     "new_folder",
     "obsidian_git",
     "obsidian-remote",
