@@ -20,18 +20,31 @@ Scudo di Legno +3 (9.007 mo)
 Anello della Protezione +2 (6.000 mo)
 Amuleto dell'Armatura Naturale +2 (6.000 mo)
 Mantello della Resistenza +4 (16.000 mo)
+Pietra Magica Prisma Rosa Pallido (5.000 mo)
 
 Fascia della Seduzione +6 (36.000 mo)
 
 Casacca del Lancio Prudente (5.000 mo)
 Guanti Elfici (7.500 mo)
 
-Pietra Magica Prisma Rosa Pallido (5.000 mo)
-
 Prezzo Totale: 99.657 mo
 
 ### Full Cost Build
 
+Corazza di Piastre +4 (16.150 mo)
+Scudo di Legno +4 (16.007 mo)
+Anello della Protezione +2 (6.000 mo)
+Amuleto dell'Armatura Naturale +2 (6.000 mo)
+Pietra Magica Prisma Rosa Pallido (5.000 mo)
+Mantello della Resistenza +5 (25.000 mo)
+Ferro di Cavallo Fortunato (6.800 mo)
+
+Fascia della Seduzione +6 (36.000 mo)
+
+Cintura della Potenza Fisica (For, Dex) (40.000 mo)
+
+Casacca del Lancio Prudente (5.000 mo)
+Guanti Elfici (7.500 mo)
 
 
 
