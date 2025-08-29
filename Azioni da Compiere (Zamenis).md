@@ -43,7 +43,8 @@ infinite azioni gratuite
 ---
 ### Tratti
 
-
+mente focalizzata: +2 prove di concentrazione
+missionario:
 
 ### Talenti
 1:  incanalare migliorato
@@ -53,7 +54,7 @@ infinite azioni gratuite
 9:  incantesimi focalizzati
 11: interferenza divina X
 13: incantesimi focalizzati superiore X
-15: armonizzazione di emergenza X
+15: incantesimi rapidi / incantare in combattimento
 17: incantesimi inarrestabili X
 19: incantesimi inarrestabili superiore X
 
@@ -81,13 +82,16 @@ infinite azioni gratuite
  - (0) benedizione del fervore
  - (0) infondi capacità magiche
  - (0) arma magica superiore
+ - (0) cura ferite critiche
 
 ## lv.5
  - (0) camminare nell'aria di massa
  - (0) respiro di vita
  - (0) spezzare incantamento
+ - (0) distruggere viventi
 
 ## lv.6
+ - (0) guarigione
 
 
 ## lv.7
@@ -101,14 +105,6 @@ infinite azioni gratuite
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+lv + sag + 2
+9 + 1 + 2
+12
