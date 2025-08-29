@@ -35,7 +35,8 @@
               "title": "Equipaggiamento"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,22 +200,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "dd6920a5257ac558",
+  "active": "00dd9aab6acfd3b9",
   "lastOpenFiles": [
-    "pf_ch_02/Equipaggiamento.md",
-    "zemenis/Equipaggiamento.md",
-    "pf_ch_02/PG.md",
-    "pf_ch_02/Backstory.md",
-    "zemenis/Incantesimi.md",
-    "zemenis/Azioni da Compiere (Zamenis).md",
     "pf_ch_02/Incantesimi.md",
+    "zemenis/Equipaggiamento.md",
+    "zemenis/PG.md",
+    "zemenis/Azioni da Compiere (Zamenis).md",
+    "zemenis/Incantesimi.md",
+    "pf_ch_02/Forma Selvatica.md",
+    "pf_ch_02/Equipaggiamento.md",
+    "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Creature Evocate.md",
-    "zemenis",
     "pf_ch_02/Azioni da Ricordare.md",
+    "pf_ch_02/Backstory.md",
+    "pf_ch_02/PG.md",
+    "zemenis",
     "sortspec.md",
     "2025-02-09.md",
-    "pf_ch_02/Domande & Risposte.md",
-    "pf_ch_02/Forma Selvatica.md",
     "conflict-files-obsidian-git.md",
     "pf_ch_03/PG.md",
     "pf_ch_elio/Builds.md",
@@ -232,7 +234,6 @@
     "pf_ch_03",
     "pf_ch_02/Level Up.md",
     "new_one",
-    "pf_ch_02/sortspec.md",
     "new_folder",
     "obsidian_git",
     "obsidian-remote",

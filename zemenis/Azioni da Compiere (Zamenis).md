@@ -66,7 +66,7 @@ incantesimi focalizzati superiore
 
 ---
 
-9 + 0 + 4 + 2 + 1 + 2 + 5 = 23
+9 + 
 
 ## Oggetti Buoni:
 Casacca del Lancio Prudente

@@ -1,79 +1,28 @@
-### Cheap Build
-
-Corazza di Piastre +2 (4.150 mo)
-Scudo di Legno +2 (4.007 mo)
-Anello della Protezione +1 (2.000 mo)
-Amuleto dell'Armatura Naturale +1 (2.000 mo)
-Mantello della Resistenza +3 (9.000 mo)
-
-Fascia della Seduzione +4 (16.000 mo)
-
-Casacca del Lancio Prudente (5.000 mo)
-Guanti Elfici (7.500 mo)
-
-Prezzo Totale: 49.657 mo
-
-### Medium Cost Build
-
-Corazza di Piastre +3 (9.150 mo)
-Scudo di Legno +3 (9.007 mo)
-Anello della Protezione +2 (6.000 mo)
-Amuleto dell'Armatura Naturale +2 (6.000 mo)
-Mantello della Resistenza +4 (16.000 mo)
-Pietra Magica Prisma Rosa Pallido (5.000 mo)
-
-Fascia della Seduzione +6 (36.000 mo)
-
-Casacca del Lancio Prudente (5.000 mo)
-Guanti Elfici (7.500 mo)
-
-Prezzo Totale: 99.657 mo
-
-### Full Cost Build
-
-Corazza di Piastre +4 (16.150 mo)
-Scudo di Legno +4 (16.007 mo)
-Anello della Protezione +2 (6.000 mo)
-Amuleto dell'Armatura Naturale +2 (6.000 mo)
-Pietra Magica Prisma Rosa Pallido (5.000 mo)
-Mantello della Resistenza +5 (25.000 mo)
-Ferro di Cavallo Fortunato (6.800 mo)
-
-Fascia della Seduzione +6 (36.000 mo)
-
-Cintura della Potenza Fisica (For, Dex) (40.000 mo)
-
-Casacca del Lancio Prudente (5.000 mo)
-Guanti Elfici (7.500 mo)
-
-### Tutti gli Oggetti Proposti
-
 oggetti magici:
 - testa: 
-- fronte: fascia della seduzione
-- occhi: lenti dello sguardo del predatore
-- spalle: mantello della resistenza
-- collo: amuleto dell'armatura naturale
-- torace: casacca del lancio prudente
-- corpo: fasciatura dei colpi potenti
-- armatura: corazza di piastre
-- scudo: scudo di legno
-- cintura: cintura dell'agilità
-- polsi: bracciali della protezione dagli incantesimi
-- mani: guanti elfici
-- anello 1: anello della protezione
+- fronte: [fascia della seduzione](https://golarion.altervista.org/wiki/Fascia_della_Seduzione) (+2/+4/+6) (4/16/36 kmo)
+- occhi: [lenti dello sguardo del predatore](https://golarion.altervista.org/wiki/Lenti_dello_Sguardo_del_Predatore) (8 kmo)
+- spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) (+1/+2/+3/+4/+5) (1/4/9/16/25 kmo)
+- collo: [amuleto dell'armatura naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) (+1/+2/+3/+4/+5) (2/8/18/32/50 kmo)
+- torace: [casacca del lancio prudente](https://golarion.altervista.org/wiki/Casacca_del_Lancio_Prudente) (5 kmo)
+- corpo: [fasciatura dei colpi potenti](https://golarion.altervista.org/wiki/Fasciatura_dei_Colpi_Potenti) (+1/+2/+3/+4) (3/12/27/48 kmo)
+- armatura: [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) (+1/+2/+3/+4/+5) (1/4/9/16/25 kmo)
+- scudo: [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (+1/+2/+3/+4/+5) (1/4/9/16/25 kmo)
+- cintura: [cintura dell'agilità](https://golarion.altervista.org/wiki/Cintura_dell%27Agilit%C3%A0) (+2/+4) (4/16 kmo)
+- polsi: [bracciali della protezione dagli incantesimi](https://golarion.altervista.org/wiki/Bracciali_della_Protezione_dagli_Incantesimi) (5 kmo)
+- mani: [guanti elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
+- anello 1: [anello della protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) (+1/+2/+3/+4/+5) (2/8/18/32/50 kmo)
 - anello 2: 
 - piedi:
 - altro:
-	- pietra magica prisma rosa pallido
-	- ferro di cavallo fortunato
-	- perla del potere
-	- sigillo malleabile
-
+	- [pietra magica prisma rosa pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
+	- [ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
+	- [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) (lv.1/2/3/4/5) (1/4/9/16/25 kmo)
+	- [sigillo malleabile](https://golarion.altervista.org/wiki/Simbolo_Malleabile) (10 kmo)
 
 ---
 
-eq gio
+equipaggiamento Gioele
 
 elmo batraciano (26.000 mo)
 fascia dell'ispirazione +6 (36.000 mo)
@@ -90,3 +39,4 @@ anello del draco (freddo) (6.000 mo)
 stivali della velocità (12.000 mo)
 
 totale: 241.5 kmo
+ 
