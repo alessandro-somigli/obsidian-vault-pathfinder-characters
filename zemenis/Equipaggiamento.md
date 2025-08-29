@@ -51,7 +51,7 @@ Guanti Elfici (7.500 mo)
 oggetti magici:
 - testa: 
 - fronte: fascia della seduzione
-- occhi:
+- occhi: lenti dello sguardo del predatore
 - spalle: mantello della resistenza
 - collo: amuleto dell'armatura naturale
 - torace: casacca del lancio prudente
@@ -59,7 +59,7 @@ oggetti magici:
 - armatura: corazza di piastre
 - scudo: scudo di legno
 - cintura: cintura dell'agilità
-- polsi: 
+- polsi: bracciali della protezione dagli incantesimi
 - mani: guanti elfici
 - anello 1: anello della protezione
 - anello 2: 
@@ -68,8 +68,8 @@ oggetti magici:
 	- pietra magica prisma rosa pallido
 	- ferro di cavallo fortunato
 	- perla del potere
+	- sigillo malleabile
 
-sigillo malleabile
 
 ---
 
