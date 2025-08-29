@@ -44,20 +44,25 @@ infinite azioni gratuite
 ### Tratti
 
 mente focalizzata: +2 prove di concentrazione
+proposito disperato: 
 missionario:
+
+attaccato:
 
 ### Talenti
 1:  incanalare migliorato
 3:  capacità focalizzata
 5:  incanalare rapido
 7:  incanalare selettivo
-9:  incantesimi focalizzati
+9:  incantare in combattimento
 11: interferenza divina X
-13: incantesimi focalizzati superiore X
-15: incantesimi rapidi / incantare in combattimento
+13: incantesimi focalizzati (?) X
+15: incantesimi rapidi X
 17: incantesimi inarrestabili X
 19: incantesimi inarrestabili superiore X
 
+incantesimi focalizzati
+incantesimi focalizzati superiore
 
 ---
 
@@ -71,7 +76,6 @@ missionario:
  - (0) suono dirompente
  - (0) baratto del martire (I)
  - (0) grazia (V)
-
 ## lv.3
  - (0) veste magica
  - (0) barriera stordente superiore
@@ -83,28 +87,20 @@ missionario:
  - (0) infondi capacità magiche
  - (0) arma magica superiore
  - (0) cura ferite critiche
-
 ## lv.5
  - (0) camminare nell'aria di massa
  - (0) respiro di vita
  - (0) spezzare incantamento
  - (0) distruggere viventi
-
 ## lv.6
  - (0) guarigione
-
-
 ## lv.7
-
-
 ## lv.8
-
-
 ## lv.9
 
 
+10 + 2 + 2 + 4 + 1
+19
 
-
-lv + sag + 2
-9 + 1 + 2
-12
+## Oggetti Buoni:
+Casacca del Lancio Prudente
