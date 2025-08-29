@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "Azioni da Compiere (Zamenis).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incantesimi"
+              "title": "Azioni da Compiere (Zamenis)"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "74997efcf967bada",
   "lastOpenFiles": [
-    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Incantesimi.md",
+    "Azioni da Compiere (Zamenis).md",
+    "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Azioni da Ricordare.md",
@@ -214,7 +215,6 @@
     "pf_ch_elio/Builds.md",
     "pf_ch_04/Chierico Debuffer Ottimizzato.md",
     "pf_ch_04",
-    "Untitled.md",
     "().md",
     "pf_ch_03/Rissaiolo da Taverna.md",
     "pf_ch_03/Espedienti di Combattimento.md",
