@@ -154,9 +154,9 @@
 - cure:
 	- (0) [benedizione della salamandra](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_della_Salamandra) (meta)
 	- (0) [cura ferite critiche](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Critiche) 
-	- (0) [rianimare compagno animale](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Compagno_Animale) (M 1000mo) 
+	- (0) [rianimare compagno animale](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Compagno_Animale) (M 1000mo)
 - utilità:
-	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo) 
+	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
 ## lv.6: (0)
 - preparazione:
 	- (0) [bastone dell'incantesimo](https://golarion.altervista.org/wiki/Incantesimi/Bastone_dell%27Incantesimo) (∞) 
