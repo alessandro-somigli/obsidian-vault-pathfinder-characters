@@ -65,7 +65,7 @@ oggetti magici:
 - testa: 
 - fronte: [fascia dell'ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +6
 - occhi: [lenti dell'aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila)
-- spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
+- spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +3
 - collo: [talismano superiore della libertà](https://golarion.altervista.org/wiki/Talismano_Superiore#Libert%C3%A0)
 - torace: 
 - corpo: 
@@ -94,6 +94,7 @@ oggetti magici compagno animale:
 - mani: [guanti deliquescenti](https://golarion.altervista.org/wiki/Guanti_Deliquescenti)
 - [pietra magica prisma rosa pallido](https://golarion.altervista.org/wiki/Pietre_Magiche)
 
+valore totale: 222.4 kmo
 # Wishlist
 
 ## oggetti ottenuti

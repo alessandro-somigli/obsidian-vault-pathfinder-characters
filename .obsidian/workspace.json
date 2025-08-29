@@ -35,8 +35,7 @@
               "title": "Equipaggiamento"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,10 +199,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "dd6920a5257ac558",
+  "active": "790d7b43fd4cb89d",
   "lastOpenFiles": [
-    "zemenis/Equipaggiamento.md",
     "pf_ch_02/Equipaggiamento.md",
+    "zemenis/Equipaggiamento.md",
     "zemenis/Incantesimi.md",
     "zemenis/Azioni da Compiere (Zamenis).md",
     "pf_ch_02/Incantesimi.md",
