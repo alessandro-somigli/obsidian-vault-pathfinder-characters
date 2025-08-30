@@ -21,7 +21,7 @@ Domini: Follia, Vuoto (Arazzo Oscuro)
 3:  incantesimi focalizzati (necromanzia)
 5:  armatura pesante
 7:  incantesimi focalizzati superiore (necromanzia)
-9:  arm
+9:  
 11: interferenza divina
 13: incantesimi inarrestabili
 15: 
