@@ -41,6 +41,8 @@
 - combattimento:
 	- (0) [distruggere viventi](https://golarion.altervista.org/wiki/Incantesimi/Distruggere_Viventi)
 	- (0) [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
+	- (0) [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
+	- (0) [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore)
 - utility:
 	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
 	- (0) [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
@@ -49,5 +51,3 @@
 ## lv.7:
 ## lv.8:
 ## lv.9:
-
-
