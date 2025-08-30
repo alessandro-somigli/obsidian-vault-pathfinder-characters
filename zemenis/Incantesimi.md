@@ -5,6 +5,7 @@
 	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 	- (0) [devastazione](https://golarion.altervista.org/wiki/Incantesimi/Devastazione)
 	- (0) [momento di grandezza](https://golarion.altervista.org/wiki/Incantesimi/Momento_di_Grandezza)
+	- (0) [scudo della fede](https://golarion.altervista.org/wiki/Incantesimi/Scudo_della_Fede)
 - utility:
 	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
 ## lv.2:
@@ -13,6 +14,8 @@
 	- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
 	- (0) [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (V)
 	- (0) [baratto del martire](https://golarion.altervista.org/wiki/Incantesimi/Baratto_del_Martire) (I)
+- utility:
+	- (0) [fortuna eroica](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Eroica)
 ## lv.3:
 - buff:
 	- (0) [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
