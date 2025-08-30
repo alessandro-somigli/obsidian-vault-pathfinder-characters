@@ -20,6 +20,8 @@ oggetti magici:
 	- [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) (lv.1/2/3/4/5) (1/4/9/16/25 kmo)
 	- [sigillo malleabile](https://golarion.altervista.org/wiki/Simbolo_Malleabile) (10 kmo)
 
+arma: [uncino del mago]() (4.310 kmo)
+
 ---
 
 equipaggiamento Gioele
