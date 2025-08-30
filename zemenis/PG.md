@@ -40,7 +40,7 @@ benedizione da battaglia
 3:  capacità focalizzata
 5:  incanalare rapido
 7:  incanalare selettivo
-9:  
+9:  incantesimi focalizzati (?) / armonizzazione di emergenza
 11: interferenza divina X
 13: incantesimi inarrestabili X
 15: incantesimi rapidi X
@@ -52,7 +52,8 @@ benedizione da battaglia
 
 mente focalizzata: +2 prove di concentrazione
 proposito disperato: +1 prove di concentrazione, +4 in lotta
-missionario: +1 CD, CL di 3 incantesimi a scelta
 parto sacro: +1 CD incanalare
+
+missionario: +1 CD, CL di 3 incantesimi a scelta
 
 attaccato:

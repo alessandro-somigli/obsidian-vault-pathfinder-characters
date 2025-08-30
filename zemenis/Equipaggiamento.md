@@ -23,7 +23,7 @@ oggetti magici:
 
 - arma: [uncino del mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.310 kmo)
 
-budget: 144.256 kmo
+budget: 150 kmo
 
 [uncino del mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.310 kmo)
 [filatterio dell'energia negativa](https://golarion.altervista.org/wiki/Filatterio_dell%27Energia_Negativa) (11 kmo)
@@ -41,6 +41,7 @@ budget: 144.256 kmo
 [anello della protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) (+2) (8 kmo)
 
 [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) (+3) (9 kmo)
+[ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
 
 rimanente: 2.170 kmo
 
