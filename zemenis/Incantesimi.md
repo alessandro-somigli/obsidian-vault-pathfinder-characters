@@ -3,8 +3,11 @@
 	- (0) [santuario](https://golarion.altervista.org/wiki/Incantesimi/Santuario)
 	- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
 	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
+- utility:
+	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
 ## lv.2:
 - combattimento:
+	- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
 	- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
 	- (0) [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (V)
 	- (0) [baratto del martire](https://golarion.altervista.org/wiki/Incantesimi/Baratto_del_Martire) (I)

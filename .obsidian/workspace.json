@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zemenis/PG.md",
+                "file": "zemenis/Equipaggiamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PG"
+              "title": "Equipaggiamento"
             }
           },
           {
@@ -201,11 +201,11 @@
   },
   "active": "dd6920a5257ac558",
   "lastOpenFiles": [
-    "zemenis/Equipaggiamento.md",
+    "zemenis/Incantesimi.md",
     "zemenis/PG.md",
     "pf_ch_02/Equipaggiamento.md",
+    "zemenis/Equipaggiamento.md",
     "zemenis/Azioni da Compiere (Zamenis).md",
-    "zemenis/Incantesimi.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/Forma Selvatica.md",
     "pf_ch_02/Domande & Risposte.md",
