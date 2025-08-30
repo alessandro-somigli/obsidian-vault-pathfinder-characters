@@ -24,8 +24,13 @@ Domini: Follia, Vuoto (Arazzo Oscuro)
 9:  
 11: interferenza divina
 13: incantesimi inarrestabili
-15: 
+15: incantesimi inarrestabili superiore
 17: 
 19: 
 
+## Tratti
+
+mente focalizzata: +2 prove di concentrazione
+proposito disperato: +1 prove di concentrazione, +4 in lotta
+missionario: +1 CD, CL di 3 incantesimi a scelta
 
