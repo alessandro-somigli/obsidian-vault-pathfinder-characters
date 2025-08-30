@@ -1,4 +1,5 @@
-## lv.1: (6+1)
+## lv.1: (6)
+- [confusione inferiore](https://golarion.altervista.org/wiki/Incantesimi/Confusione_Inferiore)
 - combattimento:
 	- (0) [santuario](https://golarion.altervista.org/wiki/Incantesimi/Santuario)
 	- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
@@ -8,7 +9,8 @@
 	- (0) [scudo della fede](https://golarion.altervista.org/wiki/Incantesimi/Scudo_della_Fede)
 - utility:
 	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
-## lv.2: (6+1)
+## lv.2: (6)
+- [tocco di idiozia](https://golarion.altervista.org/wiki/Incantesimi/Tocco_di_Idiozia)
 - combattimento:
 	- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
 	- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
@@ -16,7 +18,8 @@
 	- (0) [baratto del martire](https://golarion.altervista.org/wiki/Incantesimi/Baratto_del_Martire) (I)
 - utility:
 	- (0) [fortuna eroica](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Eroica)
-## lv.3: (5+1)
+## lv.3: (5)
+- [ira](https://golarion.altervista.org/wiki/Incantesimi/Ira)
 - buff:
 	- (0) [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
 - combattimento:
@@ -26,7 +29,8 @@
 - utility:
 	- (0) [taumaturgia collaborativa](https://golarion.altervista.org/wiki/Incantesimi/Taumaturgia_Collaborativa) (I)
 	- (0) [rimuovi maledizione](https://golarion.altervista.org/wiki/Database_Incantesimi)
-## lv.4: (4+1)
+## lv.4: (4)
+- [confusione](https://golarion.altervista.org/wiki/Incantesimi/Confusione)
 - buff:
 	 - (0) [arma magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Arma_Magica_Superiore) (1h/lv)
 	 - (0) [infondere capacità magiche](https://golarion.altervista.org/wiki/Incantesimi/Infondere_Capacit%C3%A0_Magiche)
@@ -37,7 +41,8 @@
 	 - (0) [ristorare](https://golarion.altervista.org/wiki/Incantesimi/Ristorare)
 - utility:
 	 - (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria)
-## lv.5: (2+1)
+## lv.5: (2)
+- [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo)
 - combattimento:
 	- (0) [distruggere viventi](https://golarion.altervista.org/wiki/Incantesimi/Distruggere_Viventi)
 	- (0) [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
@@ -46,8 +51,7 @@
 - utility:
 	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
 	- (0) [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
-## lv.6: (0)
- - (0) [guarigione](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
+## lv.6:
 ## lv.7:
 ## lv.8:
 ## lv.9:
