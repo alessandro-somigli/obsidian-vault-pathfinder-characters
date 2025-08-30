@@ -19,8 +19,9 @@ oggetti magici:
 	- [ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
 	- [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) (lv.1/2/3/4/5) (1/4/9/16/25 kmo)
 	- [sigillo malleabile](https://golarion.altervista.org/wiki/Simbolo_Malleabile) (10 kmo)
+	- [filatterio dell'energia negativa](https://golarion.altervista.org/wiki/Filatterio_dell%27Energia_Negativa) (11 kmo)
 
-arma: [uncino del mago]() (4.310 kmo)
+- arma: [uncino del mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.310 kmo)
 
 ---
 

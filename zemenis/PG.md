@@ -31,6 +31,22 @@
 questa build devia dalla build standard rimuovendo incanalare selettivo, questo è possibile grazie ad un oggetto, il [sigillo malleabile](https://golarion.altervista.org/wiki/Simbolo_Malleabile) (10 kmo) che permette di cambiare la propagazione di incanalare con un azione gratuita.
 
 
+armonizzazione di emergenza
+benedizione da battaglia
+
+### Build con Talenti Essenziali
+
+1:  incanalare migliorato
+3:  capacità focalizzata
+5:  incanalare rapido
+7:  incanalare selettivo
+9:  
+11: interferenza divina X
+13: incantesimi inarrestabili X
+15: incantesimi rapidi X
+17: incantesimi inarrestabili superiore X
+19: 
+
 
 ### Tratti
 
