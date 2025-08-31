@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zemenis/PG.md",
+                "file": "pf_ch_02/PG.md",
                 "mode": "source",
                 "source": false
               },
@@ -161,13 +161,13 @@
   },
   "active": "ceec9e14f00fc4bf",
   "lastOpenFiles": [
-    "zemenis/Incantesimi.md",
     "pf_ch_02/Incantesimi.md",
+    "pf_ch_02/PG.md",
+    "zemenis/PG.md",
+    "zemenis/Incantesimi.md",
     "zemenis/Equipaggiamento.md",
     "zemenis/Azioni da Compiere (Zamenis).md",
-    "pf_ch_02/PG.md",
     "pf_ch_02/Azioni da Ricordare.md",
-    "zemenis/PG.md",
     "pf_ch_04/PG.md",
     "/zemenis/PG.md",
     "/zemenis/Incantesimi.md",
