@@ -35,7 +35,7 @@
 	- (0) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
 	- (0) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
-	- (2) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
+	- (0) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
 	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
 	- (0) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
@@ -89,8 +89,8 @@
 	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS) 
 ## lv.3: (5)
 - prep:
-	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
-	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
+	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
+	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
 	- (1) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
