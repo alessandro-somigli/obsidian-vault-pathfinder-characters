@@ -43,9 +43,9 @@
 	- (0) [zanna magica](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica) 
 - combattimento:
 	- (0) [evoca alleato minore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Alleato_Minore) (puzzola) 
-	- (0) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
+	- (1) [intralciare](https://golarion.altervista.org/wiki/Incantesimi/Intralciare) (TRA) (no SR) 
 	- (0) [produrre fiamma](https://golarion.altervista.org/wiki/Incantesimi/Produrre_Fiamma) (no TS) 
-	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
+	- (1) [foschia occultante](https://golarion.altervista.org/wiki/Incantesimi/Foschia_Occultante) (no SR) (no TS) 
 	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
 	- (0) [scudo d'onda](https://golarion.altervista.org/wiki/Incantesimi/Scudo_d%27Onda) (I) 
 	- (0) [fuga nel vento](https://golarion.altervista.org/wiki/Incantesimi/Fuga_nel_Vento) (I) 
@@ -116,7 +116,7 @@
 - utilità:
 	- (0) [respirare sott'acqua](https://golarion.altervista.org/wiki/Incantesimi/Respirare_Sott%27Acqua) (2h/lv) 
 	- (0) [movimenti del ragno collettivo](https://golarion.altervista.org/wiki/Incantesimi/Movimenti_del_Ragno_Collettivo) 
-	- (1) [scolpire pietra](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Pietra) 
+	- (0) [scolpire pietra](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Pietra) 
 	- (0) [migliora trappola](https://golarion.altervista.org/wiki/Incantesimi/Migliora_Trappola) 
 	- (0) [creare mappa del tesoro](https://golarion.altervista.org/wiki/Incantesimi/Creare_Mappa_del_Tesoro) (M 100mo) 
 ## lv.4: (4)
@@ -130,9 +130,9 @@
 - combattimento:
 	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
 	- (1) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
-	- (1) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
+	- (2) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
 	- (0) [fulmine globulare](https://golarion.altervista.org/wiki/Incantesimi/Fulmine_Globulare) 
-	- (1) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
+	- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
 - cure:
 	- (0) [reincarnazione](https://golarion.altervista.org/wiki/Incantesimi/Reincarnazione) (M 1000mo) 
 	- (0) [cura ferite gravi](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Gravi) 
