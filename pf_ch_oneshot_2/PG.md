@@ -1,0 +1,55 @@
+nome: -
+soprannome: -
+
+allineamento: CN
+
+Divinità: [Dei Esterni](https://golarion.altervista.org/wiki/Dio_Esterno)
+
+linguaggi: -
+età: -
+altezza: -
+peso: -
+
+classe preferita: 
+
+tratti:
+ - 
+ - 
+ - 
+ - 
+
+# Stats
+
+livello: 10
+punti eroe: 3
+
+pf: -
+
+| stats | base | race | tot | mod |
+| ----- | ---- | ---- | --- | --- |
+| FOR   | 12   |      | 12  | +1  |
+| DEX   | 12   |      | 12  | +1  |
+| COS   | 18   | +2   | 20  | +5  |
+| INT   | 12   |      | 12  | +1  |
+| SAG   | 18   | +2   | 20  | +5  |
+| CAR   | 10   | -2   | 8   | -1  |
+
+# Razza
+
+razza: [Aasimar](https://golarion.altervista.org/wiki/Razze/Aasimar)
+
+tratti razziali:
+ - 
+ - 
+ - 
+
+
+
+# Equipaggiamento
+
+- armatura completa +2 (5.5 kmo)
+- scudo pesante di ferro +2 (4 kmo)
+- fascia della saggezza +4
+- 
+
+budget: 62 kmo

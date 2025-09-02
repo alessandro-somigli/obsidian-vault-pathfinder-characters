@@ -20,7 +20,7 @@ Domini: Follia, Vuoto (Arazzo Oscuro)
 | COS   | 18   | +2   | 20  | +5  |
 | INT   | 12   |      | 12  | +1  |
 | SAG   | 18   | +2   | 20  | +5  |
-| CAR   | 10   |      | 10  | +0  |
+| CAR   | 10   | -2   | 8   | -1  |
 
 ## Talenti
 
@@ -34,6 +34,7 @@ Domini: Follia, Vuoto (Arazzo Oscuro)
 15: incantesimi inarrestabili superiore
 17: 
 19: 
+
 
 ## Tratti
 
