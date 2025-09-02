@@ -14,7 +14,7 @@ Domini: Follia, Vuoto (Arazzo Oscuro)
 | CAR   | 10   |      | 10  | +0  |
 
 
-## Talenti
+	## Talenti
 
 1:  
 1:  
