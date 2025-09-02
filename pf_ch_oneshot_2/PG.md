@@ -13,8 +13,8 @@ peso: -
 classe preferita: 
 
 tratti:
- - 
- - 
+ - mente focalizzata: +2 prove di concentrazione
+ - missionario: +1 CD, CL di 3 incantesimi a scelta
  - 
  - 
 
@@ -42,7 +42,13 @@ tratti razziali:
  - 
  - 
  - 
+# Talenti
 
+1: incantesimi focalizzati (necromanzia)
+3: incantesimi focalizzati superiore (necromanzia)
+5: competenza nelle armature pesanti
+7: 
+9: 
 
 
 # Equipaggiamento
@@ -61,5 +67,3 @@ tratti razziali:
 speso: 55.31 kmo
 
 budget: 62 kmo
-
-ca: 10 + 12 + 5 + 1 + 1 + 1 = 30
