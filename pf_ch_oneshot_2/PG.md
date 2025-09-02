@@ -36,7 +36,7 @@ pf: -
 
 # Razza
 
-razza: [Aasimar](https://golarion.altervista.org/wiki/Razze/Aasimar)
+razza: -
 
 tratti razziali:
  - 
@@ -47,9 +47,19 @@ tratti razziali:
 
 # Equipaggiamento
 
-- armatura completa +2 (5.5 kmo)
-- scudo pesante di ferro +2 (4 kmo)
-- fascia della saggezza +4
-- 
+- armatura completa +3 (10.5 kmo)
+- scudo pesante di ferro +3 (9 kmo)
+- mantello della resistenza +2 (4 kmo)
+- amuleto dell'armatura naturale +1 (2 kmo)
+- anello della protezione +1 (2 kmo)
+- [guanti elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
+- fascia dell'ispirazione +4 (16 kmo)
+- [uncino del mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.310 kmo)
+- [ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
+
+
+speso: 55.31 kmo
 
 budget: 62 kmo
+
+ca: 10 + 12 + 5 + 1 + 1 + 1 = 30
