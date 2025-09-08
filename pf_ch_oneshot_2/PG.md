@@ -43,6 +43,13 @@ tratti razziali:
  - 
  - 
 
+# Classe
+
+classe: [Chierico](https://golarion.altervista.org/wiki/Chierico)
+
+domini: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia), [Vuoto](https://golarion.altervista.org/wiki/Dominio_del_Vuoto) (Arazzo Oscuro)
+
+
 # Talenti
 
 1: incantesimi focalizzati (necromanzia)
@@ -50,7 +57,6 @@ tratti razziali:
 5: competenza nelle armature pesanti
 7: 
 9: 
-
 
 # Equipaggiamento
 
