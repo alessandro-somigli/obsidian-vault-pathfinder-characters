@@ -5,12 +5,12 @@ allineamento: CN
 
 Divinità: [Dei Esterni](https://golarion.altervista.org/wiki/Dio_Esterno)
 
-linguaggi: -
-età: -
-altezza: -
-peso: -
+linguaggi: Comune, Nanico
+età: 73
+altezza: 1.18 m
+peso: 94 Kg
 
-classe preferita: 
+classe preferita: [Chierico](https://golarion.altervista.org/wiki/Chierico)
 
 tratti:
  - mente focalizzata: +2 prove di concentrazione
@@ -23,25 +23,26 @@ tratti:
 livello: 10
 punti eroe: 3
 
-pf: -
+pf: 118
 
 | stats | base | race | tot | mod |
 | ----- | ---- | ---- | --- | --- |
-| FOR   | 12   |      | 12  | +1  |
+| FOR   | 14   |      | 14  | +1  |
 | DEX   | 12   |      | 12  | +1  |
 | COS   | 18   | +2   | 20  | +5  |
-| INT   | 12   |      | 12  | +1  |
+| INT   | 10   |      | 10  | +1  |
 | SAG   | 18   | +2   | 20  | +5  |
-| CAR   | 10   | -2   | 8   | -1  |
+| CAR   | 8    | -2   | 6   | -2  |
 
 # Razza
 
-razza: -
+razza: Nano
 
 tratti razziali:
  - 
  - 
  - 
+
 # Talenti
 
 1: incantesimi focalizzati (necromanzia)
@@ -62,8 +63,5 @@ tratti razziali:
 - fascia dell'ispirazione +4 (16 kmo)
 - [uncino del mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.310 kmo)
 - [ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
-
-
-speso: 55.31 kmo
 
 budget: 62 kmo
