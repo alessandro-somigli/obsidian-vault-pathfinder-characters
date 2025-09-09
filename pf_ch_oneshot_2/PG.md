@@ -15,8 +15,8 @@ classe preferita: [Chierico](https://golarion.altervista.org/wiki/Chierico)
 tratti:
  - mente focalizzata: +2 prove di concentrazione
  - missionario: +1 CD, CL di 3 incantesimi a scelta
- - 
- - 
+ - cercante: +1 percezione, percezione abilità di classe
+ - xenofobico: -2 diplomazia, -2 intuizione
 
 # Stats
 
@@ -39,9 +39,12 @@ pf: 118
 razza: Nano
 
 tratti razziali:
- - 
- - 
- - 
+ - [Bonus Razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +2 ai [Tiri Salvezza](https://golarion.altervista.org/wiki/Tiri_Salvezza "Tiri Salvezza") contro [Veleni](https://golarion.altervista.org/wiki/Veleni "Veleni"), incantesimi e [Capacità Magiche](https://golarion.altervista.org/wiki/Capacit%C3%A0_Magiche "Capacità Magiche")
+ - [Bonus Razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +4 alla [DMC](https://golarion.altervista.org/wiki/DMC "DMC") contro [Spingere](https://golarion.altervista.org/wiki/Spingere "Spingere") e [Sbilanciare](https://golarion.altervista.org/wiki/Sbilanciare "Sbilanciare")
+ - [Bonus Razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +1 contro influenza mentale tranne paura.
+ - [Bonus Razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +2 a [Conoscenze](https://golarion.altervista.org/wiki/Conoscenze "Conoscenze") (religioni) per identificare non morti
+ - [Bonus Razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +2 ad [Artigianato](https://golarion.altervista.org/wiki/Artigianato "Artigianato") e [Professione](https://golarion.altervista.org/wiki/Professione "Professione") per creare oggetti in pietra e metallo.
+ - +1 ai [Tiri per Colpire](https://golarion.altervista.org/wiki/Tiri_per_Colpire "Tiri per Colpire") e [Bonus di Schivare](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Schivare\) "Glossario") +1 alla [CA](https://golarion.altervista.org/wiki/CA "CA") contro non morti.
 
 # Classe
 
