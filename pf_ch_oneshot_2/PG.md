@@ -73,6 +73,3 @@ domini: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia), [Vu
 - [ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
 
 budget: 62 kmo
-
-mal:     10 + 7 + 3 + 2 = 22
-mal max: 10 + 7 + 5 + 2 = 24
