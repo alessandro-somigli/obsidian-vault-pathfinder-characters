@@ -51,4 +51,5 @@
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
 - combattimento:
 	- (0) [maledizione maggiore](https://golarion.altervista.org/wiki/Maledizione_Maggiore "Maledizione Maggiore") (N)
-	- 
+	- (0) [muro di cecità/sordità](https://golarion.altervista.org/wiki/Muro_di_Cecit%C3%A0/Sordit%C3%A0 "Muro di Cecità/Sordità") (N)
+	- (0) [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
