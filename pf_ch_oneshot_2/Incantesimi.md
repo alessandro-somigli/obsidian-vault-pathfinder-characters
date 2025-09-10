@@ -32,13 +32,22 @@
 - dominio:
 	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
 	- (0) [ira](https://golarion.altervista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
+- combattimento:
+	- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
+	- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Scagliare_Maledizione "Scagliare Maledizione") (N)
+	- 
 
 ### lv.4: (5+1):
 - dominio:
 	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
 	- (0) [confusione](https://golarion.altervista.org/wiki/Confusione "Confusione")
+- buff:
+	- (0) [aura di devastazione](https://golarion.altervista.org/wiki/Aura_di_Devastazione "Aura di Devastazione") (10 min/lv) (N)
+- combattimento:
+	- (0) [benedizione del fervore](https://golarion.altervista.org/wiki/Benedizione_del_Fervore "Benedizione del Fervore")
 
 ### lv.5: (3+1):
 - dominio:
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
+- 
