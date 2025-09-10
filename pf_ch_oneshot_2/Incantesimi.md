@@ -35,7 +35,6 @@
 - combattimento:
 	- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
 	- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Scagliare_Maledizione "Scagliare Maledizione") (N)
-	- 
 
 ### lv.4: (5+1):
 - dominio:
@@ -50,4 +49,6 @@
 - dominio:
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
-- 
+- combattimento:
+	- (0) [maledizione maggiore](https://golarion.altervista.org/wiki/Maledizione_Maggiore "Maledizione Maggiore") (N)
+	- 
