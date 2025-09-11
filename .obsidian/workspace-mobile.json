@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zemenis/Incantesimi.md",
+                "file": "pf_ch_02/Incantesimi.md",
                 "mode": "source",
                 "source": false
               },
@@ -150,6 +150,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -161,11 +162,19 @@
   },
   "active": "ceec9e14f00fc4bf",
   "lastOpenFiles": [
-    "pf_ch_02/Incantesimi.md",
-    "pf_ch_02/Forma Selvatica.md",
+    "pf_ch_oneshot_2/PG.md",
+    "pf_ch_oneshot_2/Incantesimi.md",
+    "/pf_ch_oneshot_2/PG.md",
+    "/pf_ch_oneshot_2/Incantesimi.md",
+    "/pf_ch_04/PG.md",
+    "/pf_ch_04",
+    "pf_ch_oneshot_2",
+    "/pf_ch_oneshot_2",
     "pf_ch_02/PG.md",
-    "zemenis/PG.md",
+    "pf_ch_02/Incantesimi.md",
     "zemenis/Incantesimi.md",
+    "pf_ch_02/Forma Selvatica.md",
+    "zemenis/PG.md",
     "zemenis/Equipaggiamento.md",
     "zemenis/Azioni da Compiere (Zamenis).md",
     "pf_ch_02/Azioni da Ricordare.md",
@@ -174,7 +183,6 @@
     "/zemenis/Incantesimi.md",
     "/zemenis/Equipaggiamento.md",
     "/zemenis/Azioni da Compiere (Zamenis).md",
-    "/pf_ch_04/PG.md",
     "/pf_ch_02/Incantesimi.md",
     "/pf_ch_02/Equipaggiamento.md",
     "/pf_ch_02/Azioni da Ricordare.md",
@@ -182,16 +190,11 @@
     "zemenis",
     "pf_ch_04",
     "/zemenis",
-    "/pf_ch_04",
     "pf_ch_02/Equipaggiamento.md",
     "/pf_ch_02/PG.md",
     "conflict-files-obsidian-git.md",
     "/conflict-files-obsidian-git.md",
     "pf_ch_03/PG.md",
-    "pf_ch_02/Creature evocate.md",
-    "pf_ch_02/Domande & Risposte.md",
-    "/pf_ch_02/Forma Selvatica.md",
-    "pf_ch_02/Backstory.md",
     "pf_ch_03",
     "/pf_ch_03"
   ]
