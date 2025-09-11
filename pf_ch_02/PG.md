@@ -26,9 +26,9 @@ tratti:
 # Stats
 
 livello: 9
-punti eroe: 3
+punti eroe: 5
 
-pf: 87
+pf: 96
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |
