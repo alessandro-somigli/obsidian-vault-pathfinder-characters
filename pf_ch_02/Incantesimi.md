@@ -129,8 +129,8 @@
 	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
 - combattimento:
 	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
-	- (1) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
-	- (2) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
+	- (0) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
+	- (0) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
 	- (0) [fulmine globulare](https://golarion.altervista.org/wiki/Incantesimi/Fulmine_Globulare) 
 	- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
 - cure:
@@ -146,7 +146,7 @@
 	- (0) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - combattimento:
-	- (2) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
+	- (1) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
 	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR)
 	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR)
 	- (0) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS)
