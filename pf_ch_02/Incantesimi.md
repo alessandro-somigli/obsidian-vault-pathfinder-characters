@@ -143,10 +143,10 @@
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
 ## lv.5: (3) (+1 perla del potere lv.5)
 - buffs:
-	- (1) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
+	- (0) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - combattimento:
-	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
+	- (2) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
 	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR)
 	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR)
 	- (0) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS)
