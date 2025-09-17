@@ -1,5 +1,5 @@
 
-pf: 79
+pf: 89
 
 | stats | base | race | tot | mod |
 | ----- | ---- | ---- | --- | --- |
@@ -13,11 +13,11 @@ pf: 79
 # Talenti:
 
 1: arma focalizzata (pugnale)
-1: 
-3: 
-5: 
-7: 
-9: 
+1: maestria in combattimento
+3: combattere con due armi
+5: combattere con due armi migliorato
+7: fintare con due armi
+9: fintare con due armi migliorato
 
 ---
 

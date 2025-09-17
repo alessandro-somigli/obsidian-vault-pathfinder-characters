@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1651b2cedd69591",
+        "id": "56faf976eb7c5bcf",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3ec40cb2bc6635",
+            "id": "29ea562c1e48fb84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "e9ec304fda604056",
+            "id": "c14f3d9d286b9fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "PG"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_lory_01/PG.md",
+                "file": "pf_ch_oneshot_2/PG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -200,10 +199,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e9ec304fda604056",
+  "active": "29ea562c1e48fb84",
   "lastOpenFiles": [
-    "pf_ch_oneshot_2/PG.md",
     "pf_lory_01/PG.md",
+    "pf_ch_oneshot_2/PG.md",
     "pf_ch_oneshot_2/Incantesimi.md",
     "pf_ch_04/PG.md",
     "pf_lory_01",
