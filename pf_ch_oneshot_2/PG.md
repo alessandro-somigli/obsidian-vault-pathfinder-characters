@@ -3,7 +3,7 @@ soprannome: -
 
 allineamento: CN
 
-Divinità: [Dei Esterni](https://golarion.altervista.org/wiki/Dio_Esterno)
+Divinità: [Azatoth](https://golarion.altervista.org/wiki/Azathoth), [Dio Esterno](https://golarion.altervista.org/wiki/Dio_Esterno)
 
 linguaggi: Comune, Nanico
 età: 73
