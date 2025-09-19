@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/PG.md",
+                "file": "pf_ch_oneshot_2/PG.md",
                 "mode": "source",
                 "source": false
               },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_04/PG.md",
+                "file": "pf_ch_oneshot_2/PG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -201,9 +201,9 @@
   },
   "active": "29ea562c1e48fb84",
   "lastOpenFiles": [
+    "pf_ch_04/PG.md",
     "pf_ch_oneshot_2/PG.md",
     "pf_lory_01/PG.md",
-    "pf_ch_04/PG.md",
     "pf_ch_oneshot_2/Incantesimi.md",
     "pf_lory_01",
     "pf_ch_02/Equipaggiamento.md",
