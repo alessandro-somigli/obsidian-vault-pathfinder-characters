@@ -65,15 +65,15 @@ privilegi di classe:
 
 doti del ladro:
 
-| lvl | chk | dote del ladro |
-| --- | --- | -------------- |
-| 2   | X   | recupero       |
-| 4   | X   |                |
-| 6   | X   |                |
-| 8   | X   |                |
-| 10  | X   |                |
-| ex  | X   |                |
-| ex  |     |                |
+| lvl | chk | dote del ladro                                                                                                     |
+| --- | --- | ------------------------------------------------------------------------------------------------------------------ |
+| 2   | X   | [recupero](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Recupero_\(Str\))                   |
+| 4   | X   | <br>[assaltatore](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Assaltatore_\(Str\))         |
+| 6   | X   | [poliedrico](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Poliedrico_\(Str\)) (assaltatore) |
+| 8   | X   | subdolo                                                                                                            |
+| 10  | X   | doppia debilitazione                                                                                               |
+| ex  | X   | attacco sanguinante                                                                                                |
+| ex  | X   | addestramento in un'arma (kukri)                                                                                   |
 
 
 ## Abilità
@@ -94,7 +94,7 @@ doti del ladro:
 
 | lvl | chk | talento                                                                                     |
 | --- | --- | ------------------------------------------------------------------------------------------- |
-| 1   | X   | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (pugnale)         |
+| 1   | X   | [iniziativa migliorata](https://golarion.altervista.org/wiki/Iniziativa_Migliorata)         |
 | 1   | X   | [dote da ladro extra](https://golarion.altervista.org/wiki/Dote_da_Ladro_Extra)             |
 | 3   | X   | [grande fiancheggiatore](https://golarion.altervista.org/wiki/Grande_Fiancheggiatore)       |
 | 5   | X   | [riflessi in combattimento](https://golarion.altervista.org/wiki/Riflessi_in_Combattimento) |
