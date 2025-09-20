@@ -81,14 +81,14 @@ privilegi di classe:
 | 7   | X   | fintare con due armi               |
 | 9   | X   | fintare con due armi migliorato    |
 
-| lvl | chk | talento                                                                               |
-| --- | --- | ------------------------------------------------------------------------------------- |
-| 1   | X   |                                                                                       |
-| 1   | X   |                                                                                       |
-| 3   | X   |                                                                                       |
-| 5   | X   |                                                                                       |
-| 7   | X   | [grande fiancheggiatore](https://golarion.altervista.org/wiki/Grande_Fiancheggiatore) |
-| 9   | X   | [critico migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)         |
+| lvl | chk | talento                                                                                     |
+| --- | --- | ------------------------------------------------------------------------------------------- |
+| 1   | X   |                                                                                             |
+| 1   | X   |                                                                                             |
+| 3   | X   |                                                                                             |
+| 5   | X   | [riflessi in combattimento](https://golarion.altervista.org/wiki/Riflessi_in_Combattimento) |
+| 7   | X   | [grande fiancheggiatore](https://golarion.altervista.org/wiki/Grande_Fiancheggiatore)       |
+| 9   | X   | [critico migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)               |
 
 ## Equipaggiamento
 

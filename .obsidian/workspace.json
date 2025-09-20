@@ -35,8 +35,7 @@
               "title": "PG"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_ch_oneshot_2/PG.md",
+                "file": "pf_lory_01/PG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -200,10 +199,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f3c3995726a14171",
+  "active": "0f66537d632da99a",
   "lastOpenFiles": [
-    "pf_lory_01/PG.md",
     "pf_ch_oneshot_2/PG.md",
+    "pf_lory_01/PG.md",
     "pf_ch_04/PG.md",
     "PF Canvas.md",
     "pf_ch_02/PG.md",
