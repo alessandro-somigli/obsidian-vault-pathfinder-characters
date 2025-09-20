@@ -45,15 +45,17 @@ tratti razziali:
 
 classe: [Ladro Rivisitato]()
 
+archetipo: [Bandito](https://golarion.altervista.org/wiki/Ladro/Archetipi#Bandito)
+
 gradi abilità per livello: `8 + MOD.INT + 1`
 
 privilegi di classe:
 
 | lvl | chk | privilegio di classe                |
 | --- | --- | ----------------------------------- |
-| 1   | X   | lancio spontaneo (energia positiva) |
-| 1   | X   | incanalare energia positiva (3/g)   |
-| 1   | X   | aura caotica                        |
+| 1   |     | lancio spontaneo (energia positiva) |
+| 4   | X   |                                     |
+| 8   | X   |                                     |
 
 ## Abilità
  - diplomazia: 10
@@ -66,7 +68,7 @@ privilegi di classe:
  - furtività: 10
  - acrobazia: 10
  - sapienza magica: 10
-
+ - artista della fuga: 10
 
 ## Talenti
 
@@ -78,3 +80,15 @@ privilegi di classe:
 | 5   | X   | combattere con due armi migliorato |
 | 7   | X   | fintare con due armi               |
 | 9   | X   | fintare con due armi migliorato    |
+
+| lvl | chk | talento                                                                               |
+| --- | --- | ------------------------------------------------------------------------------------- |
+| 1   | X   |                                                                                       |
+| 1   | X   |                                                                                       |
+| 3   | X   |                                                                                       |
+| 5   | X   |                                                                                       |
+| 7   | X   | [grande fiancheggiatore](https://golarion.altervista.org/wiki/Grande_Fiancheggiatore) |
+| 9   | X   | [critico migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)         |
+
+## Equipaggiamento
+

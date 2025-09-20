@@ -58,7 +58,7 @@ domini: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia), [Vu
 3: incantesimi focalizzati superiore (necromanzia)
 5: competenza nelle armature pesanti
 7: scudo focalizzato
-9: incantesimi persistenti
+9: grande fiancheggiatore
 
 # Equipaggiamento
 
