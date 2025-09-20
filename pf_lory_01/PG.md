@@ -51,13 +51,33 @@ gradi abilità per livello: `8 + MOD.INT + 1`
 
 privilegi di classe:
 
-| lvl | chk | privilegio di classe |
-| --- | --- | -------------------- |
-| 1   |     |                      |
-| 4   |     |                      |
-| 8   |     |                      |
+| lvl | chk | privilegio di classe   |
+| --- | --- | ---------------------- |
+| 1   | X   | attacco furtivo (+5d6) |
+| 1   | X   | scoprire trappole      |
+| 1   | X   | addestramento accurato |
+| 2   | X   | eludere                |
+| 3   | X   | senso del pericolo     |
+| 4   | X   | ferita debilitante     |
+| 4   | X   | imboscata              |
+| 5   | X   | vantaggio del ladro    |
+| 8   | X   | colpo spaventoso       |
+
+doti del ladro:
+
+| lvl | chk | dote del ladro |
+| --- | --- | -------------- |
+| 2   | X   | recupero       |
+| 4   | X   |                |
+| 6   | X   |                |
+| 8   | X   |                |
+| 10  | X   |                |
+| ex  | X   |                |
+| ex  |     |                |
+
 
 ## Abilità
+
  - diplomazia: 10
  - raggirare: 10
  - intimidire: 10
@@ -76,9 +96,9 @@ privilegi di classe:
 | --- | --- | ------------------------------------------------------------------------------------------- |
 | 1   | X   | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (pugnale)         |
 | 1   | X   | [dote da ladro extra](https://golarion.altervista.org/wiki/Dote_da_Ladro_Extra)             |
-| 3   | X   | critico focalizzato                                                                         |
+| 3   | X   | [grande fiancheggiatore](https://golarion.altervista.org/wiki/Grande_Fiancheggiatore)       |
 | 5   | X   | [riflessi in combattimento](https://golarion.altervista.org/wiki/Riflessi_in_Combattimento) |
-| 7   | X   | [grande fiancheggiatore](https://golarion.altervista.org/wiki/Grande_Fiancheggiatore)       |
+| 7   | X   | [critico focalizzato](https://golarion.altervista.org/wiki/Critico_Focalizzato)             |
 | 9   | X   | [critico migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)               |
 
 ## Equipaggiamento
