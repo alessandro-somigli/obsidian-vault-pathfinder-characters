@@ -77,15 +77,3 @@ privilegi di classe:
 | 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
 | 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
 | 19  |     |                                                                                                                           |
-
-## Dominio secondario possibile
-
-### Vuoto:
- - volare
- - volo giornaliero
- - sollevare il velo
-
-### Arazzo Oscuro:
- - volare
- - giunto dall'ignoto
- - sollevare il velo
