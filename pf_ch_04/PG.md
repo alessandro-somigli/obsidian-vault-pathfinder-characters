@@ -50,6 +50,10 @@ tratti razziali:
 
 classe: [Chierico](https://golarion.altervista.org/wiki/Chierico)
 
+Divinità: [Azatoth](https://golarion.altervista.org/wiki/Azathoth), [Dio Esterno](https://golarion.altervista.org/wiki/Dio_Esterno) (CN)
+
+Domini: Follia, Vuoto (Arazzo Oscuro)
+
 gradi abilità per livello: `2 + MOD.INT`
 
 privilegi di classe:
@@ -73,10 +77,3 @@ privilegi di classe:
 | 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
 | 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
 | 19  |     |                                                                                                                           |
-## Tratti
-
-# Classe
-
-Divinità: [Dei Esterni](https://golarion.altervista.org/wiki/Dio_Esterno)
-
-Domini: Follia, Vuoto (Arazzo Oscuro)
