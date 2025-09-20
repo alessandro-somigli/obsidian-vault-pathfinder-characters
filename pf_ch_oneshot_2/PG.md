@@ -63,7 +63,7 @@ domini: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia), [Vu
 # Equipaggiamento
 
 - armatura completa +3 (10.5 kmo)
-- scudo pesante di ferro +3 (9 kmo)
+- scudo torre di ferro +3 (9 kmo)
 - mantello della resistenza +2 (4 kmo)
 - amuleto dell'armatura naturale +1 (2 kmo)
 - anello della protezione +1 (2 kmo)

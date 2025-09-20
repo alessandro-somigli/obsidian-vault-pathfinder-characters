@@ -11,11 +11,10 @@ peso:
 classe preferita: Ladro Rivisitato
 
 tratti:
- - 
- - 
- - 
- - 
-
+ - anatomista: +1 per confermare colpi critici
+ - combattente insidioso: +1 ai danni attaccando ai fianchi
+ - reattivo +2 iniziativa
+ - legami familiari
 ## Stats
 
 livello: 10
@@ -65,16 +64,15 @@ privilegi di classe:
 
 doti del ladro:
 
-| lvl | chk | dote del ladro                                                                                                     |
-| --- | --- | ------------------------------------------------------------------------------------------------------------------ |
-| 2   | X   | [recupero](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Recupero_\(Str\))                   |
-| 4   | X   | <br>[assaltatore](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Assaltatore_\(Str\))         |
-| 6   | X   | [poliedrico](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Poliedrico_\(Str\)) (assaltatore) |
-| 8   | X   | subdolo                                                                                                            |
-| 10  | X   | doppia debilitazione                                                                                               |
-| ex  | X   | attacco sanguinante                                                                                                |
-| ex  | X   | addestramento in un'arma (kukri)                                                                                   |
-
+| lvl | chk | dote del ladro                                                                                                                   |
+| --- | --- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 2   | X   | [recupero](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Recupero_\(Str\))                                 |
+| 4   | X   | [assaltatore](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Assaltatore_\(Str\))                           |
+| 6   | X   | [poliedrico](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Poliedrico_\(Str\)) (assaltatore)               |
+| 8   | X   | [subdolo](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Subdolo*_\(Str\))                                  |
+| ex  | X   | [attacco sanguinante](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Attacco_Sanguinante*_\(Str\))          |
+| ex  | X   | [addestramento in un'arma](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Addestramento_in_un'Arma) (kukri) |
+| 10  | X   | [doppia debilitazione](https://golarion.altervista.org/wiki/Ladro_Rivisitato/Doti_da_Ladro#Doppia_Debilitazione*_\(Str\))        |
 
 ## Abilità
 
@@ -103,3 +101,14 @@ doti del ladro:
 
 ## Equipaggiamento
 
+fronte: [fascia della seduzione](https://golarion.altervista.org/wiki/Fascia_della_Seduzione) +2 (4kmo)
+cintura: [cintura dell'agilità](https://golarion.altervista.org/wiki/Cintura_dell%27Agilit%C3%A0) +4 (16 kmo)
+
+anello 1: [anello di protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) +1 (2 kmo)
+collo: [amuleto dell'armatura naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) +1 (2 kmo)
+spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +2 (4 kmo)
+
+armatura: [haramaki](https://golarion.altervista.org/wiki/Armature/Haramaki) (+4) (16 kmo)
+arma: [kukri](https://golarion.altervista.org/wiki/Armi/Kukri) +3 (18 kmo)
+
+tot: 62 kmo
