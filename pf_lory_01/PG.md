@@ -1,20 +1,21 @@
-nome: -
-soprannome: -
+nome: Silver
+soprannome: Silver Wind
 
 allineamento: CN
 
-linguaggi: 
-età: 
-altezza: 
-peso: 
+linguaggi: Comune, Sottocomune, Goblin
+età: 16
+altezza: 1.65
+peso: 42Kg
 
-classe preferita: Ladro Rivisitato
+classe preferita: [Ladro Rivisitato](https://golarion.altervista.org/wiki/Ladro_Rivisitato)
 
 tratti:
  - anatomista: +1 per confermare colpi critici
  - combattente insidioso: +1 ai danni attaccando ai fianchi
- - reattivo +2 iniziativa
+ - reattivo: +2 iniziativa
  - legami familiari
+
 ## Stats
 
 livello: 10
