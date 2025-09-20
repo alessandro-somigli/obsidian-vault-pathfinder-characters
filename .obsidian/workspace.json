@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56faf976eb7c5bcf",
+        "id": "818f72c8a653505f",
         "type": "tabs",
         "children": [
           {
-            "id": "f3c3995726a14171",
+            "id": "328f8d9887268e92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PF Canvas.md",
+                "file": "pf_lory_01/PG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PF Canvas"
+              "title": "PG"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PF Canvas.md",
+                "file": "pf_lory_01/PG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PF Canvas"
+              "title": "Outgoing links from PG"
             }
           },
           {
@@ -185,12 +185,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f3c3995726a14171",
+  "active": "328f8d9887268e92",
   "lastOpenFiles": [
+    "pf_ch_03/PG.md",
+    "pf_lory_01/PG.md",
+    "PF Canvas.md",
     "pf_ch_oneshot_2/PG.md",
     "zemenis/Equipaggiamento.md",
-    "PF Canvas.md",
-    "pf_lory_01/PG.md",
     "pf_ch_04/PG.md",
     "pf_ch_02/PG.md",
     "pf_ch_oneshot_2/Incantesimi.md",
@@ -201,7 +202,6 @@
     "zemenis/PG.md",
     "zemenis/Incantesimi.md",
     "pf_ch_oneshot_2",
-    "pf_ch_03/PG.md",
     "zemenis/Azioni da Compiere (Zamenis).md",
     "pf_ch_03/Backstory.md",
     "pf_ch_04",

@@ -51,11 +51,11 @@ gradi abilità per livello: `8 + MOD.INT + 1`
 
 privilegi di classe:
 
-| lvl | chk | privilegio di classe                |
-| --- | --- | ----------------------------------- |
-| 1   |     | lancio spontaneo (energia positiva) |
-| 4   | X   |                                     |
-| 8   | X   |                                     |
+| lvl | chk | privilegio di classe |
+| --- | --- | -------------------- |
+| 1   |     |                      |
+| 4   |     |                      |
+| 8   |     |                      |
 
 ## Abilità
  - diplomazia: 10
@@ -72,20 +72,11 @@ privilegi di classe:
 
 ## Talenti
 
-| lvl | chk | talento                            |
-| --- | --- | ---------------------------------- |
-| 1   | X   | arma focalizzata (pugnale)         |
-| 1   | X   | maestria in combattimento          |
-| 3   | X   | combattere con due armi            |
-| 5   | X   | combattere con due armi migliorato |
-| 7   | X   | fintare con due armi               |
-| 9   | X   | fintare con due armi migliorato    |
-
 | lvl | chk | talento                                                                                     |
 | --- | --- | ------------------------------------------------------------------------------------------- |
-| 1   | X   |                                                                                             |
-| 1   | X   |                                                                                             |
-| 3   | X   |                                                                                             |
+| 1   | X   | [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (pugnale)         |
+| 1   | X   | [dote da ladro extra](https://golarion.altervista.org/wiki/Dote_da_Ladro_Extra)             |
+| 3   | X   | critico focalizzato                                                                         |
 | 5   | X   | [riflessi in combattimento](https://golarion.altervista.org/wiki/Riflessi_in_Combattimento) |
 | 7   | X   | [grande fiancheggiatore](https://golarion.altervista.org/wiki/Grande_Fiancheggiatore)       |
 | 9   | X   | [critico migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)               |
