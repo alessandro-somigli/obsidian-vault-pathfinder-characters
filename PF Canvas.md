@@ -19,10 +19,10 @@
 3:  impedire il movimento
 5:  arma accurata
 6:  sbilanciare superiore
-7:  
-9:  
+7:  mossa infame
+9:  stile del cinghiale
 10: 
-11: 
+11: grazia tagliente
 13: 
 14: 
 15: 
