@@ -15,6 +15,7 @@ tratti:
  - missionario: `+1 CD, CL di 3 incantesimi a scelta`
  - cercante: `+1 percezione, percezione abilità di classe`
  - xenofobico: `-2 diplomazia, -2 intuizione`
+
 ## Stats
 
 livello: 1
@@ -66,6 +67,11 @@ privilegi di classe:
 
 ## Abilità
 
+ - [linguistica](https://golarion.altervista.org/wiki/Linguistica): 1
+ - [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (religioni): MAX
+ - [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (piani): MAX
+ - [percezione](https://golarion.altervista.org/wiki/Percezione): MAX
+ - [sapienza magica](https://golarion.altervista.org/wiki/Sapienza_Magica): MAX 
 
 ## Talenti
 
