@@ -4,7 +4,7 @@ soprannome: -
 allineamento: CN
 
 linguaggi: Comune, Nanico
-età: 73
+età: 76
 altezza: 1.18m
 peso: 94Kg
 
@@ -52,7 +52,7 @@ classe: [Chierico](https://golarion.altervista.org/wiki/Chierico)
 
 Divinità: [Azatoth](https://golarion.altervista.org/wiki/Azathoth), [Dio Esterno](https://golarion.altervista.org/wiki/Dio_Esterno) (CN)
 
-Domini: Follia, Vuoto (Arazzo Oscuro)
+Domini: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia), [Vuoto](https://golarion.altervista.org/wiki/Dominio_del_Vuoto) (Arazzo Oscuro)
 
 gradi abilità per livello: `2 + MOD.INT`
 
@@ -63,6 +63,10 @@ privilegi di classe:
 | 1   | X   | lancio spontaneo (energia positiva) |
 | 1   | X   | incanalare energia positiva (3/g)   |
 | 1   | X   | aura caotica                        |
+
+## Abilità
+
+
 ## Talenti
 
 | lvl | chk | talento                                                                                                                   |
