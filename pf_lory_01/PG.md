@@ -89,6 +89,14 @@ doti del ladro:
  - sapienza magica: 10
  - artista della fuga: 10
 
+## Vantaggio del Ladro
+
+intimidire:
+ - se si supera di almeno 10 punti la [CD](https://golarion.altervista.org/wiki/CD "CD") per demoralizzare un bersaglio, quest'ultimo è [in preda al panico](https://golarion.altervista.org/wiki/In_Preda_al_Panico "In Preda al Panico") per 1 round o [spaventato](https://golarion.altervista.org/wiki/Spaventato "Spaventato") per 1d4 round (a scelta) e quindi [scosso](https://golarion.altervista.org/wiki/Scosso "Scosso"). un [tiro salvezza](https://golarion.altervista.org/wiki/TS "TS") su [volontà](https://golarion.altervista.org/wiki/Volont%C3%A0 "Volontà") (CD 10 + il numero di gradi in [Intimidire](https://golarion.altervista.org/wiki/Intimidire "Intimidire")) nega la condizione [spaventato](https://golarion.altervista.org/wiki/Spaventato "Spaventato") o [in preda al panico](https://golarion.altervista.org/wiki/In_Preda_al_Panico "In Preda al Panico"), ma il bersaglio è comunque [scosso](https://golarion.altervista.org/wiki/Scosso "Scosso")
+
+raggirare:
+ - non si prendono penalità per [raggirare](https://golarion.altervista.org/wiki/Raggirare "Raggirare") dopo una prova fallita, a meno che non sia stata fallita di 5 o più.
+
 ## Talenti
 
 | lvl | chk | talento                                                                                     |

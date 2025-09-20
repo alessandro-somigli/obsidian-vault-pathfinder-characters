@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_lory_01/Combattimento.md",
+                "file": "pf_lory_01/PG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combattimento"
+              "title": "PG"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pf_lory_01/Combattimento.md",
+                "file": "pf_lory_01/PG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Combattimento"
+              "title": "Outgoing links from PG"
             }
           },
           {
@@ -187,9 +187,10 @@
   },
   "active": "9fbbd186fede24c2",
   "lastOpenFiles": [
+    "pf_lory_01/Combattimento.md",
     "pf_lory_01/PG.md",
     "pf_ch_oneshot_2/PG.md",
-    "pf_lory_01/Combattimento.md",
+    "pf_ch_oneshot_2/Incantesimi.md",
     "zemenis/PG.md",
     "().md",
     "pf_ch_03/PG.md",
@@ -197,7 +198,6 @@
     "zemenis/Equipaggiamento.md",
     "pf_ch_04/PG.md",
     "pf_ch_02/PG.md",
-    "pf_ch_oneshot_2/Incantesimi.md",
     "pf_lory_01",
     "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/Incantesimi.md",
