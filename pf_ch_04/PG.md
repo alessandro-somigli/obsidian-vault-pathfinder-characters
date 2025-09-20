@@ -54,22 +54,25 @@ gradi abilità per livello: `2 + MOD.INT`
 
 privilegi di classe:
 
-
-
+| lvl | chk | privilegio di classe                |
+| --- | --- | ----------------------------------- |
+| 1   | X   | lancio spontaneo (energia positiva) |
+| 1   | X   | incanalare energia positiva (3/g)   |
+| 1   | X   | aura caotica                        |
 ## Talenti
 
-1:  competenza negli scudi torre
-3:  incantesimi focalizzati (necromanzia)
-5:  competenza nelle armature pesanti
-7:  incantesimi focalizzati superiore (necromanzia)
-9:  incantesimi persistenti
-11: interferenza divina
-13: incantesimi inarrestabili
-15: incantesimi inarrestabili superiore
-17: incantesimi rapidi
-19: 
-
-
+| lvl | chk | talento                                                                                                                   |
+| --- | --- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1   | X   | [competenza negli scudi torre](https://golarion.altervista.org/wiki/Competenza_negli_Scudi_Torre)                         |
+| 3   |     | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (necromanzia)                     |
+| 5   |     | [competenza nelle armature pesanti](https://golarion.altervista.org/wiki/Competenza_nelle_Armature_Pesanti)               |
+| 7   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (necromanzia) |
+| 9   |     | [incantesimi persistenti](https://golarion.altervista.org/wiki/Incantesimi_Persistenti)                                   |
+| 11  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                           |
+| 13  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                               |
+| 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
+| 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
+| 19  |     |                                                                                                                           |
 ## Tratti
 
 # Classe
