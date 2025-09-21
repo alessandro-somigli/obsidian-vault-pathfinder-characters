@@ -31,7 +31,7 @@
 ### lv.3: (5+1):
 - dominio:
 	- (1) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
-	- (0) [ira](https://golarion.altervj221nista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
+	- (0) [ira](https://golarion.altevista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
 - combattimento:
 	- (1) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
 	- (4) [scagliare maledizione](https://golarion.altervista.org/wiki/Scagliare_Maledizione "Scagliare Maledizione") (N)
