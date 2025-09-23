@@ -67,7 +67,7 @@
 	- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina)
 - combattimento:
 	- (0) [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
-	- (0) [epidemia](https://golarion.altervista.org/wiki/Incantesimi/Epidemia) (N)
+	- (0) [tempesta infettiva](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_Infettiva) (N)
 	- (0) [muro di carne](https://golarion.altervista.org/wiki/Muro_di_Carne) (N)
 	- (0) [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
 ### lv.7: (0):
@@ -76,7 +76,6 @@
 - combattimento:
 	- [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
 	- [distruzione](https://golarion.altervista.org/wiki/Incantesimi/Distruzione) (N)
-	- [tempesta infettiva](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_Infettiva) (N)
 	- [concedere grazia del campione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Grazia_del_Campione)
 ### lv.8: (0):
 - combattimento:
