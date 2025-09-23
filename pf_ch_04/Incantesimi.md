@@ -51,6 +51,8 @@
 - dominio:
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
+- buff:
+	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore)
 - combattimento:
 	- (0) [maledizione maggiore](https://golarion.altervista.org/wiki/Maledizione_Maggiore "Maledizione Maggiore") (N)
 	- (0) [muro di cecità/sordità](https://golarion.altervista.org/wiki/Muro_di_Cecit%C3%A0/Sordit%C3%A0 "Muro di Cecità/Sordità") (N)
@@ -61,11 +63,15 @@
 - buff:
 	- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina)
 ### lv.7: (0):
+- buff:
+	- [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
 - combattimento:
 	- [concedere grazia del campione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Grazia_del_Campione)
 ### lv.8: (0):
 - combattimento:
 	- [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
 ### lv.9: (0):
+- buff:
+	- [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
 - combattimento:
 	- [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
