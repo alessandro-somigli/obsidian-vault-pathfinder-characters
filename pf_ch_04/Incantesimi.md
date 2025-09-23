@@ -35,6 +35,7 @@
 - combattimento:
 	- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
 	- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Scagliare_Maledizione "Scagliare Maledizione") (N)
+	- (0) [contagio](https://golarion.altervista.org/wiki/Incantesimi/Contagio) (N)
 - utility:
 	- [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino)
 .h4y4y4
@@ -66,20 +67,25 @@
 	- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina)
 - combattimento:
 	- (0) [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
+	- (0) [epidemia](https://golarion.altervista.org/wiki/Incantesimi/Epidemia) (N)
+	- (0) [muro di carne](https://golarion.altervista.org/wiki/Muro_di_Carne) (N)
 	- (0) [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
-	- (0) [muro di carne](https://golarion.altervista.org/wiki/Muro_di_Carne)
 ### lv.7: (0):
 - buff:
 	- [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
 - combattimento:
-	- [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore)
+	- [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
+	- [distruzione](https://golarion.altervista.org/wiki/Incantesimi/Distruzione) (N)
 	- [concedere grazia del campione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Grazia_del_Campione)
 ### lv.8: (0):
 - combattimento:
 	- [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
+	- [globo del vuoto](https://golarion.altervista.org/wiki/Incantesimi/Globo_del_Vuoto) (N)
+	- [stretta della morte](https://golarion.altervista.org/wiki/Stretta_della_Morte) (N)
 ### lv.9: (0):
 - buff:
 	- [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
 - combattimento:
 	- [evoca demoni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Demoni_Superiore)
 	- [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
+	- [risucchio di energia](https://golarion.altervista.org/wiki/Incantesimi/Risucchio_di_Energia) (N)
