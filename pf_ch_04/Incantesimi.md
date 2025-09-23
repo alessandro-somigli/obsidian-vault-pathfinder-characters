@@ -79,6 +79,7 @@
 	- [concedere grazia del campione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Grazia_del_Campione)
 ### lv.8: (0):
 - combattimento:
+	- [aura sacra](https://golarion.altervista.org/wiki/Incantesimi/Aura_Sacra)
 	- [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
 	- [globo del vuoto](https://golarion.altervista.org/wiki/Incantesimi/Globo_del_Vuoto) (N)
 	- [stretta della morte](https://golarion.altervista.org/wiki/Stretta_della_Morte) (N)
