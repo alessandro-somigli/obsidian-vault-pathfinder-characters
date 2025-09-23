@@ -62,6 +62,9 @@
 ### lv.6: (0):
 - buff:
 	- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina)
+- combattimento:
+	- (0) [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
+	- (0) [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
 ### lv.7: (0):
 - buff:
 	- [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
@@ -74,4 +77,5 @@
 - buff:
 	- [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
 - combattimento:
+	- [evoca demoni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Demoni_Superiore)
 	- [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
