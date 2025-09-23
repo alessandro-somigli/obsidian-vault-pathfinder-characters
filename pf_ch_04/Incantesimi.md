@@ -76,6 +76,7 @@
 - combattimento:
 	- [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
 	- [distruzione](https://golarion.altervista.org/wiki/Incantesimi/Distruzione) (N)
+	- [tempesta infettiva](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_Infettiva) (N)
 	- [concedere grazia del campione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Grazia_del_Campione)
 ### lv.8: (0):
 - combattimento:
