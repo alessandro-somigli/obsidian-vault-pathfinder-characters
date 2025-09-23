@@ -56,3 +56,14 @@
 	- (1) [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
 	- (0) [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
 	- (0) [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
+### lv.6: (0):
+- buff:
+	- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina)
+### lv.7: (0):
+- combattimento:
+	- [concedere grazia del campione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Grazia_del_Campione)
+### lv.8: (0):
+- combattimento:
+	- [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
+### lv.9: (0):
+- 
