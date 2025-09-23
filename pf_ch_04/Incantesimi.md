@@ -66,4 +66,5 @@
 - combattimento:
 	- [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
 ### lv.9: (0):
-- 
+- combattimento:
+	- [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
