@@ -71,7 +71,7 @@ privilegi di classe:
  - [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (religioni): MAX
  - [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (piani): MAX
  - [percezione](https://golarion.altervista.org/wiki/Percezione): MAX
- - [sapienza magica](https://golarion.altervista.org/wiki/Sapienza_Magica): MAX 
+ - [sapienza magica](https://golarion.altervista.org/wiki/Sapienza_Magica): MAX
 
 ## Talenti
 
@@ -87,3 +87,4 @@ privilegi di classe:
 | 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
 | 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
 | 19  |     |                                                                                                                           |
+
