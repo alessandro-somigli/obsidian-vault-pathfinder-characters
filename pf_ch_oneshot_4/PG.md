@@ -26,28 +26,4 @@
 [martellare lo squarcio](https://golarion.altervista.org/wiki/Martellare_lo_Squarcio)
 [bersaglio di opportunita](https://golarion.altervista.org/wiki/Bersaglio_di_Opportunit%C3%A0)
 
-### Build Predatore
-
-1:  [tiro ravvicinato](https://golarion.altervista.org/wiki/Tiro_Ravvicinato)
-3:  [mira letale](https://golarion.altervista.org/wiki/Mira_Letale)
-5:  [tiro rapido](https://golarion.altervista.org/wiki/Tiro_Rapido)
-7:  [bersaglio di opportunita](https://golarion.altervista.org/wiki/Bersaglio_di_Opportunit%C3%A0)
-9:  [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)
-11: [campione dell'equilibrio](https://golarion.altervista.org/wiki/Campione_dell%27Equilibrio)
-13: [colpi raggruppati](https://golarion.altervista.org/wiki/Colpi_Raggruppati)
-15: 
-17: 
-19: 
-
-doti:
-2:  [tiro preciso](https://golarion.altervista.org/wiki/Tiro_Preciso)
-4:  [arma focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata) (arco lungo composito)
-6:  [tiro multiplo](https://golarion.altervista.org/wiki/Tiro_Multiplo)
-8:  
-10:
-12:
-14:
-16:
-18:
-20:
 
