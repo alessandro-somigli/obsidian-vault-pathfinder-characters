@@ -9,12 +9,12 @@
 6:  [tiro multiplo](https://golarion.altervista.org/wiki/Tiro_Multiplo)
 7:  [bersaglio di opportunita](https://golarion.altervista.org/wiki/Bersaglio_di_Opportunit%C3%A0)
 8:  [arma focalizzata superiore](https://golarion.altervista.org/wiki/Arma_Focalizzata_Superiore) (arco lungo composito)
-9:  [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)
+9:  [critico migliorato](https://golarion.altervista.org/wiki/Critico_Migliorato)
 10: [campione dell'equilibrio](https://golarion.altervista.org/wiki/Campione_dell%27Equilibrio)
-11: [colpi raggruppati](https://golarion.altervista.org/wiki/Colpi_Raggruppati)
+11: [vigoria in combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)
 12: [arma specializzata superiore](https://golarion.altervista.org/wiki/Arma_Specializzata_Superiore) (arco lungo composito)
-13: [martellare lo squarcio](https://golarion.altervista.org/wiki/Martellare_lo_Squarcio)
-14: 
+13: [colpi raggruppati](https://golarion.altervista.org/wiki/Colpi_Raggruppati)
+14: [martellare lo squarcio](https://golarion.altervista.org/wiki/Martellare_lo_Squarcio)
 15: 
 16: 
 17: 
