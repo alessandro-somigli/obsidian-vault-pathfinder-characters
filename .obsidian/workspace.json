@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/Incantesimi.md",
+                "file": "pf_ch_oneshot_4/PG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incantesimi"
+              "title": "PG"
             }
           }
         ]
@@ -185,11 +185,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "06e52a5d61a5b2c5",
+  "active": "bf026bb9914c40ea",
   "lastOpenFiles": [
+    "pf_ch_04/Incantesimi.md",
+    "pf_ch_oneshot_4/PG.md",
     "pf_ch_oneshot_4",
     "Untitled.md",
-    "pf_ch_04/Incantesimi.md",
     "pf_ch_oneshot_2/Incantesimi.md",
     "pf_ch_oneshot_2/PG.md",
     "pf_ch_04/Backstory.md",
@@ -222,7 +223,6 @@
     "Untitled.canvas",
     "pf_ch_03",
     "new_one",
-    "new_folder",
-    "obsidian_git"
+    "new_folder"
   ]
 }
