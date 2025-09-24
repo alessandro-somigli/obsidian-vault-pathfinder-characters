@@ -1,3 +1,4 @@
+### Build Guerriero
 
 1:  [tiro ravvicinato](https://golarion.altervista.org/wiki/Tiro_Ravvicinato)
 1:  [tiro preciso](https://golarion.altervista.org/wiki/Tiro_Preciso)
@@ -20,3 +21,18 @@
 18: 
 19: 
 20: 
+
+### Build Predatore
+1:
+3:
+5:
+7:
+9:
+11:
+13:
+15:
+17:
+19:
+
+
+
