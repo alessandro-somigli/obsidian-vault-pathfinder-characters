@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_oneshot_4/Lore.md",
+                "file": "pf_ch_oneshot_4/PG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lore"
+              "title": "PG"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "eca4eba93dfca6e8",
   "lastOpenFiles": [
-    "pf_ch_03/PG.md",
     "pf_ch_oneshot_4/Lore.md",
+    "pf_ch_03/PG.md",
     "pf_ch_02/Equipaggiamento.md",
     "pf_ch_oneshot_4/PG.md",
     "pf_ch_02/PG.md",
