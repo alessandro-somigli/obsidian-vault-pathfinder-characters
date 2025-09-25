@@ -42,6 +42,7 @@ equipaggiamento:
 piedi: stivali della velocità (12 kmo)
 corpo: camicia del corridore veloce (1 kmo)
 cintura: cintura dell'agilità +2/+4/+6 (4/16/32 kmo)
+mani: guanti deliquescenti (8 kmo)
 
 permanenza: ridurre persone (2.5 kmo)
-arco composito +1: (2 kmo)
+arco composito +1/+2/+3: (2/8/18 kmo)
