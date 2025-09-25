@@ -45,9 +45,11 @@ equipaggiamento:
 piedi: stivali della velocità (12 kmo)
 corpo: camicia del corridore veloce (1 kmo)
 cintura: cintura dell'agilità +2/+4/+6 (4/16/32 kmo)
+spalle: mantello della resistenza
 
 guanti del duello: (15 kmo)
 
+polsi: bracciali dell'arciere inferiori (5 kmo)
 mani: guanti deliquescenti (8 kmo)
 
 permanenza: ridurre persone (2.5 kmo)
