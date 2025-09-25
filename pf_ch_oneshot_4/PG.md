@@ -32,3 +32,7 @@ critico inesorabile
 [bersaglio di opportunita](https://golarion.altervista.org/wiki/Bersaglio_di_Opportunit%C3%A0)
 
 
+mutageni:
+7: ali
+11: mutageno maggiore
+15: mutageno superiore
