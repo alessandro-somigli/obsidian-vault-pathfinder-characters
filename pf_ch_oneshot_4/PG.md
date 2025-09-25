@@ -36,3 +36,8 @@ mutageni:
 7: ali
 11: mutageno maggiore
 15: mutageno superiore
+19: 
+
+equipaggiamento:
+piedi: stivali della velocità
+corpo: camicia del corridore veloce

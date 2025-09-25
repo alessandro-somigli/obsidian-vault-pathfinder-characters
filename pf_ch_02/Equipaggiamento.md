@@ -108,7 +108,7 @@ valore totale: 222.4 kmo
  - [X] (9 kmo) [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) di [pelle di drago](https://golarion.altervista.org/wiki/Materiali_Speciali#Pelle_di_Drago) [selvatica](https://golarion.altervista.org/wiki/Armature_Magiche#Selvatica)
  - [X] (0.5 kmo) [fasce dell'attaccabrighe](https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe) (animale)
  - [X] (1 kmo) [camicia del corridore veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce) (animale)
- - [X] (3.5 kmo) [anello dell'eloquenza](https://golarion.altervista.org/wiki/Anello_dell%27Eloquenza)
+ - [x] (3.5 kmo) [anello dell'eloquenza](https://golarion.altervista.org/wiki/Anello_dell%27Eloquenza)
  - [X] (0.75 kmo) [bacchetta](https://golarion.altervista.org/wiki/Bacchette) di [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) (50 cariche)
  - [X] (2.5 kmo) [lenti dell'aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila)
  - [X] (9 kmo)   [perla del potere](https://golarion.altervista.org/wiki/Perla_del_Potere) lv.3
