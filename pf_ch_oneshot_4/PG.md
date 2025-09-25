@@ -1,4 +1,6 @@
-nome: Stumpy 
+nome: Stumpy
+
+eta: 12
 ### Build Guerriero
 
 1:  [tiro ravvicinato](https://golarion.altervista.org/wiki/Tiro_Ravvicinato)
