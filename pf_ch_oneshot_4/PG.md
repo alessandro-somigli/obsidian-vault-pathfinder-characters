@@ -1,3 +1,4 @@
+nome: Stumpy 
 ### Build Guerriero
 
 1:  [tiro ravvicinato](https://golarion.altervista.org/wiki/Tiro_Ravvicinato)
