@@ -1,18 +1,18 @@
 # Bio
 
-nome: Cailean
+nome: Stumpy
 soprannome: -
 
-allineamento: BN
+allineamento: NN
 
 divinità: 
 
 linguaggi: 
-età: 
-altezza: 
-peso: 
+età: 12
+altezza: 25 cm
+peso: 5 Kg
 
-classe preferita: 
+classe preferita: [Guerriero](https://golarion.altervista.org/wiki/Guerriero)
 
 tratti:
  - 
@@ -25,16 +25,16 @@ tratti:
 livello: 6
 punti eroe: 3
 
-pf: 
+pf: 55
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |
-| FOR   |      |      |     |     |
-| DEX   |      |      |     |     |
-| COS   |      |      |     |     |
-| INT   |      |      |     |     |
-| SAG   |      |      |     |     |
-| CAR   |      |      |     |     |
+| FOR   | 18   |      | 18  | +4  |
+| DEX   | 18   | +4   | 22  | +6  |
+| COS   | 14   |      | 14  | +2  |
+| INT   | 10   |      | 10  | +0  |
+| SAG   | 14   | -2   | 12  | +1  |
+| CAR   | 10   | -2   | 8   | -1  |
 
 # Razza
 
@@ -44,16 +44,15 @@ tratti razziali:
  - tipo: [esterni](https://golarion.altervista.org/wiki/Tipo_Esterno), [sottotipo nativo](https://golarion.altervista.org/wiki/Sottotipo_Nativo)
  - velocità: `9m`
  - scurovisione: `18m`
- - resistenza: `5 acido, eletttricità, freddo`
 
 # Classe
 
-classe: [Druido](https://golarion.altervista.org/wiki/Druido)
-archetipo: [Saggio del Menhir](https://golarion.altervista.org/wiki/Druido/Archetipi#Saggio_del_Menhir)
+classe: [Guerriero](https://golarion.altervista.org/wiki/Guerriero)
+archetipo: [Combattente Mutagenico](https://golarion.altervista.org/wiki/Guerriero/Archetipi#Combattente_Mutagenico)
 
 gradi abilità per livello: `4 + MOD.INT`
 
-privilegi di classe:
+privilegi di classe: 
 
 | lvl | chk | privilegio di classe     |
 | --- | --- | ------------------------ |
@@ -64,9 +63,19 @@ privilegi di classe:
 | 7   |     | Scoperta Mutagena        |
 | 20  |     | Padronanza dell'arma     |
 
+## Mutageni:
+
+| lvl | chk | talento              |
+| --- | --- | -------------------- |
+| 7   |     | ali                  |
+| 11  |     | mutageno maggiore    |
+| 15  |     | mutageno superiore   |
+| 19  |     | guarigione spontanea |
+
 # Abilità
 
-
+- Percezione: MAX
+- Conoscenze (dungeon): MAX
 
 # Talenti
 
@@ -95,30 +104,20 @@ privilegi di classe:
 | 19  |     |                                                                                                                          |
 | 20  |     |                                                                                                                          |
 
----
+# Equipaggiamento
 
-nome: Stumpy
+arma: arco composito corrosivo (2 kmo)
+armatura: haramaki (5 mo)
 
-eta: 12
-
-mutageni:
-7: ali
-11: mutageno maggiore
-15: mutageno superiore
-19: guarigione spontanea
-
-equipaggiamento:
 piedi: stivali della velocità (12 kmo)
-corpo: camicia del corridore veloce (1 kmo)
-cintura: cintura dell'agilità +2/+4/+6 (4/16/32 kmo)
-spalle: mantello della resistenza
-
-guanti del duello: (15 kmo)
-
-polsi: bracciali dell'arciere inferiori (5 kmo)
-mani: guanti deliquescenti (8 kmo)
 
 permanenza: ridurre persone (2.5 kmo)
-arco composito +1/+2/+3: (2/8/18 kmo)
 
 torcia magica: (75 mo)
+
+oggetti di interesse:
+- corpo: camicia del corridore veloce (1 kmo)
+- cintura: cintura dell'agilità +2/+4/+6 (4/16/32 kmo)
+- spalle: mantello della resistenza
+- mani: guanti del duello: (15 kmo)
+- polsi: bracciali dell'arciere inferiori (5 kmo)
