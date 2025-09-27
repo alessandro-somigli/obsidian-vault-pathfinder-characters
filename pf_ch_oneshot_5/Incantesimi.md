@@ -18,6 +18,7 @@
 ## Lv.2: ():
 - (0) invisibilità
 
+- (0) 
 - (0) nembo aggressivo (INV)
 
 ## Lv.3: ():
