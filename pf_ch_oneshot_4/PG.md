@@ -39,7 +39,7 @@ mutageni:
 7: ali
 11: mutageno maggiore
 15: mutageno superiore
-19: 
+19: guarigione spontanea
 
 equipaggiamento:
 piedi: stivali della velocità (12 kmo)
