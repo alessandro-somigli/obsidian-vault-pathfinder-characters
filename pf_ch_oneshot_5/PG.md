@@ -1,16 +1,16 @@
 # Bio
 
-nome:
+nome: Agatha/Sherma
 soprannome: - 
 
-allineamento:
+allineamento: BN
 
 linguaggi: Comune, Halfling, Elfico
-età: 
+età: 24
 altezza: 
 peso: 
 
-classe preferita:
+classe preferita: [stregone](https://golarion.altervista.org/wiki/Stregone)
 
 tratti:
  - abile a schivare: `+1 TS RIF`
@@ -39,7 +39,7 @@ pf: 45
 
 # Razza
 
-razza: 
+razza: [gathlain]
 
 tratti razziali:
  - tipo: umanoidi con il sottotipo halfling
@@ -50,7 +50,7 @@ tratti razziali:
 
 # Classe
 
-classe: stregone
+classe: [stregone](https://golarion.altervista.org/wiki/Stregone)
 archetipo: -
 
 gradi abilità per livello: `2 + MOD.INT`
@@ -64,6 +64,7 @@ privilegi di classe:
 | 1   | X   | Trucchetti           |
 
 # Abilità
+
  - percezione: MAX
  - Intimidire/Raggirare: MAX
  - Sapienza Magica: MAX
