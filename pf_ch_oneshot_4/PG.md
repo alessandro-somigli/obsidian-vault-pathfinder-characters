@@ -5,9 +5,7 @@ soprannome: -
 
 allineamento: NN
 
-divinità: 
-
-linguaggi: 
+linguaggi: Goblin, Comune
 età: 12
 altezza: 25 cm
 peso: 5 Kg
@@ -15,9 +13,9 @@ peso: 5 Kg
 classe preferita: [Guerriero](https://golarion.altervista.org/wiki/Guerriero)
 
 tratti:
- - 
- - 
- - 
+ - cercante: +1 [percezione](https://golarion.altervista.org/wiki/Percezione), [percezione](https://golarion.altervista.org/wiki/Percezione) abilita di classe
+ - anatomista: +1 ai tiri per confermare colpi critici
+ - spiritualità indomita: `+1 TS su volonta`
  - provinciale (inconveniente): `-2 diplomazia e intuizione`
 
 # Stats
@@ -38,12 +36,18 @@ pf: 55
 
 # Razza
 
-razza: 
+razza: [goblin scimmia](https://golarion.altervista.org/wiki/Razze/Goblin_Scimmia)
 
 tratti razziali:
- - tipo: [esterni](https://golarion.altervista.org/wiki/Tipo_Esterno), [sottotipo nativo](https://golarion.altervista.org/wiki/Sottotipo_Nativo)
- - velocità: `9m`
+ - tipo: [umanoidi](https://golarion.altervista.org/wiki/Tipo_Umanoide), [sottotipo goblinoide](https://golarion.altervista.org/wiki/Sottotipo_Goblinoide)
+ - taglia: `piccola`
+ - velocita: `6m`
+ - scalare: `9m`
  - scurovisione: `18m`
+ - visione crepuscolare: `18m`
+ - acrobatico: `+2 acrobazia e furtivita`
+ - temerarieta: `+2 TS contro paura`
+ - coda prensile: `lunga coda flessibile che consente di trasportare oggetti`
 
 # Classe
 
@@ -106,16 +110,17 @@ privilegi di classe:
 
 # Equipaggiamento
 
-arma: arco composito corrosivo (2 kmo)
-armatura: haramaki (5 mo)
+### oggetti equipaggiati:
+- arma: arco composito corrosivo (2 kmo)
+- armatura: haramaki (5 mo)
 
-piedi: stivali della velocità (12 kmo)
+- piedi: stivali della velocità (12 kmo)
 
-permanenza: ridurre persone (2.5 kmo)
+- permanenza: ridurre persone (2.5 kmo)
 
-torcia magica: (75 mo)
+- torcia magica: (75 mo)
 
-oggetti di interesse:
+### oggetti di interesse:
 - corpo: camicia del corridore veloce (1 kmo)
 - cintura: cintura dell'agilità +2/+4/+6 (4/16/32 kmo)
 - spalle: mantello della resistenza
