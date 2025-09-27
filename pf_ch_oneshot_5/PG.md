@@ -16,7 +16,7 @@ tratti:
  - abile a schivare: `+1 TS RIF`
  - reazionario: `+2 iniziativa`
  - straniero, missionario: 
-	 - `+1 CL e CD a ..., ..., ...
+	 - `+1 CL e CD a ..., ..., ...`
 	 - `+1 conoscenze (religioni)`
 	 - `conoscenze (religioni) abilità di classe`
  - provinciale (inconveniente): `-2 diplomazia e intuizione`
@@ -45,7 +45,7 @@ tratti razziali:
  - tipo: umanoidi con il sottotipo halfling
  - velocità: `9m`
  - fortuna halfling: `+1 TS`
- - temerarieta: `+2 TS contro paura`ù
+ - temerarieta: `+2 TS contro paura`
  - sensi acuti: `+2 percezione`
 
 # Classe
