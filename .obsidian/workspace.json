@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f1e73a02952a2f3",
+        "id": "57ff909ea58e62da",
         "type": "tabs",
         "children": [
           {
-            "id": "eca4eba93dfca6e8",
+            "id": "bdb3964fb3ff261d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_oneshot_4/PG.md",
+                "file": "pf_ch_oneshot_5/PG.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,17 +185,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "eca4eba93dfca6e8",
+  "active": "bdb3964fb3ff261d",
   "lastOpenFiles": [
-    "pf_ch_oneshot_4/Lore.md",
+    "pf_ch_02/PG.md",
+    "pf_ch_oneshot_5/PG.md",
+    "sortspec.md",
+    "pf_ch_oneshot_5",
+    "pf_ch_oneshot_5.md",
+    "PF Canvas.md",
     "pf_ch_oneshot_4/PG.md",
+    "pf_ch_oneshot_4/Lore.md",
     "pf_ch_03/PG.md",
     "pf_ch_02/Equipaggiamento.md",
-    "pf_ch_02/PG.md",
     "pf_ch_oneshot_3/PG.md",
     "pf_ch_04/Incantesimi.md",
     "pf_ch_oneshot_4",
-    "Untitled.md",
     "pf_ch_oneshot_2/Incantesimi.md",
     "pf_ch_oneshot_2/PG.md",
     "pf_ch_04/Backstory.md",
@@ -203,7 +207,6 @@
     "pf_ch_oneshot_3/Combattimento.md",
     "zemenis/PG.md",
     "().md",
-    "PF Canvas.md",
     "zemenis/Equipaggiamento.md",
     "pf_ch_oneshot_3",
     "pf_ch_02/Incantesimi.md",
@@ -215,14 +218,11 @@
     "pf_ch_04",
     "pf_ch_02/Domande & Risposte.md",
     "pf_ch_02/Creature Evocate.md",
-    "pf_ch_02/Azioni da Ricordare.md",
-    "pf_ch_02/Backstory.md",
     "zemenis",
     "pf_ch_04",
     "pf_ch_elio",
     "Untitled.canvas",
     "pf_ch_03",
-    "new_one",
-    "new_folder"
+    "new_one"
   ]
 }
