@@ -1,14 +1,14 @@
 # Bio
 
-nome: Agatha/Sherma
+nome: Agatha/Sherma/Rashida
 soprannome: - 
 
 allineamento: BN
 
 linguaggi: Comune, Halfling, Elfico
 età: 24
-altezza: 
-peso: 
+altezza: 1.20 m
+peso: 46 Kg
 
 classe preferita: [stregone](https://golarion.altervista.org/wiki/Stregone)
 
@@ -39,7 +39,7 @@ pf: 45
 
 # Razza
 
-razza: [gathlain]
+razza: [halfling](https://golarion.altervista.org/wiki/Halfling)
 
 tratti razziali:
  - tipo: umanoidi con il sottotipo halfling
@@ -77,3 +77,15 @@ privilegi di classe:
 | 1   | X   | incantesimi focalizzati (invocazione)           |
 | 3   | X   | incantesimi focalizzati superiore (invocazione) |
 | 5   | X   | iniziativa migliorata                           |
+
+# Equipaggiamento
+
+- testa: [fascia della seduzione](https://golarion.altervista.org/wiki/Fascia_della_Seduzione) +2 (4 kmo)
+- spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +1 (1 kmo)
+- anello: 
+
+- [haramaki](https://golarion.altervista.org/wiki/Armature/Haramaki) +1 (1 kmo)
+
+- [prisma rosa pallido incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche#Pietre_Magiche_Incrinate) (0.5 kmo)
+
+- permanenza: [ridurre persone](https://golarion.altervista.org/wiki/Incantesimi/Ridurre_Persone) (2.5 kmo)
