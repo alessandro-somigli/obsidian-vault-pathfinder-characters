@@ -16,7 +16,7 @@ tratti:
  - abile a schivare: `+1 TS RIF`
  - reazionario: `+2 iniziativa`
  - straniero, missionario: 
-	 - `+1 CL e CD a ..., ..., ...`
+	 - `+1 CL e CD a palla di fuoco, nembo aggressivo, ...`
 	 - `+1 conoscenze (religioni)`
 	 - `conoscenze (religioni) abilità di classe`
  - provinciale (inconveniente): `-2 diplomazia e intuizione`
