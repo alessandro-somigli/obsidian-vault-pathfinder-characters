@@ -13,8 +13,8 @@ peso: 5 Kg
 classe preferita: [Guerriero](https://golarion.altervista.org/wiki/Guerriero)
 
 tratti:
- - cercante: +1 [percezione](https://golarion.altervista.org/wiki/Percezione), [percezione](https://golarion.altervista.org/wiki/Percezione) abilita di classe
- - anatomista: +1 ai tiri per confermare colpi critici
+ - cercante: `+1 percezione, percezione abilita di classe`
+ - anatomista: `+1 ai tiri per confermare colpi critici`
  - spiritualità indomita: `+1 TS su volonta`
  - provinciale (inconveniente): `-2 diplomazia e intuizione`
 
