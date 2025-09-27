@@ -10,16 +10,17 @@
 ## Lv.1: (6+2):
 - (0) [identificare](https://golarion.altervista.org/wiki/Incantesimi/Identificare)
 
-- (0) [urlo spacca timpani](https://golarion.altervista.org/wiki/Incantesimi/Urlo_Spacca_Timpani) (INV)
-- (0) [passo tonante](https://golarion.altervista.org/wiki/Incantesimi/Passo_Tonante) (INV)
-- (0) [ingrandire persone](https://golarion.altervista.org/wiki/Incantesimi/Ingrandire_Persone)
-- (0) [deja-vu](https://golarion.altervista.org/wiki/Incantesimi/D%C3%A9j%C3%A0-vu) (no TS)
+- (3) [urlo spacca timpani](https://golarion.altervista.org/wiki/Incantesimi/Urlo_Spacca_Timpani) (INV)
+- (2) [passo tonante](https://golarion.altervista.org/wiki/Incantesimi/Passo_Tonante) (INV)
+- (2) [ingrandire persone](https://golarion.altervista.org/wiki/Incantesimi/Ingrandire_Persone)
+- (1) [deja-vu](https://golarion.altervista.org/wiki/Incantesimi/D%C3%A9j%C3%A0-vu) (no TS)
 
 ## Lv.2: (5+2):
-- (0) [invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Invisibilit%C3%A0)
+- (2) [invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Invisibilit%C3%A0)
 
-- (0) 
-- (0) [nembo aggressivo](https://golarion.altervista.org/wiki/Incantesimi/Nembo_Aggressivo) (INV)
+- (3) [cecita/sordita](https://golarion.altervista.org/wiki/Incantesimi/Cecit%C3%A0/Sordit%C3%A0)
+- (2) [nembo aggressivo](https://golarion.altervista.org/wiki/Incantesimi/Nembo_Aggressivo) (INV)
 
-## Lv.3: (3+1):
-- (0) [palla di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Palla_di_Fuoco) (INV)
+## Lv.3: (3+1+1):
+- (5) [palla di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Palla_di_Fuoco) (INV)
+

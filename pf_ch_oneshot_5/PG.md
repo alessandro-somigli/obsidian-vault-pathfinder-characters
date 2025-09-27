@@ -82,7 +82,7 @@ privilegi di classe:
 
 - testa: [fascia della seduzione](https://golarion.altervista.org/wiki/Fascia_della_Seduzione) +2 (4 kmo)
 - spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +1 (1 kmo)
-- anello: 
+- stivali: [stivali dell'escursione](https://golarion.altervista.org/wiki/Stivali_dell%27Escursione) (7.8 kmo)
 
 - [haramaki](https://golarion.altervista.org/wiki/Armature/Haramaki) +1 (1 kmo)
 
