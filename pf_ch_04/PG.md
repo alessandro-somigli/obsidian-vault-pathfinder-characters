@@ -88,3 +88,13 @@ privilegi di classe:
 | 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
 | 19  |     |                                                                                                                           |
 
+Formula TPC Compagno Animale:
+morso: 9 + 11 + 3 = 23
+artigli: 9 + 11  + 3 + 1 = 24
+poderoso: -3
+
+Formula Danno Compagno Animale:
+artigli/morso: 1d8 + 11 + 3
+deliquescenti: +1d6
+campione dell'equilibrio: +4/+2/+0
+poderoso: +6
