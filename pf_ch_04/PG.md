@@ -1,4 +1,4 @@
-nome: Alhazred/Miron
+nome: Alhazred/Thaos
 soprannome: -
 
 allineamento: CN
