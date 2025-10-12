@@ -26,7 +26,7 @@ tratti:
 # Stats
 
 livello: 10
-punti eroe: 2
+punti eroe: 3
 
 pf: 96
 
@@ -110,7 +110,7 @@ privilegi di classe:
 | 5   | X   | [incantesimi naturali](https://golarion.altervista.org/wiki/Incantesimi_Naturali)                                           |
 | 7   | X   | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (trasmutazione)                     |
 | 9   | X   | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione) |
-| 11  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                             |
+| 11  | X   | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                             |
 | 13  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                                 |
 | 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)             |
 | 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                               |
@@ -128,4 +128,16 @@ abilità:
   - [sopravvivenza](https://golarion.altervista.org/wiki/Sopravvivenza) 16
  
 talenti:
-Formu
+
+
+
+Formula TPC Compagno Animale:
+morso: 9 + 11 + 3 = 23
+artigli: 9 + 11  + 3 + 1 = 24
+poderoso: -3
+
+Formula Danno Compagno Animale:
+artigli/morso: 1d8 + 11 + 3
+deliquescenti: +1d6
+campione dell'equilibrio: +4/+2/+0
+poderoso: +6
