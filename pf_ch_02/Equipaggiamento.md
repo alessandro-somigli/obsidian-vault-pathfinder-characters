@@ -65,7 +65,7 @@ oggetti magici:
 - testa: 
 - fronte: [fascia dell'ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +6
 - occhi: [lenti dell'aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila)
-- spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +3
+- spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +4
 - collo: [talismano superiore della libertà](https://golarion.altervista.org/wiki/Talismano_Superiore#Libert%C3%A0)
 - torace: 
 - corpo: 
@@ -86,7 +86,7 @@ oggetti magici:
 
 oggetti magici compagno animale:
 - spalle: [mantello della resistenza](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
-- collo: [amuleto dei pugni potenti](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +3
+- collo: [amuleto dei pugni potenti](https://golarion.altervista.org/wiki/Amuleto_dei_Pugni_Potenti) +4
 - torace: [camicia del corridore veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce)
 - armatura: [armatura di cuoio borchiato](https://golarion.altervista.org/wiki/Armature/Cuoio_Borchiato) +3
 - cintura: [cintura della forza del gigante](https://golarion.altervista.org/wiki/Cintura_della_Forza_del_Gigante) +6
