@@ -1,4 +1,4 @@
-nome: -
+nome: Alhazred/Miron
 soprannome: -
 
 allineamento: CN
