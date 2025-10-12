@@ -12,7 +12,7 @@
  - [Stivali dell'Escursione](https://golarion.altervista.org/wiki/Stivali_dell%27Escursione)
  - [Piazzare Magia](https://golarion.altervista.org/wiki/Druido/Archetipi#Piazzare_Magia_(Sop))
  - [Talismano Superiore della Libertà](https://golarion.altervista.org/wiki/Talismano_Superiore#Libert%C3%A0)
- - [Interferenza Divina](https://golarion.altervista.org/wiki/Interferenza_Divina) X
+ - [Interferenza Divina](https://golarion.altervista.org/wiki/Interferenza_Divina) 
 ## Combattimento Animale
  - [Camicia del Corridore Veloce](https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce)
  - [Punire il Male](https://golarion.altervista.org/wiki/Paladino#Punire_il_Male_(Sop))
