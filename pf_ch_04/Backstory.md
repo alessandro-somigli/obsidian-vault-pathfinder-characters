@@ -7,5 +7,9 @@ i suoi passi sono percisi, saldi e ben calcolati, "un'altra caratteristica spess
 
 Questo è un piccolo estratto dalla lunga presentazione che Alhazred spesso utilizza per introdursi, per fortuna, ciò succede di rado.
 
-Gli aggettivi che le poche persone intorno a lui gli attribuirebbero sono ben diversi, egli è burbero, maldestro e costantemente fuori luogo, un vecchio nano che ormai non sa far altro che rimuginare sui bei vecchi tempi.
+La storia che le poche persone intorno a lui raccontano è ben diversa, egli è burbero, maldestro e costantemente fuori luogo; un vecchio nano che ormai non sa far altro che rimuginare sui bei vecchi tempi.
+
+La verità è che anche questa descrizione seppur in parte accurata non racchiude completamente l'essenza di Alhazred, 
+sotto le vesti di 
+
 
