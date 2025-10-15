@@ -35,8 +35,8 @@
 	- (0) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
 	- (0) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
-	- (1) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
-	- (1) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
+	- (0) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
+	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
 	- (0) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
 	- (0) [passo morbido](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido) 
@@ -49,7 +49,7 @@
 	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
 	- (0) [scudo d'onda](https://golarion.altervista.org/wiki/Incantesimi/Scudo_d%27Onda) (I) 
 	- (0) [fuga nel vento](https://golarion.altervista.org/wiki/Incantesimi/Fuga_nel_Vento) (I) 
-	- (2) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
+	- (1) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
 	- (2) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
 - cure:
 	- (0) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
@@ -68,8 +68,8 @@
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (no SR) (no TS) 
 	- (1) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA) 
-	- (0) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
-	- (5) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
+	- (2) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
+	- (1) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
 	- (0) [raggio rovente](https://golarion.altervista.org/wiki/Incantesimi/Raggio_Rovente) (no TS) 
 	- (0) [tocco glaciale](https://golarion.altervista.org/wiki/Incantesimi/Tocco_Glaciale) (no TS) 
 	- (0) [blocca animali](https://golarion.altervista.org/wiki/Incantesimi/Blocca_Animali) 
@@ -96,9 +96,9 @@
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
 	- (0) [pelle resinosa](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Resinosa) 
 	- (0) [protezione dall'energia](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia) 
-	- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) 
+	- (1) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) 
 - combattimento:
-	- (1) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
+	- (2) [crescita di spine](https://golarion.altervista.org/wiki/Incantesimi/Crescita_di_Spine) (TRA) (1h/lv) 
 	- (1) [intralcio spinoso](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Spinoso) (TRA) (no SR) 
 	- (0) [crescita vegetale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Vegetale) (no SR) (no TS) 
 	- (0) [sabbie mobili](https://golarion.altervista.org/wiki/Incantesimi/Sabbie_Mobili) (TRA) (no SR) 
@@ -123,16 +123,16 @@
 - prep:
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
 - buffs:
-	- (0) [protezione dall'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia_Collettivo) 
-	- (1) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
+	- (1) [protezione dall'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia_Collettivo) 
+	- (2) [atavismo](https://golarion.altervista.org/wiki/Incantesimi/Atavismo) 
 	- (0) [fauci robuste](https://golarion.altervista.org/wiki/Incantesimi/Fauci_Robuste) 
 	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
 - combattimento:
 	- (0) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
-	- (0) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
+	- (1) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
 	- (0) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
 	- (0) [fulmine globulare](https://golarion.altervista.org/wiki/Incantesimi/Fulmine_Globulare) 
-	- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
+	- (1) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
 - cure:
 	- (0) [reincarnazione](https://golarion.altervista.org/wiki/Incantesimi/Reincarnazione) (M 1000mo) 
 	- (0) [cura ferite gravi](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Gravi) 
@@ -143,10 +143,10 @@
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
 ## lv.5: (2+2) (+1 perla del potere lv.5)
 - buffs:
-	- (0) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
+	- (2) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - combattimento:
-	- (1) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
+	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
 	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR)
 	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR)
 	- (0) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS)
@@ -165,7 +165,7 @@
 - combattimento:
 	- (1) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
 	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA) 
-	- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
+	- (1) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
 	- (1) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
 	- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore) (no SR) (no TS) 
 	- (0) [arcobaleno splendente](https://golarion.altervista.org/wiki/Incantesimi/Arcobaleno_Splendente) (no SR) (no TS) 
