@@ -64,4 +64,3 @@ anello del draco (freddo) (6.000 mo)
 stivali della velocità (12.000 mo)
 
 totale: 241.5 kmo
- 
