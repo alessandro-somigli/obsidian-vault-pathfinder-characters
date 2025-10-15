@@ -27,40 +27,15 @@ budget: 150 kmo
 
 [uncino del mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.310 kmo)
 [filatterio dell'energia negativa](https://golarion.altervista.org/wiki/Filatterio_dell%27Energia_Negativa) (11 kmo)
-
-[guanti elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
 [bracciali della protezione dagli incantesimi](https://golarion.altervista.org/wiki/Bracciali_della_Protezione_dagli_Incantesimi) (5 kmo)
-[casacca del lancio prudente](https://golarion.altervista.org/wiki/Casacca_del_Lancio_Prudente) (5 kmo)
-
-[cintura dell'agilità](https://golarion.altervista.org/wiki/Cintura_dell%27Agilit%C3%A0) (+4) (16 kmo)
+[cintura del vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) (+4) (16 kmo)
 [fascia della seduzione](https://golarion.altervista.org/wiki/Fascia_della_Seduzione) (+6) (36 kmo)
-
-[scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (+3) (9 kmo)
-[corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) (+3) (9 kmo)
+[scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (+4) (9 kmo)
+[corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) (+4) (9 kmo)
 [amuleto dell'armatura naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) (+2) (8 kmo)
 [anello della protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) (+2) (8 kmo)
-
 [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) (+3) (9 kmo)
-[ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
+[ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo) 
 
-rimanente: 2.170 kmo
+rimanente: 170 kmo
 
----
-
-equipaggiamento Gioele
-
-elmo batraciano (26.000 mo)
-fascia dell'ispirazione +6 (36.000 mo)
-lenti dell'aquila (2.500 mo)
-mantello della resistenza +5 (25.000 mo)
-amuleto armatura naturale +3 (18.000 mo)
-giacca centellinante (5.000 mo)
-armatura di cuoio borchiato +4 fortificante (25.000 mo)
-cintura della perfezione fisica +4 (64.000 mo)
-bracciali della potenza (10.000)
-guanti della manovra esperta (4.000 mo)
-anello della protezione +2 (8.000 mo)
-anello del draco (freddo) (6.000 mo)
-stivali della velocità (12.000 mo)
-
-totale: 241.5 kmo
