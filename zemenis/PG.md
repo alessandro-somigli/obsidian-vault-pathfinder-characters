@@ -16,14 +16,14 @@ tratti:
  - mente focalizzata: +2 prove di concentrazione
  - missionario: +1 CD, CL di (maledizione maggiore, ferire, scagliare maledizione superiore)
  - parto sacro: +1 CD incanalare
- - attaccato: 
+ - attaccato: pigna
 
 # Stats
 
 livello: 11
 punti eroe: 3
 
-pf: 131
+pf: 153
 
 | stats | base | race | tot | mod |
 | ----- | ---- | ---- | --- | --- |
@@ -37,9 +37,6 @@ pf: 131
 # Razza
 
 razza: [vishkanya](https://golarion.altervista.org/wiki/Razze/Vishkanya)
-
-tratti razziali:
-- 
 
 # Classe
 
@@ -75,20 +72,19 @@ domini: [Follia](https://golarion.altervista.org/wiki/Dominio_della_Follia)
 
 - [uncino del mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.310 kmo)
 - [filatterio dell'energia negativa](https://golarion.altervista.org/wiki/Filatterio_dell%27Energia_Negativa) (11 kmo)
-
-- [guanti elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
 - [bracciali della protezione dagli incantesimi](https://golarion.altervista.org/wiki/Bracciali_della_Protezione_dagli_Incantesimi) (5 kmo)
-- [casacca del lancio prudente](https://golarion.altervista.org/wiki/Casacca_del_Lancio_Prudente) (5 kmo)
-
 - [cintura del vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) (+4) (16 kmo)
 - [fascia della seduzione](https://golarion.altervista.org/wiki/Fascia_della_Seduzione) (+6) (36 kmo)
-
-- [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (+3) (9 kmo)
-- [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) (+3) (9 kmo)
+- [scudo pesante di legno](https://golarion.altervista.org/wiki/Armature/Scudo_Pesante_di_Legno) (+4) (9 kmo)
+- [corazza di piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre) (+4) (9 kmo)
 - [amuleto dell'armatura naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) (+2) (8 kmo)
 - [anello della protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) (+2) (8 kmo)
-
 - [mantello della resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) (+3) (9 kmo)
 - [ferro di cavallo fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo) 
 
-concentrazione: 27
+concentrazione: 27 : 11 + 10 + 2 + 2
+
+
+
+[casacca del lancio prudente](https://golarion.altervista.org/wiki/Casacca_del_Lancio_Prudente) (5 kmo)
+[guanti elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
