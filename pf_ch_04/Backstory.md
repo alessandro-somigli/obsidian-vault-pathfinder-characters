@@ -13,3 +13,20 @@ La verità è che anche questa descrizione seppur in parte accurata non racchiud
 sotto le vesti di 
 
 
+---
+
+### Ispirazioni:
+
+Occultist, dd:
+
+
+The Color of Madness, dd:
+
+
+Durance, poe:
+
+
+Concelhaut, poe:
+
+
+
