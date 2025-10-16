@@ -21,8 +21,8 @@ sotto le vesti di
 Alhazred è un chierico eccentrico ma molto capace, si trova ad agakata per vendicarsi di un necromante influente a capo di un culto di Azatoth e dello Stendardo Nero. 
 
 ### Inizio:
-Alhazred è nato e cresciuto ad Hulwan, una città nanica sugli altopiani desolati nel nord-ovest di Mamlaka-Shanti, li è cresciuto 
-
+Alhazred è nato e cresciuto ad Hulwan, una città nanica sugli altopiani desolati nel nord-ovest di Mamlaka-Shanti.
+Figlio di una famiglia benestante, spende la sua adolescenza a studiare la manifattura di armi, armature e gli insegnamenti di Torag, fino a che non si imbatte in uno strano cristallo dai colori impossibili
 
 
 ---
