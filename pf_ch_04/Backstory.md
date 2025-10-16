@@ -15,6 +15,18 @@ sotto le vesti di
 
 ---
 
+## prima bozza (in breve):
+
+### Intro:
+Alhazred è un chierico eccentrico ma molto capace, si trova ad agakata per vendicarsi di un necromante influente a capo di un culto di Azatoth e dello Stendardo Nero. 
+
+### Inizio:
+Alhazred è nato e cresciuto ad Hulwan, negli altopiani desolati a nord di Mamlaka-Shanti
+
+
+
+---
+
 ### Ispirazioni:
 
 Occultist, dd:
