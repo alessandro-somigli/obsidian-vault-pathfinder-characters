@@ -22,7 +22,18 @@ Alhazred è un chierico eccentrico ma molto capace, si trova ad agakata per vend
 
 ### Inizio:
 Alhazred è nato e cresciuto ad Hulwan, una città nanica sugli altopiani desolati nel nord-ovest di Mamlaka-Shanti.
-Figlio di una famiglia benestante, spende la sua adolescenza a studiare la manifattura di armi, armature e gli insegnamenti di Torag, fino a che non si imbatte in uno strano cristallo dai colori impossibili
+Proveniente da una famiglia benestante, spende la sua adolescenza a studiare la manifattura di armi, armature e gli insegnamenti di Torag. 
+
+### Cristalli
+
+Un giorno, setacciando i suoi materiali per rimuovere le impurità, trova un piccolo frammento di cristallo dai colori particolari, quasi impossibili. Decide di tenerlo, lo raffina in un piccolo gioiello, lo mette su un pendente e non ci pensa più.
+
+Nei giorni successivi Alhazred incomincia ad avere visioni nel sonno e diventa ossessionato con la scheggia.
+Decide di andare nelle miniere per trovare altri cristalli dello stesso materiale; guidato da flebili sussurri sviluppati ormai da qualche giorno sa esattamente dove scavare e ne trova in grandi quantità.
+
+Dopo settimane 
+
+
 
 
 ---
