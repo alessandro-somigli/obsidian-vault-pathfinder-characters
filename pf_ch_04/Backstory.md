@@ -31,7 +31,7 @@ Un giorno, setacciando i suoi materiali per rimuovere le impurità, trova un pic
 Nei giorni successivi Alhazred incomincia ad avere visioni nel sonno e diventa ossessionato con la scheggia.
 Decide di andare nelle miniere per trovare altri cristalli dello stesso materiale; guidato da flebili sussurri sviluppati ormai da qualche giorno sa esattamente dove scavare e ne trova in grandi quantità.
 
-Dopo settimane di studio e lavoro con i cristalli Alhazred la personalità di Alhazred è profondamente cambiata, a tal punto da potersi considerare una persona completamente diversa.
+Dopo settimane di studio e lavoro con i cristalli la personalità di Alhazred è profondamente cambiata a tal punto da potersi considerare una persona completamente diversa.
 
 
 
