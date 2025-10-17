@@ -4,7 +4,14 @@
 
 
 ## Legame Planare:
-
+- [Elementale del Fango Enorme](https://golarion.altervista.org/wiki/Elementale_del_Fango_Enorme):
+	- GS: 7
+	- Vol: 3
+	- Car: 11
+- [Elementale dell'Etere Enorme](https://golarion.altervista.org/wiki/Elementale_dell%27Etere_Enorme):
+	- GS: 7
+	- Vol: 5
+	- Car: 11
 
 
 
