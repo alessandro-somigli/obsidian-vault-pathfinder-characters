@@ -1,4 +1,12 @@
 ## Legame Planare Inferiore:
+- [Locusta dell'Apocalisse](https://golarion.altervista.org/wiki/Locusta_dell%27Apocalisse):
+	- GS: 6
+	- Vol: 6
+	- Car: 15
+- [Minotauro Mezzo-Immondo](https://golarion.altervista.org/wiki/Minotauro_Mezzo-Immondo):
+	- GS: 6
+	- Vol: 6
+	- Car: 10
 
 
 
@@ -12,6 +20,14 @@
 	- GS: 7
 	- Vol: 5
 	- Car: 11
+- [Diavolo Uncinato](https://golarion.altervista.org/wiki/Diavolo_Uncinato):
+	- GS: 11
+	- Vol: 8
+	- Car: 18
+- [Fustigatore d'Ombra](https://golarion.altervista.org/wiki/Fustigatore_d%27Ombra):
+	- GS: 13
+	- Vol: 13
+	- Car: 12
 
 
 
