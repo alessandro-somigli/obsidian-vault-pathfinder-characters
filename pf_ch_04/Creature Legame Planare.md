@@ -1,4 +1,8 @@
 ## Legame Planare Inferiore:
+- [Raiju](https://golarion.altervista.org/wiki/Raiju):
+	- GS: 5
+	- Vol: 2
+	- Car: 10
 - [Locusta dell'Apocalisse](https://golarion.altervista.org/wiki/Locusta_dell%27Apocalisse):
 	- GS: 6
 	- Vol: 6
