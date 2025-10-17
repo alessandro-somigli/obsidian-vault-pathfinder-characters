@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aab0445d98ce97c9",
+        "id": "ef4b6987bb307466",
         "type": "tabs",
         "children": [
           {
-            "id": "cdc4c513512e7586",
+            "id": "1b63d4f60239c23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/Backstory.md",
+                "file": "pf_ch_04/Creature Legame Planare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstory"
+              "title": "Creature Legame Planare"
             }
           }
         ]
@@ -186,16 +186,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "cdc4c513512e7586",
+  "active": "1b63d4f60239c23e",
   "lastOpenFiles": [
     "pf_ch_04/PG.md",
+    "pf_ch_04/Creature Legame Planare.md",
+    "pf_ch_04/Backstory.md",
     "zemenis/Incantesimi.md",
     "zemenis/Equipaggiamento.md",
     "zemenis/PG.md",
     "pf_ch_oneshot_2/PG.md",
     "2025-02-09.md",
     "zemenis/Azioni da Compiere (Zamenis).md",
-    "pf_ch_04/Backstory.md",
     "pf_ch_oneshot_4/Lore.md",
     "pf_ch_oneshot_4/PG.md",
     "pf_ch_04/Incantesimi.md",
@@ -216,7 +217,6 @@
     "pf_ch_oneshot_3/Combattimento.md",
     "().md",
     "pf_ch_oneshot_3",
-    "pf_ch_02/Forma Selvatica.md",
     "pf_ch_oneshot_2",
     "pf_ch_04",
     "zemenis",
