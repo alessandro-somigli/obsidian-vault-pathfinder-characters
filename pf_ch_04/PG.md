@@ -4,7 +4,7 @@ soprannome: -
 allineamento: CN
 
 linguaggi: Comune, Nanico
-età: 76
+età: 227
 altezza: 1.18m
 peso: 94Kg
 
@@ -23,14 +23,14 @@ punti eroe: 3
 
 pf: 14
 
-| stats | base | race | tot | mod |
-| ----- | ---- | ---- | --- | --- |
-| FOR   | 12   |      | 12  | +1  |
-| DEX   | 12   |      | 12  | +1  |
-| COS   | 18   | +2   | 20  | +5  |
-| INT   | 14   |      | 14  | +2  |
-| SAG   | 18   | +2   | 20  | +5  |
-| CAR   | 8    | -2   | 6   | -2  |
+| stats | base | race | age | tot | mod |
+| ----- | ---- | ---- | --- | --- | --- |
+| FOR   | 13   |      | -1  | 12  | +1  |
+| DEX   | 13   |      | -1  | 12  | +1  |
+| COS   | 18   | +2   | -1  | 19  | +4  |
+| INT   | 15   |      | +1  | 16  | +3  |
+| SAG   | 18   | +2   | +1  | 21  | +5  |
+| CAR   | 7    | -2   | +1  | 6   | -2  |
 
 ## Razza
 
