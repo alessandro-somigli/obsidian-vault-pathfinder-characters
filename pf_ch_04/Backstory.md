@@ -33,28 +33,27 @@ Decide di andare nelle miniere per trovare altri cristalli dello stesso material
 
 Dopo settimane di studio e lavoro con i cristalli la personalità di Alhazred è profondamente cambiata a tal punto da potersi considerare una persona completamente diversa.
 
-
-
-
 ---
 
-### Ispirazioni:
+In the highlands of Ahvan there's a nursery rhyme that children sing to pass the time: 
 
-Occultist, dd:
+"
+lie once and your nose will go blue,
+lie again and your face'll turn the same hue.
 
+lie enough and your eyes will go dark,
+blinded by the mountain's shiny and sinister spark.
+"
 
-The Color of Madness, dd:
+Even though the rhyme is mostly made up, some details mention events forgotten by most, but nevertheless real.
 
+If one wonders through the mountains in the highlands, they can accidentally stumble upon a fissure in the rock emanating a mysterious glow; and if one follows it, entering the crevice writhing with its many twists and turns, they can eventually find the source of the uncanny and unnatural gleam. 
 
-Durance, poe:
+A cave extending into the darkness, filled with crystals pulsating with the same light; the crystals are sizzling and melting forming small streams traversing the ground with irregular movements, and the cavern itself seems to shift too erratically to be a natural formation.
 
+At the end of one of the twisting tunnels a chamber can be found, which curiously contains a small workshop and a rickety bed. The floor and walls of the chamber are also covered in strange symbols drawn with the same material as the crystals, making uncanny shapes and intricate designs. Hissing and sputtering sounds can be heard coming from canisters and rudimentary flasks rested on a table, and on the same table there's an old book.
 
-Concelhaut, poe:
-
----
-
-
-
+The book is partially unreadable, tainted by the liquid in the canisters and even infested by crystalline growths on some page corners, but a story can be mostly made out. It's the story of Alhazred, the mad dwarf that inhabited the glittering caves.
 
 
 
