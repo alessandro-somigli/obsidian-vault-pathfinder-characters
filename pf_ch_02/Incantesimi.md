@@ -58,7 +58,7 @@
 	- (0) [bolla d'aria](https://golarion.altervista.org/wiki/Incantesimi/Bolla_d%27Aria) 
 	- (0) [comunione con gli uccelli](https://golarion.altervista.org/wiki/Incantesimi/Comunione_con_gli_Uccelli) 
 	- (0) [parlare con gli animali](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_gli_Animali) 
-## lv.2: (4+2)
+## lv.2: (4+3)
 - buffs:
 	- (0) [saggezza del gufo](https://golarion.altervista.org/wiki/Incantesimi/Saggezza_del_Gufo) 
 	- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro) 
@@ -157,7 +157,7 @@
 	- (0) [rianimare compagno animale](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Compagno_Animale) (M 1000mo)
 - utilità:
 	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
-## lv.6: (1+1)
+## lv.6: (1+2)
 - preparazione:
 	- (0) [bastone dell'incantesimo](https://golarion.altervista.org/wiki/Incantesimi/Bastone_dell%27Incantesimo) (∞) 
 	- (0) [querciaviva](https://golarion.altervista.org/wiki/Incantesimi/Querciaviva) (1d/lv) 
@@ -169,9 +169,10 @@
 	- (1) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
 	- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore) (no SR) (no TS) 
 	- (0) [arcobaleno splendente](https://golarion.altervista.org/wiki/Incantesimi/Arcobaleno_Splendente) (no SR) (no TS) 
-	- (0) [respingere legno](https://golarion.altervista.org/wiki/Incantesimi/Respingere_Legno) (no SR) (no TS)
+	- (0) [respingere legno](https://golarion.altervista.org/wiki/Incantesimi/Respingere_Legno) (no SR) (no TS) 
 - cure:
 	- (0) [cura ferite leggere di massa](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere_di_Massa) 
+	- (0) [resistenza dell'orso di massa](https://golarion.altervista.org/wiki/Incantesimi/Resistenza_dell%27Orso_di_Massa)
 - utilità:
 	- (0) [pietre parlanti](https://golarion.altervista.org/wiki/Incantesimi/Pietre_Parlanti) 
 	- (0) [nido d'aquila](https://golarion.altervista.org/wiki/Incantesimi/Nido_d%27Aquila) (1h/lv) 
