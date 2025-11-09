@@ -92,7 +92,7 @@
 	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
 	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
-	- (1) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
+	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
 	- (0) [pelle resinosa](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Resinosa) 
 	- (0) [protezione dall'energia](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia) 
@@ -141,12 +141,12 @@
 	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) 
 	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (F 1000mo) 
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
-## lv.5: (2+2) (+1 perla del potere lv.5)
+## lv.5: (3+2) (+1 perla del potere lv.5)
 - buffs:
-	- (1) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
+	- (2) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - combattimento:
-	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
+	- (4) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
 	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR)
 	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR)
 	- (0) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS)
@@ -157,16 +157,16 @@
 	- (0) [rianimare compagno animale](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Compagno_Animale) (M 1000mo)
 - utilità:
 	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
-## lv.6: (1+2)
+## lv.6: (2+2)
 - preparazione:
 	- (0) [bastone dell'incantesimo](https://golarion.altervista.org/wiki/Incantesimi/Bastone_dell%27Incantesimo) (∞) 
 	- (0) [querciaviva](https://golarion.altervista.org/wiki/Incantesimi/Querciaviva) (1d/lv) 
 	- (0) [semi di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Semi_di_Fuoco) 
 - combattimento:
-	- (0) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
+	- (1) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
 	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA) 
-	- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
-	- (0) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
+	- (1) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
+	- (2) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
 	- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore) (no SR) (no TS) 
 	- (0) [arcobaleno splendente](https://golarion.altervista.org/wiki/Incantesimi/Arcobaleno_Splendente) (no SR) (no TS) 
 	- (0) [respingere legno](https://golarion.altervista.org/wiki/Incantesimi/Respingere_Legno) (no SR) (no TS) 
