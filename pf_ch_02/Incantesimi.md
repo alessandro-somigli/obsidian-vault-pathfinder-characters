@@ -143,7 +143,7 @@
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
 ## lv.5: (2+2) (+1 perla del potere lv.5)
 - buffs:
-	- (2) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
+	- (1) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - combattimento:
 	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
@@ -163,7 +163,7 @@
 	- (0) [querciaviva](https://golarion.altervista.org/wiki/Incantesimi/Querciaviva) (1d/lv) 
 	- (0) [semi di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Semi_di_Fuoco) 
 - combattimento:
-	- (1) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
+	- (0) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
 	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA) 
 	- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
 	- (0) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
