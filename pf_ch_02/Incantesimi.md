@@ -166,7 +166,7 @@
 	- (1) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
 	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA) 
 	- (1) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
-	- (2) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
+	- (1) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
 	- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore) (no SR) (no TS) 
 	- (0) [arcobaleno splendente](https://golarion.altervista.org/wiki/Incantesimi/Arcobaleno_Splendente) (no SR) (no TS) 
 	- (0) [respingere legno](https://golarion.altervista.org/wiki/Incantesimi/Respingere_Legno) (no SR) (no TS) 
