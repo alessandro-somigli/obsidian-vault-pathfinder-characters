@@ -92,7 +92,7 @@
 	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
 	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
-	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
+	- (1) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
 	- (0) [pelle resinosa](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Resinosa) 
 	- (0) [protezione dall'energia](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia) 
@@ -132,18 +132,18 @@
 	- (1) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
 	- (0) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
 	- (0) [fulmine globulare](https://golarion.altervista.org/wiki/Incantesimi/Fulmine_Globulare) 
-	- (1) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
+	- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
 - cure:
 	- (0) [reincarnazione](https://golarion.altervista.org/wiki/Incantesimi/Reincarnazione) (M 1000mo) 
 	- (0) [cura ferite gravi](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Gravi) 
 - utilità:
-	- (0) [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento) 
+	- (1) [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento) 
 	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) 
 	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (F 1000mo) 
 	- (0) [cavalcare le onde](https://golarion.altervista.org/wiki/Incantesimi/Cavalcare_le_Onde) (1h/lv) 
 ## lv.5: (3+2) (+1 perla del potere lv.5)
 - buffs:
-	- (1) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
+	- (2) [crescita animale](https://golarion.altervista.org/wiki/Incantesimi/Crescita_Animale)
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - combattimento:
 	- (3) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
@@ -166,7 +166,7 @@
 	- (1) [pozza di catrame](https://golarion.altervista.org/wiki/Incantesimi/Pozza_di_Catrame) (TRA) (no SR) 
 	- (0) [vincolare alla terra di massa](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra_di_Massa) (TRA) 
 	- (1) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra) (no SR) 
-	- (1) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
+	- (2) [scirocco](https://golarion.altervista.org/wiki/Incantesimi/Scirocco) 
 	- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore) (no SR) (no TS) 
 	- (0) [arcobaleno splendente](https://golarion.altervista.org/wiki/Incantesimi/Arcobaleno_Splendente) (no SR) (no TS) 
 	- (0) [respingere legno](https://golarion.altervista.org/wiki/Incantesimi/Respingere_Legno) (no SR) (no TS) 
