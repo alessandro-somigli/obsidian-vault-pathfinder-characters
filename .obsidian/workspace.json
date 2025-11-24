@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Backstory"
             }
-          },
-          {
-            "id": "11dc1707ffd17b43",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +186,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "11dc1707ffd17b43",
+  "active": "1b63d4f60239c23e",
   "lastOpenFiles": [
     "pf_ch_03/Backstory.md",
     "pf_ch_02/Incantesimi.md",
