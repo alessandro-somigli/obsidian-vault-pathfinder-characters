@@ -35,7 +35,7 @@
 	- (0) [bacche benefiche](https://golarion.altervista.org/wiki/Incantesimi/Bacche_Benefiche) (1d/lv) 
 	- (0) [richiamare animale](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Animale) (1h/lv) 
 	- (0) [charme su animali](https://golarion.altervista.org/wiki/Incantesimi/Charme_su_Animali) (1h/lv) 
-	- (0) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
+	- (1) [passo veloce](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce) (1h/lv) 
 	- (0) [consapevolezza intensificata](https://golarion.altervista.org/wiki/Incantesimi/Consapevolezza_Intensificata) (10min/lv) 
 - buff:
 	- (0) [randello incantato](https://golarion.altervista.org/wiki/Incantesimi/Randello_Incantato) 
@@ -49,7 +49,7 @@
 	- (0) [nascondersi agli animali](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_agli_Animali) 
 	- (0) [scudo d'onda](https://golarion.altervista.org/wiki/Incantesimi/Scudo_d%27Onda) (I) 
 	- (0) [fuga nel vento](https://golarion.altervista.org/wiki/Incantesimi/Fuga_nel_Vento) (I) 
-	- (1) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
+	- (2) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I) 
 	- (2) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I) 
 - cure:
 	- (0) [cura ferite leggere](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Leggere) 
