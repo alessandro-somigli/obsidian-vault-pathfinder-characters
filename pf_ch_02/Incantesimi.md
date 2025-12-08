@@ -68,7 +68,7 @@
 	- (0) [soldati delle terre selvagge](https://golarion.altervista.org/wiki/Incantesimi/Soldati_delle_Terre_Selvagge) (no SR) (no TS) 
 	- (1) [intralcio debilitante](https://golarion.altervista.org/wiki/Incantesimi/Intralcio_Debilitante) (TRA) (no SR) 
 	- (0) [vincolare alla terra](https://golarion.altervista.org/wiki/Incantesimi/Vincolare_alla_Terra) (TRA) 
-	- (2) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
+	- (3) [richiamare pietre](https://golarion.altervista.org/wiki/Incantesimi/Richiamare_Pietre) (no SR) (no TS) 
 	- (1) [disco di pietra](https://golarion.altervista.org/wiki/Incantesimi/Disco_di_Pietra) (no SR) (no TS) 
 	- (0) [raggio rovente](https://golarion.altervista.org/wiki/Incantesimi/Raggio_Rovente) (no TS) 
 	- (0) [tocco glaciale](https://golarion.altervista.org/wiki/Incantesimi/Tocco_Glaciale) (no TS) 
@@ -77,7 +77,7 @@
 - cure:
 	- (0) [ristorare inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) 
 - utilità:
-	- (0) [passo nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Passo_nell%27Aria) 
+	- (2) [passo nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Passo_nell%27Aria) 
 	- (0) [polmoni da aboleth](https://golarion.altervista.org/wiki/Incantesimi/Polmoni_da_Aboleth) (1h/lv) 
 	- (0) [forma arborea](https://golarion.altervista.org/wiki/Incantesimi/Forma_Arborea) (1h/lv) 
 	- (0) [parlata bestiale](https://golarion.altervista.org/wiki/Incantesimi/Parlata_Bestiale) 
@@ -89,10 +89,10 @@
 	- (0) [animale messaggero](https://golarion.altervista.org/wiki/Incantesimi/Animale_Messaggero) (no TS) 
 ## lv.3: (4+2)
 - prep:
-	- (0) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
-	- (0) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
+	- (1) [passo veloce superiore](https://golarion.altervista.org/wiki/Incantesimi/Passo_Veloce_Superiore) (1h/lv) 
+	- (1) [zanna magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Zanna_Magica_Superiore) (1h/lv) 
 - buffs:
-	- (1) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
+	- (0) [traccia nauseante](https://golarion.altervista.org/wiki/Incantesimi/Traccia_Nauseante) 
 	- (0) [passo morbido di massa](https://golarion.altervista.org/wiki/Incantesimi/Passo_Morbido_di_Massa) 
 	- (0) [pelle resinosa](https://golarion.altervista.org/wiki/Incantesimi/Pelle_Resinosa) 
 	- (0) [protezione dall'energia](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dall%27Energia) 
