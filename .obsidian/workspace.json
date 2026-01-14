@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ef4b6987bb307466",
+        "id": "b4d53d4a88143016",
         "type": "tabs",
         "children": [
           {
-            "id": "1b63d4f60239c23e",
+            "id": "a27ff4c08e5476e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pf_ch_04/Backstory.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Backstory"
+              "title": "New tab"
             }
           }
         ]
@@ -186,12 +182,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1b63d4f60239c23e",
+  "active": "a27ff4c08e5476e9",
   "lastOpenFiles": [
+    "pf_ch_04/Backstory.md",
     "pf_ch_03/Backstory.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/PG.md",
-    "pf_ch_04/Backstory.md",
     "pf_ch_04/PG.md",
     "pf_ch_04/Creature Legame Planare.md",
     "pf_ch_04/Incantesimi.md",
