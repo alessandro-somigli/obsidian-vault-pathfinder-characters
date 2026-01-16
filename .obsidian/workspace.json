@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "PG"
             }
+          },
+          {
+            "id": "e3fb7982b5d566a2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a27ff4c08e5476e9",
+  "active": "e3fb7982b5d566a2",
   "lastOpenFiles": [
     "pf_ch_04/Backstory.md",
     "pf_ch_03/Backstory.md",
