@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_03/PG.md",
+                "file": "pf_ch_04/PG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "PG"
             }
-          },
-          {
-            "id": "e3fb7982b5d566a2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,15 +186,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e3fb7982b5d566a2",
+  "active": "a27ff4c08e5476e9",
   "lastOpenFiles": [
+    "pf_ch_04/Incantesimi.md",
+    "pf_ch_03/PG.md",
     "pf_ch_04/Backstory.md",
     "pf_ch_03/Backstory.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/PG.md",
     "pf_ch_04/PG.md",
     "pf_ch_04/Creature Legame Planare.md",
-    "pf_ch_04/Incantesimi.md",
     "zemenis/Incantesimi.md",
     "zemenis/Equipaggiamento.md",
     "zemenis/PG.md",
@@ -216,7 +204,6 @@
     "zemenis/Azioni da Compiere (Zamenis).md",
     "pf_ch_oneshot_4/Lore.md",
     "pf_ch_oneshot_4/PG.md",
-    "pf_ch_03/PG.md",
     "pf_ch_03/Rissaiolo da Taverna.md",
     "pf_ch_oneshot_5/PG.md",
     "pf_ch_oneshot_5/Incantesimi.md",
