@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "PG"
             }
+          },
+          {
+            "id": "d88e49ab82545cce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "06e52a5d61a5b2c5",
+  "active": "d88e49ab82545cce",
   "lastOpenFiles": [
     "Untitled",
     "pf_ch_04/Incantesimi.md",
