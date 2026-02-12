@@ -25,6 +25,10 @@
 	- GS: 11
 	- Vol: 8
 	- Car: 18
+- [Gongorinian](https://golarion.altervista.org/wiki/Gongorinan):
+	- GS: 11
+	- Vol: 7
+	- Car: 20
 - [Fustigatore d'Ombra](https://golarion.altervista.org/wiki/Fustigatore_d%27Ombra):
 	- GS: 13
 	- Vol: 13
