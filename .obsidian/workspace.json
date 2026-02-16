@@ -25,12 +25,14 @@
             "id": "1b135761540ec246",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "pf_ch_02/PG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "PG"
             }
           }
         ],
@@ -201,11 +203,11 @@
   },
   "active": "1b135761540ec246",
   "lastOpenFiles": [
-    "pf_ch_04/Backstory.md",
-    "pf_ch_04/PG.md",
-    "Untitled",
-    "pf_ch_04/Incantesimi.md",
     "pf_ch_03/PG.md",
+    "pf_ch_04/PG.md",
+    "pf_ch_04/Incantesimi.md",
+    "pf_ch_04/Backstory.md",
+    "Untitled",
     "pf_ch_03/Backstory.md",
     "pf_ch_02/Incantesimi.md",
     "pf_ch_02/PG.md",
