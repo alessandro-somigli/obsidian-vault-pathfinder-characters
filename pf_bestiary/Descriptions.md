@@ -10,6 +10,11 @@ Proseguite fino a che non vi trovate in una grande stanza, illuminata debolmente
 
 Alla vostra destra, nella penombra si intravedono tre Creature sedute ad un falò, intente a mangiare e parlare in una lingua che voi non conoscete.
 
-Inoltre è visibile un'enorme statua, è immobile e indossa una spessa armatura di ferro, è in posizione eretta e con le mani dà l'impressione di impugnare qualcosa anche se questo oggetto non sembra più essere presente, probabilmente un'arma di qualche tipo.
+Inoltre è visibile un'enorme statua, è immobile e indossa una spessa armatura di ferro, è in posizione eretta e con le mani dà l'impressione di impugnare qualcosa (anche se questo oggetto non sembra più essere presente), probabilmente un'arma di qualche tipo.
 
-A sinistra è presente un'altra statua, questa è 
+A sinistra è presente un'altra statua, questa appare simile ma è posizionata differentemente, accasciata a terra con la schiena sul muro. Impugna un'enorme ascia da battaglia con entrambe le mani e ripetutamente la sbatte a terra davanti a se, producendo il suono familiare che adesso è quasi assordante.
+
+(percezione 25)
+Nella distanza inoltre riuscite a scorgere, almeno parzialmente, un corpo d'acqua, da cui provengono odori e suoni che vi ricordano quelli del mare. Lo specchio d'acqua continua nell'oscurità, e ciò gli dà la parvenza di essere sconfinato, anche se questo probabilmente non è il caso.
+
+Davanti a voi, invece, è presente un semplice muro, su cui potete scorgere crepe e copiose quantità di muschio. Una delle 
