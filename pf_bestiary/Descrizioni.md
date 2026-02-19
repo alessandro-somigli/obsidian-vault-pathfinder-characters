@@ -57,9 +57,12 @@ Spostando i corpi, l'acqua riprende a fluire vigorosamente verso la grata e, nel
 
 
 ### Descrizione Stanza 2
-Guardate nella piccola stanza che si estende oltre il corridoio: questa stanza è ben illuminata, sia da alcune candele appoggiate sul piedistallo della statua alla vostra sinistra che da torce appese al muro più lontano da voi. Le ombre proiettate dalle urne sul pavimento creano forme strane e allungate a causa delle torce dietro di loro, e sembrano quasi respirare grazie agli ormai flebili movimenti dell'acqua.
+Guardate nella piccola stanza che si estende oltre il corridoio: la luce in questa stanza è decisamente più tenue, illuminata soltanto da alcune candele appoggiate sul piedistallo della statua alla vostra sinistra e da torce appese al muro più lontano da voi. Le ombre proiettate dalle urne sul pavimento creano forme strane e allungate a causa delle torce dietro di loro, e sembrano quasi respirare grazie agli ormai flebili movimenti dell'acqua.
 #### Statua
-A sinistra si trova una 
+A sinistra si trova la statua di una divinità che non conoscete, ma che appare di natura crudele. Le fessure degli occhi sembrano innaturalmente buie, e ha un buco nel ventre da cui esce un piccolo ma costante rivolo d'acqua. Sul piedistallo sono presenti incisioni di persone unite per mano, forse per eseguire un qualche tipo di rituale.
+
+(percezione 28)
+
 
 #### Urne
 
