@@ -56,7 +56,7 @@ Dopo aver analizzato entrambi i cadaveri, vi accorgete che sono poggiati sopra a
 Spostando i corpi, l'acqua riprende a fluire vigorosamente verso la grata e, nel giro di qualche minuto, il suo livello si è ridotto a quello di una pozzanghera.
 
 ### Descrizione Stanza 2
--
+Guardate nella piccola stanza che si estende oltre il corridoio, questa stanza è ben illuminata da torce appes
 
 ### Descrizione Stanza 3
 -
@@ -69,7 +69,7 @@ Il suo comportamento è semplice e prevedibile: dopo la sua attivazione, tenta d
 La sua attivazione è lunga e richiede 1 turno per completarsi.
 
 ### Descrizione Nemico Orco
-Anche queste creature sono familiari in quanto presenti in quasi tutto il mondo. Sono più forti e resilienti di un umanoide qualunque ma spesso goffe, lente e stupide.
+Anche queste creature sono familiari in quanto presenti in quasi tutto il mondo, non sono solite a vivere in luoghi antropomorfizzati e si sono probabilmente intrufolate qui solo per trovare qualche ricchezza. Sono più forti e resilienti di un umanoide qualunque ma spesso goffe, lente e stupide.
 
 Il loro comportamento si riduce spesso ad attaccare il bersaglio più vicino che riescono a trovare e non adottano alcuna strategia.
 
