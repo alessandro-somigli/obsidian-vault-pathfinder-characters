@@ -61,10 +61,22 @@ Guardate nella piccola stanza che si estende oltre il corridoio: la luce in ques
 #### Statua
 A sinistra si trova la statua di una divinità che non conoscete, ma che appare di natura crudele. Le fessure degli occhi sembrano innaturalmente buie, e ha un buco nel ventre da cui esce un piccolo ma costante rivolo d'acqua. Sul piedistallo sono presenti incisioni di persone unite per mano, forse per eseguire un qualche tipo di rituale.
 
-(percezione 28)
+(percezione 30), (ispezionato il cadavere umano)
+Guardando attentamente, riesci a notare che alcune delle figure indossano un cappello simile a quello del cadavere che avete esaminato precedentemente.
 
+(acqua rimossa / percezione 32)
+Ai piedi della statua notate che una delle piastrelle è leggermente rialzata.
+	(intuizione 25)
+	Il tuo ingegno ti suggerisce che il ventre vuoto della statua potrebbe ospitare una trappola e che questa superficie sia l'apparecchio per innescarla.
 
 #### Urne
+Le grandi urne in fondo alla stanza sono quasi immobili, ma la loro immagine tremola leggermente a causa del calore delle torce dietro di loro. Una delle urne è parzialmente aperta, e il tappo, leggermente disallineato con il collo, lascia intravedere diverse monete sull'orlo di cadere a terra.
+
+(percezione 20)
+Una delle urne, a sinistra ed isolata rispetto alle altre, presenta diversi simboli di persone intente a navigare e commerciare. Le altre invece non presentano alcun simbolo.
+
+(percezione 25)
+
 
 ### Descrizione Stanza 3
 -
