@@ -27,6 +27,7 @@ Nella distanza inoltre riuscite a scorgere, almeno parzialmente, un corpo d'acqu
 Davanti a voi, invece, è presente un semplice muro, su cui sono presenti crepe e copiose quantità di muschio. 
 (percezione 33) Una delle crepe in particolare sembra eccezionalmente grossa, e crea uno spiraglio da cui è possibile guardare oltre il muro.
 
+
 ### Descrizione Stanza Segreta
 
 #### Fuori dalla Stanza
@@ -78,6 +79,7 @@ Uno di questi grandi vasi, quello a sinistra, isolato rispetto agli altri, prese
 (percezione 30)
 Ti accorgi che tutte le qualità che fanno sembrare vive queste urne non provengono dal calore delle torce, oppure dal flebile movimento dell'acqua. Le urne vere e proprie stanno respirando, quasi impercettibilmente, ma il tuo occhio riesce a cogliere anche questi movimenti.
 L'unica urna che non si espande lievemente in movimenti ritmici e ripetuti è quella isolata sulla sinistra, le altre, ormai ne sei certo, sono creature che fingono di essere oggetti.
+
 
 ### Descrizione Stanza 3
 #### Davanti alla Porta
