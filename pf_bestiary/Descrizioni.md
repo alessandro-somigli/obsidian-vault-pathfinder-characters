@@ -24,6 +24,8 @@ Nella distanza inoltre riuscite a scorgere, almeno parzialmente, un corpo d'acqu
 Davanti a voi, invece, è presente un semplice muro, su cui sono presenti crepe e copiose quantità di muschio. 
 (percezione 33) Una delle crepe in particolare sembra eccezionalmente grossa, e crea uno spiraglio da cui è possibile guardare oltre il muro.
 
+### Descrizione Stanza Segreta
+
 
 ### Descrizione Stanza 2
 
@@ -39,9 +41,9 @@ Il suo comportamento è semplice e prevedibile: dopo la sua attivazione, tenta d
 La sua attivazione è lunga e richiede 1 turno per completarsi.
 
 ### Descrizione Nemico Orco
-Anche queste creature sono familiari in quanto presenti in quasi tutto il mondo. Sono molto più forti di un umanoide qualunque ma spesso goffe, lente e stupide.
+Anche queste creature sono familiari in quanto presenti in quasi tutto il mondo. Sono più forti e resilienti di un umanoide qualunque ma spesso goffe, lente e stupide.
 
-Il loro comportamento si riduce spesso ad attaccare il bersaglio più vicino che riescono a trovare.
+Il loro comportamento si riduce spesso ad attaccare il bersaglio più vicino che riescono a trovare e non adottano alcuna strategia.
 
 ### Descrizione Nemico Mimic
 
