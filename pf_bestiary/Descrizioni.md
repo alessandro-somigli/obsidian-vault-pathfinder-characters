@@ -42,19 +42,24 @@ Entrate nella stanza, e al suo centro si trovano due cadaveri.
 Uno dei corpi è umano, vestito in una tunica gialla e abiti sgargianti ma sporchi di sangue. Nonostante le ferite, i suoi tratti somatici sono riconoscibili e assieme al colore della pelle suggeriscono un'origine Beladeirana. Porta con se un rosario ed altri strumenti tipici di un chierico, e analizzarli potrebbe rivelare le origini della sua fede.
 
 (Conoscenze Religione 22)
-Il suo rosario include un pendente raffigurante un topo che cammina sull'acqua e lo riconosci come il simbolo di Hanspur, una divinità minore del commercio e l'esplorazione, ma anche del caos e della morte. Una peculiarità che ti ricordi dei fedeli di hanspur è che nascondono i loro averi più preziosi in una tasca nascosta nel cappello.
-	Dopo aver preso in mano il cappello, effettivamente, ti accorgi che è sospettosamente pesante anche per un cappello mezzo d'acqua, e scuotendolo 
+Il suo rosario include un pendente raffigurante un topo che cammina sull'acqua e lo riconosci come il simbolo di Hanspur, una divinità minore del commercio e l'esplorazione, ma anche del caos e della morte. Una peculiarità che ti ricordi dei chierici-commercianti di Hanspur è che nascondono i loro averi più preziosi in una tasca nascosta nel cappello.
+	Dopo aver preso in mano il cappello, effettivamente, ti accorgi che è sospettosamente pesante anche per un cappello mezzo d'acqua, e scuotendolo si sente il rumore familiare di monete che collidono fra loro.
+	Dopo qualche momento, trovi la tasca celata all'interno del cappello e la apri, trovando 40 monete di platino e due pergamene di cura (50 Hp ciascuna).
 
 L'altro "corpo" è una carcassa melmosa, viscida e piena di occhi. Non siete neanche sicuri di star guardando alla creatura nella sua interezza da quanto è aliena, e sembra quasi un miracolo che non si sia dissolta nell'acqua circostante. Detto questo, i libri che vi siete portati dietro potrebbero suggerire alla specie a cui apparteneva questa creatura.
 
-(Conoscenze Dungeon 22)
+(Conoscenze Natura 26)
 Descrizione Nemico Mimic
 
-### Descrizione Stanza 2
+Dopo aver analizzato entrambi i cadaveri, vi accorgete che sono poggiati sopra ad una grata: l'effetto combinato dei cadaveri e delle alghe circostanti bloccano il flusso d'acqua quasi completamente.
 
+Spostando i corpi, l'acqua riprende a fluire vigorosamente verso la grata e, nel giro di qualche minuto, il suo livello si è ridotto a quello di una pozzanghera.
+
+### Descrizione Stanza 2
+-
 
 ### Descrizione Stanza 3
-
+-
 
 ### Descrizione Nemico Statua
 Avete già incontrato questo nemico prima d'ora nei libri che vi siete procurati dalla biblioteca locale durante le preparazioni: si tratta di un guardiano di artefatti magici, è un costrutto estremamente resistente, e nonostante la sua stazza il libro avverte che è insolitamente agile.
@@ -69,6 +74,7 @@ Anche queste creature sono familiari in quanto presenti in quasi tutto il mondo.
 Il loro comportamento si riduce spesso ad attaccare il bersaglio più vicino che riescono a trovare e non adottano alcuna strategia.
 
 ### Descrizione Nemico Mimic
-
+-
 
 ### Descrizione Nemico Diplodoco Dimensionale
+-
