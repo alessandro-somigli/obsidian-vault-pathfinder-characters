@@ -55,8 +55,13 @@ Dopo aver analizzato entrambi i cadaveri, vi accorgete che sono poggiati sopra a
 
 Spostando i corpi, l'acqua riprende a fluire vigorosamente verso la grata e, nel giro di qualche minuto, il suo livello si è ridotto a quello di una pozzanghera.
 
+
 ### Descrizione Stanza 2
-Guardate nella piccola stanza che si estende oltre il corridoio, questa stanza è ben illuminata da torce appes
+Guardate nella piccola stanza che si estende oltre il corridoio: questa stanza è ben illuminata, sia da alcune candele appoggiate sul piedistallo della statua alla vostra sinistra che da torce appese al muro più lontano da voi. Le ombre proiettate dalle urne sul pavimento creano forme strane e allungate a causa delle torce dietro di loro, e sembrano quasi respirare grazie agli ormai flebili movimenti dell'acqua.
+#### Statua
+A sinistra si trova una 
+
+#### Urne
 
 ### Descrizione Stanza 3
 -
