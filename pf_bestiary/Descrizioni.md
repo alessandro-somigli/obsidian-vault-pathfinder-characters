@@ -26,6 +26,21 @@ Davanti a voi, invece, è presente un semplice muro, su cui sono presenti crepe 
 
 ### Descrizione Stanza Segreta
 
+#### Fuori dalla Stanza
+Sotto il pelo dell'acqua sono presenti delle spesse sbarre di ferro, sono vecchie e arrugginite ma comunque fissate saldamente al muro circostante. Eccetto una, che si inclina leggermente avanti e indietro seguendo la corrente e forse potrebbe essere rimossa impiegando una forza sufficiente.
+
+Guardando attraverso le sbarre si intravedono quelle che sembrano le sagome di due corpi, odeggiando con il movimento del'acqua ma altrimenti immobili. Non si riesce a vedere altro a causa del buio, ma vi accorgete che il flusso dell'acqua è diretto verso l'interno della stanza.
+
+#### Sbarra Rimossa
+La sbarra spinge e frantuma i mattoni malmessi, e dopo un grande sforzo, si libera completamente e lascia uno spazio abbastanza grande da farvi accedere all'interno.
+
+#### Stanza Segreta
+Entrate nella stanza, e al suo centro si trovano due cadaveri.
+Uno dei corpi è umano, vestito in 
+
+
+uno dei quali umano, mentre l'altro è di una creatura melmosa, a voi sconosciuta, che però potrebbe essere trovata nei libri che avete trovato.
+
 
 ### Descrizione Stanza 2
 
