@@ -42,7 +42,7 @@ Entrate nella stanza, e al suo centro si trovano due cadaveri.
 Uno dei corpi è umano, vestito in una tunica gialla e abiti sgargianti ma sporchi di sangue. Nonostante le ferite, i suoi tratti somatici sono riconoscibili e assieme al colore della pelle suggeriscono un'origine Beladeirana. Porta con se un rosario ed altri strumenti tipici di un chierico, e analizzarli potrebbe rivelare le origini della sua fede.
 
 (Conoscenze Religione 22)
-Il suo rosario include un pendente raffigurante un topo che cammina sull'acqua e lo riconosci come il simbolo di Hanspur, una divinità minore del commercio e l'esplorazione, ma anche del caos e della morte. Una peculiarità che ti ricordi dei chierici-commercianti di Hanspur è che nascondono i loro averi più preziosi in una tasca nascosta nel cappello.
+Il suo rosario include un pendente raffigurante un topo che cammina sull'acqua e lo riconosci come il simbolo di Hanspur, una divinità minore dei fiumi, commercio e l'esplorazione, ma anche del caos e della morte. Una peculiarità che ti ricordi dei chierici-commercianti di Hanspur è che nascondono i loro averi più preziosi in una tasca nascosta nel cappello.
 	Dopo aver preso in mano il cappello, effettivamente, ti accorgi che è sospettosamente pesante anche per un cappello mezzo d'acqua, e scuotendolo si sente il rumore familiare di monete che collidono fra loro.
 	Dopo qualche momento, trovi la tasca celata all'interno del cappello e la apri, trovando 40 monete di platino e due pergamene di cura (50 Hp ciascuna).
 
@@ -53,7 +53,7 @@ Descrizione Nemico Mimic
 
 Dopo aver analizzato entrambi i cadaveri, vi accorgete che sono poggiati sopra ad una grata: l'effetto combinato dei cadaveri e delle alghe circostanti bloccano il flusso d'acqua quasi completamente.
 
-Spostando i corpi, l'acqua riprende a fluire vigorosamente verso la grata e, nel giro di qualche minuto, il suo livello si è ridotto a quello di una pozzanghera.
+Spostando i corpi, l'acqua riprende a fluire vigorosamente verso la grata e, nel giro di qualche minuto, il suo livello si è ridotto considerevolmente, fino a non coprire neanche i vostri piedi.
 
 
 ### Descrizione Stanza 2
@@ -64,7 +64,7 @@ A sinistra si trova la statua di una divinità che non conoscete, ma che appare 
 (percezione 30), (ispezionato il cadavere umano)
 Guardando attentamente, riesci a notare che alcune delle figure indossano un cappello simile a quello del cadavere che avete esaminato precedentemente.
 
-(acqua rimossa / percezione 32)
+(acqua rimossa o percezione 35)
 Ai piedi della statua notate che una delle piastrelle è leggermente rialzata.
 	(intuizione 25)
 	Il tuo ingegno ti suggerisce che il ventre vuoto della statua potrebbe ospitare una trappola e che questa superficie sia l'apparecchio per innescarla.
@@ -72,14 +72,17 @@ Ai piedi della statua notate che una delle piastrelle è leggermente rialzata.
 #### Urne
 Le grandi urne in fondo alla stanza sono quasi immobili, ma la loro immagine tremola leggermente a causa del calore delle torce dietro di loro. Una delle urne è parzialmente aperta, e il tappo, leggermente disallineato con il collo, lascia intravedere diverse monete sull'orlo di cadere a terra.
 
-(percezione 20)
-Una delle urne, a sinistra ed isolata rispetto alle altre, presenta diversi simboli di persone intente a navigare e commerciare. Le altre invece non presentano alcun simbolo.
-
 (percezione 25)
+Uno di questi grandi vasi, quello a sinistra, isolato rispetto agli altri, presenta diversi simboli di persone intente a navigare e commerciare. Gli altri invece non presentano alcun simbolo.
 
+(percezione 30)
+Ti accorgi che tutte le qualità che fanno sembrare vive queste urne non provengono dal calore delle torce, oppure dal flebile movimento dell'acqua. Le urne vere e proprie stanno respirando, quasi impercettibilmente, ma il tuo occhio riesce a cogliere anche questi movimenti.
+L'unica urna che non si espande lievemente in movimenti ritmici e ripetuti è quella isolata sulla sinistra, le altre, ormai ne sei certo, sono creature che fingono di essere oggetti.
 
 ### Descrizione Stanza 3
--
+#### Davanti alla Porta
+
+
 
 ### Descrizione Nemico Statua
 Avete già incontrato questo nemico prima d'ora nei libri che vi siete procurati dalla biblioteca locale durante le preparazioni: si tratta di un guardiano di artefatti magici, è un costrutto estremamente resistente, e nonostante la sua stazza il libro avverte che è insolitamente agile.
