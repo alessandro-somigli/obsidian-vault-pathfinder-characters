@@ -83,11 +83,14 @@ L'unica urna che non si espande lievemente in movimenti ritmici e ripetuti è qu
 
 ### Descrizione Stanza 3
 #### Davanti alla Porta
-Davanti a voi si trova una grande porta di legno, che nonostante l'umidità dell'ambiente circostante, rimane ben salda sui suoi cardini. 
+Davanti a voi si trova un'enorme porta di legno, che nonostante l'umidità dell'ambiente circostante, rimane ben salda sui suoi cardini. 
 
-Al centro è inciso un simbolo, 
+Potete notare creature di ogni tipo e forma incise in bassorilievo sulle assi, e, nonostante molte vi sono sconosciute oppure sono state rese irriconoscibili dal tempo, riuscite a notare le due grandi statue in armatura che si ergono alle estremità laterali.
 
-Sulla porta sono ancora presenti chiazze o piccoli frammenti di vernice gialla e blu, forse un tempo tutta la porta era dipinta 
+Al centro dell'illustrazione è invece presente un cerchio magico con all'interno  
+
+Sulla porta sono ancora presenti chiazze o piccoli frammenti di vernice gialla e blu, si trovano principalmente ai margini, ma forse un tempo tutta la superficie era dipinta con colori sgargianti.
+
 
 
 
