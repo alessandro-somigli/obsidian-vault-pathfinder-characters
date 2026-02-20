@@ -87,7 +87,7 @@ Davanti a voi si trova un'enorme porta di legno, che nonostante l'umidità dell'
 
 Potete notare creature di ogni tipo e forma incise in bassorilievo sulle assi, e, nonostante molte vi sono sconosciute oppure sono state rese irriconoscibili dal tempo, riuscite a notare le due grandi statue in armatura che si ergono alle estremità laterali.
 
-Sulla porta sono ancora presenti chiazze o piccoli frammenti di vernice gialla e blu, si trovano principalmente ai margini, ma forse un tempo tutta la superficie era dipinta con colori sgargianti.
+Ai margini della porta sono ancora presenti chiazze o piccoli frammenti di vernice gialla e blu, ma forse un tempo tutta la superficie era dipinta con colori sgargianti.
 
 Al centro dell'illustrazione è invece presente un cerchio magico con all'interno linee e forme organizzate in modo geometrico e strutturato, parole accompagnavano quasi ogni tratto ma adesso sono troppo deteriorate da poter riconoscere. 
 
@@ -97,10 +97,14 @@ Ti accorgi che questo è un cerchio di evocazione, utilizzato per trasportare cr
 (conoscenze piani 25)
 Noti anche che questo cerchio è particolarmente complesso e sarebbe in grado non solo di trasportare ma anche trasformare in qualche modo le creature che evoca, anche se la funzione di queste trasformazioni ti sfugge, in quanto dovresti avere accesso al testo per comprenderla.
 
-Ti avvicini alla porta per aprirla, e ti accorgi che il 
+Ti avvicini alla porta per aprirla, e toccandola, ti accorgi che è estremamente fredda. Inoltre, dalla fessura fra la porta e il pavimento filtra un gelo innaturale.
+Da questa distanza puoi anche sentire certi rumori che provengono dall'altra parte: è un calpestio regolare e continuo misto a suoni che non hai mai sentito e che non possono essere descritti da niente che ti viene in mente in questo momento, ogni tanto è possibile sentire anche un ruggito distante ma è difficile capire di che creatura si tratti, in quanto il suono è ottavato dalla presenza della porta.
 
-Ad un tratto, inizi ad avvertere freddo ai tuoi piedi e ti rendi conto che dalla fessura fra la porta e il pavimento filtra un gelo innaturale. 
+Tutto a un tratto, hai un terribile presentimento e non sei più sicuro di voler aprire la porta, anche se sai di dover proseguire.
 
+### Porta Aperta
+
+Quando apri la porta sei accolto da un'immagine surreale, quasi onirica: un'ampia stanza, ricoperta interamente di ghiaccio su cui "pattinano" due creature ad allarmanti velocità.
 
 
 ### Descrizione Nemico Statua
