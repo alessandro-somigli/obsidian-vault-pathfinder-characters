@@ -103,13 +103,13 @@ Da questa distanza puoi anche sentire certi rumori che provengono dall'altra par
 Tutto a un tratto, hai un terribile presentimento e non sei più sicuro di voler aprire la porta, anche se sai di dover proseguire.
 
 ### Porta Aperta
-Quando apri la porta sei accolto da un'immagine surreale, quasi onirica: un'ampia stanza, ricoperta interamente di ghiaccio su cui "pattinano" due creature ad allarmanti velocità.
+Quando apri la porta sei accolto da un'immagine surreale, quasi onirica: un'ampia stanza, ricoperta interamente di ghiaccio su cui due creature "pattinano" ad allarmanti velocità.
 Sparsi per la stanza puoi vedere diversi portali che popolano lo spazio fra un muro e l'altro, da cui le creature entrano ed escono sfrecciando in tutte le direzioni.
 
 (conoscenze natura 25)
 Descrizione Nemico Diplodoco Dimensionale
 
--
+Dopo qualche secondo, anche questi "Dinamici Diplodochi Dimensionali" avvertono la tua presenza, e con un possente ruggito si preparano a caricare.
 
 ### Descrizione Nemico Statua
 Avete già incontrato questo nemico prima d'ora nei libri che vi siete procurati dalla biblioteca locale durante le preparazioni: si tratta di un guardiano di artefatti magici, è un costrutto estremamente resistente, e nonostante la sua stazza il libro avverte che è insolitamente agile.
