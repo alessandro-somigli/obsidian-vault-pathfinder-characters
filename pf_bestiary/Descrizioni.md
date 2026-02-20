@@ -129,4 +129,5 @@ Una volta scattata la trappola, a causa dei lunghi periodi passati senza mangiar
 I mezlan dispongono di altre abilità notevoli, come quella di trasformare parti del proprio corpo in armi mortali.
 
 ### Descrizione Nemico Diplodoco Dimensionale
--
+Anche se non hai mai visto una creatura così bizzarra, riconosci che il loro corpo e i loro versi richiamano quelli di un diplodoco.
+Sono diversi però in qualsiasi altro aspetto immaginabile: al posto dei piedi le loro gambe terminano in grandi lame metalliche che utilizzano per "pattinare" a grandi velocità sul ghiaccio, la loro coda è decorata da grandi cerchi 
