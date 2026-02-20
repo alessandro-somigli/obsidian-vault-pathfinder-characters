@@ -95,9 +95,9 @@ Al centro dell'illustrazione è invece presente un cerchio magico con all'intern
 Ti accorgi che questo è un cerchio di evocazione, utilizzato per trasportare creature extraplanari nel piano materiale per un certo periodo di tempo. 
 
 (conoscenze piani 25)
-Ti accorgi anche che questo cerchio è particolarmente complesso e sarebbe in grado non solo di trasportare ma anche trasformare in qualche modo le creature che evoca, anche se la funzione di queste trasformazioni ti sfugge, in quanto dovresti avere accesso al testo per comprenderla.
+Noti anche che questo cerchio è particolarmente complesso e sarebbe in grado non solo di trasportare ma anche trasformare in qualche modo le creature che evoca, anche se la funzione di queste trasformazioni ti sfugge, in quanto dovresti avere accesso al testo per comprenderla.
 
-
+Ti avvicini alla porta per aprirla, e ti accorgi che il 
 
 Ad un tratto, inizi ad avvertere freddo ai tuoi piedi e ti rendi conto che dalla fessura fra la porta e il pavimento filtra un gelo innaturale. 
 
