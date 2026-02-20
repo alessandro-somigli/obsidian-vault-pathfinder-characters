@@ -50,7 +50,7 @@ Il suo rosario include un pendente raffigurante un topo che cammina sull'acqua e
 L'altro "corpo" è una carcassa melmosa, viscida e piena di occhi. Non siete neanche sicuri di star guardando alla creatura nella sua interezza da quanto è aliena, e sembra quasi un miracolo che non si sia dissolta nell'acqua circostante. Detto questo, i libri che vi siete portati dietro potrebbero suggerire alla specie a cui apparteneva questa creatura.
 
 (Conoscenze Natura 26)
-Descrizione Nemico Mimic
+Descrizione Mezlan
 
 Dopo aver analizzato entrambi i cadaveri, vi accorgete che sono poggiati sopra ad una grata: l'effetto combinato dei cadaveri e delle alghe circostanti bloccano il flusso d'acqua quasi completamente.
 
@@ -107,7 +107,8 @@ Quando apri la porta sei accolto da un'immagine surreale, quasi onirica: un'ampi
 Sparsi per la stanza puoi vedere diversi portali che popolano lo spazio fra un muro e l'altro, da cui le creature entrano ed escono sfrecciando in tutte le direzioni.
 
 (conoscenze natura 25)
-riconosci queste creature come diplodochi, creature difficilmente endemiche a questo luogo, 
+Descrizione Nemico Diplodoco Dimensionale
+
 -
 
 ### Descrizione Nemico Statua
@@ -118,12 +119,14 @@ Il suo comportamento è semplice e prevedibile: dopo la sua attivazione, tenta d
 La sua attivazione è lunga e richiede 1 turno per completarsi.
 
 ### Descrizione Nemico Orco
-Anche queste creature sono familiari in quanto presenti in quasi tutto il mondo, non sono solite a vivere in luoghi antropomorfizzati e si sono probabilmente intrufolate qui solo per trovare qualche ricchezza. Sono più forti e resilienti di un umanoide qualunque ma spesso goffe, lente e stupide.
+Anche queste creature sono familiari in quanto presenti in quasi tutto il mondo, non sono solite a vivere in luoghi antropici e si sono probabilmente intrufolate qui solo per trovare qualche ricchezza. Sono più forti e resilienti di un umanoide qualunque ma spesso goffe, lente e stupide.
 
 Il loro comportamento si riduce spesso ad attaccare il bersaglio più vicino che riescono a trovare e non adottano alcuna strategia.
 
-### Descrizione Nemico Mimic
--
+### Descrizione Mezlan
+Questa creatura si è adattata a vivere principalmente in luoghi artificiali, come villaggi, sistemi fognari o castelli abbandonati. Maschera il suo aspetto per sembrare un'oggetto di valore oppure tenta di fondersi con l'ambiente per passare inosservato e cogliere la sua preda di sorpresa.
+Una volta scattata la trappola, a causa dei lunghi periodi passati senza mangiare, un mezlan diventa estremamente feroce e aggressivo, prestando poca attenzione ai suoi dintorni e concentrandosi solo sull'uccidere la preda il prima possibile.
+I mezlan dispongono di altre abilità notevoli, come quella di trasformare parti del proprio corpo in armi mortali.
 
 ### Descrizione Nemico Diplodoco Dimensionale
 -
