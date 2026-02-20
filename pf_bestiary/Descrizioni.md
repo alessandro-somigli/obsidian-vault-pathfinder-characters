@@ -108,6 +108,7 @@ Sparsi per la stanza puoi vedere diversi portali che popolano lo spazio fra un m
 
 (conoscenze natura 25)
 riconosci queste creature come diplodochi, creature difficilmente endemiche a questo luogo, 
+-
 
 ### Descrizione Nemico Statua
 Avete già incontrato questo nemico prima d'ora nei libri che vi siete procurati dalla biblioteca locale durante le preparazioni: si tratta di un guardiano di artefatti magici, è un costrutto estremamente resistente, e nonostante la sua stazza il libro avverte che è insolitamente agile.
