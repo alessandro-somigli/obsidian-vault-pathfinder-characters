@@ -99,6 +99,8 @@ Ti accorgi anche che questo cerchio è particolarmente complesso e sarebbe in gr
 
 
 
+Ad un tratto, inizi ad avvertere freddo ai tuoi piedi e ti rendi conto che dalla fessura fra la porta e il pavimento filtra un gelo innaturale. 
+
 
 
 ### Descrizione Nemico Statua
