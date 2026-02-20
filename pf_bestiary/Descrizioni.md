@@ -87,9 +87,16 @@ Davanti a voi si trova un'enorme porta di legno, che nonostante l'umidità dell'
 
 Potete notare creature di ogni tipo e forma incise in bassorilievo sulle assi, e, nonostante molte vi sono sconosciute oppure sono state rese irriconoscibili dal tempo, riuscite a notare le due grandi statue in armatura che si ergono alle estremità laterali.
 
-Al centro dell'illustrazione è invece presente un cerchio magico con all'interno  
-
 Sulla porta sono ancora presenti chiazze o piccoli frammenti di vernice gialla e blu, si trovano principalmente ai margini, ma forse un tempo tutta la superficie era dipinta con colori sgargianti.
+
+Al centro dell'illustrazione è invece presente un cerchio magico con all'interno linee e forme organizzate in modo geometrico e strutturato, parole accompagnavano quasi ogni tratto ma adesso sono troppo deteriorate da poter riconoscere. 
+
+(conoscenze piani 22)
+Ti accorgi che questo è un cerchio di evocazione, utilizzato per trasportare creature extraplanari nel piano materiale per un certo periodo di tempo. 
+
+(conoscenze piani 25)
+Ti accorgi anche che questo cerchio è particolarmente complesso e sarebbe in grado non solo di trasportare ma anche trasformare in qualche modo le creature che evoca, anche se la funzione di queste trasformazioni ti sfugge, in quanto dovresti avere accesso al testo per comprenderla.
+
 
 
 
