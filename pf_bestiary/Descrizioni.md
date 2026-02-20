@@ -83,6 +83,11 @@ L'unica urna che non si espande lievemente in movimenti ritmici e ripetuti è qu
 
 ### Descrizione Stanza 3
 #### Davanti alla Porta
+Davanti a voi si trova una grande porta di legno, che nonostante l'umidità dell'ambiente circostante, rimane ben salda sui suoi cardini. 
+
+Al centro è inciso un simbolo, 
+
+Sulla porta sono ancora presenti chiazze o piccoli frammenti di vernice gialla e blu, forse un tempo tutta la porta era dipinta 
 
 
 
