@@ -1,12 +1,11 @@
 ### Introduzione
-Siete stati inviati in un una piccola città di Abendall da Cailean per investigare una certa anomalia nell'ecosistema locale.
+Siete stati inviati in un una piccola città di Abendall da Cailean per investigare una certa anomalia nell'ecosistema locale: da ormai mesi sta nevicando senza sosta in piena estate, e le cause di questo fenomeno non sembrano naturali.
 
-Chiedendo informazioni nei dintorni siete riusciti a scoprire che la fonte dei problemi si trova dentro un esteso sistema di caverne, e dopo una lunga esplorazione trovate un tunnel recentemente costruito all'interno di uno dei rami più remoti.
+Chiedendo informazioni nei dintorni siete riusciti a scoprire che la fonte dei problemi si trova dentro un esteso sistema di caverne, situato sotto all'epicentro dell'anomalia, e dopo una lunga esplorazione trovate un tunnel recentemente costruito all'interno di uno dei rami più remoti della grotta.
 
 Dopo una lunga camminata di almeno un'ora all'interno di un tunnel rettilineo e perlopiù inalterato, iniziate a sentire un rumore, inizialmente tenue ma sempre più forte: è ripetitivo e avviene ogni decina di secondi, sembra provenire da una sorta di oggetto metallico.
 
 Finalmente, dopo un'ulteriore manciata di minuti, iniziate a scorgere un'altra fonte di luce artificiale che non siano le vostre torce.
-
 
 ### Descrizione Stanza 1
 
