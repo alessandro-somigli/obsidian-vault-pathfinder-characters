@@ -125,9 +125,14 @@ Il loro comportamento si riduce spesso ad attaccare il bersaglio più vicino che
 
 ### Descrizione Mezlan
 Questa creatura si è adattata a vivere principalmente in luoghi artificiali, come villaggi, sistemi fognari o castelli abbandonati. Maschera il suo aspetto per sembrare un'oggetto di valore oppure tenta di fondersi con l'ambiente per passare inosservato e cogliere la sua preda di sorpresa.
+
 Una volta scattata la trappola, a causa dei lunghi periodi passati senza mangiare, un mezlan diventa estremamente feroce e aggressivo, prestando poca attenzione ai suoi dintorni e concentrandosi solo sull'uccidere la preda il prima possibile.
+
 I mezlan dispongono di altre abilità notevoli, come quella di trasformare parti del proprio corpo in armi mortali.
 
 ### Descrizione Nemico Diplodoco Dimensionale
-Anche se non hai mai visto una creatura così bizzarra, riconosci che il loro corpo e i loro versi richiamano quelli di un diplodoco.
-Sono diversi però in qualsiasi altro aspetto immaginabile: al posto dei piedi le loro gambe terminano in grandi lame metalliche che utilizzano per "pattinare" a grandi velocità sul ghiaccio, la loro coda è decorata da grandi cerchi 
+Anche se non hai mai visto una creatura così bizzarra, riconosci che il loro profilo e i loro versi richiamano quelli di un diplodoco.
+
+Sono diversi però in qualsiasi altro aspetto immaginabile: al posto dei piedi le loro gambe terminano in grandi lame metalliche che utilizzano per "pattinare" a grandi velocità sul ghiaccio, la loro coda è decorata da grandi cerchi multicolore che utilizzano per creare e distruggere portali, e, il loro corpo di colore blu scuro, emana un gelo pungente che porta allo stato solido qualsiasi fonte d'acqua si trovi nelle loro vicinanze. 
+
+Non conosci questa creatura e di conseguenza non sai come potrebbe reagire ad un'interazione di alcun tipo.
