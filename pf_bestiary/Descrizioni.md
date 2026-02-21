@@ -7,6 +7,7 @@ Dopo una lunga camminata di almeno un'ora all'interno di un tunnel rettilineo e 
 
 Finalmente, dopo un'ulteriore manciata di minuti, iniziate a scorgere un'altra fonte di luce artificiale che non siano le vostre torce.
 
+
 ### Descrizione Stanza 1
 
 Proseguite fino a che non vi trovate in una grande stanza, illuminata debolmente da un candelabro appeso al soffitto, l'aria è umida e stantia ma respirabile, almeno per un pò.
@@ -28,7 +29,8 @@ Davanti a voi, invece, è presente un semplice muro, su cui sono presenti crepe 
 
 #### Loot Falò
 Il falò è a malapena acceso, lentamente consumando le poche energie che gli rimangono; è circondato da numerose pietre e ossa, alcune delle quali grandi abbastanza da essere umane. Accatastata ad un lato del falò si trova una pila di vestiti, fra i quali riesci a intravedere il luccichio di un gioiello con una grossa pietra blu (200 mo).
-Il gioiello è una sorta di pendente realizzato in oro, una catena parte da entrambi lati della gemma e si unisce in una piccola ma minuziosa chiusura. Fra i dettagli intagliati sul metallo  retro della 
+Il gioiello è una sorta di pendente realizzato in oro, una catena parte da entrambi lati della gemma e si unisce in una piccola ma minuziosa chiusura. Fra i dettagli intagliati nel metallo sul retro della pietra ti salta all'occhio un tridente, anche se non sai cosa potrebbe rappresentare questo simbolo.
+
 
 ### Descrizione Stanza Segreta
 
@@ -61,6 +63,7 @@ Spostando i corpi, l'acqua riprende a fluire vigorosamente verso la grata e, nel
 
 ### Descrizione Stanza 2
 Guardate nella piccola stanza che si estende oltre il corridoio: la luce in questa stanza è decisamente più tenue, illuminata soltanto da alcune candele appoggiate sul piedistallo della statua alla vostra sinistra e da torce appese al muro più lontano da voi. Le ombre proiettate dalle urne sul pavimento creano forme strane e allungate a causa delle torce dietro di loro, e sembrano quasi respirare grazie agli ormai flebili movimenti dell'acqua.
+
 #### Statua
 A sinistra si trova la statua di una divinità che non conoscete, ma che appare di natura crudele. Le fessure degli occhi sembrano innaturalmente buie, e ha un buco nel ventre da cui esce un piccolo ma costante rivolo d'acqua. Sul piedistallo sono presenti incisioni di persone unite per mano, forse per eseguire un qualche tipo di rituale.
 
@@ -116,6 +119,7 @@ Descrizione Nemico Diplodoco Dimensionale
 
 Dopo qualche secondo, anche questi "Dinamici Diplodochi Dimensionali" avvertono la tua presenza, e con un possente ruggito si preparano a caricare.
 
+
 ### Descrizione Nemico Statua
 Avete già incontrato questo nemico prima d'ora nei libri che vi siete procurati dalla biblioteca locale durante le preparazioni: si tratta di un guardiano di artefatti magici, è un costrutto estremamente resistente, e nonostante la sua stazza il libro avverte che è insolitamente agile.
 
@@ -123,10 +127,12 @@ Il suo comportamento è semplice e prevedibile: dopo la sua attivazione, tenta d
 
 La sua attivazione è lunga e richiede 1 turno per completarsi.
 
+
 ### Descrizione Nemico Orco
 Anche queste creature sono familiari in quanto presenti in quasi tutto il mondo, non sono solite a vivere in luoghi antropici e si sono probabilmente intrufolate qui solo per trovare qualche ricchezza. Sono più forti e resilienti di un umanoide qualunque ma spesso goffe, lente e stupide.
 
 Il loro comportamento si riduce spesso ad attaccare il bersaglio più vicino che riescono a trovare e non adottano alcuna strategia.
+
 
 ### Descrizione Mezlan
 Questa creatura si è adattata a vivere principalmente in luoghi artificiali, come villaggi, sistemi fognari o castelli abbandonati. Maschera il suo aspetto per sembrare un'oggetto di valore oppure tenta di fondersi con l'ambiente per passare inosservato e cogliere la sua preda di sorpresa.
@@ -134,6 +140,7 @@ Questa creatura si è adattata a vivere principalmente in luoghi artificiali, co
 Una volta scattata la trappola, a causa dei lunghi periodi passati senza mangiare, un mezlan diventa estremamente feroce e aggressivo, prestando poca attenzione ai suoi dintorni e concentrandosi solo sull'uccidere la preda il prima possibile.
 
 I mezlan dispongono di altre abilità notevoli, come quella di trasformare parti del proprio corpo in armi mortali.
+
 
 ### Descrizione Nemico Diplodoco Dimensionale
 Anche se non hai mai visto una creatura così bizzarra, riconosci che il loro profilo e i loro versi richiamano quelli di un diplodoco.
