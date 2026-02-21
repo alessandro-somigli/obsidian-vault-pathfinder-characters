@@ -151,19 +151,20 @@ Non conosci questa creatura e di conseguenza non sai come potrebbe reagire ad un
 
 ## Conclusioni
 
-### Buone Pratiche
+### Buone Pratiche da Parte del Master
  - Elementi interagibili durante i combattimenti, come trappole oppure oggetti utilizzabili contro gli avversari.
  - Nemici più "umani" e a volte, l'esistenza di un'opzione diplomatica nei combattimenti.
  - Passaggi segreti, posti nascosti e loot (anche oggetti) durante l'esplorazione.
- - Quantità di monete adeguata ad una sessione di esplorazione (20.000 mo a lv.12)
+ - Quantità di monete adeguata ad una sessione di esplorazione (20.000 mo a lv.12).
  - Descrizioni meno prolungate e scriptate, più spontanee.
  - Gli elementi interagibili durante i combattimenti devono essere posizionali (trappole o altro sfruttate dai giocatori) e senza utilizzo di action economy, oppure, devono avere una ricompensa adeguata al loro investimento (spesso azione standard).
- - Nemici con Armatura e Attacchi adeguati (CA 29/34, ATK 30/50 danni al turno)
+ - Nemici con Armatura e Attacchi adeguati (CA 29/34, ATK 30/50 danni al turno).
 
 ### Buone Pratiche dei Giocatori
- - Discussione di una strategia all'inizio del combattimento
+ - Discussione di una strategia all'inizio del combattimento.
  - Maggior coordinazione, l'esistenza di una strategia che viene seguita da tutti i giocatori, anche al costo di perdere un turno di damage output.
  - Pensare e discutere le conseguenze delle azioni in combattimento (prevenire casi spiacevoli considerando diverse eventualità).
+ - Provare a sforzarsi di performare un dialogo ad ogni turno di combattimento.
 
 ### Suggerimenti Ambiziosi
 Combattimenti prolungati ma altamente interattivi che incentivano la sperimentazione e le azioni non-convenzionali. 
