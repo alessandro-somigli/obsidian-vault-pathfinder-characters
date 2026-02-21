@@ -26,6 +26,9 @@ Nella distanza inoltre riuscite a scorgere, almeno parzialmente, un corpo d'acqu
 Davanti a voi, invece, è presente un semplice muro, su cui sono presenti crepe e copiose quantità di muschio. 
 (percezione 33) Una delle crepe in particolare sembra eccezionalmente grossa, e crea uno spiraglio da cui è possibile guardare oltre il muro.
 
+#### Loot Falò
+Il falò è a malapena acceso, lentamente consumando le poche energie che gli rimangono; è circondato da numerose pietre e ossa, alcune delle quali grandi abbastanza da essere umane. Accatastata ad un lato del falò si trova una pila di vestiti, fra i quali riesci a intravedere il luccichio di un gioiello con una grossa pietra blu (200 mo).
+Il gioiello è una sorta di pendente realizzato in oro, una catena parte da entrambi lati della gemma e si unisce in una piccola ma minuziosa chiusura. Fra i dettagli intagliati sul metallo  retro della 
 
 ### Descrizione Stanza Segreta
 
@@ -44,7 +47,7 @@ Uno dei corpi è umano, vestito in una tunica gialla e abiti sgargianti ma sporc
 (Conoscenze Religione 22)
 Il suo rosario include un pendente raffigurante un topo che cammina sull'acqua e lo riconosci come il simbolo di Hanspur, una divinità minore dei fiumi, commercio e l'esplorazione, ma anche del caos e della morte. Una peculiarità che ti ricordi dei chierici-commercianti di Hanspur è che nascondono i loro averi più preziosi in una tasca nascosta nel cappello.
 	Dopo aver preso in mano il cappello, effettivamente, ti accorgi che è sospettosamente pesante anche per un cappello mezzo d'acqua, e scuotendolo si sente il rumore familiare di monete che collidono fra loro.
-	Dopo qualche momento, trovi la tasca celata all'interno del cappello e la apri, trovando 40 monete di platino e due pergamene di cura (50 Hp ciascuna).
+	Dopo qualche momento, trovi la tasca celata all'interno del cappello e la apri, trovando 20 monete di platino e due pergamene di cura (50 Hp ciascuna).
 
 L'altro "corpo" è una carcassa melmosa, viscida e piena di occhi. Non siete neanche sicuri di star guardando alla creatura nella sua interezza da quanto è aliena, e sembra quasi un miracolo che non si sia dissolta nell'acqua circostante. Detto questo, i libri che vi siete portati dietro potrebbero suggerire alla specie a cui apparteneva questa creatura.
 
@@ -78,6 +81,9 @@ Uno di questi grandi vasi, quello a sinistra, isolato rispetto agli altri, prese
 (percezione 30)
 Ti accorgi che tutte le qualità che fanno sembrare vive queste urne non provengono dal calore delle torce, oppure dal flebile movimento dell'acqua. Le urne vere e proprie stanno respirando, quasi impercettibilmente, ma il tuo occhio riesce a cogliere anche questi movimenti.
 L'unica urna che non si espande lievemente in movimenti ritmici e ripetuti è quella isolata sulla sinistra, le altre, ormai ne sei certo, sono creature che fingono di essere oggetti.
+
+#### Loot Piccola Urna Sulla Sinistra
+A causa dell'oscurità l'urna sembra vuota inizialmente, ma, dopo un breve momento di delusione, ti accorgi che una considerevole quantità di monete sono ammassate sul fondo (800 mo).
 
 
 ### Descrizione Stanza 3
