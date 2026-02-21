@@ -148,3 +148,16 @@ Anche se non hai mai visto una creatura così bizzarra, riconosci che il loro pr
 Sono diversi però in qualsiasi altro aspetto immaginabile: al posto dei piedi le loro gambe terminano in grandi lame metalliche che utilizzano per "pattinare" a grandi velocità sul ghiaccio, la loro coda è decorata da grandi cerchi multicolore che utilizzano per creare e distruggere portali, e, il loro corpo di colore blu scuro, emana un gelo pungente che porta allo stato solido qualsiasi fonte d'acqua si trovi nelle loro vicinanze. 
 
 Non conosci questa creatura e di conseguenza non sai come potrebbe reagire ad un'interazione di alcun tipo.
+
+## Conclusioni
+
+### Buone Pratiche
+Elementi interagibili durante i combattimenti, come trappole oppure oggetti utilizzabili contro gli avversari.
+Nemici più "umani" e a volte, l'esistenza di un'opzione diplomatica nei combattimenti.
+Passaggi segreti, posti nascosti e loot (anche oggetti) durante l'esplorazione.
+Quantità di monete adeguata ad una sessione di esplorazione (20.000 mo a lv.12)
+Descrizioni meno prolungate e scriptate, più spontanee.
+
+### Suggerimenti Ambiziosi
+Combattimenti prolungati ma altamente interattivi che incentivano la sperimentazione e le azioni non-convenzionali. 
+
