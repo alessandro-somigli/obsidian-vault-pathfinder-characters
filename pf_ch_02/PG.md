@@ -74,7 +74,7 @@ privilegi di classe:
 | 4   | X   | resistenza al richiamo della natura     |
 | 4   | X   | forma selvatica                         |
 | 9   | X   | seguire le linee                        |
-| 13  |     | corpo vuoto                             |
+| 13  | X   | corpo vuoto                             |
 | 15  |     | corpo senza tempo                       |
 
 # Abilità
@@ -111,7 +111,7 @@ privilegi di classe:
 | 7   | X   | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (trasmutazione)                     |
 | 9   | X   | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (trasmutazione) |
 | 11  | X   | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                             |
-| 13  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                                 |
+| 13  | X   | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                                 |
 | 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)             |
 | 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                               |
 | 19  |     | [iniziativa migliorata](https://golarion.altervista.org/wiki/Iniziativa_Migliorata)                                         |
