@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_02/Incantesimi.md",
+                "file": "Abilità Pathfinder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incantesimi"
+              "title": "Abilità Pathfinder"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "5910e1d480b888f6",
   "lastOpenFiles": [
+    "pf_ch_02/Incantesimi.md",
+    "Abilità Pathfinder.md",
     "pf_bestiary/Descrizioni.md",
     "pf_bestiary/Rashida.md",
     "pf_ch_oneshot_5/PG.md",
@@ -202,7 +204,6 @@
     "pf_ch_04/Incantesimi.md",
     "pf_ch_04/Backstory.md",
     "pf_ch_03/Backstory.md",
-    "pf_ch_02/Incantesimi.md",
     "pf_ch_04/Creature Legame Planare.md",
     "zemenis/Incantesimi.md",
     "zemenis/Equipaggiamento.md",
@@ -215,7 +216,6 @@
     "pf_ch_oneshot_3/PG.md",
     "sortspec.md",
     "pf_ch_oneshot_5",
-    "pf_ch_oneshot_5.md",
     "pf_ch_oneshot_4",
     "pf_ch_oneshot_3",
     "pf_ch_oneshot_2",
