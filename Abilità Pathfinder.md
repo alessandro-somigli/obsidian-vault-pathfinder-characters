@@ -11,9 +11,9 @@ finezza (des) (volare, acrobazia, rapidità di mano, artista della fuga)
 furtività (des)
 
 #### utility
-sopravvivenza (sopravvivenza, guarire)
-aggeggi (?) (utilizzare congegni magici, disattivare congegni)
-conoscenze
+sopravvivenza (sag) (sopravvivenza, guarire)
+aggeggi (des) (utilizzare congegni magici, disattivare congegni)
+conoscenze (int)
 - conoscenze accademiche (geografia, storia, nobiltà, ingegneria, linguistica)
 - conoscenze arcana (+ sapienza magica)
 - conoscenze dungeon
@@ -23,12 +23,12 @@ conoscenze
 - conoscenze religioni
 
 #### sociali
-diplomazia
-ingannare
-intrattenere
-intimidire (?)
+diplomazia (car)
+ingannare (car)
+intrattenere (car)
+intimidire (car/for)
 
-#### tiro a piacere
+#### tiro a piacere (master)
 ogni personaggio sceglie (una o) due niche su cui può tirare
 esempi:
 - backflip
