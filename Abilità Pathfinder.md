@@ -143,6 +143,8 @@ ingegneristica (des) (utilizzare congegni magici, disattivare congegni):
 Queste abilità sono molto situazionali ed entrambe consistono nell'interfacciarsi in qualche modo con degli oggetti, quindi possono essere facilmente raggruppate insieme.
 
 conoscenze accademiche (int) (geografia, storia, nobiltà, ingegneria, linguistica):
-Abbiamo deciso di raggruppare insieme tutte le conoscenze che non permettono di apprendere abilità di alcun nemico in quanto sono estremamente situazionali .
+Abbiamo deciso di raggruppare insieme tutte le conoscenze che non permettono di apprendere abilità di alcun nemico in quanto sono estremamente situazionali, inoltre abbiamo deciso di includere linguistica in quanto ... .
 
 conoscenze arcana (int) (+ sapienza magica):
+Visto che arcana è la conoscenza più "debole" abbiamo deciso di unirla con sapienza magica.
+
