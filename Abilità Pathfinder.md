@@ -70,4 +70,51 @@ esempi:
 
 Buongiorno ragazzi, scrivo questo messaggio per avere le vostre opinioni su una questione riguardante Pathfinder che è uscita di recente, ovvero quella delle abilità. Dopo sessione scorsa infatti, io, Leo e Gio ci siamo confrontati e siamo arrivati alla conclusione che diverse abilità esistenti nel gioco sono molto situazionali (e.g. nuotare, scalare, conoscenze geografia, ...), mentre altre sono così importanti che virtualmente ogni personaggio è costretto ad investirci (percezione).
 
-La soluzione a cui siamo arrivati consiste nel raggruppare le 26 abilità presenti nel gioco in 14 abilità, dove le più situazionali sono state raggruppate insieme mentre percezione è stata divisa in tre abilità distinte. 
+La soluzione a cui siamo arrivati consiste nel rielaborare le 26 abilità presenti nel gioco in 14 abilità, dove le più situazionali sono state raggruppate insieme mentre percezione è stata divisa in tre abilità distinte.
+Alcune meccaniche infine sono state rimosse completamente in quanto possono essere realizzate tramite il gioco di ruolo.
+
+Le abilità che sono rimaste dopo questa rielaborazione sono le seguenti:
+- tiri di percezione:
+	sesto senso (sag)
+	empatia (car)
+	indagare (int)
+- abilità fisiche:
+	atletica (for) (nuotare, cavalcare, scalare)
+	finezza (des) (volare, acrobazia, rapidità di mano, artista della fuga)
+	furtività (des)
+- abilità di utility:
+	sopravvivenza (sag) (sopravvivenza, guarire)
+	aggeggi (des) (utilizzare congegni magici, disattivare congegni)
+	conoscenze (int)
+	- conoscenze accademiche (geografia, storia, nobiltà, ingegneria, linguistica)
+	- conoscenze arcana (+ sapienza magica)
+	- conoscenze dungeon
+	- conoscenze locali
+	- conoscenze natura
+	- conoscenze piani
+	- conoscenze religioni
+- abilità sociali:
+	diplomazia (car)
+	ingannare (car)
+	intrattenere (car)
+	intimidire (car/for)
+- tiro a piacere:
+	dipingere
+	riparare barche
+	ecc...
+- meccaniche rimosse:
+	camuffare
+	artigianato
+	professione
+	addestrare animali
+	valutare
+
+Qui procedo a esporre e spiegare perché abbiamo ritenuto necessario ogni singolo cambiamento.
+
+La scissione di Percezione:
+Percezione è un'abilità ben conosciuta per essere molto utilizzata durante nei giochi di ruolo basati su dnd, purtroppo, questo può tagliare fuori da molte interazioni i personaggi che hanno questa abilità naturalmente bassa.
+Dividerla consente a personaggi diversi di specializzarsi in ambiti diversi della percezione, permettendo a tutti di interagire parzialmente con questa meccanic
+
+
+
+
