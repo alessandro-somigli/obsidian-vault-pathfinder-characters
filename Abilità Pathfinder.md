@@ -5,7 +5,7 @@ sesto senso (sag)
 empatia (car)
 indagare (int)
 #### abilità fisiche
-atletica (for) (nuotare, cavalcare, scalare) 
+atletica (for) (nuotare, cavalcare, scalare)
 finezza (des) (volare, acrobazia, rapidità di mano, artista della fuga)
 furtività (des)
 #### utility
