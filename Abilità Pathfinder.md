@@ -67,3 +67,7 @@ esempi:
 - [x] [Utilizzare Congegni Magici](https://golarion.altervista.org/wiki/Utilizzare_Congegni_Magici "Utilizzare Congegni Magici")
 - [x] [Valutare](https://golarion.altervista.org/wiki/Valutare "Valutare")
 - [x] [Volare](https://golarion.altervista.org/wiki/Volare "Volare")
+
+Buongiorno ragazzi, scrivo questo messaggio per avere le vostre opinioni su una questione riguardante Pathfinder che è uscita di recente, ovvero quella delle abilità. Dopo sessione scorsa infatti, io, Leo e Gio ci siamo confrontati e siamo arrivati alla conclusione che diverse abilità esistenti nel gioco sono molto situazionali (e.g. nuotare, scalare, conoscenze geografia, ...), mentre altre sono così importanti che virtualmente ogni personaggio è costretto ad investirci (percezione).
+
+La soluzione a cui siamo arrivati consiste nel raggruppare le 26 abilità presenti nel gioco in 14 abilità, dove le più situazionali sono state raggruppate insieme mentre percezione è stata divisa in tre abilità distinte. 
