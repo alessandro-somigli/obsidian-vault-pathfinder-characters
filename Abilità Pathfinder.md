@@ -32,6 +32,7 @@ esempi:
 - costruire vestiti
 - riparare barche
 - ecc...
+
 #### meccaniche rimosse
 - camuffare (dai usa raggirare idk)
 - artigianato (bro...)

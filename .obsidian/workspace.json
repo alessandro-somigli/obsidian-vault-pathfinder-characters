@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Abilità Pathfinder"
             }
+          },
+          {
+            "id": "dfa308d600ed014b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5910e1d480b888f6",
+  "active": "dfa308d600ed014b",
   "lastOpenFiles": [
     "Appunti.md",
     "PF Canvas.md",
