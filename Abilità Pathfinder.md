@@ -84,7 +84,7 @@ Le abilità che sono rimaste dopo questa rielaborazione sono le seguenti:
 	furtività (des)
 - abilità di utility:
 	sopravvivenza (sag) (sopravvivenza, guarire)
-	aggeggi (des) (utilizzare congegni magici, disattivare congegni)
+	ingegneristica (des) (utilizzare congegni magici, disattivare congegni)
 	conoscenze (int)
 	- conoscenze accademiche (geografia, storia, nobiltà, ingegneria, linguistica)
 	- conoscenze arcana (+ sapienza magica)
@@ -125,7 +125,6 @@ indagare (int):
 Indagare potrebbe essere descritta come la percezione attiva, ovvero la ricerca di indizi, rovistare alla ricerca di oggetti interessanti, oppure trovare un'oggetto specifico.
 
 Le Abilità Fisiche:
-
 atletica (for) (nuotare, cavalcare, scalare):
 Atletica racchiude tre abilità situazionali, mettendole insieme, speriamo di rendere più gratificante l'investimento in queste abilità.
 
@@ -135,5 +134,15 @@ Finezza racchiude quattro abilità situazionali, mettendole insieme, speriamo di
 furtività (des):
 Furtività rimane identica all'abilità originale.
 
+Le Abilità di Utility:
 
+sopravvivenza (sag) (sopravvivenza, guarire):
+Visto che Guarire sembra un'abilità adiacente a quelle generali di Sopravvivenza, abbiamo deciso di raggrupparle insieme.
 
+ingegneristica (des) (utilizzare congegni magici, disattivare congegni):
+Queste abilità sono molto situazionali ed entrambe consistono nell'interfacciarsi in qualche modo con degli oggetti, quindi possono essere facilmente raggruppate insieme.
+
+conoscenze accademiche (int) (geografia, storia, nobiltà, ingegneria, linguistica):
+Abbiamo deciso di raggruppare insieme tutte le conoscenze che non permettono di apprendere abilità di alcun nemico in quanto sono estremamente situazionali .
+
+conoscenze arcana (int) (+ sapienza magica):
