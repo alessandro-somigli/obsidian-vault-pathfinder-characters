@@ -111,10 +111,29 @@ Le abilità che sono rimaste dopo questa rielaborazione sono le seguenti:
 
 Qui procedo a esporre e spiegare perché abbiamo ritenuto necessario ogni singolo cambiamento.
 
-La scissione di Percezione:
-Percezione è un'abilità ben conosciuta per essere molto utilizzata durante nei giochi di ruolo basati su dnd, purtroppo, questo può tagliare fuori da molte interazioni i personaggi che hanno questa abilità naturalmente bassa.
-Dividerla consente a personaggi diversi di specializzarsi in ambiti diversi della percezione, permettendo a tutti di interagire parzialmente con questa meccanic
+La Scissione di Percezione:
+Percezione è un'abilità ben conosciuta per essere molto utilizzata durante nei giochi di ruolo basati su dnd, purtroppo, questo può tagliare fuori da diverse interazioni i personaggi che hanno questa abilità naturalmente bassa.
+Dividerla consente a personaggi diversi di specializzarsi in ambiti diversi della percezione, permettendo a tutti di interagire parzialmente con questa meccanica.
 
+sesto senso (sag):
+Sesto Senso è quella che spesso viene chiamata percezione passiva, ad esempio vedere qualcosa nella distanza, udire dei passi oppure guardarsi intorno.
+
+empatia (car):
+Empatia lavora nell'ambito sociale, ad esempio percepire le intenzioni di qualcuno, leggere le espressioni oppure rilevare bugie.
+
+indagare (int):
+Indagare potrebbe essere descritta come la percezione attiva, ovvero la ricerca di indizi, rovistare alla ricerca di oggetti interessanti, oppure trovare un'oggetto specifico.
+
+Le Abilità Fisiche:
+
+atletica (for) (nuotare, cavalcare, scalare):
+Atletica racchiude tre abilità situazionali, mettendole insieme, speriamo di rendere più gratificante l'investimento in queste abilità.
+
+finezza (des) (volare, acrobazia, rapidità di mano, artista della fuga):
+Finezza racchiude quattro abilità situazionali, mettendole insieme, speriamo di rendere più gratificante l'investimento in queste abilità.
+
+furtività (des):
+Furtività rimane identica all'abilità originale.
 
 
 
