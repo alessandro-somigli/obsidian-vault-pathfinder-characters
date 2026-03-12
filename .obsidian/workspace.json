@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abilità Pathfinder.md",
+                "file": "PF Canvas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abilità Pathfinder"
+              "title": "PF Canvas"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,13 +187,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5910e1d480b888f6",
+  "active": "932bce2eded60e64",
   "lastOpenFiles": [
     "Appunti.md",
+    "Abilità Pathfinder.md",
     "PF Canvas.md",
     "sortspec.md",
     "pf_ch_02/PG.md",
-    "Abilità Pathfinder.md",
     "pf_ch_02/Incantesimi.md",
     "pf_bestiary/Descrizioni.md",
     "pf_bestiary/Rashida.md",
