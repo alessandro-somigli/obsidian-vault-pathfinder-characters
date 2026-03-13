@@ -4,7 +4,7 @@ soprannome: -
 
 allineamento: NM
 
-divinità: Pharasma
+divinità: 
 
 linguaggi: Comune, Gnomesco, Silvano
 età: 113
@@ -20,7 +20,7 @@ tratti:
 livello: 11
 punti eroe: 0
 
-pf: 
+pf: 129
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |
@@ -46,26 +46,21 @@ gradi abilità per livello: `2 + MOD.INT`
 
 privilegi di classe:
 
-| lvl | chk | privilegio di classe |
-| --- | --- | -------------------- |
-| 1   |     |                      |
-| 1   |     |                      |
-| 1   |     |                      |
-| 2   |     |                      |
-| 4   |     |                      |
-| 4   |     |                      |
-| 9   |     |                      |
-| 13  |     |                      |
-| 15  |     |                      |
+| lvl | chk | privilegio di classe    |
+| --- | --- | ----------------------- |
+| 1   |     | compagno cadavere       |
+| 8   |     | guaritore dei non morti |
 
 # Talenti
 
-| lvl | chk | talento |
-| --- | --- | ------- |
-| 1   |     |         |
-| 3   |     |         |
-| 5   |     |         |
-| 7   |     |         |
-| 9   |     |         |
-| 11  |     |         |
+| lvl | chk | talento                                                                             |
+| --- | --- | ----------------------------------------------------------------------------------- |
+| 1   |     | [comandare non morti](https://golarion.altervista.org/wiki/Comandare_Non_Morti)     |
+| 1   |     |                                                                                     |
+| 3   |     |                                                                                     |
+| 5   |     |                                                                                     |
+| 7   |     |                                                                                     |
+| 8   |     | [padrone dei non morti](https://golarion.altervista.org/wiki/Padrone_dei_Non_Morti) |
+| 9   |     | [incanalare rapido](https://golarion.altervista.org/wiki/Incanalare_Rapido)         |
+| 11  |     | [incanalare migliorato](https://golarion.altervista.org/wiki/Incanalare_Migliorato) |
 
