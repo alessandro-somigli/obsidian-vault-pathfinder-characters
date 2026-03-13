@@ -5,10 +5,10 @@
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
 ### lv.1: (0):
 - dominio:
-	- (0) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida")
+	- (0) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
-	- (0) [barriera stordente](https://golarion.altervista.org/wiki/Barriera_Stordente "Barriera Stordente") (P)
+	- (0) [barriera stordente](https://golarion.altervista.org/wiki/Barriera_Stordente "Barriera Stordente")
 	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Comando_di_Liberazione "Comando di Liberazione") (I)
 	- (0) [devastazione](https://golarion.altervista.org/wiki/Devastazione "Devastazione") (N)
 	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Foschia_Occultante "Foschia Occultante")
@@ -38,7 +38,7 @@
 	- (0) [contagio](https://golarion.altervista.org/wiki/Incantesimi/Contagio) (N)
 - utility:
 	- (0) [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino) (M 100mo)
-- - necromanzia:
+- necromanzia:
 	- (0) [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25mo per dv)
 
 ### lv.4: (0):
