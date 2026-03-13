@@ -37,8 +37,10 @@
 	- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Scagliare_Maledizione "Scagliare Maledizione") (N)
 	- (0) [contagio](https://golarion.altervista.org/wiki/Incantesimi/Contagio) (N)
 - utility:
-	- [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino)
-.h4y4y4
+	- (0) [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino) (M 100mo)
+- - necromanzia:
+	- (0) [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25mo per dv)
+
 ### lv.4: (0):
 - dominio:
 	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
