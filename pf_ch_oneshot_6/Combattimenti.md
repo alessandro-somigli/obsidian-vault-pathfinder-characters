@@ -66,10 +66,70 @@ I nemici sono 3 golem:
 
 1 golem di legno che infligge danni modesti a distanza.
 
-Meccaniche di Terreno:
-è presente un enorme macigno dietro al party, 6x6.
+### Golem di Ferro:
 
+Tipo: Costrutto Grande
+Iniziativa: +0
+Allineamento: N
+#### Difesa:
+CA: 22
+PF: 100
+TS:
+- tempra: 18
+- riflessi: 12
+- volontà: -
+
+#### Attacco:
+Velocità: 6m (4 caselle)
+Mischia: 
+- Raffica di Lame (8d8+12), riflessi 22 dimezza
+
+#### Interazioni Speciali
+SCRIVI
+
+### Golem di Pietra:
+
+Tipo: Costrutto Grande
+Iniziativa: +0
+Allineamento: N
+#### Difesa:
+CA: 26
+PF: 200
+TS:
+- tempra: 20
+- riflessi: 10
+- volontà: -
+
+#### Attacco:
+Velocità: 6m (4 caselle)
+Mischia: 
+- Schianto +16 (2d8+7)
+
+
+### Golem di Legno:
+
+Tipo: Costrutto Grande
+Iniziativa: +0
+Allineamento: N
+#### Difesa:
+CA: 18
+PF: 100
+TS:
+- tempra: 13
+- riflessi: 13
+- volontà: -
+
+#### Attacco:
+Velocità: 6m (4 caselle)
+Mischia: 
+- Schianto +16 (2d8+7)
+Distanza:
+- Arco Lungo +22/+17/+12 (1d8+10)
+
+### Meccaniche di Terreno:
+è presente un enorme macigno dietro al party, 6x6.
 
 
 ## Combattimento no.3:
 
+Combattimento contro Apap
