@@ -57,10 +57,10 @@ privilegi di classe:
 | lvl | chk | talento                                                                             |
 | --- | --- | ----------------------------------------------------------------------------------- |
 | 1   | X   | [comandare non morti](https://golarion.altervista.org/wiki/Comandare_Non_Morti)     |
-| 1   | X   | incantesimi focalizzati                                                             |
-| 3   | X   | incantesimi focalizzati superiore                                                   |
+| 1   | X   | incantesimi focalizzati (necromanzia)                                               |
+| 3   | X   | incantesimi focalizzati superiore (necromanzia)                                     |
 | 5   | X   |                                                                                     |
-| 7   | X   |                                                                                     |
+| 7   | X   | interferenza divina                                                                 |
 | 8   | X   | [padrone dei non morti](https://golarion.altervista.org/wiki/Padrone_dei_Non_Morti) |
 | 9   | X   | [incanalare rapido](https://golarion.altervista.org/wiki/Incanalare_Rapido)         |
 | 11  | X   | [incanalare migliorato](https://golarion.altervista.org/wiki/Incanalare_Migliorato) |
