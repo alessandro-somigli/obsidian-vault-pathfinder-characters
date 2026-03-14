@@ -1,5 +1,9 @@
-- [Cavallo](https://golarion.altervista.org/wiki/Cavallo) (2HD)
-- [Stormo di Corvi](https://golarion.altervista.org/wiki/Stormo_di_Corvi) (5HD)
+- [Cavallo](https://golarion.altervista.org/wiki/Cavallo):
+	- HD: 2
+	- SPEC: buon mezzo di trasporto
+- [Stormo di Corvi](https://golarion.altervista.org/wiki/Stormo_di_Corvi):
+	- HD: 5
+	- SPEC: Accecare, Distrazione
 
 ### Legame Planare Inferiore:
 - [Diavolo Barbuto](https://golarion.altervista.org/wiki/Diavolo_Barbuto):
@@ -38,16 +42,21 @@
 	- FOR: 25
 	- DES: 25
 	- TAG: 1
-- [Derakni](https://golarion.altervista.org/wiki/Derakni) (11 HD)
+- [Derakni](https://golarion.altervista.org/wiki/Derakni):
 	- HD: 11
 	- FOR: 26
 	- DES: 23
 	- TAG: 2
 	- SPEC: Portata
-- [Glabrezu](https://golarion.altervista.org/wiki/Glabrezu) (12 HD)
+- [Glabrezu](https://golarion.altervista.org/wiki/Glabrezu):
 	- HD: 12
 	- FOR: 31
 	- DES: 11
 	- TAG: 3
 	- SPEC: Portata, Squartare
-- [Shira](https://golarion.altervista.org/wiki/Shira) (12 HD)
+- [Shira](https://golarion.altervista.org/wiki/Shira):
+	- HD: 12
+	- FOR: 25
+	- DES: 25
+	- TAG: 2
+	- SPEC: Portata, Afferrare
