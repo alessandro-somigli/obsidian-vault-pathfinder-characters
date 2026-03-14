@@ -11,10 +11,20 @@ Le scimmie possono muoversi in giro (funge come teletrasporto) tramite delle lia
 
 ### Elefante:
 
+Tipo: animale enorme
+
+#### Difesa:
+
 HP: 320
 CA: 26
+TS:
+- tempra: 25
+- riflessi: 13
+- volontà: 8
 
-Attacchi:
+#### Attacco:
+Velocità: 12m
+Mischia: 
 
 Meccanica:
 Se il party attacca e uccide la scimmia che controlla l'elefante, 
