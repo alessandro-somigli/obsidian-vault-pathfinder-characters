@@ -65,6 +65,20 @@ privilegi di classe:
 | 9   | X   | [incanalare rapido](https://golarion.altervista.org/wiki/Incanalare_Rapido)         |
 | 11  | X   | [incanalare migliorato](https://golarion.altervista.org/wiki/Incanalare_Migliorato) |
 
+# Equipaggiamento:
+Fascia della Saggezza +6
+Fascia della Costituzione +6
+
+Uncino del Mago (?)
+Filatterio dell'Energia Negativa
+Guanti Elfici
+Amuleto dell'Armatura Naturale
+Anello della Protezione
+Armatura Completa
+Scudo Torre
+Mantello della Resistenza
+Uncino del Mago
+
 # Incantesimi
 
 #### Lv.1 (6+1):
