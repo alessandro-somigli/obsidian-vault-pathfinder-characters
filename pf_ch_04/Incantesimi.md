@@ -27,6 +27,8 @@
 - combattimento:
 	- (0) [grazia](https://golarion.altervista.org/wiki/Grazia "Grazia") (P) (V)
 	- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Protezione_dal_Male_Collettivo "Protezione dal Male Collettivo")
+- necromanzia:
+	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore) (M 25mo per dv)
 
 ### lv.3: (0):
 - dominio:

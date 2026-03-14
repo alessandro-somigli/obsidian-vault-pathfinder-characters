@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/Creature Legame Planare.md",
+                "file": "pf_ch_04/Incantesimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creature Legame Planare"
+              "title": "Incantesimi"
             }
           }
         ]
@@ -188,9 +188,10 @@
   },
   "active": "100ec34c94faa330",
   "lastOpenFiles": [
+    "pf_ch_04/Creature Morte Animate.md",
+    "pf_ch_04/Creature Legame Planare.md",
     "pf_ch_04/PG.md",
     "pf_ch_04/Incantesimi.md",
-    "pf_ch_04/Creature Legame Planare.md",
     "pf_ch_04/Backstory.md",
     "pf_ch_03/PG.md",
     "pf_ch_oneshot_6/PG.md",
@@ -216,7 +217,6 @@
     "pf_bestiary/Rashida.md",
     "pf_ch_oneshot_4/PG.md",
     "pf_ch_oneshot_4/Lore.md",
-    "pf_ch_03/Rissaiolo da Taverna.md",
     "pf_bestiary",
     "pf_ch_oneshot_5",
     "pf_ch_oneshot_4",
