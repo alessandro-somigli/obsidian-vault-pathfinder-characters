@@ -100,11 +100,42 @@ Shira 3 (12DV) (Larry)
 Segugio di Cayden 1 (6DV)
 
 ### Scheletro Leucodaemon
-## Difesa
-
+#### Difesa
 CA: 18
 PF: 45
-Tiri Salvezza: 
+Tiri Salvezza:
 - Tempra 3
 - Riflessi 11
 - Volontà 7
+#### Attacco
+Velocità: 9m
+Mischia: 2 artigli +15 (1d6+7), morso +15 (1d8+7)
+Distanza: Arco Lungo Composito +1 +16/+11 (2d6+8/×3)
+Spazio: 3m
+Portata: 3m
+
+### Scheletro Shira
+#### Difesa
+CA: 19
+PF: 54
+Tiri Salvezza:
+- Tempra 4
+- Riflessi 12
+- Volontà 8
+#### Attacco
+Velocità: 15m
+Mischia: 2 artigli +18 (1d8+9 più [Afferrare](https://golarion.altervista.org/wiki/Shira#Afferrare_\(Str\))), morso +18 (1d8+9)
+Spazio: 3m
+Portata: 3m
+
+### Scheletro Segugio di Cayden
+#### Difesa
+CA: 14
+PF: 27
+Tiri Salvezza:
+- Tempra +2
+- Riflessi +4
+- Volontà +5
+#### Attacco
+Velocità: 12m  
+Mischia: morso +9 (1d10+5 + 1d6 sonico e [Sbilanciare](https://golarion.altervista.org/wiki/Segugio_di_Cayden#Sbilanciare_\(Str\)))
