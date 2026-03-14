@@ -1,0 +1,2 @@
+- [Cavallo](https://golarion.altervista.org/wiki/Cavallo) (2HD)
+- [Stormo di Corvi](https://golarion.altervista.org/wiki/Stormo_di_Corvi) (5HD)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/PG.md",
+                "file": "pf_ch_04/Creature Rianimate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PG"
+              "title": "Creature Rianimate"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abilità Pathfinder.md",
+                "file": "pf_ch_04/Creature Legame Planare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abilità Pathfinder"
+              "title": "Creature Legame Planare"
             }
           }
         ]
@@ -202,12 +202,12 @@
   },
   "active": "100ec34c94faa330",
   "lastOpenFiles": [
-    "pf_ch_04/Incantesimi.md",
-    "pf_ch_04/PG.md",
-    "Abilità Pathfinder.md",
-    "pf_ch_oneshot_6/Combattimenti.md",
-    "pf_ch_04/Creature Morte Animate.md",
     "pf_ch_04/Creature Legame Planare.md",
+    "Abilità Pathfinder.md",
+    "pf_ch_04/Creature Rianimate.md",
+    "pf_ch_04/PG.md",
+    "pf_ch_04/Incantesimi.md",
+    "pf_ch_oneshot_6/Combattimenti.md",
     "pf_ch_04/Backstory.md",
     "pf_ch_03/PG.md",
     "pf_ch_oneshot_6/PG.md",
