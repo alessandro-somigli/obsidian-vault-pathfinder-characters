@@ -45,7 +45,7 @@ tratti razziali:
  - xenofobo: [bonus razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +1 contro influenza mentale tranne paura
  - studioso dei tumuli: [bonus razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +2 a [conoscenze](https://golarion.altervista.org/wiki/Conoscenze "Conoscenze") (religioni) per identificare non morti
  - guardiano dei tumuli: +1 ai [tiri per colpire](https://golarion.altervista.org/wiki/Tiri_per_Colpire "Tiri per Colpire") e [bonus di schivare](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Schivare\) "Glossario") +1 alla [CA](https://golarion.altervista.org/wiki/CA "CA") contro non morti
- - custode della sapienza: [bonus razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +2 ad [artigianato](https://golarion.altervista.org/wiki/Artigianato "Artigianato") e [professione](https://golarion.altervista.org/wiki/Professione "Professione") per creare oggetti in pietra e metallo
+ - custode della sapienza: [bonus razziale](https://golarion.altervista.org/wiki/Glossario#Bonus_\(Razziale\) "Glossario") +2 alle prove di [conoscenze](https://golarion.altervista.org/wiki/Conoscenze "Conoscenze") (storia).
 
 ## Classe
 
@@ -67,11 +67,18 @@ privilegi di classe:
 
 ## Abilità
 
- - [linguistica](https://golarion.altervista.org/wiki/Linguistica): 1
- - [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (religioni): MAX
- - [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (piani): MAX
- - [percezione](https://golarion.altervista.org/wiki/Percezione): MAX
- - [sapienza magica](https://golarion.altervista.org/wiki/Sapienza_Magica): MAX
+- [linguistica](https://golarion.altervista.org/wiki/Linguistica): 1
+- [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (religioni): MAX
+- [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (piani): MAX
+- [percezione](https://golarion.altervista.org/wiki/Percezione): MAX
+- [sapienza magica](https://golarion.altervista.org/wiki/Sapienza_Magica): MAX
+
+- [conoscenze (accademiche)](https://golarion.altervista.org/wiki/Conoscenze): 1
+- [conoscenze (religioni)](https://golarion.altervista.org/wiki/Conoscenze): MAX
+- [conoscenze (piani)](https://golarion.altervista.org/wiki/Conoscenze): MAX
+- [conoscenze (arcane)](https://golarion.altervista.org/wiki/Conoscenze): MAX
+- [sesto senso](): MAX
+- [indagare](): MAX
 
 ## Talenti
 
