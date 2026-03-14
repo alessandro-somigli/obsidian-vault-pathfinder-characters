@@ -180,9 +180,9 @@
 	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) 
 ## lv.7: (0)
 - preparazione:
-	- (0) [trasforma bastone](https://golarion.altervista.org/wiki/Incantesimi/Trasforma_Bastone) (1h/lv)
+	- (0) [trasforma bastone](https://golarion.altervista.org/wiki/Incantesimi/Trasforma_Bastone) (1h/lv) 
 - combattimento:
-	- (0) [bombardamento elementale](https://golarion.altervista.org/wiki/Incantesimi/Bombardamento_Elementale) (no SR) (no TS) 
+	- (0) [bombardamento elementale](https://golarion.altervista.org/wiki/Incantesimi/Bombardamento_Elementale) (no SR) (no TS)
 	- (0) [trasmutare metallo in legno](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Metallo_in_Legno) (no TS) 
 	- (0) [tempesta di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Fuoco) 
 	- (0) [venti erosivi](https://golarion.altervista.org/wiki/Incantesimi/Venti_Erosivi) (no TS) 
