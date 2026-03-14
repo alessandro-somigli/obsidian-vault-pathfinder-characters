@@ -25,7 +25,8 @@ TS:
 - volontà: 10
 #### Attacco:
 Velocità: 9m (6 caselle)
-Mischia: Morso +13 (1d8+8), Schianto +13
+Mischia: Morso +12 (1d10+10)
+Distanza: 2 Rocce +14 (1d8+8)
 
 ### Elefante:
 
