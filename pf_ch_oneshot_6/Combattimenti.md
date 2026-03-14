@@ -85,7 +85,7 @@ Mischia:
 - Raffica di Lame (8d8+12), riflessi 22 dimezza
 
 #### Interazioni Speciali
-SCRIVI
+Il golem utilizza un LASER sul suo corpo per puntare un personaggio che attaccherà nei turni seguenti.
 
 ### Golem di Pietra:
 
