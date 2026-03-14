@@ -77,11 +77,11 @@ privilegi di classe:
 - [grazia](https://golarion.altervista.org/wiki/Grazia "Grazia") (V) (1)
 #### Lv.3 (6+1):
 - [Animare Morti](https://golarion.altervista.org/wiki/Animare_Morti "Animare Morti") (1)
-- [scagliare maledizione](https://golarion.altervista.org/wiki/Scagliare_Maledizione "Scagliare Maledizione") (N) (6)
+- 
 #### Lv.4 (5+1):
 - [Debilitazione](https://golarion.altervista.org/wiki/Debilitazione "Debilitazione") (1)
 - [aura di devastazione](https://golarion.altervista.org/wiki/Aura_di_Devastazione "Aura di Devastazione") (10 min/lv) (N) (1)
-- [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne) (4)
+- 
 #### Lv.5 (4+1):
 - [Distruggere Viventi](https://golarion.altervista.org/wiki/Distruggere_Viventi "Distruggere Viventi") (1)
 #### Lv.6 (3+1):
@@ -89,5 +89,22 @@ privilegi di classe:
 
 # Esercito di Non Morti
 
-Necroibrido Enorme
-Necroibrido Enorme
+Leucodaemon 1 (10DV)
+Leucodaemon 2 (10DV)
+Leucodaemon 3 (10DV)
+
+Shira 1 (12DV)
+Shira 2 (12DV)
+Shira 3 (12DV) (Larry)
+
+Segugio di Cayden 1 (6DV)
+
+### Scheletro Leucodaemon
+## Difesa
+
+CA: 18
+PF: 45
+Tiri Salvezza: 
+- Tempra 3
+- Riflessi 11
+- Volontà 7
