@@ -35,8 +35,7 @@
               "title": "Creature Legame Planare"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +200,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "bd2db0b60ec72b80",
+  "active": "100ec34c94faa330",
   "lastOpenFiles": [
-    "pf_ch_04/Creature Rianimate.md",
     "pf_ch_04/Creature Legame Planare.md",
+    "pf_ch_04/Creature Rianimate.md",
     "Abilità Pathfinder.md",
     "pf_ch_04/PG.md",
     "pf_ch_04/Incantesimi.md",

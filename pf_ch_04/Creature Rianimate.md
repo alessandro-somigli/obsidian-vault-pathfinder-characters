@@ -1,4 +1,53 @@
 - [Cavallo](https://golarion.altervista.org/wiki/Cavallo) (2HD)
 - [Stormo di Corvi](https://golarion.altervista.org/wiki/Stormo_di_Corvi) (5HD)
 
-### Esterni
+### Legame Planare Inferiore:
+- [Diavolo Barbuto](https://golarion.altervista.org/wiki/Diavolo_Barbuto):
+	- HD: 6
+	- FOR: 19
+	- DES: 15
+	- TAG: 1
+	- SPEC: Portata, Barba
+- [Segugio di Cayden](https://golarion.altervista.org/wiki/Segugio_di_Cayden):
+	- HD: 6
+	- FOR: 21
+	- DES: 15
+	- TAG: 1
+	- SPEC: Sbilanciare
+- [Minotauro Mezzo-Immondo](https://golarion.altervista.org/wiki/Minotauro_Mezzo-Immondo):
+	- HD: 6
+	- FOR: 23
+	- DES: 14
+	- TAG: 2
+	- SPEC: Portata, Carica Possente
+### Legame Planare:
+- [Hezrou](https://golarion.altervista.org/wiki/Hezrou):
+	- HD: 10
+	- FOR: 27
+	- DES: 11
+	- TAG: 2
+	- SPEC: Portata, Afferrare
+- [Leucadaemon](https://golarion.altervista.org/wiki/Leucodaemon):
+	- HD: 10
+	- FOR: 25
+	- DES: 24
+	- TAG: 2
+	- SPEC: Portata, Distanza
+- [Schachath](https://golarion.altervista.org/wiki/Shachath):
+	- HD: 11
+	- FOR: 25
+	- DES: 25
+	- TAG: 1
+- [Derakni](https://golarion.altervista.org/wiki/Derakni) (11 HD)
+	- HD: 11
+	- FOR: 26
+	- DES: 23
+	- TAG: 2
+	- SPEC: Portata
+- [Glabrezu](https://golarion.altervista.org/wiki/Glabrezu) (12 HD)
+	- HD: 12
+	- FOR: 31
+	- DES: 11
+	- TAG: 3
+	- SPEC: Portata, Squartare
+- [Shira](https://golarion.altervista.org/wiki/Shira) (12 HD)
