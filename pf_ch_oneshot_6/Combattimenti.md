@@ -69,5 +69,7 @@ I nemici sono 3 golem:
 Meccaniche di Terreno:
 è presente un enorme macigno dietro al party, 6x6.
 
+
+
 ## Combattimento no.3:
 
