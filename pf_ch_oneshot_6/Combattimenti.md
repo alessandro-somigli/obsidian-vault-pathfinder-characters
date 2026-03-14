@@ -9,26 +9,45 @@ Delle scimmie hanno trovato il modo di rubare e controllare un'elefante mercanti
 Meccaniche di Terreno:
 Le scimmie possono muoversi in giro (funge come teletrasporto) tramite delle liane appese agli alberi, anche i pesonaggi sono in grado di utilizzarle se superano un tiro su acrobazia.
 
+Il combattimento consiste in 1 Elefante e 4 Scimmie (una delle quali sull'elefante).
+
+### Scimmia Babbuino:
+
+Tipo: animale medio
+Iniziativa: +4
+Allineamento: N
+#### Difesa:
+CA: 18
+PF: 80
+TS:
+- tempra: 8
+- riflessi: 16
+- volontà: 10
+#### Attacco:
+Velocità: 9m (6 caselle)
+Mischia: Morso +13 (1d8+8), Schianto +13
+
 ### Elefante:
 
 Tipo: animale enorme
-
+Iniziativa: +4
+Allineamento: N
 #### Difesa:
-
-HP: 320
 CA: 26
+PF: 320
 TS:
 - tempra: 25
 - riflessi: 13
 - volontà: 8
 
 #### Attacco:
-Velocità: 12m
+Velocità: 12m (8 caselle)
 Mischia: 
+- 2 Zanne +16 (2d8+10)
+- Travolgere (2d8+20) CD 25
 
-Meccanica:
-Se il party attacca e uccide la scimmia che controlla l'elefante, 
-
+#### Interazioni Speciali:
+Se il party attacca e uccide la scimmia che controlla l'elefante, per un turno guadagna il doppio della propria velocità di movimento e incomincia a travolgere chiunque gli si trovi davanti, dopodiché fugge nella giungla.
 
 ## Combattimento no.2:
 
