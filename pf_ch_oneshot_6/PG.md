@@ -98,13 +98,18 @@ Uncino del Mago
 - [grazia](https://golarion.altervista.org/wiki/Grazia "Grazia") (V) (1)
 #### Lv.3 (6+1):
 - [Animare Morti](https://golarion.altervista.org/wiki/Animare_Morti "Animare Morti") (1)
-- 
+- [Barriera Stordente Superiore](https://golarion.altervista.org/wiki/Incantesimi/Barriera_Stordente_Superiore) (1)
+- [Dissolvi Magie](https://golarion.altervista.org/wiki/Dissolvi_Magie) (1)
+- [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0) (1)
+- [contagio](https://golarion.altervista.org/wiki/Incantesimi/Contagio) (3)
 #### Lv.4 (5+1):
 - [Debilitazione](https://golarion.altervista.org/wiki/Debilitazione "Debilitazione") (1)
 - [aura di devastazione](https://golarion.altervista.org/wiki/Aura_di_Devastazione "Aura di Devastazione") (10 min/lv) (N) (1)
-- 
+- [Veleno](https://golarion.altervista.org/wiki/Incantesimi/Veleno) (4)
+
 #### Lv.5 (4+1):
 - [Distruggere Viventi](https://golarion.altervista.org/wiki/Distruggere_Viventi "Distruggere Viventi") (1)
+- [Maledizione Maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (4)
 #### Lv.6 (3+1):
 - [Creare Non Morti](https://golarion.altervista.org/wiki/Creare_Non_Morti "Creare Non Morti") (1)
 
