@@ -126,6 +126,18 @@ Shira 1 (12DV)
 Shira 2 (12DV)
 Shira 3 (12DV) (Larry)
 
+Leo
+Gio
+Leuca 1 45
+Lory
+Leuca 2 30
+Leuca 3 30
+Shira 1 54
+Shira 2 51
+Shira 3 51
+Segugio 27
+Apap 17 132
+
 Segugio di Cayden 1 (6DV)
 
 ### Scheletro Leucodaemon
@@ -168,3 +180,4 @@ Tiri Salvezza:
 #### Attacco
 Velocità: 12m  
 Mischia: morso +9 (1d10+5 + 1d6 sonico e [Sbilanciare](https://golarion.altervista.org/wiki/Segugio_di_Cayden#Sbilanciare_\(Str\)))
+
