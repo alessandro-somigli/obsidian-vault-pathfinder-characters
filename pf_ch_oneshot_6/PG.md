@@ -13,7 +13,8 @@ altezza: 1m
 classe preferita: Chierico
 
 tratti:
-
+- Allievo Dotato (Animare Morti)
+- Mente Focalizzata
 
 # Stats
 
@@ -36,7 +37,11 @@ pf: 141
 razza: Gnomo
 
 tratti razziali:
-
+- Taglia Piccola: `+1 CA, +1 Tiri per Colpire, -1 BMC, -1 DMC, +4 prove di Furtività`
+- Veloc
+- Visitione Crepuscolare
+- Magia Esiziale: `+1 CD incantesimi di Necromanzia`
+- Speranza Eterna: `+2 TS contro effetti di paura, Una volta al giorno, dopo aver ottenuto un 1 su un d20, lo Gnomo può ritirare il dado e tenere il secondo risultato`
 # Classe
 
 classe: Chierico
@@ -59,25 +64,24 @@ privilegi di classe:
 | 1   | X   | [comandare non morti](https://golarion.altervista.org/wiki/Comandare_Non_Morti)     |
 | 1   | X   | incantesimi focalizzati (necromanzia)                                               |
 | 3   | X   | incantesimi focalizzati superiore (necromanzia)                                     |
-| 5   | X   |                                                                                     |
+| 5   | X   | addestramento nelle armature pesanti                                                |
 | 7   | X   | interferenza divina                                                                 |
 | 8   | X   | [padrone dei non morti](https://golarion.altervista.org/wiki/Padrone_dei_Non_Morti) |
 | 9   | X   | [incanalare rapido](https://golarion.altervista.org/wiki/Incanalare_Rapido)         |
 | 11  | X   | [incanalare migliorato](https://golarion.altervista.org/wiki/Incanalare_Migliorato) |
 
 # Equipaggiamento:
-Fascia della Saggezza +6
-Fascia della Costituzione +6
-
-Uncino del Mago (?)
-Filatterio dell'Energia Negativa
-Guanti Elfici
-Amuleto dell'Armatura Naturale
 Anello della Protezione
-Armatura Completa
-Scudo Torre
-Mantello della Resistenza
 Uncino del Mago
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature_Magiche) +2 (10.5kmo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature_Magiche) +2 (9kmo)
+- [Facia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +4 (16kmo)
+- [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +4 (16kmo)
+- [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +3 (9kmo) 
+- [Filatterio dell'Energia Negativa](https://golarion.altervista.org/wiki/Filatterio_dell%27Energia_Negativa) (11kmo)
+- [Anello di Protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) +1
+- [Amuleto dell'Armatura Naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) +1 (2kmo)
+- [Guanti Elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5kmo)
 
 # Incantesimi
 
