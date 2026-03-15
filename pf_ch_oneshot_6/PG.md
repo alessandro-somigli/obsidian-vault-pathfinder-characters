@@ -128,15 +128,11 @@ Shira 3 (12DV) (Larry)
 
 Leo
 Gio
-Leuca 1 45
+Leuca 1 24
 Lory
-Leuca 2 30
-Leuca 3 30
-Shira 1 54
 Shira 2 51
-Shira 3 51
 Segugio 27
-Apap 17 132
+Apap 17 95
 
 Segugio di Cayden 1 (6DV)
 
