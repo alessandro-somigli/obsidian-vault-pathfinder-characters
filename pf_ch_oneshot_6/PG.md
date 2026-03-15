@@ -112,6 +112,9 @@ Uncino del Mago
 - [Maledizione Maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (4)
 #### Lv.6 (3+1):
 - [Creare Non Morti](https://golarion.altervista.org/wiki/Creare_Non_Morti "Creare Non Morti") (1)
+- Ferire]() (1)
+- Muro di Carne]() (1)
+- 
 
 # Esercito di Non Morti
 
