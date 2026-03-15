@@ -21,16 +21,16 @@ tratti:
 livello: 12
 punti eroe: 0
 
-pf: 141
+pf: 165
 
 | stats | base | misc | tot | mod |
 | ----- | ---- | ---- | --- | --- |
-| FOR   | 7    | -3   | 4   | -3  |
+| FOR   | 13   | -3   | 10  | 0   |
 | DEX   | 13   | -1   | 12  | +1  |
 | COS   | 17   | +1   | 18  | +4  |
-| INT   | 7    | +1   | 8   | -1  |
+| INT   | 9    | +1   | 10  | 0   |
 | SAG   | 19   | +1   | 20  | +5  |
-| CAR   | 17   | +3   | 20  | +5  |
+| CAR   | 13   | +3   | 16  | +3  |
 
 # Razza
 
@@ -38,10 +38,13 @@ razza: Gnomo
 
 tratti razziali:
 - Taglia Piccola: `+1 CA, +1 Tiri per Colpire, -1 BMC, -1 DMC, +4 prove di Furtività`
-- Veloc
+- Velocità: `6m / 4 caselle`
 - Visitione Crepuscolare
+- Resistenza alle Illusioni: `+2 TS contro effetti di Illusione`
+- Sensi Acuti: `+2 Percezione`
 - Magia Esiziale: `+1 CD incantesimi di Necromanzia`
-- Speranza Eterna: `+2 TS contro effetti di paura, Una volta al giorno, dopo aver ottenuto un 1 su un d20, lo Gnomo può ritirare il dado e tenere il secondo risultato`
+- Speranza Eterna: `+2 TS contro effetti di Paura, Una volta al giorno, dopo aver ottenuto un 1 su un d20, lo Gnomo può ritirare il dado e tenere il secondo risultato`
+
 # Classe
 
 classe: Chierico
