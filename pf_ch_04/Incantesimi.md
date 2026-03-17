@@ -53,6 +53,7 @@
 - buff:
 	- (0) [aura di devastazione](https://golarion.altervista.org/wiki/Aura_di_Devastazione "Aura di Devastazione") (10 min/lv) (N)
 - combattimento:
+	- (0) [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata)
 	- (0) [benedizione del fervore](https://golarion.altervista.org/wiki/Benedizione_del_Fervore "Benedizione del Fervore")
 	- (0) [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
 	- (0) [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
