@@ -1,7 +1,7 @@
 ### lv.0:
-- (0) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
-- (0) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
-- (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
+- (1) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
+- (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
+- (1) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
 ### lv.1: (0):
 - dominio:
@@ -10,7 +10,6 @@
 - combattimento:
 	- (0) [barriera stordente](https://golarion.altervista.org/wiki/Barriera_Stordente "Barriera Stordente")
 	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Comando_di_Liberazione "Comando di Liberazione") (I)
-	- (0) [devastazione](https://golarion.altervista.org/wiki/Devastazione "Devastazione") (N)
 	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Foschia_Occultante "Foschia Occultante")
 	- (0) [protezione dal male](https://golarion.altervista.org/wiki/Protezione_dal_Male "Protezione dal Male")
 	- (0) [santuario](https://golarion.altervista.org/wiki/Santuario "Santuario")
