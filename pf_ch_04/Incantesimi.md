@@ -8,6 +8,8 @@
 	- (0) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
+	- (0) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
+	- (0) [incuti paura](https://golarion.altervista.org/wiki/Incantesimi/Incuti_Paura)
 	- (0) [barriera stordente](https://golarion.altervista.org/wiki/Barriera_Stordente "Barriera Stordente")
 	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Comando_di_Liberazione "Comando di Liberazione") (I)
 	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Foschia_Occultante "Foschia Occultante")
@@ -16,6 +18,8 @@
 	- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra "Incantesimi/Scudo di Pietra")
 - utility:
 	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica "Incantesimi/Benedizione Karmica")
+	- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
+	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti)
 
 ### lv.2: (0):
 - dominio:
