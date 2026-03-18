@@ -64,6 +64,8 @@ privilegi di classe:
 | 1   | X   | lancio spontaneo (energia positiva) |
 | 1   | X   | incanalare energia positiva (3/g)   |
 | 1   | X   | aura caotica                        |
+|     |     |                                     |
+|     |     |                                     |
 
 ## Abilità
 
