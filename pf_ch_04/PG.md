@@ -8,7 +8,7 @@ età: 227
 altezza: 1.18m
 peso: 94Kg
 
-classe preferita: [Chierico]()
+classe preferita: [Chierico](https://golarion.altervista.org/wiki/Chierico)
 
 tratti:
  - mente focalizzata: `+2 prove di concentrazione`
@@ -35,6 +35,7 @@ pf: 14
 ## Razza
 
 razza: [Nano](https://golarion.altervista.org/wiki/Nano)
+opzione di classe preferita: `+1/2 al numero di usi giornalieri di un potere di dominio ottenuto al 1° livello`
 
 tratti razziali:
  - tipo: [umanoide](https://golarion.altervista.org/wiki/Razze/Qualit%C3%A0#Umanoide_(0_PR)), [sottotipo nano](https://golarion.altervista.org/wiki/Sottotipo_Nano)
@@ -64,8 +65,14 @@ privilegi di classe:
 | 1   | X   | lancio spontaneo (energia positiva) |
 | 1   | X   | incanalare energia positiva (3/g)   |
 | 1   | X   | aura caotica                        |
-|     |     |                                     |
-|     |     |                                     |
+domini:
+
+| lvl | chk | privilegio di classe     |
+| --- | --- | ------------------------ |
+| 1   | X   | visione di follia (mag)  |
+| 1   | X   | giunto dall'ignoto (sop) |
+| 8   | X   | aura di follia (sop)     |
+| 8   | X   | sollevare il velo (sop)  |
 
 ## Abilità
 
