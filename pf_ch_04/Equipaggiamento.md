@@ -10,7 +10,9 @@
 - anello 1: [Anello della Protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) (+1/+2/+3/+4/+5) (2/8/18/32/50 kmo)
 - altro:
 	- [Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
-	- [Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
+	- [Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (500 mo)
+	- [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
+	- [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
 	- [Ferro di Cavallo Fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
 	- [Perla del Potere](https://golarion.altervista.org/wiki/Perla_del_Potere) (lv.1/2/3/4/5) (1/4/9/16/25 kmo)
 
