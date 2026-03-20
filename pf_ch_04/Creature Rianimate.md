@@ -60,3 +60,16 @@
 	- DES: 25
 	- TAG: 2
 	- SPEC: Portata, Afferrare
+### Legame Planare Superiore:
+- [Diavolo Immolatore](https://golarion.altervista.org/wiki/Diavolo_Immolatore):
+	- HD: 18
+	- FOR: 34
+	- DES: 26
+	- TAG: 2
+	- SPEC: Portata, Bruciare
+- [Diavolo Nemesi](https://golarion.altervista.org/wiki/Diavolo_Nemesi):
+	- HD: 18
+	- FOR: 34
+	- DES: 25
+	- TAG: 3
+	- SPEC: Portata, 
