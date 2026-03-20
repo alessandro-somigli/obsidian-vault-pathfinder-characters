@@ -4,72 +4,83 @@
 - [Stormo di Corvi](https://golarion.altervista.org/wiki/Stormo_di_Corvi):
 	- HD: 5
 	- SPEC: Accecare, Distrazione
-
 ### Legame Planare Inferiore:
 - [Diavolo Barbuto](https://golarion.altervista.org/wiki/Diavolo_Barbuto):
 	- HD: 6
-	- FOR: 19
-	- DES: 15
+	- FOR: +4
+	- DES: +2
 	- TAG: 1
 	- SPEC: Portata, Barba
 - [Segugio di Cayden](https://golarion.altervista.org/wiki/Segugio_di_Cayden):
 	- HD: 6
-	- FOR: 21
-	- DES: 15
+	- FOR: +5
+	- DES: +2
 	- TAG: 1
 	- SPEC: Sbilanciare
 - [Minotauro Mezzo-Immondo](https://golarion.altervista.org/wiki/Minotauro_Mezzo-Immondo):
 	- HD: 6
-	- FOR: 23
-	- DES: 14
+	- FOR: +6
+	- DES: +2
 	- TAG: 2
 	- SPEC: Portata, Carica Possente
 ### Legame Planare:
 - [Hezrou](https://golarion.altervista.org/wiki/Hezrou):
 	- HD: 10
-	- FOR: 27
-	- DES: 11
+	- FOR: +8
+	- DES: +0
 	- TAG: 2
 	- SPEC: Portata, Afferrare
 - [Leucadaemon](https://golarion.altervista.org/wiki/Leucodaemon):
 	- HD: 10
-	- FOR: 25
-	- DES: 24
+	- FOR: +7
+	- DES: +7
 	- TAG: 2
 	- SPEC: Portata, Distanza
 - [Schachath](https://golarion.altervista.org/wiki/Shachath):
 	- HD: 11
-	- FOR: 25
-	- DES: 25
+	- FOR: +7
+	- DES: +7
 	- TAG: 1
 - [Derakni](https://golarion.altervista.org/wiki/Derakni):
 	- HD: 11
-	- FOR: 26
-	- DES: 23
+	- FOR: +8
+	- DES: +6
 	- TAG: 2
 	- SPEC: Portata
 - [Glabrezu](https://golarion.altervista.org/wiki/Glabrezu):
 	- HD: 12
-	- FOR: 31
-	- DES: 11
+	- FOR: +10
+	- DES: +0
 	- TAG: 3
 	- SPEC: Portata, Squartare
 - [Shira](https://golarion.altervista.org/wiki/Shira):
 	- HD: 12
-	- FOR: 25
-	- DES: 25
+	- FOR: +7
+	- DES: +7
 	- TAG: 2
 	- SPEC: Portata, Afferrare
 ### Legame Planare Superiore:
 - [Diavolo Immolatore](https://golarion.altervista.org/wiki/Diavolo_Immolatore):
 	- HD: 18
-	- FOR: 34
-	- DES: 26
+	- FOR: +12
+	- DES: +8
 	- TAG: 2
 	- SPEC: Portata, Bruciare
 - [Diavolo Nemesi](https://golarion.altervista.org/wiki/Diavolo_Nemesi):
 	- HD: 18
-	- FOR: 34
-	- DES: 25
+	- FOR: +12
+	- DES: +7
 	- TAG: 3
-	- SPEC: Portata, 
+	- SPEC: Portata
+- [Bestia Assassina](https://golarion.altervista.org/wiki/Bestia_Assassina):
+	- HD: 18
+	- FOR: +3
+	- DES: +12
+	- TAG: 1
+	- SPEC: Sanguinamento
+- [Wendigo](https://golarion.altervista.org/wiki/Wendigo):
+	- HD: 18
+	- FOR: +9
+	- DES: +9
+	- TAG: 2
+	- SPEC: Portata, Afferrare
