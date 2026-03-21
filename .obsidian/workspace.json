@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/Creature Legame Planare.md",
+                "file": "pf_ch_04/Incantesimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creature Legame Planare"
+              "title": "Incantesimi"
             }
           }
         ]
@@ -188,12 +188,12 @@
   },
   "active": "c313fb5f10e715e2",
   "lastOpenFiles": [
-    "pf_ch_04/Creature Rianimate.md",
+    "pf_ch_04/PG.md",
     "pf_ch_04/Creature Legame Planare.md",
+    "pf_ch_04/Creature Rianimate.md",
     "pf_ch_04/Workflow Rituali.md",
     "pf_ch_04/Equipaggiamento.md",
     "pf_ch_04/Incantesimi.md",
-    "pf_ch_04/PG.md",
     "zemenis/Equipaggiamento.md",
     "sortspec.md",
     "Rework Abilità di Pathfinder.md",
