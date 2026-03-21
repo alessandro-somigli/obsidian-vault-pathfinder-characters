@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/PG.md",
+                "file": "pf_ch_04/Creature Rianimate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PG"
+              "title": "Creature Rianimate"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Workflow Animare Morti"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,12 +200,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "34bcbc06d10a0aa3",
+  "active": "2b0017c7895ef3f2",
   "lastOpenFiles": [
     "pf_ch_04/Creature Legame Planare.md",
+    "pf_ch_04/Equipaggiamento.md",
+    "pf_ch_04/Workflow Animare Morti.md",
+    "pf_ch_04/PG.md",
     "zemenis/Equipaggiamento.md",
     "sortspec.md",
-    "pf_ch_04/PG.md",
     "Rework Abilità di Pathfinder.md",
     "Appunti.md",
     "PF Canvas.md",
@@ -218,8 +219,6 @@
     "pf_ch_03/Espedienti di Combattimento.md",
     "pf_ch_03/Rissaiolo da Taverna.md",
     "pf_ch_03/Equipaggiamento.md",
-    "pf_ch_04/Workflow Animare Morti.md",
-    "pf_ch_04/Equipaggiamento.md",
     "pf_ch_04/Incantesimi.md",
     "zemenis/PG.md",
     "pf_ch_04/Backstory.md",
