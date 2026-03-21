@@ -27,4 +27,13 @@ sorting-spec: |-
   Espedienti di Combattimento
   Rissaiolo da Taverna
   Equipaggiamento
+
+  target-folder: pf_ch_04
+  Backstory
+  PG
+  Incantesimi
+  Equipaggiamento
+  Creature Legame Planare
+  Creature Rianimate
+  Workflow Animare Morti
 ---
