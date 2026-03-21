@@ -37,6 +37,9 @@ Si assume che la creatura da animare sia già morta e disponibile.
 - [Boccale](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (2 mr)
 #### Procedimento:
 
+#### Preparazione
+1) disegnare sul terreno con del gesso un cerchio capace di contenere la creatura da animare, se il gesso non è facilmente tracciabile a causa del terreno, è sufficiente creare il cerchio con della polvere di gesso.
+
 #### Aumentare il Livello Incantatore:
 Passi da seguire solo se necessario, i procedimenti sono listati dal più economico al meno economico. 
 È possibile seguire i passi fino a raggiungere il Livello Incantatore desiderato per poi fermarsi.
