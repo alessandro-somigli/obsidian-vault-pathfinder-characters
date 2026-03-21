@@ -1,3 +1,9 @@
+## Rituale per Legame Planare
+
+- [Protezione dal Bene/Male/Legge/Caos Collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
+- [Splendore dell'Acquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
+- 
+
 ## Rituale per Animare Morti
 
 Questo rituale serve a potenziare l'efficacia dell'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti).
