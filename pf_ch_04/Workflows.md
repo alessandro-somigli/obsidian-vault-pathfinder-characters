@@ -76,4 +76,10 @@ procedimento:
 3) adesso è possibile lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
 4) lanciare l'incantesimo [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) per recuperare i punti di caratteristica persi
 
+## Miglioramento Equipaggiamento Non Morti
 
+Dopo aver animato un non morto è possibile allestirli con certi oggetti per diverse motivazioni.
+### Potenziare Armi e Armature
+
+
+### Nascondere il Non Morto
