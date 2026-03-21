@@ -28,12 +28,3 @@ lv.5: (21) 5 (liv) + 7 (sag) + 2 (tratto) = 14 (70%)
 lv.7: (23) 7 (liv) + 7 (sag) + 2 (tratto) + 5 (oggetti) = 21 (95%)
 lv.9: (25) 9 (liv) + 8 (sag) + 2 (tratto) + 5 (oggetti) = 24 (100%)
 
-#### Effetti di Aumento del Livello dell'Incantatore:
-- [Rintocco di Morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) +1
-- [Cuore del Nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico) +1
-- [Fortuna Calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata) +1
-- [Sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza) +1/+2/+3
-- [Unguento](https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/#Oil_Anointing) +1 (25 mo)
-- [Sale](https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/#Oil_Anointing) +1 (5 mo)
-- [Etere, Droga](https://golarion.altervista.org/wiki/Droghe_e_Dipendenza) +1 (20 mo)
-
