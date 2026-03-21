@@ -30,7 +30,7 @@ Si assume che la creatura da animare sia già morta e disponibile.
 - [Unguento](https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/#Oil_Anointing) (25 mo)
 - [Sale](https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/#Oil_Anointing) (5 mo)
 - [Etere, Droga](https://golarion.altervista.org/wiki/Droghe_e_Dipendenza) (20 mo)
-- [Pozione](https://golarion.altervista.org/wiki/Pozioni) lv.1 (50 mo)
+- [Pozione di Cura Ferite Leggere](https://golarion.altervista.org/wiki/Pozioni) (50 mo)
 - [Topo](https://golarion.altervista.org/wiki/Animali_e_Trasporti) (1 mr) x2
 - [Pugnale](https://golarion.altervista.org/wiki/Armi/Pugnale) (2 mo)
 - [Corda](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (1 mo) x2
@@ -38,12 +38,11 @@ Si assume che la creatura da animare sia già morta e disponibile.
 #### Procedimento:
 
 #### Preparazione
-1) disegnare sul terreno con del gesso un cerchio capace di contenere la creatura da animare, se il gesso non è facilmente tracciabile a causa del terreno, è sufficiente creare il cerchio con della polvere di gesso.
 
 #### Aumentare il Livello Incantatore:
 Passi da seguire solo se necessario, i procedimenti sono listati dal più economico al meno economico. 
 È possibile seguire i passi fino a raggiungere il Livello Incantatore desiderato per poi fermarsi.
-##### 1) Sacrifici:
+##### 1) Sacrifici (+2):
 incantesimi necessari:
 - [Rintocco di Morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) (lv.2)
 - [Cuore del Nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico) (lv.2)
@@ -55,9 +54,24 @@ materiali necessari:
 
 procedimento:
 1) legare il topo con la corda per renderlo indifeso
-2) lanciare [Cuore del Nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
+2) lanciare l'incantesimo [Cuore del Nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
 3) dare il colpo di grazia al topo con il pugnale
 4) consumare il cuore del topo
 5) legare il rospo con una corda per renderlo indifeso
 6) ferire gravemente il rospo con il pugnale
-7) lanciare [Rintocco di Morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte)
+7) lanciare l'incantesimo [Rintocco di Morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte)
+#### 2) Oggetti (+2):
+
+#### 3) Calice (+1):
+incantesimi necessari:
+- [Vino della Morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte) (lv.2)
+materiali necessari:
+- [Pozione di Cura Ferite Leggere](https://golarion.altervista.org/wiki/Pozioni) (50 mo)
+- [Boccale](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (2 mr)
+
+procedimento:
+1) versare i contenuti della pozione nel boccale
+2) lanciare l'incantesimo [Vino della Morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte)
+3) bere i contenuti del boccale
+
+#### 4) Incantesimi:
