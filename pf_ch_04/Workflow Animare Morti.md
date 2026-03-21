@@ -1,21 +1,10 @@
-### Workflow Legame Planare
-#### Incantesimi Da Preparare:
-- [Cerchio Magico Control il Male/Bene/Legge/Caos](https://golarion.altervista.org/wiki/Incantesimi/Cerchio_Magico_Contro_il_Male) (lv.3)
-- [Ancora Dimensionale](https://golarion.altervista.org/wiki/Incantesimi/Ancora_Dimensionale) (lv.4)
-- [Legame Planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare) (lv.4/6/8)
+## Rituale per Animare Morti
 
-#### Materiali Necessari:
-
-
-
-
----
-## Workflow Animare Morti
-
-Prima di tutto, si assume che la creatura da animare sia già morta e disponibile.
+Questo rituale serve a potenziare l'efficacia dell'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti).
+Prima di tutto, si assume che la creatura da animare sia già morta e prontamente disponibile.
 ### Preparazioni
-#### Aumentare il Livello Incantatore:
 Passi non necessariamente da seguire, è possibile alcuni di questi metodi fino a raggiungere il Livello Incantatore desiderato per poi fermarsi.
+#### Aumentare il Livello Incantatore:
 ##### 1) Vino Magico (+1):
 incantesimi necessari:
 - [Vino della Morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte) (lv.2)
@@ -27,24 +16,26 @@ procedimento:
 1) versare i contenuti della pozione nel boccale
 2) lanciare l'incantesimo [Vino della Morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte)
 3) bere i contenuti del boccale
-##### 2) Oggetti (+3):
+##### 2) Procedimenti Alchemici (+3):
 materiali necessari:
 - [Sale](https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/#Oil_Anointing) (5 mo)
 - [Unguento](https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/#Oil_Anointing) (25 mo)
 - [Etere, Droga](https://golarion.altervista.org/wiki/Droghe_e_Dipendenza) (20 mo)
 
 procedimento:
-1) spalmare l'unguento sul corpo della creatura da animare
+1) spalmare l'unguento sul corpo del cadavere da animare
 2) sistemare un pizzico di sale sulla propria lingua
-3) spargere il resto del sale sulla creatura da animare
+3) spargere il resto del sale sul cadavere da animare
 4) inalare l'etere
-##### 3) Incantesimi:
+##### 3) Incantesimi (+2):
 incantesimi necessari:
 - [Sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza) (lv.3)
 - [Fortuna Calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata) (lv.3)
 
 procedimento:
-1) 
+1) posizionarsi vicino alla testa del cadavere e posizionare un'assistente al lato opposto, vicino a dove solitamente sono presenti i piedi del cadavere
+2) lanciare l'incantesimo [Sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza)
+3) lanciare l'incantesimo [Fortuna Calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata) possibilmente più volte, fino a che non si guadagna un bonus alla magia di Necromanzia
 ##### 4) Sacrifici (+2):
 incantesimi necessari:
 - [Rintocco di Morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) (lv.2)
@@ -56,10 +47,13 @@ materiali necessari:
 - [Pugnale](https://golarion.altervista.org/wiki/Armi/Pugnale) (2 mo)
 
 procedimento:
-1) legare il rospo con una corda per renderlo indifeso e piazzarlo a sinistra della creatura da animare
+1) legare il rospo con una corda per renderlo indifeso e piazzarlo a sinistra del cadavere da animare
 2) ferire gravemente il rospo con il pugnale
 3) lanciare l'incantesimo [Rintocco di Morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte)
-4) legare il topo con la corda per renderlo indifeso e piazzarlo a destra della creatura da animare
+4) legare il topo con la corda per renderlo indifeso e piazzarlo a destra del cadavere da animare
 5) lanciare l'incantesimo [Cuore del Nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
 6) dare il colpo di grazia al topo con il pugnale
 7) consumare il cuore del topo
+### Animare Morti
+
+Se si è soddisfatti con le preparazioni svolte, adesso è possibile lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
