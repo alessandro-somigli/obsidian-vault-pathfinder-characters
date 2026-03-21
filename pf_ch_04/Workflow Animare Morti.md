@@ -34,6 +34,7 @@ Si assume che la creatura da animare sia già morta e disponibile.
 - [Topo](https://golarion.altervista.org/wiki/Animali_e_Trasporti) (1 mr) x2
 - [Pugnale](https://golarion.altervista.org/wiki/Armi/Pugnale) (2 mo)
 - [Corda](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (1 mo) x2
+- [Boccale](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (2 mr)
 #### Procedimento:
 
 #### Aumentare il Livello Incantatore:
@@ -44,11 +45,16 @@ incantesimi necessari:
 - [Rintocco di Morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) (lv.2)
 - [Cuore del Nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico) (lv.2)
 materiali necessari:
-- [Topo](https://golarion.altervista.org/wiki/Animali_e_Trasporti) (1 mr) x2
+- [Rospo](https://golarion.altervista.org/wiki/Rospo) (2 mr)
+- [Topo](https://golarion.altervista.org/wiki/Animali_e_Trasporti) (1 mr)
 - [Corda](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (1 mo) x2
 - [Pugnale](https://golarion.altervista.org/wiki/Armi/Pugnale) (2 mo)
 
 procedimento:
-1) rendere indifeso il topo con la corda
-2) lanciare cuore del nemico
-3) 
+1) legare il topo con la corda per renderlo indifeso
+2) lanciare [Cuore del Nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
+3) dare il colpo di grazia al topo con il pugnale
+4) consumare il cuore del topo
+5) legare il rospo con una corda per renderlo indifeso
+6) ferire gravemente il rospo con il pugnale
+7) lanciare [Rintocco di Morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte)
