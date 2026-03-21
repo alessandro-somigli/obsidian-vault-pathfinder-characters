@@ -55,5 +55,19 @@ procedimento:
 6) dare il colpo di grazia al topo con il pugnale
 7) consumare il cuore del topo
 ### Animare Morti
+Se si è soddisfatti con le preparazioni svolte, è possibile procedere per lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) 
 
-Se si è soddisfatti con le preparazioni svolte, adesso è possibile lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
+materiali necessari:
+- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25 mo)
+- [Pugnale](https://golarion.altervista.org/wiki/Armi/Pugnale) (2 mo)
+incantesimi necessari:
+- [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) (lv.2)
+- [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (lv.3)
+
+procedimento:
+1) tagliare la propria mano così da far uscire buone quantità di sangue
+2) utilizzare la [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue)
+3) adesso è possibile lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
+4) lanciare l'incantesimo [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) per recuperare i punti di caratteristica persi
+
+
