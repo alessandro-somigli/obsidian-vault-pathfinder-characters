@@ -34,4 +34,6 @@ lv.9: (25) 9 (liv) + 8 (sag) + 2 (tratto) + 5 (oggetti) = 24 (100%)
 - [Fortuna Calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata) +1
 - [Sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza) +1/+2/+3
 - [Unguento](https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/#Oil_Anointing) +1 (25 mo)
+- [Sale](https://www.d20pfsrd.com/equipmenT/goods-and-services/herbs-oils-other-substances/#Oil_Anointing) +1 (5 mo)
 - [Etere, Droga](https://golarion.altervista.org/wiki/Droghe_e_Dipendenza) +1 (20 mo)
+
