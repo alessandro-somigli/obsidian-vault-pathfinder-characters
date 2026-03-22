@@ -37,6 +37,7 @@
 	- (0) [scudo su altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (1h/lv)
 - combattimento:
 	- damage/crowd control:
+		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
 		- (0) [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
 		- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
 		- (0) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
@@ -44,6 +45,7 @@
 		- (0) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
 	- buff/defense:
 		- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
+		- (0) [ira non morta](https://golarion.altervista.org/wiki/Incantesimi/Ira_Non_Morta)
 		- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
 		- (0) [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
 		- (0) [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P) (I)
