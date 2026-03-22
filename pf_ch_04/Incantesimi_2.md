@@ -16,7 +16,6 @@
 		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
 	- buff/defense:
 		- (0) [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
-		- (0) [vigore da pesh](https://golarion.altervista.org/wiki/Incantesimi/Vigore_da_Pesh)
 		- (0) [santuario](https://golarion.altervista.org/wiki/Incantesimi/Santuario)
 		- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 		- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
@@ -41,14 +40,17 @@
 	- [nube di mal di mare](https://golarion.altervista.org/wiki/Incantesimi/Nube_di_Mal_di_Mare)
 	- [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
 	- [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
+	- [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
+	- [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
 	- [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P)
 - utility:
 	- [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
 	- [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
 	- [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
 
-Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
-
 ### lv.3:
 
 ### lv.4:
+
+
+Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
