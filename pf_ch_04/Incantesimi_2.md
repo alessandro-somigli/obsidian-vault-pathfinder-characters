@@ -11,13 +11,17 @@
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - buff:
 	- [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
-		- [Aspetto del Divoratore](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Divoratore)
+	- [vigore da pesh](https://golarion.altervista.org/wiki/Incantesimi/Vigore_da_Pesh)
+	- [santuario](https://golarion.altervista.org/wiki/Incantesimi/Santuario)
 - combattimento:
 	- [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
 	- [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
+	- [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 - utility:
 	- [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
-	- [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi)
+	- [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
+	- [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
+	- [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P)
 
 ### lv.2:
 
