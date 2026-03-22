@@ -11,14 +11,15 @@
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
 	- dmg/cc:
-	- (0) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
-	- (0) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
-	- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
-	- (0) [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
-	- (0) [vigore da pesh](https://golarion.altervista.org/wiki/Incantesimi/Vigore_da_Pesh)
-	- (0) [santuario](https://golarion.altervista.org/wiki/Incantesimi/Santuario)
-	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
-	- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
+		- (0) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
+		- (0) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
+		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
+	- buff/defense:
+		- (0) [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
+		- (0) [vigore da pesh](https://golarion.altervista.org/wiki/Incantesimi/Vigore_da_Pesh)
+		- (0) [santuario](https://golarion.altervista.org/wiki/Incantesimi/Santuario)
+		- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
+		- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
 - utility:
 	- (0) [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
 	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
@@ -31,8 +32,19 @@
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")
 - rituali:
 	- [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore)
+	- [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
+- preparazioni:
+	- [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
+- combattimento:
+	- [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
+	- [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
+	- [nube di mal di mare](https://golarion.altervista.org/wiki/Incantesimi/Nube_di_Mal_di_Mare)
+	- [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
+	- [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
+	- [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P)
 - utility:
-	- [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale)
+	- [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
+	- [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
 	- [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
 
 Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
