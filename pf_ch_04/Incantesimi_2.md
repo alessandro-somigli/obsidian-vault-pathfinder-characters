@@ -59,6 +59,9 @@
 ### lv.3:
 - [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
 - [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
+- [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica)
+- [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
+- [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
 ### lv.4:
 
 
