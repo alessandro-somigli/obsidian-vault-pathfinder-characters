@@ -10,7 +10,7 @@
 	- (0) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
-	- dmg/cc:
+	- damage/crowd control:
 		- (0) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
 		- (0) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
 		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
@@ -30,26 +30,29 @@
 	- (0) [evoca mostri II](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_II "Evoca Mostri")
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")
 - rituali:
-	- [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore)
-	- [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
+	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore)
+	- (0) [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
 - preparazioni:
-	- [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
+	- (0) [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
+	- (0) [scudo su altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (1h/lv)
 - combattimento:
-	- dmg/cc:
-	- [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
-	- [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
-	- [nube di mal di mare](https://golarion.altervista.org/wiki/Incantesimi/Nube_di_Mal_di_Mare)
-	- [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
-	- [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
-	- [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
-	- [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
-	- [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P)
-	- [ristorare inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore)
-	- [ammanettare](https://golarion.altervista.org/wiki/Incantesimi/Ammanettare)
+	- damage/crowd control:
+		- (0) [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
+		- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
+		- (0) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
+		- (0) [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
+		- (0) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
+	- buff/defense:
+		- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
+		- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
+		- (0) [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
+		- (0) [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P) (I)
+- cure:
+	- (0) [ristorare inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore)
 - utility:
-	- [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
-	- [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
-	- [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
+	- (0) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
+	- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
+	- (0) [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
 
 ### lv.3:
 
