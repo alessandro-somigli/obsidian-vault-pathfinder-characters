@@ -9,10 +9,15 @@
 - dominio:
 	- (0) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
+- buff:
+	- [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
+		- [Aspetto del Divoratore](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Divoratore)
 - combattimento:
-	- 
+	- [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
+	- [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
 - utility:
 	- [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
+	- [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi)
 
 ### lv.2:
 
