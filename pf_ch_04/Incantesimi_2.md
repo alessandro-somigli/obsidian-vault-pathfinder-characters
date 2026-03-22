@@ -35,6 +35,7 @@
 - preparazioni:
 	- [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
 - combattimento:
+	- dmg/cc:
 	- [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
 	- [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
 	- [nube di mal di mare](https://golarion.altervista.org/wiki/Incantesimi/Nube_di_Mal_di_Mare)
@@ -43,6 +44,8 @@
 	- [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
 	- [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
 	- [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P)
+	- [ristorare inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore)
+	- [ammanettare](https://golarion.altervista.org/wiki/Incantesimi/Ammanettare)
 - utility:
 	- [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
 	- [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
