@@ -123,3 +123,5 @@ Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, 
 
 ## lv.5:
 - [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
+- [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
+- [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
