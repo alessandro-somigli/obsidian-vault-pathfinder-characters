@@ -5,32 +5,34 @@
 - (0) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
 - (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
-### lv.1:
+### lv.1 (3+1):
 - dominio:
-	- (0) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
+	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
 	- damage/crowd control:
-		- (0) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
-		- (0) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
+		- (1) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
+		- (1) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
 		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
 	- buff/defense:
-		- (0) [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
+		- (1) [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
 		- (0) [santuario](https://golarion.altervista.org/wiki/Incantesimi/Santuario)
 		- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 		- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
 - utility:
+	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti)
+	- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
 	- (0) [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
 	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
 	- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
 	- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P)
 
-### lv.2:
+### lv.2 (0):
 - dominio:
 	- (0) [evoca mostri II](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_II "Evoca Mostri")
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")
 - rituali:
-	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore)
+	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore) (M 25mo per dv)
 	- (0) [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
 - preparazioni:
 	- (0) [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
@@ -57,11 +59,20 @@
 	- (0) [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
 
 ### lv.3:
-- [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
-- [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
-- [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica)
-- [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
-- [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
+- dominio:
+	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
+	- (0) [ira](https://golarion.altevista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
+- preparazioni:
+	- [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
+- combattimento:
+	- damage/crowd control:
+		- [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
+	- buff/defense:
+- utility:
+	- [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
+	- [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
+	- [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
+
 ### lv.4:
 
 
