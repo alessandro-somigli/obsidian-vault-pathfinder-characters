@@ -66,32 +66,44 @@
 	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
 	- (0) [ira](https://golarion.altevista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
 - rituali:
-	- [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25 mo per dv)
-	- [sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza)
-	- [fortuna calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata)
-	- [cerchio magico contro il male](https://golarion.altervista.org/wiki/Incantesimi/Cerchio_Magico_Contro_il_Male)
+	- (0) [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25 mo per dv)
+	- (0) [sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza)
+	- (0) [fortuna calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata)
+	- (0) [cerchio magico contro il male](https://golarion.altervista.org/wiki/Incantesimi/Cerchio_Magico_Contro_il_Male)
 - preparazioni:
-	- [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
-	- [acque di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Acque_di_Lamashtu) (M 250 mo)
+	- (0) [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
+	- (0) [acque di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Acque_di_Lamashtu) (M 250 mo)
 - combattimento:
 	- damage/crowd control:
-		- [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
-		- [barriera stordente superiore](https://golarion.altervista.org/wiki/Incantesimi/Barriera_Stordente_Superiore) (P)
-		- [evoca guardiano ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Guardiano_Ancestrale)
-		- [evoca mostri III](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_III)
-		- [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
-		- [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
-		- [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
-	- buff/defense:
-		- [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) (10min/lv)
+		- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
+		- (0) [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
+		- (0) [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
+		- (0) [barriera stordente superiore](https://golarion.altervista.org/wiki/Incantesimi/Barriera_Stordente_Superiore) (P)
+		- (0) [evoca guardiano ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Guardiano_Ancestrale)
+		- (0) [evoca mostri III](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_III)
+		- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
+	- buff/debuff/defense:
+		- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
+		- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) (10min/lv)
 - utility:
-	- [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
-	- [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
-	- [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
-	- [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
+	- (0) [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
+	- (0) [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
+	- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
+	- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
 
 ### lv.4:
-
+- dominio:
+- rituali:
+	- [ancora dimensionale](https://golarion.altervista.org/wiki/Incantesimi/Ancora_Dimensionale)
+- preparazioni:
+- combattimento:
+	- damage/crowd control:
+		- [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata) (N)
+	- buff/debuff/defense:
+		- [benedizione del fervore](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_del_Fervore)
+- utility:
+	- [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
+	- [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25 mo)
 
 Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
 
