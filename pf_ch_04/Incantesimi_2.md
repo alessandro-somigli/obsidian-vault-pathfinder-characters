@@ -85,6 +85,8 @@
 	- buff/debuff/defense:
 		- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
 		- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) (10min/lv)
+- cure:
+	- [sentiero di gloria superiore](https://golarion.altervista.org/wiki/Incantesimi/Sentiero_di_Gloria_Superiore)
 - utility:
 	- (0) [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
 	- (0) [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
@@ -96,14 +98,23 @@
 - rituali:
 	- [ancora dimensionale](https://golarion.altervista.org/wiki/Incantesimi/Ancora_Dimensionale)
 - preparazioni:
+	- [arma magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Arma_Magica_Superiore)
 - combattimento:
 	- damage/crowd control:
 		- [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata) (N)
+		- [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
+		- [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
+		- [alleato spirituale](https://golarion.altervista.org/wiki/Incantesimi/Alleato_Spirituale)
+		- [evoca mostri IV](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IV)
 	- buff/debuff/defense:
 		- [benedizione del fervore](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_del_Fervore)
+		- [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento)
 - utility:
 	- [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
 	- [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25 mo)
+	- [inviare](https://golarion.altervista.org/wiki/Incantesimi/Inviare)
+	- [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi)
+	- [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante)
 
 Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
 
