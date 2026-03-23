@@ -95,26 +95,28 @@
 
 ### lv.4:
 - dominio:
+	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
+	- (0) [confusione](https://golarion.altervista.org/wiki/Confusione "Confusione")
 - rituali:
-	- [ancora dimensionale](https://golarion.altervista.org/wiki/Incantesimi/Ancora_Dimensionale)
+	- (0) [ancora dimensionale](https://golarion.altervista.org/wiki/Incantesimi/Ancora_Dimensionale)
 - preparazioni:
-	- [arma magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Arma_Magica_Superiore)
+	- (0) [arma magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Arma_Magica_Superiore)
 - combattimento:
 	- damage/crowd control:
-		- [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata) (N)
-		- [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
-		- [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
-		- [alleato spirituale](https://golarion.altervista.org/wiki/Incantesimi/Alleato_Spirituale)
-		- [evoca mostri IV](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IV)
+		- (0) [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata) (N)
+		- (0) [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
+		- (0) [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
+		- (0) [alleato spirituale](https://golarion.altervista.org/wiki/Incantesimi/Alleato_Spirituale)
+		- (0) [evoca mostri IV](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IV)
 	- buff/debuff/defense:
-		- [benedizione del fervore](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_del_Fervore)
-		- [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento)
+		- (0) [benedizione del fervore](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_del_Fervore)
+		- (0) [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento)
 - utility:
-	- [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
-	- [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25 mo)
-	- [inviare](https://golarion.altervista.org/wiki/Incantesimi/Inviare)
-	- [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi)
-	- [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante)
+	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
+	- (0) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25 mo)
+	- (0) [inviare](https://golarion.altervista.org/wiki/Incantesimi/Inviare)
+	- (0) [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi)
+	- (0) [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante)
 
 Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
 
