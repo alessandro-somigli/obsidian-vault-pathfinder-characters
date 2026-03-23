@@ -69,19 +69,25 @@
 	- [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25 mo per dv)
 	- [sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza)
 	- [fortuna calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata)
+	- [cerchio magico contro il male](https://golarion.altervista.org/wiki/Incantesimi/Cerchio_Magico_Contro_il_Male)
 - preparazioni:
 	- [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
+	- [acque di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Acque_di_Lamashtu) (M 250 mo)
 - combattimento:
 	- damage/crowd control:
 		- [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
+		- [barriera stordente superiore](https://golarion.altervista.org/wiki/Incantesimi/Barriera_Stordente_Superiore) (P)
+		- [evoca guardiano ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Guardiano_Ancestrale)
+		- [evoca mostri III](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_III)
 		- [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
 		- [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
 		- [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
 	- buff/defense:
+		- [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) (10min/lv)
 - utility:
 	- [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
-	- [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
 	- [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
+	- [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
 	- [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
 
 ### lv.4:
