@@ -33,6 +33,9 @@
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")
 - rituali:
 	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore) (M 25mo per dv)
+	- (0) [vino della morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte)
+	- (0) [rintocco di morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte)
+	- (0) [cuore del nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
 	- (0) [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
 - preparazioni:
 	- (0) [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
@@ -62,16 +65,24 @@
 - dominio:
 	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
 	- (0) [ira](https://golarion.altevista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
+- rituali:
+	- [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25 mo per dv)
+	- [sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza)
+	- [fortuna calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata)
 - preparazioni:
 	- [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
 - combattimento:
 	- damage/crowd control:
 		- [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
+		- [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
+		- [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
+		- [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
 	- buff/defense:
 - utility:
 	- [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
 	- [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
 	- [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
+	- [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
 
 ### lv.4:
 
