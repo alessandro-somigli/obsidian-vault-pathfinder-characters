@@ -35,8 +35,7 @@
               "title": "Incantesimi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +200,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "cd5e71310d9c6d5d",
+  "active": "c313fb5f10e715e2",
   "lastOpenFiles": [
     "pf_ch_04/Incantesimi.md",
     "pf_ch_04/Incantesimi_2.md",

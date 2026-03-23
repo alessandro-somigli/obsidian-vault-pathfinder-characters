@@ -106,6 +106,7 @@
 		- (0) [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata) (N)
 		- (0) [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
 		- (0) [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
+		- (0) [aura di devastazione](https://golarion.altervista.org/wiki/Incantesimi/Aura_di_Devastazione)
 		- (0) [alleato spirituale](https://golarion.altervista.org/wiki/Incantesimi/Alleato_Spirituale)
 		- (0) [evoca mostri IV](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IV)
 	- buff/debuff/defense:
