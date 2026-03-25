@@ -123,6 +123,19 @@
 Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
 
 ## lv.5:
-- [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
-- [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
-- [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
+- dominio:
+	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
+	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
+- rituali:
+- preparazioni:
+- combattimento:
+	- damage/crowd control:
+		- [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
+		- [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (N)
+		- [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
+	- buff/debuff/defense:
+- cure:
+	- [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
+	- [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
+- utility:
+	- [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
