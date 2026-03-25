@@ -5,6 +5,7 @@
 - (0) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
 - (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
+
 ### lv.1 (3+1):
 - dominio:
 	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
@@ -61,7 +62,7 @@
 	- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
 	- (0) [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
 
-### lv.3:
+### lv.3 (0):
 - dominio:
 	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
 	- (0) [ira](https://golarion.altevista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
@@ -93,7 +94,7 @@
 	- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
 	- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
 
-### lv.4:
+### lv.4 (0):
 - dominio:
 	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
 	- (0) [confusione](https://golarion.altervista.org/wiki/Confusione "Confusione")
