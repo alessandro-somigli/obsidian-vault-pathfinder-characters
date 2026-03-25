@@ -114,7 +114,7 @@
 	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
 	- (0) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25mo)
 	- (0) [inviare](https://golarion.altervista.org/wiki/Incantesimi/Inviare)
-	- (0) [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi)
+	- (0) [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi) (10min/lv)
 	- (0) [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante) (1h/lv)
 	- (0) [infondere capacità magiche](https://golarion.altervista.org/wiki/Incantesimi/Infondere_Capacit%C3%A0_Magiche) (∞)
 ## lv.5 (0):
@@ -122,25 +122,24 @@
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
 - combattimento:
-	- damage/crowd control:
+	- damage/debuff/control:
 		- (0) [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
 		- (0) [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (N)
 		- (0) [muro di cecità/sordità](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Cecit%C3%A0/Sordit%C3%A0) (N)
 		- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra)
 		- (0) [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
 		- (0) [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
-	- buff/debuff/defense:
+	- buff/defense:
 		- (0) [venti mutevoli](https://golarion.altervista.org/wiki/Incantesimi/Venti_Mutevoli)
 		- (0) [giusto potere](https://golarion.altervista.org/wiki/Incantesimi/Giusto_Potere) (P)
 - cure:
 	- (0) [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
 	- (0) [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
 - utility:
-	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
+	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo) (10min/lv)
 	- (0) [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
 	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (M 1000 mo)
-	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore)
-
+	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore) (∞)
 ## lv.6 (0):
 - dominio:
 	- [legame planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare)
