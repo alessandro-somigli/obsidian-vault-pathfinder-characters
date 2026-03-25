@@ -131,11 +131,16 @@ Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, 
 - combattimento:
 	- damage/crowd control:
 		- [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
-		- [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (N)
 		- [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
+		- [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
 	- buff/debuff/defense:
+		- [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (N)
+		- [venti mutevoli](https://golarion.altervista.org/wiki/Incantesimi/Venti_Mutevoli)
+		- [giusto potere](https://golarion.altervista.org/wiki/Incantesimi/Giusto_Potere) (P)
 - cure:
 	- [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
 	- [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
 - utility:
 	- [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
+	- [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
+	- [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (M 1000 mo)
