@@ -135,6 +135,7 @@
 - cure:
 	- (0) [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
 	- (0) [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
+	- (0) [rianimare morti](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Morti)
 - utility:
 	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo) (10min/lv)
 	- (0) [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
@@ -151,7 +152,7 @@
 	- (0) [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina) (1h/lv)
 	- (0) [anatema del veggente](https://golarion.altervista.org/wiki/Incantesimi/Anatema_del_Veggente) (1h/lv)
 	- (0) [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
-	- (0) [memoria ombra di sarzari](https://golarion.altervista.org/wiki/Incantesimi/Memoria_Ombra_di_Sarzari) (30g) (M 1500mo)
+	- (0) [memoria ombra di sarzari](https://golarion.altervista.org/wiki/Incantesimi/Memoria_Ombra_di_Sarzari) (30d) (M 1500mo)
 - combattimento:
 	- damage/debuff/control/summons:
 		- (0) [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
@@ -168,4 +169,4 @@
 	- (0) [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
 - utility:
 	- [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
-
+	- [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10m/lv)
