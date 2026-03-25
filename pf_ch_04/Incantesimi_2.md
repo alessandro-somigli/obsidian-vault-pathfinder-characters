@@ -105,7 +105,6 @@
 		- (0) [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
 		- (0) [aura di devastazione](https://golarion.altervista.org/wiki/Incantesimi/Aura_di_Devastazione)
 		- (0) [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
-		- [congedo](https://golarion.altervista.org/wiki/Incantesimi/Congedo)
 		- (0) [alleato spirituale](https://golarion.altervista.org/wiki/Incantesimi/Alleato_Spirituale)
 		- (0) [evoca mostri IV](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IV)
 	- buff/defense:
@@ -131,7 +130,6 @@
 		- (0) [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
 		- (0) [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
 	- buff/defense:
-		- (0) [venti mutevoli](https://golarion.altervista.org/wiki/Incantesimi/Venti_Mutevoli)
 		- (0) [giusto potere](https://golarion.altervista.org/wiki/Incantesimi/Giusto_Potere) (P)
 - cure:
 	- (0) [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
@@ -169,6 +167,5 @@
 - cure:
 	- (0) [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
 - utility:
-	- [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
-	- [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10m/lv)
-	- [esilio](https://golarion.altervista.org/wiki/Incantesimi/Esilio)
+	- (0) [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
+	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10m/lv)
