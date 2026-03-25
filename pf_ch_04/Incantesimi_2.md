@@ -10,7 +10,7 @@
 	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
-	- damage/crowd control:
+	- damage/control/summons:
 		- (1) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
 		- (1) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
 		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
@@ -40,13 +40,13 @@
 	- (0) [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
 	- (0) [scudo su altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (F 50mo) (1h/lv)
 - combattimento:
-	- damage/crowd control:
-		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
+	- damage/control/summons:
 		- (0) [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
 		- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
 		- (0) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
 		- (0) [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
 		- (0) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
+		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
 	- buff/defense:
 		- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
 		- (0) [ira non morta](https://golarion.altervista.org/wiki/Incantesimi/Ira_Non_Morta)
@@ -59,40 +59,38 @@
 	- (0) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
 	- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
 	- (0) [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
-
 ### lv.3 (0):
 - dominio:
 	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
 	- (0) [ira](https://golarion.altevista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
 - rituali:
-	- (0) [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25 mo per dv)
+	- (0) [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25mo per dv)
 	- (0) [sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza)
 	- (0) [fortuna calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata)
-	- (0) [cerchio magico contro il male](https://golarion.altervista.org/wiki/Incantesimi/Cerchio_Magico_Contro_il_Male)
+	- (0) [cerchio magico contro il male](https://golarion.altervista.org/wiki/Incantesimi/Cerchio_Magico_Contro_il_Male) (1g/lv)
 - preparazioni:
 	- (0) [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
 	- (0) [acque di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Acque_di_Lamashtu) (M 250 mo)
 - combattimento:
-	- damage/crowd control:
+	- damage/debuff/control/summons:
 		- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
+		- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
 		- (0) [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
 		- (0) [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
 		- (0) [barriera stordente superiore](https://golarion.altervista.org/wiki/Incantesimi/Barriera_Stordente_Superiore) (P)
 		- (0) [evoca guardiano ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Guardiano_Ancestrale)
 		- (0) [evoca mostri III](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_III)
-		- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
-	- buff/debuff/defense:
+	- buff/defense:
 		- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
 		- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) (10min/lv)
 - cure:
-	- [sentiero di gloria superiore](https://golarion.altervista.org/wiki/Incantesimi/Sentiero_di_Gloria_Superiore)
+	- (0) [sentiero di gloria superiore](https://golarion.altervista.org/wiki/Incantesimi/Sentiero_di_Gloria_Superiore)
 - utility:
 	- (0) [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
 	- (0) [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
 	- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
 	- (0) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione)
 	- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
-
 ### lv.4 (0):
 - dominio:
 	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
@@ -100,28 +98,25 @@
 - rituali:
 	- (0) [ancora dimensionale](https://golarion.altervista.org/wiki/Incantesimi/Ancora_Dimensionale)
 - preparazioni:
-	- (0) [arma magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Arma_Magica_Superiore)
+	- (0) [arma magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Arma_Magica_Superiore) (1h/lv)
 - combattimento:
-	- damage/crowd control:
+	- damage/debuff/control/summons:
 		- (0) [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata) (N)
 		- (0) [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
-		- (0) [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
 		- (0) [aura di devastazione](https://golarion.altervista.org/wiki/Incantesimi/Aura_di_Devastazione)
+		- (0) [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
 		- (0) [alleato spirituale](https://golarion.altervista.org/wiki/Incantesimi/Alleato_Spirituale)
 		- (0) [evoca mostri IV](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IV)
-	- buff/debuff/defense:
+	- buff/defense:
 		- (0) [benedizione del fervore](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_del_Fervore)
 		- (0) [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento)
 - utility:
 	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
-	- (0) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25 mo)
+	- (0) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25mo)
 	- (0) [inviare](https://golarion.altervista.org/wiki/Incantesimi/Inviare)
 	- (0) [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi)
-	- (0) [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante)
-	- (0) [infondere capacità magiche](https://golarion.altervista.org/wiki/Incantesimi/Infondere_Capacit%C3%A0_Magiche)
-
-Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
-
+	- (0) [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante) (1h/lv)
+	- (0) [infondere capacità magiche](https://golarion.altervista.org/wiki/Incantesimi/Infondere_Capacit%C3%A0_Magiche) (∞)
 ## lv.5 (0):
 - dominio:
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
