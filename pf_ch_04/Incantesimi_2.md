@@ -1,11 +1,10 @@
-### lv.0:
+## lv.0:
 - (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
 - (1) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
 - (1) [diplomazia potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata)
 - (0) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
 - (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
-
 ### lv.1 (3+1):
 - dominio:
 	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
@@ -21,26 +20,25 @@
 		- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 		- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
 - utility:
-	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti)
+	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10m/lv)
 	- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
 	- (0) [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
 	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
 	- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
 	- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P)
-
 ### lv.2 (0):
 - dominio:
 	- (0) [evoca mostri II](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_II "Evoca Mostri")
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")
 - rituali:
 	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore) (M 25mo per dv)
-	- (0) [vino della morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte)
-	- (0) [rintocco di morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte)
+	- (0) [vino della morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte) (1h/lv)
+	- (0) [rintocco di morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) (10m/dv)
 	- (0) [cuore del nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
 	- (0) [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
 - preparazioni:
 	- (0) [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
-	- (0) [scudo su altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (1h/lv)
+	- (0) [scudo su altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (F 50mo) (1h/lv)
 - combattimento:
 	- damage/crowd control:
 		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
@@ -149,19 +147,29 @@ Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, 
 	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore)
 
 ## lv.6 (0):
-- [animare oggetti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Oggetti)
-- [barriera di lame](https://golarion.altervista.org/wiki/Incantesimi/Barriera_di_Lame)
-- [colpo di ghiaccio freddo](https://golarion.altervista.org/wiki/Incantesimi/Colpo_di_Ghiaccio_Freddo)
-- [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore)
-- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina)
-- [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
-- [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
-- [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
-- [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N)
-- [anatema del veggente](https://golarion.altervista.org/wiki/Incantesimi/Anatema_del_Veggente) (1h/lv)
-- [segno dell'ira](https://golarion.altervista.org/wiki/Incantesimi/Segno_dell%27Ira) (F 1000 mo)
-- [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
-- [evoca mostri VI](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VI)
-- [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
+- dominio:
+	- [legame planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare)
+	- [allucinazione mortale](https://golarion.altervista.org/wiki/Incantesimi/Allucinazione_Mortale)
+- rituali:
+	- [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
+- preparazioni:
+	- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina) (1h/lv)
+	- [anatema del veggente](https://golarion.altervista.org/wiki/Incantesimi/Anatema_del_Veggente) (1h/lv)
+	- [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
+- combattimento:
+	- damage/crowd control:
+		- [animare oggetti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Oggetti)
+		- [barriera di lame](https://golarion.altervista.org/wiki/Incantesimi/Barriera_di_Lame)
+		- [colpo di ghiaccio freddo](https://golarion.altervista.org/wiki/Incantesimi/Colpo_di_Ghiaccio_Freddo) (I)
+		- [segno dell'ira](https://golarion.altervista.org/wiki/Incantesimi/Segno_dell%27Ira) (F 1000 mo)
+		- [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore)
+		- [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
+		- [evoca mostri VI](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VI)
+		- [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
+	- buff/debuff/defense:
+		- [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N)
+- cure:
+	- [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
+- utility:
 
 
