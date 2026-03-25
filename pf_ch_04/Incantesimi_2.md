@@ -142,28 +142,30 @@
 	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore) (∞)
 ## lv.6 (0):
 - dominio:
-	- [legame planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare)
-	- [allucinazione mortale](https://golarion.altervista.org/wiki/Incantesimi/Allucinazione_Mortale)
+	- (0) [legame planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare)
+	- (0) [allucinazione mortale](https://golarion.altervista.org/wiki/Incantesimi/Allucinazione_Mortale)
 - rituali:
-	- [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
+	- (0) [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
 - preparazioni:
-	- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina) (1h/lv)
-	- [anatema del veggente](https://golarion.altervista.org/wiki/Incantesimi/Anatema_del_Veggente) (1h/lv)
-	- [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
+	- (0) [banchetto degli eroi](https://golarion.altervista.org/wiki/Incantesimi/Banchetto_degli_Eroi) (12h)
+	- (0) [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina) (1h/lv)
+	- (0) [anatema del veggente](https://golarion.altervista.org/wiki/Incantesimi/Anatema_del_Veggente) (1h/lv)
+	- (0) [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
+	- (0) [memoria ombra di sarzari](https://golarion.altervista.org/wiki/Incantesimi/Memoria_Ombra_di_Sarzari) (30g) (M 1500mo)
 - combattimento:
-	- damage/crowd control:
-		- [animare oggetti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Oggetti)
-		- [barriera di lame](https://golarion.altervista.org/wiki/Incantesimi/Barriera_di_Lame)
-		- [colpo di ghiaccio freddo](https://golarion.altervista.org/wiki/Incantesimi/Colpo_di_Ghiaccio_Freddo) (I)
-		- [segno dell'ira](https://golarion.altervista.org/wiki/Incantesimi/Segno_dell%27Ira) (F 1000 mo)
-		- [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore)
-		- [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
-		- [evoca mostri VI](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VI)
-		- [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
+	- damage/debuff/control/summons:
+		- (0) [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
+		- (0) [colpo di ghiaccio freddo](https://golarion.altervista.org/wiki/Incantesimi/Colpo_di_Ghiaccio_Freddo) (I)
+		- (0) [segno dell'ira](https://golarion.altervista.org/wiki/Incantesimi/Segno_dell%27Ira) (F 1000 mo)
+		- (0) [barriera di lame](https://golarion.altervista.org/wiki/Incantesimi/Barriera_di_Lame)
+		- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore)
+		- (0) [evoca mostri VI](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VI)
+		- (0) [animare oggetti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Oggetti)
+		- (0) [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
 	- buff/debuff/defense:
-		- [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N)
+		- (0) [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N) (10m/lv)
 - cure:
-	- [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
+	- (0) [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
 - utility:
-
+	- [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
 
