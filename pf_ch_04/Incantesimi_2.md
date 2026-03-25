@@ -124,27 +124,39 @@
 
 Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, Duskeye, and Mithralbane Sap.
 
-## lv.5:
+## lv.5 (0):
 - dominio:
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
-- rituali:
-- preparazioni:
 - combattimento:
 	- damage/crowd control:
-		- [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
-		- [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
-		- [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
+		- (0) [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
+		- (0) [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (N)
+		- (0) [muro di cecità/sordità](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Cecit%C3%A0/Sordit%C3%A0) (N)
+		- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra)
+		- (0) [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
+		- (0) [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
 	- buff/debuff/defense:
-		- [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (N)
-		- [venti mutevoli](https://golarion.altervista.org/wiki/Incantesimi/Venti_Mutevoli)
-		- [giusto potere](https://golarion.altervista.org/wiki/Incantesimi/Giusto_Potere) (P)
+		- (0) [venti mutevoli](https://golarion.altervista.org/wiki/Incantesimi/Venti_Mutevoli)
+		- (0) [giusto potere](https://golarion.altervista.org/wiki/Incantesimi/Giusto_Potere) (P)
 - cure:
-	- [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
-	- [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
+	- (0) [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
+	- (0) [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
 - utility:
-	- [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
-	- [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
-	- [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (M 1000 mo)
-	- [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore)
+	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo)
+	- (0) [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
+	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (M 1000 mo)
+	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore)
+
+## lv.6 (0):
+- [animare oggetti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Oggetti)
+- [barriera di lame](https://golarion.altervista.org/wiki/Incantesimi/Barriera_di_Lame)
+- [colpo di ghiaccio freddo](https://golarion.altervista.org/wiki/Incantesimi/Colpo_di_Ghiaccio_Freddo)
+- [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore)
+- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina)
+- [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
+- [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
+- [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
+- [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N)
+
 
