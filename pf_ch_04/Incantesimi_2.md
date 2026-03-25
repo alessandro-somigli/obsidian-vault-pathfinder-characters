@@ -158,5 +158,10 @@ Air Crystals, Antiplague, Antitoxin, Troll Oil, Blackfinger Paste, Cardice Oil, 
 - [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
 - [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
 - [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N)
+- [anatema del veggente](https://golarion.altervista.org/wiki/Incantesimi/Anatema_del_Veggente) (1h/lv)
+- [segno dell'ira](https://golarion.altervista.org/wiki/Incantesimi/Segno_dell%27Ira) (F 1000 mo)
+- [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
+- [evoca mostri VI](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VI)
+- [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
 
 
