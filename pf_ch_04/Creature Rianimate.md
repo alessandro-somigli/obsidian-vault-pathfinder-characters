@@ -55,7 +55,7 @@
 	- SPEC: Portata, Squartare
 - [Shira](https://golarion.altervista.org/wiki/Shira):
 	- HD: 12
-	- FOR: +7
+	- FOR: +9
 	- DES: +7
 	- TAG: 2
 	- SPEC: Portata, Afferrare
