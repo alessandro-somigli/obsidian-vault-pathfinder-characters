@@ -209,6 +209,7 @@
 - combattimento:
 	- damage/debuff/control/summons:
 		- (0) [risucchio di energia](https://golarion.altervista.org/wiki/Incantesimi/Risucchio_di_Energia) (N)
+		- (0) [implosione](https://golarion.altervista.org/wiki/Incantesimi/Implosione)
 		- (0) [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
 		- (0) [evoca mostri IX](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IX)
 - cure:
