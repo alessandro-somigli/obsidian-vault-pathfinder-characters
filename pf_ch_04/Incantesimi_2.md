@@ -180,5 +180,12 @@
 - [onde di estasi](https://golarion.altervista.org/wiki/Incantesimi/Onde_di_Estasi)
 ## lv.8 (0):
 - [mantello del caos](https://golarion.altervista.org/wiki/Incantesimi/Mantello_del_Caos) (F 500mo)
+- [stretta della morte](https://golarion.altervista.org/wiki/Stretta_della_Morte) (N)
+- [rivela locazioni](https://golarion.altervista.org/wiki/Incantesimi/Rivela_Locazioni)
+- [terremoto](https://golarion.altervista.org/wiki/Incantesimi/Terremoto)
+- [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante)
+- [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
+- [legione delle tombe](https://golarion.altervista.org/wiki/Incantesimi/Legione_delle_Tombe) (N)
 
 ## lv.9 (0):
+
