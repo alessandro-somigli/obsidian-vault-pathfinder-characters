@@ -130,6 +130,7 @@
 		- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra)
 		- (0) [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
 		- (0) [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
+		- (0) [evoca demoni inferiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Demoni_Inferiore)
 	- buff/defense:
 		- (0) [giusto potere](https://golarion.altervista.org/wiki/Incantesimi/Giusto_Potere) (P)
 - cure:
@@ -171,22 +172,50 @@
 	- (0) [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
 	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10m/lv)
 ## lv.7 (0):
-- [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
-- [distruzione](https://golarion.altervista.org/wiki/Incantesimi/Distruzione) (N)
-- [blasfemia](https://golarion.altervista.org/wiki/Incantesimi/Blasfemia)
-- [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
-- [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
-- [evoca mostri VII](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VII)
-- [visione di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu)
-- [onde di estasi](https://golarion.altervista.org/wiki/Incantesimi/Onde_di_Estasi)
+- dominio:
+	- (0) [demenza](https://golarion.altervista.org/wiki/Incantesimi/Demenza)
+- combattimento:
+	- damage/debuff/control/summons:
+		- (0) [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
+		- (0) [distruzione](https://golarion.altervista.org/wiki/Incantesimi/Distruzione) (N)
+		- (0) [blasfemia](https://golarion.altervista.org/wiki/Incantesimi/Blasfemia)
+		- (0) [evoca mostri VII](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VII)
+		- (0) [onde di estasi](https://golarion.altervista.org/wiki/Incantesimi/Onde_di_Estasi)
+- utility:
+	- (0) [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
+	- (0) [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
+	- (0) [visione di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu)
 ## lv.8 (0):
-- [mantello del caos](https://golarion.altervista.org/wiki/Incantesimi/Mantello_del_Caos) (F 500mo)
-- [stretta della morte](https://golarion.altervista.org/wiki/Stretta_della_Morte) (N)
-- [rivela locazioni](https://golarion.altervista.org/wiki/Incantesimi/Rivela_Locazioni)
-- [terremoto](https://golarion.altervista.org/wiki/Incantesimi/Terremoto)
-- [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante)
-- [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
-- [legione delle tombe](https://golarion.altervista.org/wiki/Incantesimi/Legione_delle_Tombe) (N)
+- dominio:
+	- (0) [legame planare superiore](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare_Superiore)
+	- (0) [trama scintillante](https://golarion.altervista.org/wiki/Incantesimi/Trama_Scintillante)
+- preparazioni:
+	- (0) [legione delle tombe](https://golarion.altervista.org/wiki/Incantesimi/Legione_delle_Tombe) (7g)
+- combattimento:
+	- damage/debuff/control/summons:
+		- (0) [stretta della morte](https://golarion.altervista.org/wiki/Stretta_della_Morte) (N)
+		- (0) [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
+		- (0) [terremoto](https://golarion.altervista.org/wiki/Incantesimi/Terremoto)
+	- buff/debuff/defense:
+		- (0) [mantello del caos](https://golarion.altervista.org/wiki/Incantesimi/Mantello_del_Caos) (F 500mo)
+		- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante)
+- utility:
+	- (0) [rivela locazioni](https://golarion.altervista.org/wiki/Incantesimi/Rivela_Locazioni)
 
 ## lv.9 (0):
+- dominio:
+	- [teletrasporto interplanetario](https://golarion.altervista.org/wiki/Incantesimi/Teletrasporto_Interplanetario)
+	- [fatale](https://golarion.altervista.org/wiki/Incantesimi/Fatale)
+- combattimento:
+	- damage/debuff/control/summons:
+		- [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
+		- [risucchio di energia](https://golarion.altervista.org/wiki/Incantesimi/Risucchio_di_Energia) (N)
+		- [evoca mostri IX](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IX)
+- cure:
+	- [guarigione di massa](https://golarion.altervista.org/wiki/Guarigione_di_Massa)
+- utility:
+	- [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
+	- [relitto risanato]
+
+
 
