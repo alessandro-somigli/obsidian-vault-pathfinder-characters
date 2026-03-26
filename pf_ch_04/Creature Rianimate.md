@@ -1,9 +1,9 @@
 - [Cavallo](https://golarion.altervista.org/wiki/Cavallo):
 	- HD: 2
-	- SPEC: buon mezzo di trasporto
-- [Stormo di Corvi](https://golarion.altervista.org/wiki/Stormo_di_Corvi):
-	- HD: 5
-	- SPEC: Accecare, Distrazione
+	- SPEC: buona cavalcatura
+- [Incubo](https://golarion.altervista.org/wiki/Incubo):
+	- HD: 6
+	- SPEC buona cavalcatura, volare 27m
 ### Legame Planare Inferiore:
 - [Diavolo Barbuto](https://golarion.altervista.org/wiki/Diavolo_Barbuto):
 	- HD: 6

@@ -169,3 +169,16 @@
 - utility:
 	- (0) [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
 	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10m/lv)
+## lv.7 (0):
+- [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
+- [distruzione](https://golarion.altervista.org/wiki/Incantesimi/Distruzione) (N)
+- [blasfemia](https://golarion.altervista.org/wiki/Incantesimi/Blasfemia)
+- [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
+- [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
+- [evoca mostri VII](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VII)
+- [visione di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu)
+- [onde di estasi](https://golarion.altervista.org/wiki/Incantesimi/Onde_di_Estasi)
+## lv.8 (0):
+- [mantello del caos](https://golarion.altervista.org/wiki/Incantesimi/Mantello_del_Caos) (F 500mo)
+
+## lv.9 (0):
