@@ -83,6 +83,7 @@
 	- buff/defense:
 		- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
 		- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) (10min/lv)
+		- (0) [allineare arma collettivo](https://golarion.altervista.org/wiki/Incantesimi/Allineare_Arma_Collettivo)
 - cure:
 	- (0) [sentiero di gloria superiore](https://golarion.altervista.org/wiki/Incantesimi/Sentiero_di_Gloria_Superiore)
 - utility:
