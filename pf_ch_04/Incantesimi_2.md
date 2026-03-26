@@ -20,12 +20,12 @@
 		- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 		- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
 - utility:
+	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
+	- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
+	- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P) (10m/lv)
 	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10m/lv)
 	- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
 	- (0) [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
-	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
-	- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
-	- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P)
 ### lv.2 (0):
 - dominio:
 	- (0) [evoca mostri II](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_II "Evoca Mostri")
