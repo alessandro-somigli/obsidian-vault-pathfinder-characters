@@ -1,6 +1,6 @@
 ## lv.0:
-- (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
 - (1) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
+- (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
 - (1) [diplomazia potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata)
 - (0) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
 - (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
@@ -204,18 +204,21 @@
 
 ## lv.9 (0):
 - dominio:
-	- [teletrasporto interplanetario](https://golarion.altervista.org/wiki/Incantesimi/Teletrasporto_Interplanetario)
-	- [fatale](https://golarion.altervista.org/wiki/Incantesimi/Fatale)
+	- (0) [teletrasporto interplanetario](https://golarion.altervista.org/wiki/Incantesimi/Teletrasporto_Interplanetario)
+	- (0) [fatale](https://golarion.altervista.org/wiki/Incantesimi/Fatale)
 - combattimento:
 	- damage/debuff/control/summons:
-		- [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
-		- [risucchio di energia](https://golarion.altervista.org/wiki/Incantesimi/Risucchio_di_Energia) (N)
-		- [evoca mostri IX](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IX)
+		- (0) [risucchio di energia](https://golarion.altervista.org/wiki/Incantesimi/Risucchio_di_Energia) (N)
+		- (0) [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
+		- (0) [evoca mostri IX](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IX)
 - cure:
-	- [guarigione di massa](https://golarion.altervista.org/wiki/Guarigione_di_Massa)
+	- (0) [guarigione di massa](https://golarion.altervista.org/wiki/Guarigione_di_Massa)
 - utility:
-	- [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
-	- [relitto risanato]
+	- (0) [miracolo](https://golarion.altervista.org/wiki/Incantesimi/Miracolo)
+	- (0) [portale](https://golarion.altervista.org/wiki/Incantesimi/Portale)
+	- (0) [creare semipiano superiore](https://golarion.altervista.org/wiki/Incantesimi/Creare_Semipiano_Superiore)
+	- (0) [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
+	- (0) [relitto risanato](https://golarion.altervista.org/wiki/Incantesimi/Relitto_Risanato)
 
 
 
