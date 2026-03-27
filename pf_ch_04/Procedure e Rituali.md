@@ -10,6 +10,8 @@ Questo rituale serve a potenziare l'efficacia dell'incantesimo [Animare Morti](h
 Prima di tutto, si assume che la creatura da animare sia già morta e prontamente disponibile.
 ### Preparazioni
 Passi non necessariamente da seguire, è possibile alcuni di questi metodi fino a raggiungere il Livello Incantatore desiderato per poi fermarsi.
+#### Potenziare Dissacrare:
+Se si è costruito un'altare oppure una struttura permanente dedicata alla propria divinità è possibile portare il cadavere davanti a questa struttura per potenziare l'incantesimo [Dissacrare](https://golarion.altervista.org/wiki/Incantesimi/Dissacrare).
 #### Aumentare il Livello Incantatore:
 ##### 1) Vino Magico (+1):
 incantesimi necessari:

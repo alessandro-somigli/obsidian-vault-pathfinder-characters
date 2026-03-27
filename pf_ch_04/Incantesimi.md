@@ -32,6 +32,7 @@
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")
 - rituali:
 	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore) (M 25mo per dv)
+	- (0) [dissacrare](https://golarion.altervista.org/wiki/Incantesimi/Dissacrare) (2h/lv) (M 25mo)
 	- (0) [vino della morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte) (1h/lv)
 	- (0) [rintocco di morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) (10m/dv)
 	- (0) [cuore del nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
