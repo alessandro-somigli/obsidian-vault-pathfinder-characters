@@ -58,6 +58,7 @@
 - utility:
 	- (0) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
 	- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
+	- []
 	- (0) [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
 ### lv.3 (0):
 - dominio:
@@ -93,6 +94,7 @@
 	- (0) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione)
 	- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
 	- (0) [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino) (M 100mo)
+	- (0) [parlare con i morti](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_i_Morti)
 ### lv.4 (0):
 - dominio:
 	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
