@@ -58,7 +58,7 @@
 - utility:
 	- (0) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
 	- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
-	- []
+	- (0) [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150/300mo)
 	- (0) [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
 ### lv.3 (0):
 - dominio:

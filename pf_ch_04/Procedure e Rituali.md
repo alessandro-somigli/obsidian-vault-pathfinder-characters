@@ -67,14 +67,16 @@ materiali necessari:
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25 mo)
 - [Pugnale](https://golarion.altervista.org/wiki/Armi/Pugnale) (2 mo)
 incantesimi necessari:
+- [Dissacrare](https://golarion.altervista.org/wiki/Incantesimi/Dissacrare) (lv.2)
 - [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) (lv.2)
 - [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (lv.3)
 
 procedimento:
 1) tagliare la propria mano così da far uscire buone quantità di sangue
-2) utilizzare la [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue)
-3) adesso è possibile lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
-4) lanciare l'incantesimo [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) per recuperare i punti di caratteristica persi
+2) lanciare l'incantesimo [Dissacrare](https://golarion.altervista.org/wiki/Incantesimi/Dissacrare) centrato sul cadavere da rianimare
+3) utilizzare la [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue)
+4) adesso è possibile lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
+5) lanciare l'incantesimo [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) per recuperare i punti di caratteristica persi
 
 ## Miglioramento Equipaggiamento Non Morti
 
