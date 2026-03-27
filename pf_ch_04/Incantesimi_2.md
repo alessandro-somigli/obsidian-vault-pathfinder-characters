@@ -62,7 +62,7 @@
 ### lv.3 (0):
 - dominio:
 	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
-	- (0) [ira](https://golarion.altevista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
+	- (0) [ira](https://golarion.altervista.org/wiki/Incantesimi/Ira)
 - rituali:
 	- (0) [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25mo per dv)
 	- (0) [sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza)
@@ -74,10 +74,10 @@
 - combattimento:
 	- damage/debuff/control/summons:
 		- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
-		- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
-		- (0) [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
 		- (0) [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
+		- (0) [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
 		- (0) [barriera stordente superiore](https://golarion.altervista.org/wiki/Incantesimi/Barriera_Stordente_Superiore) (P)
+		- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
 		- (0) [evoca guardiano ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Guardiano_Ancestrale)
 		- (0) [evoca mostri III](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_III)
 	- buff/defense:
@@ -87,9 +87,9 @@
 - cure:
 	- (0) [sentiero di gloria superiore](https://golarion.altervista.org/wiki/Incantesimi/Sentiero_di_Gloria_Superiore)
 - utility:
+	- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0) (P)
 	- (0) [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
 	- (0) [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
-	- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0)
 	- (0) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione)
 	- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
 ### lv.4 (0):
