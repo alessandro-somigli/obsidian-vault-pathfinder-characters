@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/Incantesimi_2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Incantesimi_2"
-            }
-          },
-          {
-            "id": "cd5e71310d9c6d5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "pf_ch_04/Incantesimi.md",
                 "mode": "source",
                 "source": false
@@ -202,11 +188,11 @@
   },
   "active": "c313fb5f10e715e2",
   "lastOpenFiles": [
+    "pf_ch_04/Incantesimi_2.md",
+    "pf_ch_04/Incantesimi.md",
     "pf_ch_04/Creature Rianimate.md",
     "pf_ch_04/Creature Legame Planare.md",
-    "pf_ch_04/Incantesimi_2.md",
     "pf_ch_04/Workflows.md",
-    "pf_ch_04/Incantesimi.md",
     "zemenis/Incantesimi.md",
     "pf_ch_04/PG.md",
     "pf_ch_04/Equipaggiamento.md",

@@ -1,102 +1,224 @@
-### lv.0:
+## lv.0:
 - (1) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
+- (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
 - (1) [diplomazia potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata)
 - (0) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
-- (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
 - (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
-### lv.1: (0):
+### lv.1 (3+1):
 - dominio:
-	- (0) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
+	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
-	- (0) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
-	- (0) [incuti paura](https://golarion.altervista.org/wiki/Incantesimi/Incuti_Paura)
-	- (0) [barriera stordente](https://golarion.altervista.org/wiki/Barriera_Stordente "Barriera Stordente")
-	- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Comando_di_Liberazione "Comando di Liberazione") (I)
-	- (0) [foschia occultante](https://golarion.altervista.org/wiki/Foschia_Occultante "Foschia Occultante")
-	- (0) [protezione dal male](https://golarion.altervista.org/wiki/Protezione_dal_Male "Protezione dal Male")
-	- (0) [santuario](https://golarion.altervista.org/wiki/Santuario "Santuario")
-	- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra "Incantesimi/Scudo di Pietra")
+	- damage/control/summons:
+		- (1) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
+		- (1) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
+		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
+	- buff/defense:
+		- (1) [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
+		- (0) [santuario](https://golarion.altervista.org/wiki/Incantesimi/Santuario)
+		- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
+		- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
 - utility:
-	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica "Incantesimi/Benedizione Karmica")
+	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
+	- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
+	- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P) (10m/lv)
+	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10m/lv)
 	- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
-	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti)
-
-### lv.2: (0):
+	- (0) [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
+### lv.2 (0):
 - dominio:
 	- (0) [evoca mostri II](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_II "Evoca Mostri")
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")
-- buff:
-	- (0) [resistere all'energia](https://golarion.altervista.org/wiki/Resistere_all%27Energia "Resistere all'Energia") (10 min/lv)
-- combattimento:
-	- (0) [grazia](https://golarion.altervista.org/wiki/Grazia "Grazia") (P) (V)
-	- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Protezione_dal_Male_Collettivo "Protezione dal Male Collettivo")
-- necromanzia:
+- rituali:
 	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore) (M 25mo per dv)
-
-### lv.3: (0):
+	- (0) [vino della morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte) (1h/lv)
+	- (0) [rintocco di morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) (10m/dv)
+	- (0) [cuore del nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
+	- (0) [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
+- preparazioni:
+	- (0) [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
+	- (0) [scudo su altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (F 50mo) (1h/lv)
+- combattimento:
+	- damage/control/summons:
+		- (0) [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
+		- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
+		- (0) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
+		- (0) [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
+		- (0) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
+		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
+	- buff/defense:
+		- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
+		- (0) [ira non morta](https://golarion.altervista.org/wiki/Incantesimi/Ira_Non_Morta)
+		- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
+		- (0) [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
+		- (0) [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P) (I)
+- cure:
+	- (0) [ristorare inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore)
+- utility:
+	- (0) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
+	- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
+	- (0) [armeggio alchemico](https://golarion.altervista.org/wiki/Incantesimi/Armeggio_Alchemico)
+### lv.3 (0):
 - dominio:
 	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
-	- (0) [ira](https://golarion.altevista.org/wiki/Incantesimi/Ira "Incantesimi/Ira")
-- combattimento:
-	- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
-	- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Scagliare_Maledizione "Scagliare Maledizione") (N)
-	- (0) [contagio](https://golarion.altervista.org/wiki/Incantesimi/Contagio) (N)
-- utility:
-	- (0) [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino) (M 100mo)
-- necromanzia:
+	- (0) [ira](https://golarion.altervista.org/wiki/Incantesimi/Ira)
+- rituali:
 	- (0) [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25mo per dv)
-
-### lv.4: (0):
+	- (0) [sorellanza](https://golarion.altervista.org/wiki/Incantesimi/Sorellanza)
+	- (0) [fortuna calcolata](https://golarion.altervista.org/wiki/Incantesimi/Fortuna_Calcolata)
+	- (0) [cerchio magico contro il male](https://golarion.altervista.org/wiki/Incantesimi/Cerchio_Magico_Contro_il_Male) (1g/lv)
+- preparazioni:
+	- (0) [veste magica](https://golarion.altervista.org/wiki/Incantesimi/Veste_Magica) (1h/lv)
+	- (0) [acque di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Acque_di_Lamashtu) (M 250 mo)
+- combattimento:
+	- damage/debuff/control/summons:
+		- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
+		- (0) [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
+		- (0) [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
+		- (0) [barriera stordente superiore](https://golarion.altervista.org/wiki/Incantesimi/Barriera_Stordente_Superiore) (P)
+		- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie)
+		- (0) [evoca guardiano ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Guardiano_Ancestrale)
+		- (0) [evoca mostri III](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_III)
+	- buff/defense:
+		- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
+		- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) (10min/lv)
+		- (0) [allineare arma collettivo](https://golarion.altervista.org/wiki/Incantesimi/Allineare_Arma_Collettivo)
+- cure:
+	- (0) [sentiero di gloria superiore](https://golarion.altervista.org/wiki/Incantesimi/Sentiero_di_Gloria_Superiore)
+- utility:
+	- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0) (P)
+	- (0) [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
+	- (0) [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
+	- (0) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione)
+	- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
+	- (0) [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino) (M 100mo)
+### lv.4 (0):
 - dominio:
 	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
 	- (0) [confusione](https://golarion.altervista.org/wiki/Confusione "Confusione")
-- buff:
-	- (0) [aura di devastazione](https://golarion.altervista.org/wiki/Aura_di_Devastazione "Aura di Devastazione") (10 min/lv) (N)
+- rituali:
+	- (0) [ancora dimensionale](https://golarion.altervista.org/wiki/Incantesimi/Ancora_Dimensionale)
+- preparazioni:
+	- (0) [arma magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Arma_Magica_Superiore) (1h/lv)
 - combattimento:
-	- (0) [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata)
-	- (0) [benedizione del fervore](https://golarion.altervista.org/wiki/Benedizione_del_Fervore "Benedizione del Fervore")
-	- (0) [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
-	- (0) [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno)
-
-### lv.5: (0):
+	- damage/debuff/control/summons:
+		- (0) [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata) (N)
+		- (0) [infestazione di vermi mangia carne](https://golarion.altervista.org/wiki/Incantesimi/Infestazione_di_Vermi_Mangia_Carne)
+		- (0) [aura di devastazione](https://golarion.altervista.org/wiki/Incantesimi/Aura_di_Devastazione)
+		- (0) [fumo allucinogeno](https://golarion.altervista.org/wiki/Incantesimi/Fumo_Allucinogeno) (S)
+		- (0) [alleato spirituale](https://golarion.altervista.org/wiki/Incantesimi/Alleato_Spirituale)
+		- (0) [evoca mostri IV](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IV)
+	- buff/defense:
+		- (0) [benedizione del fervore](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_del_Fervore)
+		- (0) [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento) (10min/lv)
+- utility:
+	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
+	- (0) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25mo)
+	- (0) [inviare](https://golarion.altervista.org/wiki/Incantesimi/Inviare)
+	- (0) [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi) (10min/lv)
+	- (0) [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante) (1h/lv)
+	- (0) [infondere capacità magiche](https://golarion.altervista.org/wiki/Incantesimi/Infondere_Capacit%C3%A0_Magiche) (∞)
+## lv.5 (0):
 - dominio:
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
-- buff:
-	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore)
 - combattimento:
-	- (0) [maledizione maggiore](https://golarion.altervista.org/wiki/Maledizione_Maggiore "Maledizione Maggiore") (N)
-	- (0) [muro di cecità/sordità](https://golarion.altervista.org/wiki/Muro_di_Cecit%C3%A0/Sordit%C3%A0 "Muro di Cecità/Sordità") (N)
-	- (0) [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
-	- (0) [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
-	- (0) [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
-### lv.6: (0):
-- buff:
-	- [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina)
+	- damage/debuff/control:
+		- (0) [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
+		- (0) [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore) (N)
+		- (0) [muro di cecità/sordità](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Cecit%C3%A0/Sordit%C3%A0) (N)
+		- (0) [muro di pietra](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Pietra)
+		- (0) [comando superiore](https://golarion.altervista.org/wiki/Incantesimi/Comando_Superiore)
+		- (0) [proibire azione superiore](https://golarion.altervista.org/wiki/Incantesimi/Proibire_Azione_Superiore)
+		- (0) [evoca demoni inferiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Demoni_Inferiore)
+	- buff/defense:
+		- (0) [giusto potere](https://golarion.altervista.org/wiki/Incantesimi/Giusto_Potere) (P)
+- cure:
+	- (0) [spezzare incantamento](https://golarion.altervista.org/wiki/Incantesimi/Spezzare_Incantamento)
+	- (0) [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
+	- (0) [rianimare morti](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Morti)
+- utility:
+	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo) (10min/lv)
+	- (0) [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
+	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (M 1000 mo)
+	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore) (∞)
+## lv.6 (0):
+- dominio:
+	- (0) [legame planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare)
+	- (0) [allucinazione mortale](https://golarion.altervista.org/wiki/Incantesimi/Allucinazione_Mortale)
+- rituali:
+	- (0) [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
+- preparazioni:
+	- (0) [banchetto degli eroi](https://golarion.altervista.org/wiki/Incantesimi/Banchetto_degli_Eroi) (12h)
+	- (0) [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina) (1h/lv)
+	- (0) [anatema del veggente](https://golarion.altervista.org/wiki/Incantesimi/Anatema_del_Veggente) (1h/lv)
+	- (0) [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
+	- (0) [memoria ombra di sarzari](https://golarion.altervista.org/wiki/Incantesimi/Memoria_Ombra_di_Sarzari) (30d) (M 1500mo)
 - combattimento:
-	- (0) [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
-	- (0) [tempesta infettiva](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_Infettiva) (N)
-	- (0) [muro di carne](https://golarion.altervista.org/wiki/Muro_di_Carne) (N)
-	- (0) [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
-### lv.7: (0):
-- buff:
-	- [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
+	- damage/debuff/control/summons:
+		- (0) [ferire](https://golarion.altervista.org/wiki/Incantesimi/Ferire) (N)
+		- (0) [colpo di ghiaccio freddo](https://golarion.altervista.org/wiki/Incantesimi/Colpo_di_Ghiaccio_Freddo) (I)
+		- (0) [segno dell'ira](https://golarion.altervista.org/wiki/Incantesimi/Segno_dell%27Ira) (F 1000 mo)
+		- (0) [barriera di lame](https://golarion.altervista.org/wiki/Incantesimi/Barriera_di_Lame)
+		- (0) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore)
+		- (0) [evoca mostri VI](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VI)
+		- (0) [animare oggetti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Oggetti)
+		- (0) [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
+	- buff/debuff/defense:
+		- (0) [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N) (10m/lv)
+- cure:
+	- (0) [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
+- utility:
+	- (0) [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
+	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10m/lv)
+## lv.7 (0):
+- dominio:
+	- (0) [demenza](https://golarion.altervista.org/wiki/Incantesimi/Demenza)
 - combattimento:
-	- [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
-	- [distruzione](https://golarion.altervista.org/wiki/Incantesimi/Distruzione) (N)
-	- [concedere grazia del campione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Grazia_del_Campione)
-### lv.8: (0):
+	- damage/debuff/control/summons:
+		- (0) [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
+		- (0) [distruzione](https://golarion.altervista.org/wiki/Incantesimi/Distruzione) (N)
+		- (0) [blasfemia](https://golarion.altervista.org/wiki/Incantesimi/Blasfemia)
+		- (0) [evoca mostri VII](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VII)
+		- (0) [onde di estasi](https://golarion.altervista.org/wiki/Incantesimi/Onde_di_Estasi)
+- utility:
+	- (0) [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
+	- (0) [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
+	- (0) [visione di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu)
+## lv.8 (0):
+- dominio:
+	- (0) [legame planare superiore](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare_Superiore)
+	- (0) [trama scintillante](https://golarion.altervista.org/wiki/Incantesimi/Trama_Scintillante)
+- preparazioni:
+	- (0) [legione delle tombe](https://golarion.altervista.org/wiki/Incantesimi/Legione_delle_Tombe) (7g)
 - combattimento:
-	- [aura sacra](https://golarion.altervista.org/wiki/Incantesimi/Aura_Sacra)
-	- [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
-	- [globo del vuoto](https://golarion.altervista.org/wiki/Incantesimi/Globo_del_Vuoto) (N)
-	- [stretta della morte](https://golarion.altervista.org/wiki/Stretta_della_Morte) (N)
-### lv.9: (0):
-- buff:
-	- [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
+	- damage/debuff/control/summons:
+		- (0) [stretta della morte](https://golarion.altervista.org/wiki/Stretta_della_Morte) (N)
+		- (0) [dardi tempestosi](https://golarion.altervista.org/wiki/Incantesimi/Dardi_Tempestosi)
+		- (0) [terremoto](https://golarion.altervista.org/wiki/Incantesimi/Terremoto)
+	- buff/debuff/defense:
+		- (0) [mantello del caos](https://golarion.altervista.org/wiki/Incantesimi/Mantello_del_Caos) (F 500mo)
+		- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante)
+- utility:
+	- (0) [rivela locazioni](https://golarion.altervista.org/wiki/Incantesimi/Rivela_Locazioni)
+
+## lv.9 (0):
+- dominio:
+	- (0) [teletrasporto interplanetario](https://golarion.altervista.org/wiki/Incantesimi/Teletrasporto_Interplanetario)
+	- (0) [fatale](https://golarion.altervista.org/wiki/Incantesimi/Fatale)
 - combattimento:
-	- [evoca demoni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Demoni_Superiore)
-	- [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
-	- [risucchio di energia](https://golarion.altervista.org/wiki/Incantesimi/Risucchio_di_Energia) (N)
+	- damage/debuff/control/summons:
+		- (0) [risucchio di energia](https://golarion.altervista.org/wiki/Incantesimi/Risucchio_di_Energia) (N)
+		- (0) [implosione](https://golarion.altervista.org/wiki/Incantesimi/Implosione)
+		- (0) [mezzanotte polare](https://golarion.altervista.org/wiki/Incantesimi/Mezzanotte_Polare)
+		- (0) [evoca mostri IX](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_IX)
+- cure:
+	- (0) [guarigione di massa](https://golarion.altervista.org/wiki/Guarigione_di_Massa)
+- utility:
+	- (0) [miracolo](https://golarion.altervista.org/wiki/Incantesimi/Miracolo)
+	- (0) [portale](https://golarion.altervista.org/wiki/Incantesimi/Portale)
+	- (0) [creare semipiano superiore](https://golarion.altervista.org/wiki/Incantesimi/Creare_Semipiano_Superiore)
+	- (0) [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
+	- (0) [relitto risanato](https://golarion.altervista.org/wiki/Incantesimi/Relitto_Risanato)
+
