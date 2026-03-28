@@ -22,8 +22,9 @@
 - utility:
 	- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
 	- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
-	- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P) (10m/lv)
-	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10m/lv)
+	- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P) (10min/lv)
+	- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10min/lv)
+	- (0) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (10min/lv)
 	- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
 	- (0) [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
 ### lv.2 (0):
@@ -34,7 +35,7 @@
 	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore) (M 25mo per dv)
 	- (0) [dissacrare](https://golarion.altervista.org/wiki/Incantesimi/Dissacrare) (2h/lv) (M 25mo)
 	- (0) [vino della morte](https://golarion.altervista.org/wiki/Incantesimi/Vino_della_Morte) (1h/lv)
-	- (0) [rintocco di morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) (10m/dv)
+	- (0) [rintocco di morte](https://golarion.altervista.org/wiki/Incantesimi/Rintocco_di_Morte) (10min/dv)
 	- (0) [cuore del nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
 	- (0) [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
 - preparazioni:
@@ -169,12 +170,12 @@
 		- (0) [animare oggetti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Oggetti)
 		- (0) [evoca geni superiore](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Geni_Superiore)
 	- buff/debuff/defense:
-		- (0) [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N) (10m/lv)
+		- (0) [veleno soverchiante](https://golarion.altervista.org/wiki/Incantesimi/Veleno_Soverchiante) (N) (10min/lv)
 - cure:
 	- (0) [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
 - utility:
 	- (0) [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
-	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10m/lv)
+	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10min/lv)
 ## lv.7 (0):
 - dominio:
 	- (0) [demenza](https://golarion.altervista.org/wiki/Incantesimi/Demenza)
