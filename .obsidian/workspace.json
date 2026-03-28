@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/PG.md",
+                "file": "pf_ch_04/Incantesimi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PG"
+              "title": "Incantesimi"
             }
           }
         ]
@@ -188,11 +188,11 @@
   },
   "active": "c313fb5f10e715e2",
   "lastOpenFiles": [
+    "pf_ch_04/PG.md",
     "pf_ch_04/Incantesimi.md",
     "pf_ch_04/Procedure e Rituali.md",
     "pf_ch_04/Creature Legame Planare.md",
     "pf_ch_04/Creature Rianimate.md",
-    "pf_ch_04/PG.md",
     "pf_ch_04/Creature Evocate.md",
     "pf_ch_04/Equipaggiamento.md",
     "pf_ch_04/Incantesimi_2.md",

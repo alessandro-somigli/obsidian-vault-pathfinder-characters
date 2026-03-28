@@ -98,8 +98,8 @@ domini:
 | 5   |     | [competenza nelle armature pesanti](https://golarion.altervista.org/wiki/Competenza_nelle_Armature_Pesanti)               |
 | 7   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (necromanzia) |
 | 9   |     | [incantesimi persistenti](https://golarion.altervista.org/wiki/Incantesimi_Persistenti)                                   |
-| 11  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                           |
-| 13  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                               |
-| 15  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
-| 17  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
+| 11  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
+| 13  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                           |
+| 15  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                               |
+| 17  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
 | 19  |     |                                                                                                                           |
