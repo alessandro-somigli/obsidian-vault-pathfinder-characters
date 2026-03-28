@@ -87,3 +87,5 @@ Dopo aver animato un non morto è possibile allestirli con certi oggetti per div
 
 
 ### Nascondere il Non Morto
+
+## Procedura per Migliorare la Diplomazia

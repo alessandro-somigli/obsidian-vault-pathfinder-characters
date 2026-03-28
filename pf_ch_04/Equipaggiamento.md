@@ -37,11 +37,12 @@ lv.5: (21) 5 (liv) + 7 (sag) + 2 (tratto) = 14 (70%)
 lv.7: (23) 7 (liv) + 7 (sag) + 2 (tratto) + 5 (oggetti) = 21 (95%)
 lv.9: (25) 9 (liv) + 8 (sag) + 2 (tratto) + 5 (oggetti) = 24 (100%)
 
-https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion
-Idolo Varisiano, Profumo Comune
-
 #### oggetti d'interesse:
 https://golarion.altervista.org/wiki/Navimagnete_della_Forza_Nascosta
 https://golarion.altervista.org/wiki/Navimagnete
 https://golarion.altervista.org/wiki/Veste_Vivente
 https://golarion.altervista.org/wiki/Quadrifoglio
+
+https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion
+Idolo Varisiano, Profumo Comune
+
