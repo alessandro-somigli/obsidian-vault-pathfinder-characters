@@ -1,11 +1,9 @@
 ### Evoca Mostri Minori:
 - [Puzzola](https://golarion.altervista.org/wiki/Puzzola):
-	- debuff, nauseato o infermo
-
+	- nauseato, infermo
 ### Evoca Mostri II:
 - [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante):
-	- crowd control, lottare
-
+	- lottare
 ### Evoca Mostri III:
 - [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
 	- danno
