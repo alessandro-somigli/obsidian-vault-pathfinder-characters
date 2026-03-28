@@ -1,8 +1,9 @@
 ## lv.0:
 - (1) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
 - (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
+- (0) [lettura del magico](https://golarion.altervista.org/wiki/Incantesimi/Lettura_del_Magico)
 - (1) [diplomazia potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata)
-- (0) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
+- (1) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
 - (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
 ### lv.1 (3+1):

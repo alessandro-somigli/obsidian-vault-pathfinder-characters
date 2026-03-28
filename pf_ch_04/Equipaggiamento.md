@@ -46,4 +46,4 @@ https://golarion.altervista.org/wiki/Quadrifoglio
 https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion
 Idolo Varisiano, Profumo Comune
 
-Diplomazia: 3 + lv. + 
+sm: 3 + 3 + 5 + 
