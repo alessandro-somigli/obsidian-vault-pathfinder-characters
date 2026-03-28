@@ -47,3 +47,4 @@ https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion
 Idolo Varisiano, Profumo Comune
 
 sm: 3 + 3 + 5 + 
+
