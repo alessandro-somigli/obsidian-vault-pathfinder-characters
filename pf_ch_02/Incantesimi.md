@@ -182,10 +182,10 @@
 - preparazione:
 	- (0) [trasforma bastone](https://golarion.altervista.org/wiki/Incantesimi/Trasforma_Bastone) (1h/lv) 
 - combattimento:
-	- (0) [bombardamento elementale](https://golarion.altervista.org/wiki/Incantesimi/Bombardamento_Elementale) (no SR) (no TS)
-	- (0) [trasmutare metallo in legno](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Metallo_in_Legno) (no TS) 
-	- (0) [tempesta di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Fuoco) 
-	- (0) [venti erosivi](https://golarion.altervista.org/wiki/Incantesimi/Venti_Erosivi) (no TS) 
+	- (1) [bombardamento elementale](https://golarion.altervista.org/wiki/Incantesimi/Bombardamento_Elementale) (no SR)(no TS)
+	- (0) [trasmutare metallo in legno](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Metallo_in_Legno) (no TS)
+	- (1) [tempesta di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Fuoco) 
+	- (0) [venti erosivi](https://golarion.altervista.org/wiki/Incantesimi/Venti_Erosivi) (no TS)
 	- (0) [bagliore solare](https://golarion.altervista.org/wiki/Incantesimi/Bagliore_Solare) 
 	- (0) [piaga strisciante](https://golarion.altervista.org/wiki/Incantesimi/Piaga_Strisciante) (no SR) (no TS) 
 - cure:
