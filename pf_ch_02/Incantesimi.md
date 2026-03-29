@@ -119,7 +119,7 @@
 	- (1) [scolpire pietra](https://golarion.altervista.org/wiki/Incantesimi/Scolpire_Pietra) 
 	- (0) [migliora trappola](https://golarion.altervista.org/wiki/Incantesimi/Migliora_Trappola) 
 	- (0) [creare mappa del tesoro](https://golarion.altervista.org/wiki/Incantesimi/Creare_Mappa_del_Tesoro) (M 100mo) 
-## lv.4: (3+2)
+## lv.4: (4+2)
 - prep:
 	- (0) [bolla di vita](https://golarion.altervista.org/wiki/Incantesimi/Bolla_di_Vita) (2h/lv) 
 - buffs:
@@ -178,7 +178,7 @@
 	- (0) [nido d'aquila](https://golarion.altervista.org/wiki/Incantesimi/Nido_d%27Aquila) (1h/lv) 
 	- (0) [legno di ferro](https://golarion.altervista.org/wiki/Incantesimi/Legno_di_Ferro) (1d/lv) 
 	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) 
-## lv.7: (0)
+## lv.7: (1+1)
 - preparazione:
 	- (0) [trasforma bastone](https://golarion.altervista.org/wiki/Incantesimi/Trasforma_Bastone) (1h/lv) 
 - combattimento:
