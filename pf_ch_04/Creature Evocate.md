@@ -21,6 +21,9 @@
 	- (volare 12m, contatto, balzare, incorporeo)
 - [Lillend](https://golarion.altervista.org/wiki/Lillend):
 	- (esecuzione bardica)
+- [Succube](https://golarion.altervista.org/wiki/Succube):
+	- (volare, )
+- [Tigre Crudele](https://golarion.altervista.org/wiki/Tigre_Crudele):
 
 ### Evoca Mostri VII:
 - [Coccodrillo Crudele](https://golarion.altervista.org/wiki/Coccodrillo_Crudele):
