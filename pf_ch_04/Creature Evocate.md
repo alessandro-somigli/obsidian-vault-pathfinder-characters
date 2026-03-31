@@ -18,6 +18,9 @@
 
 ### Evoca Mostri VI:
 - [Demone d'Ombra](https://golarion.altervista.org/wiki/Demone_d%27Ombra):
+	- (volare 12m, contatto, balzare, incorporeo)
+- [Lillend](https://golarion.altervista.org/wiki/Lillend):
+	- (esecuzione bardica)
 
 ### Evoca Mostri VII:
 - [Coccodrillo Crudele](https://golarion.altervista.org/wiki/Coccodrillo_Crudele):
