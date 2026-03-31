@@ -18,3 +18,11 @@
 
 ### Evoca Mostri VI:
 - [Demone d'Ombra](https://golarion.altervista.org/wiki/Demone_d%27Ombra):
+
+### Evoca Mostri VII:
+- [Coccodrillo Crudele](https://golarion.altervista.org/wiki/Coccodrillo_Crudele):
+	- (lottare, sbilanciare, portata 4.5m)
+- [Brachiosauro](https://golarion.altervista.org/wiki/Brachiosauro):
+	- (travolgere, portata 6m)
+- [Belibith](https://golarion.altervista.org/wiki/Bebilith):
+	- (decomposizione, distruggere armature, portata 4.5m)
