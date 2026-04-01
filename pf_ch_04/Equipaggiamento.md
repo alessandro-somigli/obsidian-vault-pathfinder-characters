@@ -12,9 +12,9 @@
 - armatura:
 - cintura: [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +2/+4/+6 (4/16/36 kmo)
 - polsi:
-- mani: [guanti elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
+- mani: [Guanti Elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
 - anello 1: [Anello della Protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) (+1/+2/+3/+4/+5) (2/8/18/32/50 kmo)
-- anello 2:
+- anello 2: [Anello del Sostentamento](https://golarion.altervista.org/wiki/Anello_del_Sostentamento) (2.5 kmo)
 - piedi:
 - altro:
 	- [Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
