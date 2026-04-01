@@ -89,6 +89,12 @@ domini:
 - [sesto senso](): MAX
 - [indagare](): MAX
 
+- diplomazia: 10
+- conoscenze (religioni): 6
+- conoscenze (piani): 6
+- sesto senso: 5
+- indagare: 10
+
 ## Talenti
 
 | lvl | chk | talento                                                                                                                   |

@@ -9,7 +9,6 @@
 - collo: [Amuleto dell'Armatura Naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) (+1/+2/+3/+4/+5) (2/8/18/32/50 kmo)
 - torace: [Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante) (5 kmo)
 - corpo: [Veste Vivente](https://golarion.altervista.org/wiki/Veste_Vivente) (5 kmo)
-- armatura:
 - cintura: [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +2/+4/+6 (4/16/36 kmo)
 - polsi:
 - mani: [Guanti Elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
