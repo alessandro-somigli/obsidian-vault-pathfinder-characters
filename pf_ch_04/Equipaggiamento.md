@@ -2,13 +2,13 @@
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
 
 #### Equipaggiamento:
-- testa:
+- testa: [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
 - fronte: [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +2/+4/+6 (4/16/36 kmo)
-- occhi:
+- occhi: [Lenti dell'Aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila) (2.5 kmo)
 - spalle: [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) (+1/+2/+3/+4/+5) (1/4/9/16/25 kmo)
 - collo: [Amuleto dell'Armatura Naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) (+1/+2/+3/+4/+5) (2/8/18/32/50 kmo)
-- torace:
-- corpo:
+- torace: [Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante) (5 kmo)
+- corpo: [Veste Vivente](https://golarion.altervista.org/wiki/Veste_Vivente) (5 kmo)
 - armatura:
 - cintura: [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +2/+4/+6 (4/16/36 kmo)
 - polsi:
@@ -40,11 +40,10 @@ lv.9: (25) 9 (liv) + 8 (sag) + 2 (tratto) + 5 (oggetti) = 24 (100%)
 #### oggetti d'interesse:
 https://golarion.altervista.org/wiki/Navimagnete_della_Forza_Nascosta
 https://golarion.altervista.org/wiki/Navimagnete
-https://golarion.altervista.org/wiki/Veste_Vivente
 https://golarion.altervista.org/wiki/Quadrifoglio
 
 https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion
 Idolo Varisiano, Profumo Comune
 
-sm: 3 + 3 + 5 + 
+https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce
 
