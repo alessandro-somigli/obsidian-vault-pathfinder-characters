@@ -92,8 +92,9 @@ domini:
 - diplomazia: 10
 - conoscenze (religioni): 6
 - conoscenze (piani): 6
-- sesto senso: 5
+- sesto senso: 2/3 
 - indagare: 10
+- empatia: 10
 
 ## Talenti
 
