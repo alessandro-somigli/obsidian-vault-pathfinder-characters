@@ -47,3 +47,6 @@ Idolo Varisiano, Profumo Comune
 
 https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce
 
+https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe
+https://golarion.altervista.org/wiki/Braccialetti_del_Tocco_Fatato
+
