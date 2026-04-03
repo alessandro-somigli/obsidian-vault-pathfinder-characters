@@ -28,6 +28,8 @@
 - scudo: [Scudo Torre](https://golarion.altervista.org/wiki/Armature) (+0/+1/+2/+3/+4/+5) (0/1/4/9/16/25 kmo)
 - armatura: [Armatura Completa](https://golarion.altervista.org/wiki/Armature) (+0/+1/+2/+3/+4/+5) (1.5/2.5/5.5/10.5/17.5/26.5 kmo)
 
+(vedi adamantio per armatura +15kmo)
+
 
 
 #### Progressione della Concentrazione:
