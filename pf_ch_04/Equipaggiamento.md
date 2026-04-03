@@ -59,3 +59,7 @@ stivali:
 https://golarion.altervista.org/wiki/Stivali_Molleggiati
 https://golarion.altervista.org/wiki/Stivali_dell%27Escursione
 
+https://golarion.altervista.org/wiki/Oggetti_d%27Avventura
+kit di profumi
+Cronaca dei Cercatori
+libro blu
