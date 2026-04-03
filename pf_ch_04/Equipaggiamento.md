@@ -1,4 +1,5 @@
 #### Consumabili:
+- [Profumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
 
 #### Equipaggiamento:
