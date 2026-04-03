@@ -43,7 +43,10 @@ https://golarion.altervista.org/wiki/Navimagnete
 https://golarion.altervista.org/wiki/Quadrifoglio
 
 https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion
-Idolo Varisiano, Profumo Comune
+https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo
+https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Anello_da_Scasso
+https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile
+Idolo Varisiano, segnale di fumo
 
 https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce
 
