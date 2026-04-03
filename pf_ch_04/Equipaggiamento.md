@@ -1,5 +1,5 @@
 #### Consumabili:
-- [Profumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
+- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
 
 #### Equipaggiamento:
@@ -63,3 +63,4 @@ https://golarion.altervista.org/wiki/Oggetti_d%27Avventura
 kit di profumi
 Cronaca dei Cercatori
 libro blu
+Libro dei Rompicapi
