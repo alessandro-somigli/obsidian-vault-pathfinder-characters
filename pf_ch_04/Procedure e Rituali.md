@@ -80,7 +80,7 @@ procedimento:
 4) adesso è possibile lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
 5) lanciare l'incantesimo [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) per recuperare i punti di caratteristica persi
 
-## Miglioramento dei Non Morti
+## Migliorare i Non Morti
 
 Dopo aver animato un non morto è possibile seguire certe procedure per renderli più tollerabili da parte delle persone oppure più efficaci in combattimento.
 ### Adattamento dei Non Morti alla Vita in Città
@@ -104,14 +104,17 @@ materiali necessari:
 - [Abito da Viaggiatore](https://golarion.altervista.org/wiki/Vestiario) (1 mo)
 
 procedimento:
-1) 
-
+1) vestire il non morto con degli stivali ed un mantello con cappuccio
+2) coprire la faccia del non morto con una maschera
 ### Potenziare Armi e Armature
 materiali necessari:
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25 mo)
+incantesimi necessari:
+- [Trasformazione Perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (lv.2)
+- [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) (lv.2)
 
+procedimento:
+1) 
 
-
-
-## Procedura per Migliorare la Diplomazia
+## Migliorare la Diplomazia
 
