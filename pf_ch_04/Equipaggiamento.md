@@ -1,8 +1,11 @@
 #### Consumabili:
 - [Kit di Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (40 mo)
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
+- [Cronaca dei Cercatori]([Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura)) (50 mo)
+- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
+- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (5 mo)
+- [Segnale di Fumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo) (5 mo)
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
-
 #### Equipaggiamento Magico:
 - testa: [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
 - fronte: [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +2/+4/+6 (4/16/36 kmo)
@@ -18,8 +21,10 @@
 - anello 2: [Anello del Sostentamento](https://golarion.altervista.org/wiki/Anello_del_Sostentamento) (2.5 kmo)
 - piedi: [Stivali Molleggiati](https://golarion.altervista.org/wiki/Stivali_Molleggiati) (5.5 kmo)
 - altro:
-	- [Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
 	- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (3.75 kmo)
+	- [Navigamagnete della Forza Nascosta](https://golarion.altervista.org/wiki/Navimagnete_della_Forza_Nascosta) (5 kmo)
+	- [Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
+	- [Pietra Magica Prisma Magenta Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (800 mo)
 	- [Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (500 mo)
 	- [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
 	- [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
@@ -28,7 +33,6 @@
 - arma: [Uncino del Mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.3 kmo)
 - scudo: [Scudo Torre](https://golarion.altervista.org/wiki/Armature) (+0/+1/+2/+3/+4/+5) (0/1/4/9/16/25 kmo)
 - armatura: [Armatura Completa](https://golarion.altervista.org/wiki/Armature) (+0/+1/+2/+3/+4/+5) (1.5/2.5/5.5/10.5/17.5/26.5 kmo) + [Adamantio](https://golarion.altervista.org/wiki/Materiali_Speciali#Adamantio) (15 kmo)
-
 #### Equipaggiamento non Magico
 - [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile) (400 mo)
 - [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (85 mo)
@@ -41,20 +45,9 @@ lv.7: (23) 7 (liv) + 7 (sag) + 2 (tratto) + 5 (oggetti) = 21 (95%)
 lv.9: (25) 9 (liv) + 8 (sag) + 2 (tratto) + 5 (oggetti) = 24 (100%)
 
 #### oggetti d'interesse:
-https://golarion.altervista.org/wiki/Navimagnete_della_Forza_Nascosta
-https://golarion.altervista.org/wiki/Navimagnete
-
-https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion
-https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo
-Idolo Varisiano, segnale di fumo
-
-
-https://golarion.altervista.org/wiki/Oggetti_d%27Avventura
-Cronaca dei Cercatori
-libro blu
-Libro dei Rompicapi
 
 altri oggetti interessanti:
+https://golarion.altervista.org/wiki/Navimagnete
 https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce
 https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe
 https://golarion.altervista.org/wiki/Braccialetti_del_Tocco_Fatato
