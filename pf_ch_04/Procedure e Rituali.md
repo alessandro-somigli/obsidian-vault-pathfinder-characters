@@ -80,12 +80,29 @@ procedimento:
 4) adesso è possibile lanciare l'incantesimo [Animare Morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
 5) lanciare l'incantesimo [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) per recuperare i punti di caratteristica persi
 
-## Miglioramento Equipaggiamento Non Morti
+## Miglioramento dei Non Morti
 
-Dopo aver animato un non morto è possibile allestirli con certi oggetti per diverse motivazioni.
+Dopo aver animato un non morto è possibile seguire certe procedure per renderli più tollerabili da parte delle persone oppure più efficaci in combattimento.
+### Adattamento dei Non Morti alla Vita in Città
+Un non morto appena creato puzza orribilmente ed è sgradevole alla vista di molte persone, ma è possibile rimediare parzialmente a questi problemi.
+#### Lavare:
+materiali necessari:
+- [Sapone](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (1 mr)
+incantesimi necessari:
+- [Creare Acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua") (lv.0)
+
+procedimento:
+- riempire una vasca di taglia d
+#### Vestire:
+
+
 ### Potenziare Armi e Armature
-
+materiali necessari:
+- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25 mo)
 
 ### Nascondere il Non Morto
 
+
+
 ## Procedura per Migliorare la Diplomazia
+
