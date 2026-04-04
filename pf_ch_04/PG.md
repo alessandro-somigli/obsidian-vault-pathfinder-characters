@@ -71,8 +71,8 @@ domini:
 | --- | --- | ------------------------ |
 | 1   | X   | visione di follia (mag)  |
 | 1   | X   | giunto dall'ignoto (sop) |
-| 8   | X   | aura di follia (sop)     |
-| 8   | X   | sollevare il velo (sop)  |
+| 8   |     | aura di follia (sop)     |
+| 8   |     | sollevare il velo (sop)  |
 
 ## Abilità
 

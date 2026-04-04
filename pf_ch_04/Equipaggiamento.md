@@ -15,7 +15,7 @@
 - mani: [Guanti Elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
 - anello 1: [Anello della Protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) (+1/+2/+3/+4/+5) (2/8/18/32/50 kmo)
 - anello 2: [Anello del Sostentamento](https://golarion.altervista.org/wiki/Anello_del_Sostentamento) (2.5 kmo)
-- piedi:
+- piedi: [Stivali Molleggiati](https://golarion.altervista.org/wiki/Stivali_Molleggiati) (5.5 kmo)
 - altro:
 	- [Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
 	- [Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (500 mo)
