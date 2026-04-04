@@ -1,8 +1,9 @@
 #### Consumabili:
+- [Kit di Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (40 mo)
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
 
-#### Equipaggiamento:
+#### Equipaggiamento Magico:
 - testa: [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
 - fronte: [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +2/+4/+6 (4/16/36 kmo)
 - occhi: [Lenti dell'Aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila) (2.5 kmo)
@@ -18,19 +19,19 @@
 - piedi: [Stivali Molleggiati](https://golarion.altervista.org/wiki/Stivali_Molleggiati) (5.5 kmo)
 - altro:
 	- [Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
+	- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (3.75 kmo)
 	- [Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (500 mo)
 	- [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
 	- [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
 	- [Ferro di Cavallo Fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
 	- [Perla del Potere](https://golarion.altervista.org/wiki/Perla_del_Potere) (lv.1/2/3/4/5) (1/4/9/16/25 kmo)
-
 - arma: [Uncino del Mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.3 kmo)
 - scudo: [Scudo Torre](https://golarion.altervista.org/wiki/Armature) (+0/+1/+2/+3/+4/+5) (0/1/4/9/16/25 kmo)
-- armatura: [Armatura Completa](https://golarion.altervista.org/wiki/Armature) (+0/+1/+2/+3/+4/+5) (1.5/2.5/5.5/10.5/17.5/26.5 kmo)
+- armatura: [Armatura Completa](https://golarion.altervista.org/wiki/Armature) (+0/+1/+2/+3/+4/+5) (1.5/2.5/5.5/10.5/17.5/26.5 kmo) + [Adamantio](https://golarion.altervista.org/wiki/Materiali_Speciali#Adamantio) (15 kmo)
 
-(vedi adamantio per armatura +15kmo)
-
-
+#### Equipaggiamento non Magico
+- [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile) (400 mo)
+- [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (85 mo)
 
 #### Progressione della Concentrazione:
 lv.1: (17) 1 (liv) + 5 (sag) + 2 (tratto) = 8  (60%)
@@ -42,25 +43,20 @@ lv.9: (25) 9 (liv) + 8 (sag) + 2 (tratto) + 5 (oggetti) = 24 (100%)
 #### oggetti d'interesse:
 https://golarion.altervista.org/wiki/Navimagnete_della_Forza_Nascosta
 https://golarion.altervista.org/wiki/Navimagnete
-https://golarion.altervista.org/wiki/Quadrifoglio
 
 https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion
 https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo
-https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Anello_da_Scasso
-https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile
 Idolo Varisiano, segnale di fumo
 
-https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce
-
-https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe
-https://golarion.altervista.org/wiki/Braccialetti_del_Tocco_Fatato
-
-stivali:
-https://golarion.altervista.org/wiki/Stivali_Molleggiati
-https://golarion.altervista.org/wiki/Stivali_dell%27Escursione
 
 https://golarion.altervista.org/wiki/Oggetti_d%27Avventura
-kit di profumi
 Cronaca dei Cercatori
 libro blu
 Libro dei Rompicapi
+
+altri oggetti interessanti:
+https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce
+https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe
+https://golarion.altervista.org/wiki/Braccialetti_del_Tocco_Fatato
+https://golarion.altervista.org/wiki/Stivali_dell%27Escursione
+
