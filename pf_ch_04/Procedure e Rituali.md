@@ -110,7 +110,6 @@ procedimento:
 materiali necessari:
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25 mo)
 
-### Nascondere il Non Morto
 
 
 
