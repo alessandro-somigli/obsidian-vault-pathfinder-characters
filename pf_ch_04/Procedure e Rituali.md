@@ -88,13 +88,23 @@ Un non morto appena creato puzza orribilmente ed è sgradevole alla vista di mol
 #### Lavare:
 materiali necessari:
 - [Sapone](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (1 mr)
+- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1 mo)
+- [Vasca Pieghevole](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (15 mo)
 incantesimi necessari:
 - [Creare Acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua") (lv.0)
 
 procedimento:
-- riempire una vasca di taglia d
+1) riempire d'acqua una [Vasca Pieghevole](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) oppure trovare un corpo d'acqua pulita abbastanza grande da ospitare il non morto
+2) piazzare il non morto all'interno del corpo d'acqua
+3) lavare a fondo il non morto con sapone e acqua rimuovendo tutti i pezzi residui di cadavere
+4) applicare profumo per rimuovere definitivamente tutte le tracce di odori rimanenti
 #### Vestire:
+materiali necessari:
+- [Maschera](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Maschera_del_Dottore](https://golarion.altervista.org/wiki/Vestiario) (1 ma)
+- [Abito da Viaggiatore](https://golarion.altervista.org/wiki/Vestiario) (1 mo)
 
+procedimento:
+1) 
 
 ### Potenziare Armi e Armature
 materiali necessari:
