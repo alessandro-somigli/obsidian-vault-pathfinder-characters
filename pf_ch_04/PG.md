@@ -134,7 +134,18 @@ domini:
 | sesto senso (sag)      | 8   | 0      | 5   | 0      | 13  | 5   | 18  |
 | investigare (int)      | 3   | 0      | 1   | 4      | 8   | 10  | 18  |
 | empatia (car)          | -2  | 3      | 2+3 | 0      | 6   | 10  | 16  |
-| diplomazia (car)       | -2  | 3      | 5+3 | 0      | 9   | 10  | 19  |
+| diplomazia (car)       | -2  | 3      | 5+3 | 0      | 9   | 10  | 18  |
 | con. (arcane) (int)    | 3   | 3      | 5   | 0      | 11  | 1   | 12  |
 | con. (piani) (int)     | 3   | 3      | 1   | 0      | 7   | 7   | 15  |
 | con. (religione) (int) | 3   | 3      | 1   | 0      | 7   | 7   | 15  |
+### Lv.1 (140 mo):
+### Lv.2 (1 kmo):
+### Lv.3 (3 kmo):
+### Lv.3 ():
+
+### Lv.3 ():
+
+### Lv.3 ():
+### Lv.3 ():
+### Lv.3 ():
+### Lv.3 ():
