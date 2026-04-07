@@ -27,7 +27,7 @@
 	- [Pietra Magica Prisma Magenta Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (800 mo)
 	- [Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (500 mo)
 	- [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
-	- [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
+	- [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) x2 (200 mo)
 	- [Ferro di Cavallo Fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
 	- [Perla del Potere](https://golarion.altervista.org/wiki/Perla_del_Potere) (lv.1/2/3/4/5) (1/4/9/16/25 kmo)
 - arma: [Uncino del Mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.3 kmo)

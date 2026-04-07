@@ -129,11 +129,12 @@ domini:
 | con. (piani)     | (int) | 3     |       |       |       |       |       |       |       |       |       |
 | con. (religione) | (int) | 3     |       |       |       |       |       |       |       |       |       |
 
-| abilità                | mod | classe | ogg | tratti | tot | grd |     |
+| abilità (lv.10)        | mod | classe | ogg | tratti | tot | grd |     |
 | ---------------------- | --- | ------ | --- | ------ | --- | --- | --- |
-| sesto senso (sag)      | 8   | 0      | 5   | 0      | 13  | 6   | 19  |
-| investigare (int)      | 3   | 0      | 0   | 4      | 7   | 10  | 17  |
-| empatia (car)          | -2  | 3      | 3   | 0      | 4   | 10  | 14  |
-| diplomazia (car)       | -2  | 3      | 8   | 0      | 9   | 8   | 17  |
-| con. (piani) (int)     | 3   | 3      | 0   | 0      | 6   | 8   | 14  |
-| con. (religione) (int) | 3   | 3      | 1   | 0      | 6   | 8   | 14  |
+| sesto senso (sag)      | 8   | 0      | 5   | 0      | 13  | 5   | 18  |
+| investigare (int)      | 3   | 0      | 1   | 4      | 8   | 10  | 18  |
+| empatia (car)          | -2  | 3      | 2+3 | 0      | 6   | 10  | 16  |
+| diplomazia (car)       | -2  | 3      | 5+3 | 0      | 9   | 10  | 19  |
+| con. (arcane) (int)    | 3   | 3      | 5   | 0      | 11  | 1   | 12  |
+| con. (piani) (int)     | 3   | 3      | 1   | 0      | 7   | 7   | 15  |
+| con. (religione) (int) | 3   | 3      | 1   | 0      | 7   | 7   | 15  |
