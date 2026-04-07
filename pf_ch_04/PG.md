@@ -110,3 +110,23 @@ domini:
 | 15  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                               |
 | 17  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
 | 19  |     |                                                                                                                           |
+
+| abilità          | mod   | lv.1 | lv.2 | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 |
+| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- |
+| sesto senso      | (sag) | 5    | 5    | 5    | 6+2  | 7    | 7    | 7    | 7    | 8    | 8     |
+| investigare      | (int) | 3    |      |      | 3    |      |      |      |      |      |       |
+| empatia          | (car) | -2   |      |      | -2+4 |      |      |      |      |      |       |
+| diplomazia       | (car) | -2   |      |      | -2+4 |      |      |      |      |      |       |
+| con. (arcane)    | (int) | 3    |      |      | 3+2  |      |      |      |      |      |       |
+| con. (piani)     | (int) | 3    |      |      | 3+2  |      |      |      |      |      |       |
+| con. (religione) | (int) | 3    |      |      | 3+2  |      |      |      |      |      |       |
+
+| abilità          | mod   | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 | lv.17 | lv.18 | lv.19 | lv.20 |
+| ---------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| sesto senso      | (sag) | 9     | 10    | 10    | 10    | 10    | 10    | 10    | 10    | 10    | 10    |
+| investigare      | (int) | 3     |       |       |       |       |       |       |       |       |       |
+| empatia          | (car) | -2    |       |       |       |       |       |       |       |       |       |
+| diplomazia       | (car) | -2    |       |       |       |       |       |       |       |       |       |
+| con. (arcane)    | (int) | 3     |       |       |       |       |       |       |       |       |       |
+| con. (piani)     | (int) | 3     |       |       |       |       |       |       |       |       |       |
+| con. (religione) | (int) | 3     |       |       |       |       |       |       |       |       |       |
