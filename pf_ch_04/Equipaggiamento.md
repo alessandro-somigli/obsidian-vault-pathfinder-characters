@@ -5,7 +5,7 @@
 - [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
 - [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (5 mo)
 - [Segnale di Fumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo) (5 mo)
-- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
+- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25 mo)
 #### Equipaggiamento Magico:
 - testa: [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
 - fronte: [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +2/+4/+6 (4/16/36 kmo)
