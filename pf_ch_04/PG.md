@@ -126,20 +126,20 @@ domini:
 | sesto senso      | (sag) | 6     |       | 7     |       | 8     | 9     |       |       |       |       |
 | investigare      | (int) | 11    | 12    | 13    | 14    | 15    | 16    |       |       |       |       |
 | empatia          | (car) | 11    | 12    | 13    | 14    | 15    | 16    |       |       |       |       |
-| diplomazia       | (car) |       |       |       |       |       | 16    |       |       |       |       |
+| diplomazia       | (car) | 11    | 12    | 13    | 14    | 15    | 16    |       |       |       |       |
 | con. (arcane)    | (int) |       |       |       |       |       |       |       |       |       |       |
-| con. (piani)     | (int) |       |       |       |       |       | 11    |       |       |       |       |
-| con. (religione) | (int) |       |       |       |       |       | 11    |       |       |       |       |
+| con. (piani)     | (int) |       | 8     | 9     | 10    |       | 11    |       |       |       |       |
+| con. (religione) | (int) | 8     | 9     |       | 10    | 11    |       |       |       |       |       |
 
-| abilità (lv.10)        | mod | classe | ogg | tratti | tot | grd | lv.10 | lv.16 |
-| ---------------------- | --- | ------ | --- | ------ | --- | --- | ----- | ----- |
-| sesto senso (sag)      | 8   | 0      | 5   | 0      | 13  | 5   | 18    | 20+4  |
-| investigare (int)      | 3   | 0      | 1   | 4      | 8   | 10  | 18    | 18+6  |
-| empatia (car)          | -2  | 3      | 2+3 | 0      | 6   | 10  | 16    | 18+6  |
-| diplomazia (car)       | -2  | 3      | 5+3 | 0      | 9   | 10  | 19    | 19+6  |
-| con. (arcane) (int)    | 3   | 3      | 5   | 0      | 11  | 1   | 12    | 12    |
-| con. (piani) (int)     | 3   | 3      | 1   | 0      | 7   | 7   | 15    | 15+4  |
-| con. (religione) (int) | 3   | 3      | 1   | 0      | 7   | 7   | 15    | 15+4  |
+| abilità (lv.10)        | mod | classe | ogg | tratti | tot |
+| ---------------------- | --- | ------ | --- | ------ | --- |
+| sesto senso (sag)      | 8   | 0      | 5   | 0      | 13  |
+| investigare (int)      | 3   | 0      | 1   | 4      | 8   |
+| empatia (car)          | -2  | 3      | 2+3 | 0      | 6   |
+| diplomazia (car)       | -2  | 3      | 5+3 | 0      | 9   |
+| con. (arcane) (int)    | 3   | 3      | 5   | 0      | 11  |
+| con. (piani) (int)     | 3   | 3      | 1   | 0      | 7   |
+| con. (religione) (int) | 3   | 3      | 1   | 0      | 7   |
 ### Lv.1 (140 mo):
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
 tot: 
