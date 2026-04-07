@@ -192,9 +192,9 @@
 	- (0) [guarigione](https://golarion.altervista.org/wiki/Incantesimi/Guarigione) 
 	- (0) [cura ferite moderate di massa](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate_di_Massa) 
 - utilità:
-	- (0) [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv) 
-	- (0) [riparo fatato](https://golarion.altervista.org/wiki/Incantesimi/Riparo_Fatato) (2h/lv) 
-	- (0) [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore) 
+	- (0) [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
+	- (0) [riparo fatato](https://golarion.altervista.org/wiki/Incantesimi/Riparo_Fatato) (2h/lv)
+	- (0) [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
 ## lv.8: (0)
 - buff:
 	- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante) (meta) 
