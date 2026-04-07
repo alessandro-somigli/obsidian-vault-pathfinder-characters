@@ -1,7 +1,7 @@
 ## Rituale per Legame Planare
 
 - [Protezione dal Bene/Male/Legge/Caos Collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
-- [Splendore dell'Acquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
+- [Splendore dell'Aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
 - 
 
 ## Rituale per Animare Morti
@@ -117,4 +117,15 @@ procedimento:
 1) 
 
 ## Migliorare la Diplomazia
+#### Incantesimi:
+- [Adattamento Culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (lv.1) (+2 DIP)
+- [Splendore dell'Aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila) (lv.2) (+2 CAR)
+#### Oggetti Magici:
+- [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (+3 CAR)
+- [Veste Vivente](https://golarion.altervista.org/wiki/Veste_Vivente) (+5 DIP)
+- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (+2 DIP)
+#### Oggetti Non Magici:
+- [Kit di Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+1 DIP)
+- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (+2 DIP)
+- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+2 DIP)
 

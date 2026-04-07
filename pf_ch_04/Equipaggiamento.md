@@ -1,7 +1,7 @@
 #### Consumabili:
 - [Kit di Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (40 mo)
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
-- [Cronaca dei Cercatori]([Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura)) (50 mo)
+- [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
 - [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
 - [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (5 mo)
 - [Segnale di Fumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo) (5 mo)
