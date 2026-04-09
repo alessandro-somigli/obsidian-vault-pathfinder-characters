@@ -131,8 +131,12 @@ domini:
 | con. (piani)     | (int) |       | 8     | 9     | 10    |       | 11    |       |       |       |       |
 | con. (religione) | (int) | 8     | 9     |       | 10    | 11    |       |       |       |       |       |
 
-### Lv.1 (140 mo):
+### Lv.1 (240 mo):
+- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x10 (10mo)
+- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
+- [Armatura a Dischi](https://golarion.altervista.org/wiki/Armature) (125 mo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) (30 mo)
 tot:
 ### Lv.2 (1 kmo):
 ### Lv.3 (3 kmo):
@@ -148,10 +152,11 @@ tot: 9.8
 - [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +2 (4 kmo)
 - [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +1 (1 kmo)
 - [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +1 (1 kmo)
-tot: 15.8
+- [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
+tot: 16
 ### Lv.7 (23.5 kmo):
 - [Guanti Elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
-tot: 23.3
+tot: 25
 ### Lv.8 (33 kmo):
 - [Lenti dell'Aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila) (2.5 kmo)
 - [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +1 (1 kmo)
@@ -159,28 +164,30 @@ tot: 23.3
 - [Amuleto dell'Armatura Naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) +1 (2 kmo)
 - [Pietra Magica Prisma Magenta Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (800 mo)
 - [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
-- [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
-tot: 32
+- [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile) (400 mo)
+tot: 32.4
 ### Lv.9 (46 kmo):
 - [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
 - [Veste Vivente](https://golarion.altervista.org/wiki/Veste_Vivente) (5 kmo)
 - [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (3.75 kmo)
-tot: 45.25
+tot: 45.65
 ### Lv.10 (62 kmo):
-
-
+- [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +4 (12 kmo)
+- [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +2 (3 kmo)
+tot: 60.65
 ### Lv.11 (82 kmo):
+- [Stivali Molleggiati](https://golarion.altervista.org/wiki/Stivali_Molleggiati) (5.5 kmo)
+- [Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante) (5 kmo)
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +2 (3 kmo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +2 (3 kmo)
+- [Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
+tot: 82.15
 ### Lv.12 (108 kmo):
 
+
+
 oggetti di secondaria importanza:
-[Stivali Molleggiati](https://golarion.altervista.org/wiki/Stivali_Molleggiati) (5.5 kmo)
 [Navigamagnete della Forza Nascosta](https://golarion.altervista.org/wiki/Navimagnete_della_Forza_Nascosta) (5 kmo)
-[Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
 [Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (500 mo)
 [Ferro di Cavallo Fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
-[Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante) (5 kmo)
 [Anello del Sostentamento](https://golarion.altervista.org/wiki/Anello_del_Sostentamento) (2.5 kmo)
-
-[Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) x2 (200 mo)
-[Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile) (400 mo)
-[Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (85 mo)
