@@ -53,3 +53,80 @@ https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe
 https://golarion.altervista.org/wiki/Braccialetti_del_Tocco_Fatato
 https://golarion.altervista.org/wiki/Stivali_dell%27Escursione
 
+### Lv.1 (240 mo):
+- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x10 (10mo)
+- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
+- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
+- [Armatura a Dischi](https://golarion.altervista.org/wiki/Armature) (125 mo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) (30 mo)
+tot: 240
+### Lv.2 (1 kmo):
+- [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
+tot: 0.2
+### Lv.3 (3 kmo):
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) (1.5 kmo)
+tot: 1.7
+### Lv.4 (6 kmo):
+- [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +2 (4 kmo)
+tot: 5.7
+### Lv.5 (10.5 kmo):
+- [Uncino del Mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.3 kmo)
+tot: 10
+### Lv.6 (16 kmo):
+- [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +2 (4 kmo)
+- [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +1 (1 kmo)
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +1 (1 kmo)
+tot: 16
+### Lv.7 (23.5 kmo):
+- [Guanti Elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
+tot: 23.5
+### Lv.8 (33 kmo):
+- [Lenti dell'Aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila) (2.5 kmo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +1 (1 kmo)
+- [Anello della Protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) +1 (2 kmo)
+- [Amuleto dell'Armatura Naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) +1 (2 kmo)
+- [Pietra Magica Prisma Magenta Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (800 mo)
+- [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
+- [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile) (400 mo)
+tot: 32.4
+### Lv.9 (46 kmo):
+- [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
+- [Veste Vivente](https://golarion.altervista.org/wiki/Veste_Vivente) (5 kmo)
+- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (3.75 kmo)
+tot: 45.65
+### Lv.10 (62 kmo):
+- [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +4 (12 kmo)
+- [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +2 (3 kmo)
+tot: 60.65
+### Lv.11 (82 kmo):
+- [Stivali Molleggiati](https://golarion.altervista.org/wiki/Stivali_Molleggiati) (5.5 kmo)
+- [Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante) (5 kmo)
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +2 (3 kmo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +2 (3 kmo)
+- [Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
+tot: 82.15
+### Lv.12 (108 kmo):
+- [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +6 (20 kmo)
+- [Navigamagnete della Forza Nascosta](https://golarion.altervista.org/wiki/Navimagnete_della_Forza_Nascosta) (5 kmo)
+- [Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (500 mo)
+tot: 107.65
+### Lv.13 (140 kmo):
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +3 (5 kmo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +3 (5 kmo)
+- [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +3 (5 kmo)
+- [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +4 (12 kmo)
+134.65
+### Lv.14 (185 kmo):
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +4 (7 kmo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +4 (7 kmo)
+- [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +4 (7 kmo)
+- [Ferro di Cavallo Fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
+- [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +6 (20 kmo)
+- [Anello del Sostentamento](https://golarion.altervista.org/wiki/Anello_del_Sostentamento) (2.5 kmo)
+tot: 184.95
+### Lv.15 (240 kmo):
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +5 di [Adamantio](https://golarion.altervista.org/wiki/Materiali_Speciali#Adamantio) (24 kmo)
+- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +5 (9 kmo)
+- [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +5 (9 kmo)
+tot: 226.95
+### Lv.16 (315 kmo):

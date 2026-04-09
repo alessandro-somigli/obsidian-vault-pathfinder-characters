@@ -35,7 +35,8 @@
               "title": "Equipaggiamento"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +201,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d8feaef8a2050589",
+  "active": "4497775d03f61aea",
   "lastOpenFiles": [
-    "pf_ch_04/Equipaggiamento.md",
     "pf_ch_04/PG.md",
+    "pf_ch_04/Equipaggiamento.md",
     "pf_ch_04/Creature Legame Planare.md",
     "pf_ch_04/Incantesimi.md",
     "pf_ch_04/Backstory.md",
