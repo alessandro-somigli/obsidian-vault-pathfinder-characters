@@ -156,14 +156,14 @@ tot: 23.3
 - [Lenti dell'Aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila) (2.5 kmo)
 - [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +1 (1 kmo)
 - [Anello della Protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) +1 (2 kmo)
+- [Amuleto dell'Armatura Naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) +1 (2 kmo)
 - [Pietra Magica Prisma Magenta Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (800 mo)
 - [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
 - [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
-tot: 30
+tot: 32
 ### Lv.9 (46 kmo):
 - [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
 - [Veste Vivente](https://golarion.altervista.org/wiki/Veste_Vivente) (5 kmo)
-- [Amuleto dell'Armatura Naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) +1 (2 kmo)
 tot: 
 ### Lv.10 (62 kmo):
 ### Lv.11 (82 kmo):
