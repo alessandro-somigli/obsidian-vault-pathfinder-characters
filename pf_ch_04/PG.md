@@ -164,14 +164,22 @@ tot: 32
 ### Lv.9 (46 kmo):
 - [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
 - [Veste Vivente](https://golarion.altervista.org/wiki/Veste_Vivente) (5 kmo)
-tot: 
+- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (3.75 kmo)
+tot: 45.25
 ### Lv.10 (62 kmo):
+
+
 ### Lv.11 (82 kmo):
 ### Lv.12 (108 kmo):
-- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (3.75 kmo)
 
 oggetti di secondaria importanza:
 [Stivali Molleggiati](https://golarion.altervista.org/wiki/Stivali_Molleggiati) (5.5 kmo)
+[Navigamagnete della Forza Nascosta](https://golarion.altervista.org/wiki/Navimagnete_della_Forza_Nascosta) (5 kmo)
+[Pietra Magica Prisma Rosa Pallido](https://golarion.altervista.org/wiki/Pietre_Magiche) (5 kmo)
+[Pietra Magica Prisma Rosa Pallido Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (500 mo)
+[Ferro di Cavallo Fortunato](https://golarion.altervista.org/wiki/Ferro_di_Cavallo_Fortunato) (6.8 kmo)
+[Giacca Centellinante](https://golarion.altervista.org/wiki/Giacca_Centellinante) (5 kmo)
+[Anello del Sostentamento](https://golarion.altervista.org/wiki/Anello_del_Sostentamento) (2.5 kmo)
 
 [Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) x2 (200 mo)
 [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile) (400 mo)
