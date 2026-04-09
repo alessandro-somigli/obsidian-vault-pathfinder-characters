@@ -14,7 +14,7 @@ tratti:
  - mente focalizzata: `+2 prove di concentrazione`
  - missionario: `+1 CD, CL di 3 incantesimi a scelta`
  - cercante: `+1 percezione, percezione abilità di classe`
- - xenofobico: `-2 diplomazia, -2 intuizione`
+ - affamato di potere: `-2 TS VOL contro effetti di Charme e Compulsione se la creatura che ha creato l’effetto promette ricchezza o potere`
 
 ## Stats
 
