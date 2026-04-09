@@ -131,28 +131,41 @@ domini:
 | con. (piani)     | (int) |       | 8     | 9     | 10    |       | 11    |       |       |       |       |
 | con. (religione) | (int) | 8     | 9     |       | 10    | 11    |       |       |       |       |       |
 
-| abilità (lv.10)        | mod | classe | ogg | tratti | tot |
-| ---------------------- | --- | ------ | --- | ------ | --- |
-| sesto senso (sag)      | 8   | 0      | 5   | 0      | 13  |
-| investigare (int)      | 3   | 0      | 1   | 4      | 8   |
-| empatia (car)          | -2  | 3      | 2+3 | 0      | 6   |
-| diplomazia (car)       | -2  | 3      | 5+3 | 0      | 9   |
-| con. (arcane) (int)    | 3   | 3      | 5   | 0      | 11  |
-| con. (piani) (int)     | 3   | 3      | 1   | 0      | 7   |
-| con. (religione) (int) | 3   | 3      | 1   | 0      | 7   |
 ### Lv.1 (140 mo):
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
-tot: 
+tot:
 ### Lv.2 (1 kmo):
 ### Lv.3 (3 kmo):
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) (1.5 kmo)
+tot: 1.5
 ### Lv.4 (6 kmo):
+- [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +2 (4 kmo)
+tot: 5.5
 ### Lv.5 (10.5 kmo):
 - [Uncino del Mago](https://golarion.altervista.org/wiki/Uncino_del_Mago) (4.3 kmo)
-- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +1 (2.5 kmo)
+tot: 9.8
 ### Lv.6 (16 kmo):
+- [Cintura del Vigore](https://golarion.altervista.org/wiki/Cintura_del_Vigore) +2 (4 kmo)
+- [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +1 (1 kmo)
+- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +1 (1 kmo)
+tot: 15.8
 ### Lv.7 (23.5 kmo):
+- [Guanti Elfici](https://golarion.altervista.org/wiki/Guanti_Elfici) (7.5 kmo)
+tot: 23.3
 ### Lv.8 (33 kmo):
 ### Lv.9 (46 kmo):
 ### Lv.10 (62 kmo):
 ### Lv.11 (82 kmo):
 ### Lv.12 (108 kmo):
+
+
+oggetti di secondaria importanza:
+[Lenti dell'Aquila](https://golarion.altervista.org/wiki/Lenti_dell%27Aquila) (2.5 kmo)
+[Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (3.75 kmo)
+[Amuleto dell'Armatura Naturale](https://golarion.altervista.org/wiki/Amuleto_dell%27Armatura_Naturale) +1 (2 kmo)
+[Anello della Protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) +1 (2 kmo)
+[Stivali Molleggiati](https://golarion.altervista.org/wiki/Stivali_Molleggiati) (5.5 kmo)
+
+[Pietra Magica Prisma Magenta Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) (800 mo)
+[Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
+[Pietra Magica Disco Muscoso Incrinato](https://golarion.altervista.org/wiki/Pietre_Magiche) x2 (200 mo)
