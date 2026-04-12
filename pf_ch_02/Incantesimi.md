@@ -129,10 +129,10 @@
 	- (0) [ecolocazione](https://golarion.altervista.org/wiki/Incantesimi/Ecolocazione) 
 - combattimento:
 	- (1) [flusso di ossidiana](https://golarion.altervista.org/wiki/Incantesimi/Flusso_di_Ossidiana) (TRA) (no SR)
-	- (0) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
+	- (1) [rocce aguzze](https://golarion.altervista.org/wiki/Incantesimi/Rocce_Aguzze) (TRA) (1h/lv) 
 	- (0) [colpo infuocato](https://golarion.altervista.org/wiki/Incantesimi/Colpo_Infuocato) 
 	- (0) [fulmine globulare](https://golarion.altervista.org/wiki/Incantesimi/Fulmine_Globulare) 
-	- (1) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
+	- (0) [dissolvi magie](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie) (no TS) (no SR) 
 - cure:
 	- (0) [reincarnazione](https://golarion.altervista.org/wiki/Incantesimi/Reincarnazione) (M 1000mo)
 	- (0) [cura ferite gravi](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Gravi) 
@@ -147,7 +147,7 @@
 	- (0) [aspetto del lupo](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_del_Lupo) (meta)
 - combattimento:
 	- (2) [metamorfosi funesta](https://golarion.altervista.org/wiki/Incantesimi/Metamorfosi_Funesta) (meta) (TRA) (bradipo)
-	- (0) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR)
+	- (1) [trasmutare roccia in fango](https://golarion.altervista.org/wiki/Incantesimi/Trasmutare_Roccia_in_Fango) (TRA) (no SR)
 	- (0) [controllare venti](https://golarion.altervista.org/wiki/Incantesimi/Controllare_Venti) (TRA) (no SR)
 	- (1) [muro di spine](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Spine) (no SR) (no TS)
 	- (0) [serpente di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Serpente_di_Fuoco) 
@@ -187,7 +187,7 @@
 	- (1) [tempesta di fuoco](https://golarion.altervista.org/wiki/Incantesimi/Tempesta_di_Fuoco) 
 	- (0) [venti erosivi](https://golarion.altervista.org/wiki/Incantesimi/Venti_Erosivi) (no TS)
 	- (0) [bagliore solare](https://golarion.altervista.org/wiki/Incantesimi/Bagliore_Solare) 
-	- (0) [piaga strisciante](https://golarion.altervista.org/wiki/Incantesimi/Piaga_Strisciante) (no SR) (no TS) 
+	- (1) [piaga strisciante](https://golarion.altervista.org/wiki/Incantesimi/Piaga_Strisciante) (no SR) (no TS) 
 - cure:
 	- (0) [guarigione](https://golarion.altervista.org/wiki/Incantesimi/Guarigione) 
 	- (0) [cura ferite moderate di massa](https://golarion.altervista.org/wiki/Incantesimi/Cura_Ferite_Moderate_di_Massa) 
