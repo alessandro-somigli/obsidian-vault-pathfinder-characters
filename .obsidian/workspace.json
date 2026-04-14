@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/PG.md",
+                "file": "pf_ch_04/Equipaggiamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PG"
+              "title": "Equipaggiamento"
             }
           },
           {
@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Equipaggiamento"
             }
+          },
+          {
+            "id": "9e09eb1fc443a14b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,20 +211,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4497775d03f61aea",
+  "active": "9e09eb1fc443a14b",
   "lastOpenFiles": [
-    "pf_ch_04/PG.md",
     "pf_ch_04/Equipaggiamento.md",
-    "pf_ch_04/Creature Legame Planare.md",
     "pf_ch_04/Incantesimi.md",
+    "pf_ch_04/PG.md",
+    "pf_ch_04/Creature Legame Planare.md",
+    "pf_ch_04/Creature Rianimate.md",
+    "pf_ch_04/Creature Evocate.md",
+    "pf_ch_04/Procedure e Rituali.md",
     "pf_ch_04/Backstory.md",
     "pf_ch_02/Equipaggiamento.md",
     "pf_ch_02/PG.md",
     "pf_ch_02/Incantesimi.md",
-    "pf_ch_04/Procedure e Rituali.md",
     "[Cronaca.md",
-    "pf_ch_04/Creature Rianimate.md",
-    "pf_ch_04/Creature Evocate.md",
     "Cronaca.md",
     "pf_ch_04/Untitled.md",
     "pf_ch_02/Creature Evocate.md",

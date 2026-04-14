@@ -45,8 +45,6 @@ lv.7: (23) 7 (liv) + 7 (sag) + 2 (tratto) + 5 (oggetti) = 21 (95%)
 lv.9: (25) 9 (liv) + 8 (sag) + 2 (tratto) + 5 (oggetti) = 24 (100%)
 
 #### oggetti d'interesse:
-
-altri oggetti interessanti:
 https://golarion.altervista.org/wiki/Navimagnete
 https://golarion.altervista.org/wiki/Camicia_del_Corridore_Veloce
 https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe

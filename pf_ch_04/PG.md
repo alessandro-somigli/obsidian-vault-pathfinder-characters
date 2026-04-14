@@ -130,5 +130,3 @@ domini:
 | con. (arcane)    | (int) |       |       |       |       |       |       |       |       |       |       |
 | con. (piani)     | (int) |       | 8     | 9     | 10    |       | 11    |       |       |       |       |
 | con. (religione) | (int) | 8     | 9     |       | 10    | 11    |       |       |       |       |       |
-
-
