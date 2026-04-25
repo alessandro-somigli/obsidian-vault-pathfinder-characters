@@ -17,7 +17,8 @@
 ### Evoca Mostri V:
 - [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro):
 	- portata, stordimento
-- [Salamandra](https://golarion.altervista.org/wiki/Salamandra):
+- [Babau](https://golarion.altervista.org/wiki/Babau):
+	- dissolvi magie
 
 ### Evoca Mostri VI:
 - [Demone d'Ombra](https://golarion.altervista.org/wiki/Demone_d%27Ombra):
