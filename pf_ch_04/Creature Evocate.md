@@ -3,7 +3,7 @@
 	- nauseato, infermo
 ### Evoca Mostri II:
 - [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante):
-	- lottare
+	- afferrare
 ### Evoca Mostri III:
 - [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
 	- danno
