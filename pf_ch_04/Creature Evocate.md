@@ -5,15 +5,18 @@
 - [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante):
 	- afferrare
 ### Evoca Mostri III:
+- [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo):
+	- afferrare
 - [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
 	- danno
-- [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo):
 
 ### Evoca Mostri IV:
 - [Orso Grigio](https://golarion.altervista.org/wiki/Orso_Grigio):
+	- afferrare
 
 ### Evoca Mostri V:
 - [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro):
+	- portata, stordimento
 - [Salamandra](https://golarion.altervista.org/wiki/Salamandra):
 
 ### Evoca Mostri VI:
