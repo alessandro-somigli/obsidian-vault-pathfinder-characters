@@ -109,12 +109,17 @@ procedimento:
 ### Potenziare Armi e Armature
 materiali necessari:
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25 mo)
+- [Armi](https://golarion.altervista.org/wiki/Armi) o [Armature](https://golarion.altervista.org/wiki/Armature) da migliorare
 incantesimi necessari:
 - [Trasformazione Perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (lv.2)
 - [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) (lv.2)
 
 procedimento:
-1) 
+1) prendere l'[Arma](https://golarion.altervista.org/wiki/Armi) o [Armatura](https://golarion.altervista.org/wiki/Armature) da migliorare e piazzarla su una superficie solida
+2) utilizzare la [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue)
+3) lanciare l'incantesimo [Trasformazione Perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) per potenziare l'oggetto
+4) lanciare l'incantesimo [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) per recuperare i punti di caratteristica persi
+
 
 ## Migliorare la Diplomazia
 #### Incantesimi:
