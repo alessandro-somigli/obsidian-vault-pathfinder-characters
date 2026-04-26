@@ -226,4 +226,3 @@
 	- (0) [creare semipiano superiore](https://golarion.altervista.org/wiki/Incantesimi/Creare_Semipiano_Superiore)
 	- (0) [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
 	- (0) [relitto risanato](https://golarion.altervista.org/wiki/Incantesimi/Relitto_Risanato)
-

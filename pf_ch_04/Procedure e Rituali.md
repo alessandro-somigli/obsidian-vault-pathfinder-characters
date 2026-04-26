@@ -133,4 +133,3 @@ procedimento:
 - [Kit di Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+1 DIP)
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (+2 DIP)
 - [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+2 DIP)
-
