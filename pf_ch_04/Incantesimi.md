@@ -207,7 +207,6 @@
 		- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante)
 - utility:
 	- (0) [rivela locazioni](https://golarion.altervista.org/wiki/Incantesimi/Rivela_Locazioni)
-
 ## lv.9 (0):
 - dominio:
 	- (0) [teletrasporto interplanetario](https://golarion.altervista.org/wiki/Incantesimi/Teletrasporto_Interplanetario)

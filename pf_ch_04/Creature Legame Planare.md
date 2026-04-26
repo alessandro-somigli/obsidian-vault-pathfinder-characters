@@ -11,7 +11,6 @@
 	- GS: 6
 	- Vol: 6
 	- Car: 10
-
 ## Legame Planare:
 - [Elementale del Fango Enorme](https://golarion.altervista.org/wiki/Elementale_del_Fango_Enorme):
 	- GS: 7
@@ -33,7 +32,6 @@
 	- GS: 13
 	- Vol: 13
 	- Car: 12
-
 ## Legame Planare Superiore:
 - [Cetaceal](https://golarion.altervista.org/wiki/Cetaceal):
 	- GS: 15
