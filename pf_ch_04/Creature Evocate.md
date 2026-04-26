@@ -32,3 +32,9 @@
 	- (travolgere, portata 6m)
 - [Belibith](https://golarion.altervista.org/wiki/Bebilith):
 	- (decomposizione, distruggere armature, portata 4.5m)
+### Evoca Mostri VIII:
+- [Elementale della Terra Anziano](https://golarion.altervista.org/wiki/Elementale_della_Terra_Anziano)
+- [Elementale del Fulmine Anziano](https://golarion.altervista.org/wiki/Elementale_del_Fulmine_Anziano)
+### Evoca Mostri IX:
+- [Nalfeshnee](https://golarion.altervista.org/wiki/Nalfeshnee)
+- [Deva Astrale](https://golarion.altervista.org/wiki/Deva_Astrale)
