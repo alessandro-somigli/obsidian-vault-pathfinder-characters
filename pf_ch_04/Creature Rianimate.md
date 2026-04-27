@@ -30,7 +30,7 @@
 	- DES: +0
 	- TAG: 2
 	- SPEC: Portata, Afferrare
-- [Leucadaemon](https://golarion.altervista.org/wiki/Leucodaemon):
+- [Leucodaemon](https://golarion.altervista.org/wiki/Leucodaemon):
 	- HD: 10
 	- FOR: +7
 	- DES: +7

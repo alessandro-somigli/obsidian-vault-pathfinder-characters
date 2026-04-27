@@ -36,6 +36,7 @@
 #### Equipaggiamento non Magico
 - [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile) (400 mo)
 - [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (85 mo)
+- [Piede di Porco](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (2 mo)
 
 #### Progressione della Concentrazione:
 lv.1: (17) 1 (liv) + 5 (sag) + 2 (tratto) = 8  (60%)
