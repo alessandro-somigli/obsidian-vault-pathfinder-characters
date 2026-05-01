@@ -98,6 +98,7 @@
 	- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
 	- (0) [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino) (M 100mo)
 	- (0) [parlare con i morti](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_i_Morti)
+	- (0) [penetrare immagine](https://golarion.altervista.org/wiki/Incantesimi/Penetrare_Immagine)
 ### lv.4 (0):
 - dominio:
 	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
