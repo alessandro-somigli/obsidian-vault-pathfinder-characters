@@ -10,6 +10,9 @@
 - dominio:
 	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
+- preparazioni:
+	- (0) [germoglio di fiordimetallo](https://golarion.altervista.org/wiki/Incantesimi/Germogli_di_Fiordimetallo) (1g/lv)
+	- (0) [numero fortunato](https://golarion.altervista.org/wiki/Incantesimi/Numero_Fortunato) (24h)
 - combattimento:
 	- damage/control/summons:
 		- (1) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
@@ -51,11 +54,13 @@
 		- (0) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
 		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
 	- buff/defense:
+		- (0) [castigo dell'erede](https://golarion.altervista.org/wiki/Incantesimi/Castigo_dell%27Erede) (P) (I)
 		- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
 		- (0) [ira non morta](https://golarion.altervista.org/wiki/Incantesimi/Ira_Non_Morta)
 		- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
 		- (0) [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
 		- (0) [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P) (I)
+		- (0) [baratto del martire](https://golarion.altervista.org/wiki/Incantesimi/Baratto_del_Martire) (P) (I)
 - cure:
 	- (0) [ristorare inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore)
 - utility:
@@ -197,6 +202,7 @@
 	- (0) [legame planare superiore](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare_Superiore)
 	- (0) [trama scintillante](https://golarion.altervista.org/wiki/Incantesimi/Trama_Scintillante)
 - preparazioni:
+	- (0) [nove vite](https://golarion.altervista.org/wiki/Incantesimi/Nove_Vite) (1h/lv)
 	- (0) [legione delle tombe](https://golarion.altervista.org/wiki/Incantesimi/Legione_delle_Tombe) (7g)
 - combattimento:
 	- damage/debuff/control/summons:
