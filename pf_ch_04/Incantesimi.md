@@ -162,7 +162,7 @@
 	- (0) [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
 - preparazioni:
 	- (0) [banchetto degli eroi](https://golarion.altervista.org/wiki/Incantesimi/Banchetto_degli_Eroi) (12h)
-	- (0) [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina) (1h/lv)
+	- (0) [anima aquilina](https://golarion.altervista.org/wiki/Incantesimi/Anima_Aquilina) (1h/lv) (P)
 	- (0) [anatema del veggente](https://golarion.altervista.org/wiki/Incantesimi/Anatema_del_Veggente) (1h/lv)
 	- (0) [camminare nel vento](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nel_Vento) (1h/lv)
 	- (0) [memoria ombra di sarzari](https://golarion.altervista.org/wiki/Incantesimi/Memoria_Ombra_di_Sarzari) (30g) (M 1500mo)
