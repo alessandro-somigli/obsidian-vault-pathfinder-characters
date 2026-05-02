@@ -1,3 +1,12 @@
+### Legenda Simboli:
+- (A): potenziamento alle abilità o tiri di dado
+- (I): tempo di lancio azione immediata o azione veloce
+- (P): raggio d'azione personale
+- (N): incantesimo di scuola necromanzia
+- (S): incantesimo silenzioso
+- (M Xmo): costo materiale incantesimo
+- (F Xmo): costo focus incantesimo
+- (1h/lv): durata incantesimo
 ## lv.0:
 - (1) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
 - (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
@@ -21,16 +30,15 @@
 		- (0) [comando di liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 		- (0) [scudo di pietra](https://golarion.altervista.org/wiki/Incantesimi/Scudo_di_Pietra) (I)
 - utility:
-	- abilità:
-		- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
-		- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
-		- (0) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (10min/lv)
-		- (0) [numero fortunato](https://golarion.altervista.org/wiki/Incantesimi/Numero_Fortunato) (24h)
-	- situazionale:
-		- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P) (10min/lv)
+	- contestuale:
+		- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica) (A)
+		- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P) (A)
+		- (0) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (10min/lv) (A)
+		- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (10min/lv) (P)
 		- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10min/lv)
 		- (0) [verità di abadar](https://golarion.altervista.org/wiki/Incantesimi/Verit%C3%A0_di_Abadar)
-	- downtime:
+	- downtime/riposo:
+		- (0) [numero fortunato](https://golarion.altervista.org/wiki/Incantesimi/Numero_Fortunato) (24h) (A)
 		- (0) [germoglio di fiordimetallo](https://golarion.altervista.org/wiki/Incantesimi/Germogli_di_Fiordimetallo) (1g/lv)
 		- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
 ### lv.2 (0):
@@ -66,10 +74,11 @@
 - cure:
 	- (0) [ristorare inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore)
 - utility:
-	- abilità:
-		- (0) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P)
-		- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P)
-	- downtime
+	- contestuale:
+		- (0) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P) (A)
+		- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P) (A)
+		- (0) [presagio](https://golarion.altervista.org/wiki/Incantesimi/Presagio) (P) (M 25mo) (F 25mo)
+	- downtime/riposo:
 		- (0) [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150/300mo)
 ### lv.3 (0):
 - dominio:
@@ -99,10 +108,9 @@
 - cure:
 	- (0) [sentiero di gloria superiore](https://golarion.altervista.org/wiki/Incantesimi/Sentiero_di_Gloria_Superiore)
 - utility:
-	- abilità:
-		- (0) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione)
-		- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
-	- situazionale:
+	- contestuale:
+		- (0) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione) (A)
+		- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P) (A)
 		- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0) (P)
 		- (0) [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
 		- (0) [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
@@ -117,6 +125,7 @@
 	- (0) [ancora dimensionale](https://golarion.altervista.org/wiki/Incantesimi/Ancora_Dimensionale)
 - preparazioni:
 	- (0) [arma magica superiore](https://golarion.altervista.org/wiki/Incantesimi/Arma_Magica_Superiore) (1h/lv)
+	- (0) [infondere capacità magiche](https://golarion.altervista.org/wiki/Incantesimi/Infondere_Capacit%C3%A0_Magiche) (∞)
 - combattimento:
 	- damage/debuff/control/summons:
 		- (0) [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata) (N)
@@ -129,16 +138,19 @@
 		- (0) [benedizione del fervore](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_del_Fervore)
 		- (0) [libertà di movimento](https://golarion.altervista.org/wiki/Incantesimi/Libert%C3%A0_di_Movimento) (10min/lv)
 - utility:
-	- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
-	- (0) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25mo)
-	- (0) [inviare](https://golarion.altervista.org/wiki/Incantesimi/Inviare)
-	- (0) [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi) (10min/lv)
-	- (0) [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante) (1h/lv)
-	- (0) [infondere capacità magiche](https://golarion.altervista.org/wiki/Incantesimi/Infondere_Capacit%C3%A0_Magiche) (∞)
+	- contestuale:
+		- (0) [camminare nell'aria](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria) (10min/lv)
+		- (0) [linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Linguaggi) (10min/lv)
+		- (0) [inviare](https://golarion.altervista.org/wiki/Incantesimi/Inviare)
+	- downtime/riposo:
+		- (0) [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante) (1h/lv)
+		- (0) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25mo)
 ## lv.5 (0):
 - dominio:
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
+- preparazioni:
+	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore) (∞)
 - combattimento:
 	- damage/debuff/control:
 		- (0) [frangiossa](https://golarion.altervista.org/wiki/Incantesimi/Frangiossa) (N)
@@ -155,10 +167,11 @@
 	- (0) [respiro di vita](https://golarion.altervista.org/wiki/Incantesimi/Respiro_di_Vita)
 	- (0) [rianimare morti](https://golarion.altervista.org/wiki/Incantesimi/Rianimare_Morti)
 - utility:
-	- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo) (10min/lv)
-	- (0) [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
-	- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (M 1000 mo)
-	- (0) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore) (∞)
+	- contestuale:
+		- (0) [camminare nell'aria collettivo](https://golarion.altervista.org/wiki/Incantesimi/Camminare_nell%27Aria_Collettivo) (10min/lv)
+	- downtime/riposo:
+		- (0) [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
+		- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (M 1000 mo)
 ## lv.6 (0):
 - dominio:
 	- (0) [legame planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare)
@@ -186,8 +199,9 @@
 - cure:
 	- (0) [guarire](https://golarion.altervista.org/wiki/Incantesimi/Guarigione)
 - utility:
-	- (0) [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
-	- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10min/lv)
+	- contestuale:
+		- (0) [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
+		- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10min/lv)
 ## lv.7 (0):
 - dominio:
 	- (0) [demenza](https://golarion.altervista.org/wiki/Incantesimi/Demenza)
