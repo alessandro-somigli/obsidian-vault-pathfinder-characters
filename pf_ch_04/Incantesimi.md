@@ -10,8 +10,6 @@
 - dominio:
 	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
-- preparazioni:
-	- (0) [numero fortunato](https://golarion.altervista.org/wiki/Incantesimi/Numero_Fortunato) (24h)
 - combattimento:
 	- damage/control/summons:
 		- (1) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
@@ -27,6 +25,7 @@
 		- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica)
 		- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P)
 		- (0) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (10min/lv)
+		- (0) [numero fortunato](https://golarion.altervista.org/wiki/Incantesimi/Numero_Fortunato) (24h)
 	- situazionale:
 		- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (P) (10min/lv)
 		- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10min/lv)
@@ -100,14 +99,16 @@
 - cure:
 	- (0) [sentiero di gloria superiore](https://golarion.altervista.org/wiki/Incantesimi/Sentiero_di_Gloria_Superiore)
 - utility:
-	- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0) (P)
-	- (0) [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
-	- (0) [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
-	- (0) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione)
-	- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
-	- (0) [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino) (M 100mo)
-	- (0) [parlare con i morti](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_i_Morti)
-	- (0) [penetrare immagine](https://golarion.altervista.org/wiki/Incantesimi/Penetrare_Immagine)
+	- abilità:
+		- (0) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione)
+		- (0) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (P)
+	- situazionale:
+		- (0) [epurare invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Epurare_Invisibilit%C3%A0) (P)
+		- (0) [incanalare il dono](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_il_Dono)
+		- (0) [localizza oggetto](https://golarion.altervista.org/wiki/Incantesimi/Localizza_Oggetto)
+		- (0) [parlare con i morti](https://golarion.altervista.org/wiki/Incantesimi/Parlare_con_i_Morti)
+		- (0) [penetrare immagine](https://golarion.altervista.org/wiki/Incantesimi/Penetrare_Immagine)
+		- (0) [sonnellino](https://golarion.altervista.org/wiki/Incantesimi/Sonnellino) (M 100mo)
 ### lv.4 (0):
 - dominio:
 	- (0) [legame planare inferiore](https://golarion.altervista.org/wiki/Legame_Planare_Inferiore "Legame Planare Inferiore")
