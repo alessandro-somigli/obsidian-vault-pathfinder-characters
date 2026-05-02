@@ -7,7 +7,7 @@
 - (M Xmo): costo materiale incantesimo
 - (F Xmo): costo focus incantesimo
 - (1h/lv): durata incantesimo
-## lv.0:
+### lv.0:
 - (1) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
 - (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
 - (0) [lettura del magico](https://golarion.altervista.org/wiki/Incantesimi/Lettura_del_Magico)
@@ -145,7 +145,7 @@
 	- downtime/riposo:
 		- (0) [sogno itinerante](https://golarion.altervista.org/wiki/Incantesimi/Sogno_Itinerante) (1h/lv)
 		- (0) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (P) (M 25mo)
-## lv.5 (0):
+### lv.5 (0):
 - dominio:
 	- (0) [evoca mostri V](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_V "Evoca Mostri")
 	- (0) [incubo](https://golarion.altervista.org/wiki/Incantesimi/Incubo "Incantesimi/Incubo")
@@ -172,7 +172,7 @@
 	- downtime/riposo:
 		- (0) [spostamento planare](https://golarion.altervista.org/wiki/Incantesimi/Spostamento_Planare)
 		- (0) [scrutare](https://golarion.altervista.org/wiki/Incantesimi/Scrutare) (M 1000 mo)
-## lv.6 (0):
+### lv.6 (0):
 - dominio:
 	- (0) [legame planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare)
 	- (0) [allucinazione mortale](https://golarion.altervista.org/wiki/Incantesimi/Allucinazione_Mortale)
@@ -202,7 +202,7 @@
 	- contestuale:
 		- (0) [decreto dell'incantatore](https://golarion.altervista.org/wiki/Incantesimi/Decreto_dell%27Incantatore)
 		- (0) [scopri il percorso](https://golarion.altervista.org/wiki/Incantesimi/Scopri_il_Percorso) (10min/lv)
-## lv.7 (0):
+### lv.7 (0):
 - dominio:
 	- (0) [demenza](https://golarion.altervista.org/wiki/Incantesimi/Demenza)
 - preparazioni:
@@ -218,7 +218,7 @@
 	- downtime:
 		- (0) [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
 		- (0) [visione di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu)
-## lv.8 (0):
+### lv.8 (0):
 - dominio:
 	- (0) [legame planare superiore](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare_Superiore)
 	- (0) [trama scintillante](https://golarion.altervista.org/wiki/Incantesimi/Trama_Scintillante)
@@ -236,7 +236,7 @@
 - utility:
 	- downtime:
 		- (0) [rivela locazioni](https://golarion.altervista.org/wiki/Incantesimi/Rivela_Locazioni)
-## lv.9 (0):
+### lv.9 (0):
 - dominio:
 	- (0) [teletrasporto interplanetario](https://golarion.altervista.org/wiki/Incantesimi/Teletrasporto_Interplanetario)
 	- (0) [fatale](https://golarion.altervista.org/wiki/Incantesimi/Fatale)
