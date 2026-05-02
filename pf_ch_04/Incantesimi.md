@@ -7,6 +7,7 @@
 - (M Xmo): costo materiale incantesimo
 - (F Xmo): costo focus incantesimo
 - (1h/lv): durata incantesimo
+- (C+1rd/lv): durata incantesimo dopo concentrazione
 ### lv.0:
 - (1) [guida](https://golarion.altervista.org/wiki/Guida "Guida")
 - (1) [individuazione del magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico")
@@ -66,7 +67,7 @@
 	- buff/defense:
 		- (0) [castigo dell'erede](https://golarion.altervista.org/wiki/Incantesimi/Castigo_dell%27Erede) (P) (I)
 		- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
-		- (0) [ira non morta](https://golarion.altervista.org/wiki/Incantesimi/Ira_Non_Morta)
+		- (0) [ira non morta](https://golarion.altervista.org/wiki/Incantesimi/Ira_Non_Morta) (C+1rd/lv)
 		- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
 		- (0) [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
 		- (0) [grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (P) (I)
@@ -77,6 +78,7 @@
 	- contestuale:
 		- (0) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (P) (A)
 		- (0) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (P) (A)
+		- (0) [epifania della pagina legata](https://golarion.altervista.org/wiki/Incantesimi/Epifania_della_Pagina_Legata) (P) (A)
 		- (0) [presagio](https://golarion.altervista.org/wiki/Incantesimi/Presagio) (P) (M 25mo) (F 25mo)
 	- downtime/riposo:
 		- (0) [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150/300mo)
