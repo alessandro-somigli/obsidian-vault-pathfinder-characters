@@ -205,6 +205,8 @@
 ## lv.7 (0):
 - dominio:
 	- (0) [demenza](https://golarion.altervista.org/wiki/Incantesimi/Demenza)
+- preparazioni:
+	- (0) [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato) (∞)
 - combattimento:
 	- damage/debuff/control/summons:
 		- (0) [scagliare maledizione superiore](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione_Superiore) (N)
@@ -213,9 +215,9 @@
 		- (0) [evoca mostri VII](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_VII)
 		- (0) [onde di estasi](https://golarion.altervista.org/wiki/Incantesimi/Onde_di_Estasi)
 - utility:
-	- (0) [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
-	- (0) [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato)
-	- (0) [visione di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu)
+	- downtime:
+		- (0) [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
+		- (0) [visione di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu)
 ## lv.8 (0):
 - dominio:
 	- (0) [legame planare superiore](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare_Superiore)
@@ -232,11 +234,14 @@
 		- (0) [mantello del caos](https://golarion.altervista.org/wiki/Incantesimi/Mantello_del_Caos) (F 500mo)
 		- (0) [aspetto terrificante](https://golarion.altervista.org/wiki/Incantesimi/Aspetto_Terrificante)
 - utility:
-	- (0) [rivela locazioni](https://golarion.altervista.org/wiki/Incantesimi/Rivela_Locazioni)
+	- downtime:
+		- (0) [rivela locazioni](https://golarion.altervista.org/wiki/Incantesimi/Rivela_Locazioni)
 ## lv.9 (0):
 - dominio:
 	- (0) [teletrasporto interplanetario](https://golarion.altervista.org/wiki/Incantesimi/Teletrasporto_Interplanetario)
 	- (0) [fatale](https://golarion.altervista.org/wiki/Incantesimi/Fatale)
+- preparazioni:
+	- (0) [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore) (∞)
 - combattimento:
 	- damage/debuff/control/summons:
 		- (0) [risucchio di energia](https://golarion.altervista.org/wiki/Incantesimi/Risucchio_di_Energia) (N)
@@ -246,7 +251,7 @@
 - cure:
 	- (0) [guarigione di massa](https://golarion.altervista.org/wiki/Guarigione_di_Massa)
 - utility:
-	- (0) [miracolo](https://golarion.altervista.org/wiki/Incantesimi/Miracolo)
-	- (0) [portale](https://golarion.altervista.org/wiki/Incantesimi/Portale)
-	- (0) [creare semipiano superiore](https://golarion.altervista.org/wiki/Incantesimi/Creare_Semipiano_Superiore)
-	- (0) [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore)
+	- downtime:
+		- (0) [miracolo](https://golarion.altervista.org/wiki/Incantesimi/Miracolo)
+		- (0) [portale](https://golarion.altervista.org/wiki/Incantesimi/Portale)
+		- (0) [creare semipiano superiore](https://golarion.altervista.org/wiki/Incantesimi/Creare_Semipiano_Superiore)
