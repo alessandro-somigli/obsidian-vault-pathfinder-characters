@@ -35,7 +35,8 @@
               "title": "Strategie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +177,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           }
         ],
@@ -189,7 +190,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -197,13 +197,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "553b4e7d52ffb596",
+  "active": "a37f47cd706a4a93",
   "lastOpenFiles": [
-    "pf_ch_04/Strategie.md",
     "pf_ch_04/Incantesimi.md",
+    "pf_ch_04/Strategie.md",
     "pf_ch_04/Creature Evocate.md",
     "pf_ch_04/Procedure e Rituali.md",
     "pf_ch_04/PG.md",

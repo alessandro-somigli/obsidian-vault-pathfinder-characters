@@ -17,3 +17,4 @@
 
 - [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
 
+- 
