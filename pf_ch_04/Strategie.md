@@ -3,7 +3,7 @@
 1) vincolare esterni con legame planare
 2) animare morti
 3) scrutare qualcuno
-4) prepararsi per un'avventura
+4) preparare incantesimi a lunga durata
 5) raccogliere informazioni
 6) potenziare equipaggiamento
 
