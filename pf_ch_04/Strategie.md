@@ -16,3 +16,4 @@
 - [scrutare superiore](https://golarion.altervista.org/wiki/Incantesimi/Scrutare_Superiore)
 
 - [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
+
