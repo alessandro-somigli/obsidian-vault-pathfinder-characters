@@ -57,3 +57,31 @@ The book is partially unreadable, tainted by the liquid in the canisters and eve
 
 
 
+---
+Alhazred è un nano che vive ad Hulwan, nelle montagne di Mamlaka-shanti (o come si chiama adesso).
+
+lavora come ricercatore e sta studiando nuovi cristalli che potrebbero essere trasformati in gemme.
+
+durante un'ispezione di alcuni nuovi materiali entra in contatto con un piccolo frammento di cristallo azzurro dalle proprietà straordinarie.
+
+chiede ai minatori di portargli più cristalli dello stesso tipo ma nessuno sembra mai aver visto nessun materiale del genere prima d'ora.
+
+Alhazred arriva alla conclusione che si tratta di un materiale rarissimo mai scoperto prima, e, anche se vorrebbe studiarlo ulteriormente, non ha abbastanza materiale e deve aspettare altri campioni. Decide di concentrare le sue ricerche su altri minerali.
+
+Dopo qualche giorno sente però la compulsione innaturale di dover andare personalmente a raccogliere più campioni del cristallo misterioso e si dirige verso le miniere.
+
+Alhazred spende molto tempo a setacciare e investigare senza però alcun successo. La sua ricerca diventa sempre più compulsiva, fino a che un giorno sparice completamente, le persone in città lo presumono morto durante le sue ricerche.
+
+Alhazred non è morto, nel suo tempo in miniera ha iniziato a sentire una flebile melodia provenire da più in profondità e adesso sta scavando un tunnel per arrivare direttamente alla fonte. Man mano che si avvicina, la melodia diventa sempre più forte e definita.
+
+Alhazred scopre un sistema di caverne popolate completamente dai cristalli che aveva intenzione di studiare.
+
+Decide di stabilire un laboratorio direttamente nelle caverne e inizia a studiare i cristalli.
+In questo tempo scopre diverse proprietà interessanti: i cristalli brillano di luce propria, l'intensità della luce e la complessità dei suoni che producono aumenta con la presenza di altri cristalli nelle vicinanze. Inoltre il materiale di cui sono fatti è malleabile e sembra costantemente "trasudare" liquido dal suo interno, nelle caverne sono addirittura presenti alcuni ruscelli di questa sostanza.
+
+Alhazred si sente sempre più connesso con i cristalli, gradualmente inizia a ricevere messaggi mentali da una presenza che rivela essere una divinità di nome Llengrath. Alhazred decide di unirsi al suo culto e venerare Llengrath nella speranza di ottenere un legame ancora maggiore con il potere nei cristalli.
+
+Si sposta a Xiji-wuma e per diversi anni rimane un fedele discepolo nel culto di Llengrath, la sua dedizione lo porta a diventare un membro rispettato e addirittura un sacerdote del culto.
+
+Negli anni però Alhazred inizia a percepire un'altra presenza nel cristallo, oscurata e quasi impercettibile a causa di quella di Llengrath.
+
