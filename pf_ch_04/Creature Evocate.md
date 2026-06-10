@@ -21,7 +21,17 @@
 	- (3) [Scassinare](https://golarion.altervista.org/wiki/Scassinare "Scassinare"), [Terreno Illusorio](https://golarion.altervista.org/wiki/Terreno_Illusorio "Terreno Illusorio") (CD 18)
 	- (1) [Parlare con gli Animali](https://golarion.altervista.org/wiki/Parlare_con_gli_Animali "Parlare con gli Animali"), [Parlare con i Vegetali](https://golarion.altervista.org/wiki/Parlare_con_i_Vegetali "Parlare con i Vegetali")
 
-- 
+- [Demone d'Ombra](https://golarion.altervista.org/wiki/Demone_d%27Ombra) (VI):
+	- (∞) [Oscurità Profonda](https://golarion.altervista.org/wiki/Oscurit%C3%A0_Profonda "Oscurità Profonda"), [Paura](https://golarion.altervista.org/wiki/Incantesimi/Paura "Incantesimi/Paura") (CD 18), [Telecinesi](https://golarion.altervista.org/wiki/Telecinesi "Telecinesi") (CD 19), [Teletrasporto Superiore](https://golarion.altervista.org/wiki/Teletrasporto_Superiore "Teletrasporto Superiore") (solo se stesso)
+	- (3) [Ombra di una Evocazione](https://golarion.altervista.org/wiki/Ombra_di_una_Evocazione "Ombra di una Evocazione") (CD 18), [Ombra di una Invocazione](https://golarion.altervista.org/wiki/Ombra_di_una_Invocazione "Ombra di una Invocazione") (CD 19)
+
+- [Succube](https://golarion.altervista.org/wiki/Succube) (VI):
+	- (P) [Individuazione del Bene](https://golarion.altervista.org/wiki/Individuazione_del_Bene "Individuazione del Bene"), [Linguaggi](https://golarion.altervista.org/wiki/Linguaggi "Linguaggi")
+	- (∞) [Individuazione dei Pensieri](https://golarion.altervista.org/wiki/Individuazione_dei_Pensieri "Individuazione dei Pensieri") (CD 20), [Suggestione](https://golarion.altervista.org/wiki/Suggestione "Suggestione") (CD 21), [Teletrasporto Superiore](https://golarion.altervista.org/wiki/Teletrasporto_Superiore "Teletrasporto Superiore") (solo se stesso più 25 kg di oggetti), [Tocco del Vampiro](https://golarion.altervista.org/wiki/Tocco_del_Vampiro "Tocco del Vampiro"), [Transizione Eterea](https://golarion.altervista.org/wiki/Transizione_Eterea "Transizione Eterea") (solo se stesso più 25 kg di oggetti)
+	- (1) [Dominare Persone](https://golarion.altervista.org/wiki/Dominare_Persone "Dominare Persone") (CD 23)
+
+
+
 
 
 ## Evoca Mostri
