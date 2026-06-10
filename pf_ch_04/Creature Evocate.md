@@ -52,6 +52,10 @@
 ### Evoca Mostri II:
 - [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante):
 	- afferrare
+- [Elementale della Terra Piccolo](https://golarion.altervista.org/wiki/Elementale_della_Terra_Piccolo)
+	- dps
+	- percezione tellurica
+	- scorrere nella terra
 ### Evoca Mostri III:
 - [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo):
 	- afferrare
