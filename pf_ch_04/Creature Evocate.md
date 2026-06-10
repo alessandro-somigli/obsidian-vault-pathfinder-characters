@@ -1,17 +1,5 @@
 ## Capacità Magiche:
 - [Ghaele](https://golarion.altervista.org/wiki/Ghaele) (IX):
-	- (P) [Aura Sacra](https://golarion.altervista.org/wiki/Aura_Sacra "Aura Sacra") (CD 21), [Individuazione del Male](https://golarion.altervista.org/wiki/Individuazione_del_Male "Individuazione del Male"), [Vedere Invisibilità](https://golarion.altervista.org/wiki/Vedere_Invisibilit%C3%A0 "Vedere Invisibilità")
-	- (∞) [Cura Ferite Leggere](https://golarion.altervista.org/wiki/Cura_Ferite_Leggere "Cura Ferite Leggere"), [Dissolvi Magie](https://golarion.altervista.org/wiki/Dissolvi_Magie "Dissolvi Magie"), [Individuazione del Magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico"), [Invisibilità Superiore](https://golarion.altervista.org/wiki/Invisibilit%C3%A0_Superiore "Invisibilità Superiore") (solo sé stesso),  [Teletrasporto Superiore](https://golarion.altervista.org/wiki/Teletrasporto_Superiore "Teletrasporto Superiore") (solo se stesso più 22,5 kg di oggetti)
-	- (3) [Globo di Invulnerabilità](https://golarion.altervista.org/wiki/Globo_di_Invulnerabilit%C3%A0 "Globo di Invulnerabilità")
-	- (1) [Catena di Fulmini](https://golarion.altervista.org/wiki/Catena_di_Fulmini "Catena di Fulmini") (CD 19), [Muro di Forza](https://golarion.altervista.org/wiki/Muro_di_Forza "Muro di Forza"), [Spruzzo Prismatico](https://golarion.altervista.org/wiki/Spruzzo_Prismatico "Spruzzo Prismatico")
-
-	- [Benedizione](https://golarion.altervista.org/wiki/Benedizione "Benedizione"), [Foschia Occultante](https://golarion.altervista.org/wiki/Foschia_Occultante "Foschia Occultante"), [Scudo della Fede](https://golarion.altervista.org/wiki/Scudo_della_Fede "Scudo della Fede")
-	- [Allineare Arma](https://golarion.altervista.org/wiki/Allineare_Arma "Allineare Arma"), [Resistenza dell'Orso](https://golarion.altervista.org/wiki/Resistenza_dell%27Orso "Resistenza dell'Orso"), [Ristorare Inferiore](https://golarion.altervista.org/wiki/Ristorare_Inferiore "Ristorare Inferiore") (2)
-	- [Cura Ferite Gravi](https://golarion.altervista.org/wiki/Cura_Ferite_Gravi "Cura Ferite Gravi") (3), [Luce Incandescente](https://golarion.altervista.org/wiki/Luce_Incandescente "Luce Incandescente") (2)
-	- [Potere Divino](https://golarion.altervista.org/wiki/Potere_Divino "Potere Divino"), [Ristorare](https://golarion.altervista.org/wiki/Ristorare "Ristorare")
-	- [Colpo Infuocato](https://golarion.altervista.org/wiki/Colpo_Infuocato "Colpo Infuocato") (CD 19), [Visione del Vero](https://golarion.altervista.org/wiki/Visione_del_Vero "Visione del Vero")
-	- [Guarigione](https://golarion.altervista.org/wiki/Guarigione "Guarigione") (CD 20)
-	- [Parola Sacra](https://golarion.altervista.org/wiki/Parola_Sacra "Parola Sacra") (CD 21)
 
 
 ## Evoca Mostri
@@ -101,6 +89,23 @@
 ### Evoca Mostri IX:
 - [Ghaele](https://golarion.altervista.org/wiki/Ghaele):
 	- volare, 45m (perfetta)
-	- 
-- [Nalfeshnee](https://golarion.altervista.org/wiki/Nalfeshnee)
-- [Deva Astrale](https://golarion.altervista.org/wiki/Deva_Astrale)
+	- magia:
+		- (P) [Aura Sacra](https://golarion.altervista.org/wiki/Aura_Sacra "Aura Sacra") (CD 21), [Individuazione del Male](https://golarion.altervista.org/wiki/Individuazione_del_Male "Individuazione del Male"), [Vedere Invisibilità](https://golarion.altervista.org/wiki/Vedere_Invisibilit%C3%A0 "Vedere Invisibilità")
+		- (∞) [Cura Ferite Leggere](https://golarion.altervista.org/wiki/Cura_Ferite_Leggere "Cura Ferite Leggere"), [Dissolvi Magie](https://golarion.altervista.org/wiki/Dissolvi_Magie "Dissolvi Magie"), [Individuazione del Magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico"), [Invisibilità Superiore](https://golarion.altervista.org/wiki/Invisibilit%C3%A0_Superiore "Invisibilità Superiore") (solo sé stesso),  [Teletrasporto Superiore](https://golarion.altervista.org/wiki/Teletrasporto_Superiore "Teletrasporto Superiore") (solo se stesso più 22,5 kg di oggetti)
+		- (3) [Globo di Invulnerabilità](https://golarion.altervista.org/wiki/Globo_di_Invulnerabilit%C3%A0 "Globo di Invulnerabilità")
+		- (1) [Catena di Fulmini](https://golarion.altervista.org/wiki/Catena_di_Fulmini "Catena di Fulmini") (CD 19), [Muro di Forza](https://golarion.altervista.org/wiki/Muro_di_Forza "Muro di Forza"), [Spruzzo Prismatico](https://golarion.altervista.org/wiki/Spruzzo_Prismatico "Spruzzo Prismatico")
+		
+		- [Benedizione](https://golarion.altervista.org/wiki/Benedizione "Benedizione"), [Foschia Occultante](https://golarion.altervista.org/wiki/Foschia_Occultante "Foschia Occultante"), [Scudo della Fede](https://golarion.altervista.org/wiki/Scudo_della_Fede "Scudo della Fede")
+		- [Allineare Arma](https://golarion.altervista.org/wiki/Allineare_Arma "Allineare Arma"), [Resistenza dell'Orso](https://golarion.altervista.org/wiki/Resistenza_dell%27Orso "Resistenza dell'Orso"), [Ristorare Inferiore](https://golarion.altervista.org/wiki/Ristorare_Inferiore "Ristorare Inferiore") (2)
+		- [Cura Ferite Gravi](https://golarion.altervista.org/wiki/Cura_Ferite_Gravi "Cura Ferite Gravi") (3), [Luce Incandescente](https://golarion.altervista.org/wiki/Luce_Incandescente "Luce Incandescente") (2)
+		- [Potere Divino](https://golarion.altervista.org/wiki/Potere_Divino "Potere Divino"), [Ristorare](https://golarion.altervista.org/wiki/Ristorare "Ristorare")
+		- [Colpo Infuocato](https://golarion.altervista.org/wiki/Colpo_Infuocato "Colpo Infuocato") (CD 19), [Visione del Vero](https://golarion.altervista.org/wiki/Visione_del_Vero "Visione del Vero")
+		- [Guarigione](https://golarion.altervista.org/wiki/Guarigione "Guarigione") (CD 20)
+		- [Parola Sacra](https://golarion.altervista.org/wiki/Parola_Sacra "Parola Sacra") (CD 21)
+- [Nalfeshnee](https://golarion.altervista.org/wiki/Nalfeshnee):
+- [Deva Astrale](https://golarion.altervista.org/wiki/Deva_Astrale):
+	- volare, 30m (buona)
+	- magia:
+		- (∞) _[Aura Sacra](https://golarion.altervista.org/wiki/Aura_Sacra "Aura Sacra")_ (CD 24), _[Dissolvi il Male](https://golarion.altervista.org/wiki/Dissolvi_il_Male "Dissolvi il Male") (CD 21)_, _[Dissolvi Magie](https://golarion.altervista.org/wiki/Dissolvi_Magie "Dissolvi Magie")_, _[Individuazione del Male](https://golarion.altervista.org/wiki/Individuazione_del_Male "Individuazione del Male")_, _[Invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Invisibilit%C3%A0 "Incantesimi/Invisibilità")_ (Solo su sé stesso), _[Parola Sacra](https://golarion.altervista.org/wiki/Parola_Sacra "Parola Sacra")_ (CD 23), _[Punizione Sacra](https://golarion.altervista.org/wiki/Punizione_Sacra "Punizione Sacra")_ (CD 20), _[Rimuovi Malattia](https://golarion.altervista.org/wiki/Rimuovi_Malattia "Rimuovi Malattia")_, _[Rimuovi Maledizione](https://golarion.altervista.org/wiki/Rimuovi_Maledizione "Rimuovi Maledizione")_, _[Rimuovi Paura](https://golarion.altervista.org/wiki/Rimuovi_Paura "Rimuovi Paura")_, _[Rivela Bugie](https://golarion.altervista.org/wiki/Rivela_Bugie "Rivela Bugie")_ (CD 20), _[Spostamento Planare](https://golarion.altervista.org/wiki/Spostamento_Planare "Spostamento Planare")_ (CD 23)
+		- (7)‒_[Cura Ferite Leggere](https://golarion.altervista.org/wiki/Cura_Ferite_Leggere "Cura Ferite Leggere")_, _[Vedere Invisibilità](https://golarion.altervista.org/wiki/Vedere_Invisibilit%C3%A0 "Vedere Invisibilità")_
+		- (1)‒_[Barriera di Lame](https://golarion.altervista.org/wiki/Barriera_di_Lame "Barriera di Lame")_ (CD 22), _[Guarigione](https://golarion.altervista.org/wiki/Guarigione "Guarigione")_
