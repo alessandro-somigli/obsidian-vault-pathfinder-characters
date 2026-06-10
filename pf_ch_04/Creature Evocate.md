@@ -19,30 +19,26 @@
 - [Puzzola](https://golarion.altervista.org/wiki/Puzzola):
 	- nauseato, infermo
 ### Evoca Mostri II:
-- [Elementale della Terra Piccolo](https://golarion.altervista.org/wiki/Elementale_della_Terra_Piccolo):
-	- dps
+- [Elementale della Terra Piccolo](https://golarion.altervista.org/wiki/Elementale_della_Terra_Piccolo) ☆:
 	- percezione tellurica
 - [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante) ©:
 	- afferrare a contatto
 	- portata, 4.5m (lingua)
 ### Evoca Mostri III:
-- [Leopardo](https://golarion.altervista.org/wiki/Leopardo) ©:
-	- dps
+- [Leopardo](https://golarion.altervista.org/wiki/Leopardo) © ☆:
 	- afferrare
 	- scalare, 6m
 - [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo) ©:
 	- afferrare
 	- sbilanciare
 ### Evoca Mostri IV:
-- [Bisonte](https://golarion.altervista.org/wiki/Bisonte) ©:
-	- dps
+- [Bisonte](https://golarion.altervista.org/wiki/Bisonte) © ☆:
 	- travolgere
 	- spingere
 - [Orso Grigio](https://golarion.altervista.org/wiki/Orso_Grigio) ©:
 	- afferrare
 ### Evoca Mostri V:
-- [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro) ©:
-	- dps
+- [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro) © ☆:
 	- stordimento
 	- portata, 4.5m
 - [Babau](https://golarion.altervista.org/wiki/Babau):
@@ -52,8 +48,7 @@
 		- (P) [Vedere Invisibilità](https://golarion.altervista.org/wiki/Vedere_Invisibilit%C3%A0 "Vedere Invisibilità")
 		- (∞) [Dissolvi Magie](https://golarion.altervista.org/wiki/Dissolvi_Magie "Dissolvi Magie"), [Teletrasporto Superiore](https://golarion.altervista.org/wiki/Teletrasporto_Superiore "Teletrasporto Superiore") (solo se stesso più 25 kg di oggetti)
 ### Evoca Mostri VI:
-- [Tigre Crudele](https://golarion.altervista.org/wiki/Tigre_Crudele) ©:
-	- dps
+- [Tigre Crudele](https://golarion.altervista.org/wiki/Tigre_Crudele) © ☆:
 	- afferrare
 - [Demone d'Ombra](https://golarion.altervista.org/wiki/Demone_d%27Ombra):
 	- volare, 12m (perfetta)
@@ -82,11 +77,10 @@
 		- (3) [Scassinare](https://golarion.altervista.org/wiki/Scassinare "Scassinare"), [Terreno Illusorio](https://golarion.altervista.org/wiki/Terreno_Illusorio "Terreno Illusorio") (CD 18)
 		- (1) [Parlare con gli Animali](https://golarion.altervista.org/wiki/Parlare_con_gli_Animali "Parlare con gli Animali"), [Parlare con i Vegetali](https://golarion.altervista.org/wiki/Parlare_con_i_Vegetali "Parlare con i Vegetali")
 ### Evoca Mostri VII:
-- [Tirannosauro](https://golarion.altervista.org/wiki/Tirannosauro)
-	- dps
+- [Tirannosauro](https://golarion.altervista.org/wiki/Tirannosauro) © ☆:
 	- afferrare
 	- portata, 6m
-- [Brachiosauro](https://golarion.altervista.org/wiki/Brachiosauro):
+- [Brachiosauro](https://golarion.altervista.org/wiki/Brachiosauro) © ☆:
 	- travolgere
 	- portata, 6m
 - [Belibith](https://golarion.altervista.org/wiki/Bebilith):
@@ -96,8 +90,14 @@
 	- distruggere armature
 	- portata, 4.5m
 ### Evoca Mostri VIII:
-- [Elementale della Terra Anziano](https://golarion.altervista.org/wiki/Elementale_della_Terra_Anziano)
-- [Elementale del Fulmine Anziano](https://golarion.altervista.org/wiki/Elementale_del_Fulmine_Anziano)
+- [Elementale della Terra Anziano](https://golarion.altervista.org/wiki/Elementale_della_Terra_Anziano) ☆:
+	- percezione tellurica
+	- portata, 4.5m
+- [Elementale del Fulmine Anziano](https://golarion.altervista.org/wiki/Elementale_del_Fulmine_Anziano) ☆:
+	- volare, 30m (perfetta)
+	- disarmare
+	- sbilanciare
+	- portata, 4.5m
 ### Evoca Mostri IX:
 - [Nalfeshnee](https://golarion.altervista.org/wiki/Nalfeshnee)
 - [Deva Astrale](https://golarion.altervista.org/wiki/Deva_Astrale)
