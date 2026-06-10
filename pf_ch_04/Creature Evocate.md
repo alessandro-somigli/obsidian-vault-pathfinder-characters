@@ -99,5 +99,8 @@
 	- sbilanciare
 	- portata, 4.5m
 ### Evoca Mostri IX:
+- [Ghaele](https://golarion.altervista.org/wiki/Ghaele):
+	- volare, 45m (perfetta)
+	- 
 - [Nalfeshnee](https://golarion.altervista.org/wiki/Nalfeshnee)
 - [Deva Astrale](https://golarion.altervista.org/wiki/Deva_Astrale)
