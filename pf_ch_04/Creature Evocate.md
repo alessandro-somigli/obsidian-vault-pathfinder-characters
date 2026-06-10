@@ -68,7 +68,10 @@
 ### Evoca Mostri VI:
 - [Tigre Crudele](https://golarion.altervista.org/wiki/Tigre_Crudele):
 - [Demone d'Ombra](https://golarion.altervista.org/wiki/Demone_d%27Ombra):
-	- (volare 12m, contatto, balzare, incorporeo)
+	- volare 12m
+	- attacchi a contatto
+	- balzare
+	- incorporeo
 - [Lillend](https://golarion.altervista.org/wiki/Lillend):
 	- (esecuzione bardica)
 - [Succube](https://golarion.altervista.org/wiki/Succube):
