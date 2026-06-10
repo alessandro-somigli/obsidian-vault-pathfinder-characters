@@ -50,23 +50,31 @@
 - [Puzzola](https://golarion.altervista.org/wiki/Puzzola):
 	- nauseato, infermo
 ### Evoca Mostri II:
-- [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante):
-	- afferrare
-- [Elementale della Terra Piccolo](https://golarion.altervista.org/wiki/Elementale_della_Terra_Piccolo)
+- [Elementale della Terra Piccolo](https://golarion.altervista.org/wiki/Elementale_della_Terra_Piccolo):
 	- dps
 	- percezione tellurica
-	- scorrere nella terra
+- [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante):
+	- afferrare a contatto
+	- portata, 4.5m (lingua)
 ### Evoca Mostri III:
+- [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
+	- dps
+	- afferrare
+	- scalare, 6m
 - [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo):
 	- afferrare
-- [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
-	- danno
+	- sbilanciare
 ### Evoca Mostri IV:
+- [Bisonte](https://golarion.altervista.org/wiki/Bisonte):
+	- dps
+	- travolgere
+	- spingere
 - [Orso Grigio](https://golarion.altervista.org/wiki/Orso_Grigio):
 	- afferrare
 ### Evoca Mostri V:
 - [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro):
-	- portata, stordimento
+	- stordimento
+	- portata, 4.5m
 - [Babau](https://golarion.altervista.org/wiki/Babau):
 	- dissolvi magie
 ### Evoca Mostri VI:
