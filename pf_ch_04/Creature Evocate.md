@@ -1,7 +1,3 @@
-## Capacità Magiche:
-- [Ghaele](https://golarion.altervista.org/wiki/Ghaele) (IX):
-
-
 ## Evoca Mostri
 ### Evoca Mostri Minori:
 - [Puzzola](https://golarion.altervista.org/wiki/Puzzola):
@@ -102,7 +98,6 @@
 		- [Colpo Infuocato](https://golarion.altervista.org/wiki/Colpo_Infuocato "Colpo Infuocato") (CD 19), [Visione del Vero](https://golarion.altervista.org/wiki/Visione_del_Vero "Visione del Vero")
 		- [Guarigione](https://golarion.altervista.org/wiki/Guarigione "Guarigione") (CD 20)
 		- [Parola Sacra](https://golarion.altervista.org/wiki/Parola_Sacra "Parola Sacra") (CD 21)
-- [Nalfeshnee](https://golarion.altervista.org/wiki/Nalfeshnee):
 - [Deva Astrale](https://golarion.altervista.org/wiki/Deva_Astrale):
 	- volare, 30m (buona)
 	- magia:
