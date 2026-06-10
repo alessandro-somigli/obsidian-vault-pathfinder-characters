@@ -1,3 +1,21 @@
+## Capacità Magiche:
+
+- [Mephit della Polvere](https://golarion.altervista.org/wiki/Mephit_della_Polvere) (IV):
+	- (1) [sfocatura](https://golarion.altervista.org/wiki/Incantesimi/Sfocatura)
+	- (1) [muro di vento](https://golarion.altervista.org/wiki/Incantesimi/Muro_di_Vento)
+- [Mephit della Terra](https://golarion.altervista.org/wiki/Mephit_della_Terra) (IV):
+	- (1) [ammorbidire terra e pietra](https://golarion.altervista.org/wiki/Incantesimi/Ammorbidire_Terra_e_Pietra)
+
+- [Babau](https://golarion.altervista.org/wiki/Babau) (V):
+	- (P) [Vedere Invisibilità](https://golarion.altervista.org/wiki/Vedere_Invisibilit%C3%A0 "Vedere Invisibilità")
+	- (∞) [Dissolvi Magie](https://golarion.altervista.org/wiki/Dissolvi_Magie "Dissolvi Magie"), [Oscurità](https://golarion.altervista.org/wiki/Oscurit%C3%A0 "Oscurità"), [Teletrasporto Superiore](https://golarion.altervista.org/wiki/Teletrasporto_Superiore "Teletrasporto Superiore") (solo se stesso più 25 kg di oggetti)
+- [Bralani](https://golarion.altervista.org/wiki/Bralani) (V):
+	- (∞) [Charme su Persone](https://golarion.altervista.org/wiki/Charme_su_Persone "Charme su Persone") (CD 13), [Folata di Vento](https://golarion.altervista.org/wiki/Folata_di_Vento "Folata di Vento") (CD 14), [Immagine Speculare](https://golarion.altervista.org/wiki/Immagine_Speculare "Immagine Speculare"), [Muro di Vento](https://golarion.altervista.org/wiki/Muro_di_Vento "Muro di Vento"), [Sfocatura](https://golarion.altervista.org/wiki/Sfocatura "Sfocatura")
+	- (2) [Cura Ferite Gravi](https://golarion.altervista.org/wiki/Cura_Ferite_Gravi "Cura Ferite Gravi"), [Fulmine](https://golarion.altervista.org/wiki/Fulmine "Fulmine") (CD 15)
+
+- [Lillend]
+
+## Evoca Mostri
 ### Evoca Mostri Minori:
 - [Puzzola](https://golarion.altervista.org/wiki/Puzzola):
 	- nauseato, infermo
