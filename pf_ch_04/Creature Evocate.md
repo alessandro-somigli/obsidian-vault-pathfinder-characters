@@ -1,8 +1,4 @@
 ## Capacità Magiche:
-
-- [Mephit della Terra](https://golarion.altervista.org/wiki/Mephit_della_Terra) (IV):
-	- (1) [ammorbidire terra e pietra](https://golarion.altervista.org/wiki/Incantesimi/Ammorbidire_Terra_e_Pietra)
-
 - [Ghaele](https://golarion.altervista.org/wiki/Ghaele) (IX):
 	- (P) [Aura Sacra](https://golarion.altervista.org/wiki/Aura_Sacra "Aura Sacra") (CD 21), [Individuazione del Male](https://golarion.altervista.org/wiki/Individuazione_del_Male "Individuazione del Male"), [Vedere Invisibilità](https://golarion.altervista.org/wiki/Vedere_Invisibilit%C3%A0 "Vedere Invisibilità")
 	- (∞) [Cura Ferite Leggere](https://golarion.altervista.org/wiki/Cura_Ferite_Leggere "Cura Ferite Leggere"), [Dissolvi Magie](https://golarion.altervista.org/wiki/Dissolvi_Magie "Dissolvi Magie"), [Individuazione del Magico](https://golarion.altervista.org/wiki/Individuazione_del_Magico "Individuazione del Magico"), [Invisibilità Superiore](https://golarion.altervista.org/wiki/Invisibilit%C3%A0_Superiore "Invisibilità Superiore") (solo sé stesso),  [Teletrasporto Superiore](https://golarion.altervista.org/wiki/Teletrasporto_Superiore "Teletrasporto Superiore") (solo se stesso più 22,5 kg di oggetti)
