@@ -53,26 +53,26 @@
 - [Elementale della Terra Piccolo](https://golarion.altervista.org/wiki/Elementale_della_Terra_Piccolo):
 	- dps
 	- percezione tellurica
-- [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante):
+- [Rana Gigante](https://golarion.altervista.org/wiki/Rana_Gigante) ©:
 	- afferrare a contatto
 	- portata, 4.5m (lingua)
 ### Evoca Mostri III:
-- [Leopardo](https://golarion.altervista.org/wiki/Leopardo):
+- [Leopardo](https://golarion.altervista.org/wiki/Leopardo) ©:
 	- dps
 	- afferrare
 	- scalare, 6m
-- [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo):
+- [Coccodrillo](https://golarion.altervista.org/wiki/Coccodrillo) ©:
 	- afferrare
 	- sbilanciare
 ### Evoca Mostri IV:
-- [Bisonte](https://golarion.altervista.org/wiki/Bisonte):
+- [Bisonte](https://golarion.altervista.org/wiki/Bisonte) ©:
 	- dps
 	- travolgere
 	- spingere
-- [Orso Grigio](https://golarion.altervista.org/wiki/Orso_Grigio):
+- [Orso Grigio](https://golarion.altervista.org/wiki/Orso_Grigio) ©:
 	- afferrare
 ### Evoca Mostri V:
-- [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro):
+- [Anchilosauro](https://golarion.altervista.org/wiki/Anchilosauro) ©:
 	- dps
 	- stordimento
 	- portata, 4.5m
@@ -83,7 +83,7 @@
 		- (P) [Vedere Invisibilità](https://golarion.altervista.org/wiki/Vedere_Invisibilit%C3%A0 "Vedere Invisibilità")
 		- (∞) [Dissolvi Magie](https://golarion.altervista.org/wiki/Dissolvi_Magie "Dissolvi Magie"), [Teletrasporto Superiore](https://golarion.altervista.org/wiki/Teletrasporto_Superiore "Teletrasporto Superiore") (solo se stesso più 25 kg di oggetti)
 ### Evoca Mostri VI:
-- [Tigre Crudele](https://golarion.altervista.org/wiki/Tigre_Crudele):
+- [Tigre Crudele](https://golarion.altervista.org/wiki/Tigre_Crudele) ©:
 	- dps
 	- afferrare
 - [Demone d'Ombra](https://golarion.altervista.org/wiki/Demone_d%27Ombra):
@@ -114,11 +114,16 @@
 		- (1) [Parlare con gli Animali](https://golarion.altervista.org/wiki/Parlare_con_gli_Animali "Parlare con gli Animali"), [Parlare con i Vegetali](https://golarion.altervista.org/wiki/Parlare_con_i_Vegetali "Parlare con i Vegetali")
 ### Evoca Mostri VII:
 - [Coccodrillo Crudele](https://golarion.altervista.org/wiki/Coccodrillo_Crudele):
-	- (lottare, sbilanciare, portata 4.5m)
+	- lottare
+	- sbilanciare
+	- portata, 4.5m
 - [Brachiosauro](https://golarion.altervista.org/wiki/Brachiosauro):
-	- (travolgere, portata 6m)
+	- travolgere
+	- portata, 6m
 - [Belibith](https://golarion.altervista.org/wiki/Bebilith):
-	- (decomposizione, distruggere armature, portata 4.5m)
+	- decomposizione
+	- distruggere armature
+	- portata, 4.5m
 ### Evoca Mostri VIII:
 - [Elementale della Terra Anziano](https://golarion.altervista.org/wiki/Elementale_della_Terra_Anziano)
 - [Elementale del Fulmine Anziano](https://golarion.altervista.org/wiki/Elementale_del_Fulmine_Anziano)
