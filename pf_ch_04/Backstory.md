@@ -1,87 +1,45 @@
-## Intro
+# Pt.1
 
-Alhazred! Possente, scaltro e lungimirante: 
-si fa strada fra i suoi nemici a suon di martellate, "come un vero nano!";
-la sua mente è acciaio, "come un vero nano!";
-i suoi passi sono percisi, saldi e ben calcolati, "un'altra caratteristica spesso trascurata dei nani!".
+Durante la prima fase della sua vita, Alhazred era un ricercatore. In questo periodo egli studia gemme e cristalli e si specializza sulle le loro proprietà fisiche ed altri modi per intagliarle. Passa la maggior parte del suo tempo nel suo laboratorio nell'accademia di Hulwan, la sua città natale situata nelle montagne a nord di Mamlaka Shanti.
 
-Questo è un piccolo estratto dalla lunga presentazione che Alhazred spesso utilizza per introdursi, per fortuna, ciò succede di rado.
+Durante le sue ricerche si imbatte in un cristallo che non aveva mai visto prima, è di colore azzurro e possiede delle proprietà straordinarie che lo rendono malleabile in condizioni specifiche, permettendone l'alterazione in forme più complesse senza perdere durezza o rischiarne la rottura. Riconoscendo che queste qualità sarebbero rivoluzionarie sia per le sue ricerche che per la sua reputazione nell'accademia, Alhazred si mette subito a lavoro. 
 
-La storia che le poche persone intorno a lui raccontano è ben diversa, egli è burbero, maldestro e costantemente fuori luogo; un vecchio nano che ormai non sa far altro che rimuginare sui bei vecchi tempi.
+Dopo mesi di ricerca, scopre che il cristallo è in grado di cambiare la sua struttura in base a quali vibrazioni viene sottoposto. Il cristallo cambia costantemente a causa di suoni e rumori di sottofondo, ma solo certi abbinamenti di frequenze specifiche sono in grado di alterarlo in modo significativo. Scopre inoltre che il cristallo stesso produce un flebile tono e che quest'ultimo dipende dalla struttura in quale il cristallo si trova in un determinato momento.
 
-La verità è che anche questa descrizione seppur in parte accurata non racchiude completamente l'essenza di Alhazred, 
-sotto le vesti di 
+Prima di pubblicare i suoi risultati, però, Alhazred realizza di aver bisogno di più cristalli dalle simili proprietà per confermare gli esiti delle sue ricerche. Chiede quindi al mercante da cui ha ricevuto il cristallo inizialmente di fornirgliene altri, ma questo confida di non averne altri campioni; poi consulta altri studiosi dell'accademia nella speranza di riprodurre il cristallo alchemicamente, ma anche qui arriva ad un vicolo cieco.
+Come ultima speranza, Alhazred si mette in viaggio verso le città vicine per divulgare le sue ricerche, nel tentativo di attrarre l'attenzione di qualcuno che potesse aiutarlo. Dopo diversi viaggi, mentre dimora nella città di Rishahr, riceve una lettera da parte di uno stregone interessato ad aiutarlo, a condizione che le Alhazred condivida tutti i risultati ottenuti fin ora e che le ricerche rimangano private per 10 anni. Il nome dello stregone è Llengrath.
 
+# Pt.2
 
----
+Alhazred, avendo poche altre scelte, accetta la richiesta di Llengrath e compie un'ultimo viaggio verso la sua roccaforte. Grazie a potenti magie di divinazione e trasmutazione Llengrath individua ed estrae grandi quantità di cristalli, così Alhazred riprende le sue ricerche. Dopo due anni di duro lavoro e morboso studio Alhazred ha finalmente raccolto abbastanza dati per supportare la sua tesi iniziale, documentando sia come realizzare ogni possibile cambiamento di forma o struttura a cui i cristalli possono essere sottoposti sia i suoni che i cristalli possono produrre e come ottenerli. 
 
-## prima bozza (in breve):
+Llengrath si dice soddisfatto dei risultati e propone ad Alhazred di continuare a lavorare per lui come ricercatore fino al termine dei dieci anni. Alhazred inizialmente è indeciso ma viene convinto quando Llengrath gli confida che anche lui ha portato avanti delle ricerche in parallelo su possibili applicazioni dei cristalli che non si limitano all'intagliamento di gemme. 
 
-### Intro:
-Alhazred è un chierico eccentrico ma molto capace, si trova ad agakata per vendicarsi di un necromante influente a capo di un culto di Azatoth e dello Stendardo Nero. 
+L'idea che Llengrath propone ad Alhazred è questa: 
+- Visto che i cristalli possono produrre suoni che cambiano in base alla loro struttura interna e alcune frequenze specifiche sono in grado di cambiare la struttura stessa del cristallo, predisporre il cristallo con una struttura interna specifica può innescare un processo che produce suoni in modo prevedibile, consistentemente ripetibile e ricorsivo nel tempo.
 
-### Inizio:
-Alhazred è nato e cresciuto ad Hulwan, una città nanica sugli altopiani desolati nel nord-ovest di Mamlaka-Shanti.
-Proveniente da una famiglia benestante, spende la sua adolescenza a studiare la manifattura di armi, armature e gli insegnamenti di Torag. 
+- Inoltre, le frequenze che modificano il cristallo possono arrivare anche dall'esterno sotto forma di segnali specifici che ne modificano la struttura e dunque il comportamento ricorsivo. Quest'ultimo può comunque rimanere prevedibile e ripetibile se si presta particolare attenzione alla struttura iniziale in cui si predispone il cristallo.
 
-### Cristalli:
+- Infine è possibile costruire apparecchiature magiche che interpretano i suoni prodotti dal cristallo come segnali di controllo e che agiscono di conseguenza in modo prestabilito. Utilizzando questo sistema sarebbe possibile costruire macchinari automatici o addirittura golem riducendo considerabilmente l'investimento magico che questi apparecchi solitamente richiedono.
 
-Un giorno, setacciando i suoi materiali per rimuovere le impurità, trova un piccolo frammento di cristallo dai colori particolari, quasi impossibili. Decide di tenerlo, lo raffina in un piccolo gioiello, lo mette su un pendente e non ci pensa più.
+Alhazred non aveva mai immaginato che la sua scoperta potesse essere utilizzata in modo così rivoluzionario e si sente di non poter rifiutare l'offerta di partecipare ad un progetto così ambizioso, così, per i prossimi quattro anni Alhazred e Llengrath lavorano insieme sulla realizzazione di un prototipo funzionante.
 
-Nei giorni successivi Alhazred incomincia ad avere visioni nel sonno e diventa ossessionato con la scheggia.
-Decide di andare nelle miniere per trovare altri cristalli dello stesso materiale; guidato da flebili sussurri sviluppati ormai da qualche giorno sa esattamente dove scavare e ne trova in grandi quantità.
+# Pt.3
 
-Dopo settimane di studio e lavoro con i cristalli la personalità di Alhazred è profondamente cambiata a tal punto da potersi considerare una persona completamente diversa.
+Il risultato finale di questi anni di lavoro è un macchinario estremamente rudimentale, una specie di scatola che possiede due braccia meccaniche che sarebbero in grado di movimenti molto articolati, ma le frequenze prodotte dal cristallo sono molto semplici e permettono solo movimenti bruschi e incapaci di espressione.
+Il prototipo è comunque in grado di svolgere alcune mansioni semplici, ma lo scopo iniziale del progetto era ben più ambizioso. Llengrath e Alhazred si trovano davanti ad un vicolo cieco e le ricerche non progrediscono per qualche mese, fino a che Alhazred non nota un'altra capacità che i cristalli mostrano solamente quando sono raggruppati in grandi quantità:
 
----
+Un giorno, Alhazred è nel magazzino per prendere una nuova cassa di cristalli su cui lavorare, e, nel costante caos di suoni e tonalità dissonanti che vengono prodotte costantemente a causa della quantità di cristalli presenti nella stanza, sente una melodia dolce e ripetuta provenire dal fondo del magazzino.
+Incuriosito segue la melodia e, con grande stupore, scopre che questi suoni provengono da una delle molte casse stipate. In qualche modo e per qualche motivo, in una delle casse alcuni cristalli particolarmente grandi hanno formato naturalmente le strutture necessarie per produrre una melodia complessa e in continua evoluzione. Non solo questo, ma alcuni di questi ultimi hanno addirittura iniziato a fondersi spontaneamente e creare nuove forme, qualcosa che Alhazred non aveva mai visto prima.
 
-In the highlands of Ahvan there's a nursery rhyme that children sing to pass the time: 
+Nei mesi successivi Alhazred conferma le ipotesi formulate inizialmente: lasciati a se stessi i cristalli sono in grado di formare strutture complesse capaci di crescere, influenzando altri cristalli vicini per integrarli nell'"armonia" oppure amalgamandoli direttamente nella loro struttura e crescendo di taglia.
 
-"
-lie once and your nose will go blue,
-lie again and your face'll turn the same hue.
-
-lie enough and your eyes will go dark,
-blinded by the mountain's shiny and sinister spark.
-"
-
-Even though the rhyme is mostly made up, some details mention events forgotten by most, but nevertheless real.
-
-If one wonders through the mountains in the highlands, they can accidentally stumble upon a fissure in the rock emanating a mysterious glow; and if one follows it, entering the crevice writhing with its many twists and turns, they can eventually find the source of the uncanny and unnatural gleam. 
-
-A cave extending into the darkness, filled with crystals pulsating with the same light; the crystals are sizzling and melting forming small streams traversing the ground with irregular movements, and the cavern itself seems to shift too erratically to be a natural formation.
-
-At the end of one of the twisting tunnels a chamber can be found, which curiously contains a small workshop and a rickety bed. The floor and walls of the chamber are also covered in strange symbols drawn with the same material as the crystals, making uncanny shapes and intricate designs. Hissing and sputtering sounds can be heard coming from canisters and rudimentary flasks rested on a table, and on the same table there's an old book.
-
-The book is partially unreadable, tainted by the liquid in the canisters and even infested by crystalline growths on some page corners, but a story can be mostly made out. It's the story of Alhazred, the mad dwarf that inhabited the glittering caves.
+Questa scoperta si rivela cruciale per la visione di Llengrath, adesso non è più necessario calibrare attentamente il comportamento dei cristalli da zero, è sufficiente 
 
 
 
----
-Alhazred è un nano che vive ad Hulwan, nelle montagne di Mamlaka-shanti (o come si chiama adesso).
 
-lavora come ricercatore e sta studiando nuovi cristalli che potrebbero essere trasformati in gemme.
 
-durante un'ispezione di alcuni nuovi materiali entra in contatto con un piccolo frammento di cristallo azzurro dalle proprietà straordinarie.
 
-chiede ai minatori di portargli più cristalli dello stesso tipo ma nessuno sembra mai aver visto nessun materiale del genere prima d'ora.
 
-Alhazred arriva alla conclusione che si tratta di un materiale rarissimo mai scoperto prima, e, anche se vorrebbe studiarlo ulteriormente, non ha abbastanza materiale e deve aspettare altri campioni. Decide di concentrare le sue ricerche su altri minerali.
-
-Dopo qualche giorno sente però la compulsione innaturale di dover andare personalmente a raccogliere più campioni del cristallo misterioso e si dirige verso le miniere.
-
-Alhazred spende molto tempo a setacciare e investigare senza però alcun successo. La sua ricerca diventa sempre più compulsiva, fino a che un giorno sparice completamente, le persone in città lo presumono morto durante le sue ricerche.
-
-Alhazred non è morto, nel suo tempo in miniera ha iniziato a sentire una flebile melodia provenire da più in profondità e adesso sta scavando un tunnel per arrivare direttamente alla fonte. Man mano che si avvicina, la melodia diventa sempre più forte e definita.
-
-Alhazred scopre un sistema di caverne popolate completamente dai cristalli che aveva intenzione di studiare.
-
-Decide di stabilire un laboratorio direttamente nelle caverne e inizia a studiare i cristalli.
-In questo tempo scopre diverse proprietà interessanti: i cristalli brillano di luce propria, l'intensità della luce e la complessità dei suoni che producono aumenta con la presenza di altri cristalli nelle vicinanze. Inoltre il materiale di cui sono fatti è malleabile e sembra costantemente "trasudare" liquido dal suo interno, nelle caverne sono addirittura presenti alcuni ruscelli di questa sostanza.
-
-Alhazred si sente sempre più connesso con i cristalli, gradualmente inizia a ricevere messaggi mentali da una presenza che rivela essere una divinità di nome Llengrath. Alhazred decide di unirsi al suo culto e venerare Llengrath nella speranza di ottenere un legame ancora maggiore con il potere nei cristalli.
-
-Si sposta a Xiji-wuma e per diversi anni rimane un fedele discepolo nel culto di Llengrath, la sua dedizione lo porta a diventare un membro rispettato e addirittura un sacerdote del culto.
-
-Negli anni però Alhazred inizia a percepire un'altra presenza nel cristallo, oscurata e quasi impercettibile a causa di quella di Llengrath.
 
