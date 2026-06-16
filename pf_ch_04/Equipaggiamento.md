@@ -52,7 +52,7 @@ https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe
 https://golarion.altervista.org/wiki/Braccialetti_del_Tocco_Fatato
 https://golarion.altervista.org/wiki/Stivali_dell%27Escursione
 
-- [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
+- [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
 ### Lv.1 (240 mo):
 - [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (85 mo)
 - [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
@@ -63,7 +63,10 @@ https://golarion.altervista.org/wiki/Stivali_dell%27Escursione
 - [Piede di Porco](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (2 mo)
 tot: 240
 ### Lv.2 (1 kmo):
-- [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
+- [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (Conoscenze Accademiche) (50 mo)
+- [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (Conoscenze Arcane) (50 mo)
+- [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (Conoscenze Locali) (50 mo)
+- [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (Conoscenze Natura) (50 mo)
 tot: 0.2
 ### Lv.3 (3 kmo):
 - [Armatura Completa](https://golarion.altervista.org/wiki/Armature) (1.5 kmo)
