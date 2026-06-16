@@ -1,5 +1,5 @@
 #### Consumabili:
-- [Kit di Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (40 mo)
+- [Kit per Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (40 mo)
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
 - [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
 - [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
@@ -52,12 +52,15 @@ https://golarion.altervista.org/wiki/Fasce_dell%27Attaccabrighe
 https://golarion.altervista.org/wiki/Braccialetti_del_Tocco_Fatato
 https://golarion.altervista.org/wiki/Stivali_dell%27Escursione
 
+- [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
 ### Lv.1 (240 mo):
-- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x10 (10mo)
+- [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (85 mo)
 - [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
-- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25mo)
-- [Armatura a Dischi](https://golarion.altervista.org/wiki/Armature) (125 mo)
 - [Scudo Torre](https://golarion.altervista.org/wiki/Armature) (30 mo)
+- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) x2 (25mo)
+- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x18 (18mo)
+- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (5 mo)
+- [Piede di Porco](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (2 mo)
 tot: 240
 ### Lv.2 (1 kmo):
 - [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
