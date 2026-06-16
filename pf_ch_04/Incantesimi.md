@@ -16,7 +16,7 @@
 - (1) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
 - (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
-### lv.1 (3+1):
+### lv.1 (4+1):
 - dominio:
 	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
@@ -33,7 +33,7 @@
 - utility:
 	- contestuale:
 		- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica) (A)
-		- (0) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P) (A)
+		- (1) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P) (A)
 		- (0) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (10min/lv) (A)
 		- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (10min/lv) (P)
 		- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10min/lv)
@@ -42,9 +42,9 @@
 		- (0) [numero fortunato](https://golarion.altervista.org/wiki/Incantesimi/Numero_Fortunato) (24h) (A)
 		- (0) [germoglio di fiordimetallo](https://golarion.altervista.org/wiki/Incantesimi/Germogli_di_Fiordimetallo) (1g/lv)
 		- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
-### lv.2 (0):
+### lv.2 (2+1):
 - dominio:
-	- (0) [evoca mostri II](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_II "Evoca Mostri")
+	- (1) [evoca mostri II](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_II "Evoca Mostri")
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")
 - rituali:
 	- (0) [animare morti inferiore](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti_Inferiore) (M 25mo per dv)
@@ -60,13 +60,13 @@
 	- damage/control/summons:
 		- (0) [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
 		- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
-		- (0) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
+		- (1) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
 		- (0) [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
 		- (0) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
 		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
 	- buff/defense:
 		- (0) [castigo dell'erede](https://golarion.altervista.org/wiki/Incantesimi/Castigo_dell%27Erede) (P) (I)
-		- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
+		- (1) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
 		- (0) [ira non morta](https://golarion.altervista.org/wiki/Incantesimi/Ira_Non_Morta) (C+1rd/lv)
 		- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
 		- (0) [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
