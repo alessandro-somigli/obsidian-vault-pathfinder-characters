@@ -141,24 +141,24 @@ domini:
 | con. (arcane)    | (int) | +6   |      |      |      | +11  |      |      |       |       |       |
 | con. (piani)     | (int) | +6   |      |      |      |      |      |      |       |       |       |
 | con. (religione) | (int) | +8   |      |      |      |      | +9   |      |       |       |       |
-|                  |       |      |      |      |      |      | 13.3 | 15.5 |       |       |       |
+
 
 | abilità          | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 |
 | ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- |
-| sesto senso      | (sag) |      |      |      |      |      |      |      |       |       |       |
+| sesto senso      | (sag) | 1    |      | 2    |      | 3    |      | 4    |       | 5     |       |
 | investigare      | (int) |      |      |      |      |      |      |      |       |       |       |
 | empatia          | (car) | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10    | 11    | 12    |
-| diplomazia       | (car) | 3    | 4    | 5    | 6    | 7    | 8    |      |       |       |       |
+| diplomazia       | (car) |      |      |      |      |      |      |      |       |       |       |
 | con. (arcane)    | (int) |      |      |      |      |      |      |      |       |       |       |
 | con. (piani)     | (int) |      |      |      |      |      |      |      |       |       |       |
 | con. (religione) | (int) |      |      |      |      |      |      |      |       |       |       |
 
-| abilità          | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 |
-| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| sesto senso      | (sag) |      |      |      |      |      |      |      |
-| investigare      | (int) |      |      |      |      |      |      |      |
-| empatia          | (car) |      |      |      |      |      |      |      |
-| diplomazia       | (car) |      |      |      |      |      |      |      |
-| con. (arcane)    | (int) |      |      |      |      |      |      |      |
-| con. (piani)     | (int) |      |      |      |      |      |      |      |
-| con. (religione) | (int) |      |      |      |      |      |      |      |
+| abilità          | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 |
+| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- |
+| sesto senso      | (sag) | 9    | 11   |      |      |      | 13   |      | 15    |       | 20    |
+| investigare      | (int) | 9    |      |      |      |      |      |      |       |       | 20    |
+| empatia          | (car) | 4    | 5    | 6    | 7    | 8    | 9    | 13   | 14    | 15    | 16    |
+| diplomazia       | (car) | 4    | 5    | 6    |      |      |      |      |       |       | 20    |
+| con. (arcane)    | (int) | 8    |      |      |      |      |      |      |       |       | 17    |
+| con. (piani)     | (int) | 8    |      |      |      |      |      |      |       |       | 17    |
+| con. (religione) | (int) | 9    |      |      |      |      |      |      |       |       | 17    |
