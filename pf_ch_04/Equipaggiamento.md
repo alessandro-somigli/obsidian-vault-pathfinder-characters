@@ -135,34 +135,4 @@ tot: 184.95
 - [Mantello della Resistenza](https://golarion.altervista.org/wiki/Mantello_della_Resistenza) +5 (9 kmo)
 tot: 226.95
 ### Lv.16 (315 kmo):
-
----
-
-
-### Lv.2 (1 kmo):
-### Lv.3 (3 kmo):
-
-### Lv.4 (6 kmo):
-
-### Lv.5 (10.5 kmo):
-
-### Lv.6 (16 kmo):
-
-### Lv.7 (23.5 kmo):
-
-### Lv.8 (33 kmo):
-
-### Lv.9 (46 kmo):
-
-### Lv.10 (62 kmo):
-
-### Lv.11 (82 kmo):
-
-### Lv.12 (108 kmo):
-
-### Lv.13 (140 kmo):
-
-### Lv.14 (185 kmo):
-
-### Lv.15 (240 kmo):
-
+tot: 226.95

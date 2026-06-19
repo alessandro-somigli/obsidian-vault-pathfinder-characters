@@ -131,22 +131,13 @@ domini:
 | con. (piani)     | (int) |       | 8     | 9     | 10    |       | 11    |
 | con. (religione) | (int) | 8     | 9     |       | 10    | 11    |       |
 
-| abilità          | mod   | base | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | tot |
-| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | --- |
-| sesto senso      | (sag) | +8   | 1    |      | 2    |      | 3    | 4    | 12  |
-| investigare      | (int) | +6   | 2    | 3    | 4    |      | 5    |      | 11  |
-| empatia          | (car) | +1   | 3    | 4    | 5    | 6    | 7    | 8    | 9   |
-| diplomazia       | (car) | +1   | 3    | 4    | 5    | 6    | 7    | 8    | 9   |
-| con. (arcane)    | (int) | +6   | 2    | 3    |      | 4    | 5    |      | 11  |
-| con. (piani)     | (int) | +6   | 2    |      | 3    | 4    |      | 5    | 11  |
-| con. (religione) | (int) | +6   | 2    | 3    |      | 4    |      | 5    | 11  |
 
-| abilità          | mod   | lv.3 | lv.4 |
-| ---------------- | ----- | ---- | ---- |
-| sesto senso      | (sag) | +8   |      |
-| investigare      | (int) | +6   |      |
-| empatia          | (car) | +1   |      |
-| diplomazia       | (car) | +1   |      |
-| con. (arcane)    | (int) | +6   |      |
-| con. (piani)     | (int) | +6   |      |
-| con. (religione) | (int) | +6   |      |
+| abilità          | mod   | lv.3 | lv.4 | lv.7 | lv.8 | lv.9 |     |     |     |
+| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | --- | --- | --- |
+| sesto senso      | (sag) | +8   | +10  |      | +17  |      |     |     |     |
+| investigare      | (int) | +6   |      |      |      |      |     |     |     |
+| empatia          | (car) | +1   |      |      |      |      |     |     |     |
+| diplomazia       | (car) | +1   |      |      | +3   |      |     |     |     |
+| con. (arcane)    | (int) | +6   |      | +11  |      |      |     |     |     |
+| con. (piani)     | (int) | +6   |      |      |      |      |     |     |     |
+| con. (religione) | (int) | +8   |      |      |      |      |     |     |     |
