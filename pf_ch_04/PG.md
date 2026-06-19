@@ -132,46 +132,33 @@ domini:
 | con. (religione) | (int) | 8     | 9     |       | 10    | 11    |       |
 
 
-| abilità          | mod   | lv.3 | lv.4 | lv.7 | lv.8 | lv.9 | lv.10 | lv.12 |     |
-| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | --- |
-| sesto senso      | (sag) | +8   | +10  |      | +12  |      | +13   | +15   |     |
-| investigare      | (int) | +6   |      |      | +11  |      |       |       |     |
-| empatia          | (car) | +1   |      |      |      | +4   |       |       |     |
-| diplomazia       | (car) | +1   |      |      | +3   | +11  |       |       |     |
-| con. (arcane)    | (int) | +6   |      | +11  |      |      |       |       |     |
-| con. (piani)     | (int) | +6   |      |      |      |      |       |       |     |
-| con. (religione) | (int) | +8   |      |      | +9   |      |       |       |     |
+| abilità          | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 |
+| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- |
+| sesto senso      | (sag) | +8   | +10  |      |      |      | +12  |      | +13   |       | +15   |
+| investigare      | (int) | +6   |      |      |      |      | +11  |      |       |       |       |
+| empatia          | (car) | +1   |      |      |      |      |      | +4   |       |       |       |
+| diplomazia       | (car) | +1   |      |      |      |      | +3   | +11  |       |       |       |
+| con. (arcane)    | (int) | +6   |      |      |      | +11  |      |      |       |       |       |
+| con. (piani)     | (int) | +6   |      |      |      |      |      |      |       |       |       |
+| con. (religione) | (int) | +8   |      |      |      |      | +9   |      |       |       |       |
+|                  |       |      |      |      |      |      | 13.3 | 15.5 |       |       |       |
+
+| abilità          | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 |
+| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- |
+| sesto senso      | (sag) |      |      |      |      |      |      |      |       |       |       |
+| investigare      | (int) |      |      |      |      |      |      |      |       |       |       |
+| empatia          | (car) | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10    | 11    | 12    |
+| diplomazia       | (car) | 3    | 4    | 5    | 6    | 7    | 8    |      |       |       |       |
+| con. (arcane)    | (int) |      |      |      |      |      |      |      |       |       |       |
+| con. (piani)     | (int) |      |      |      |      |      |      |      |       |       |       |
+| con. (religione) | (int) |      |      |      |      |      |      |      |       |       |       |
 
 | abilità          | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 |
 | ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| sesto senso      | (sag) | 1    |      |      |      |      | -    |      |
-| investigare      | (int) | 2    |      |      |      |      | -    |      |
-| empatia          | (car) | 3    |      |      |      |      | -    |      |
-| diplomazia       | (car) | 1    |      |      |      |      | 6    |      |
-| con. (arcane)    | (int) | 2    |      |      |      |      | -    |      |
-| con. (piani)     | (int) | 2    |      |      |      |      | -    |      |
-| con. (religione) | (int) | 2    |      |      |      |      | -    |      |
-
-| abilità                  | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 |
-| ------------------------ | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- |
-| sesto senso      (bonus) | (sag) | +8   | +10  |      |      |      | +12  |      | +13   |       | +15   |
-| sesto senso              | (sag) | 1    |      |      |      |      |      |      |       |       |       |
-| sesto senso        (tot) | (sag) | 9    |      |      |      |      |      |      |       |       |       |
-| investigare      (bonus) | (int) | +6   |      |      |      |      | +11  |      |       |       |       |
-| investigare              | (int) | 2    |      |      |      |      |      |      |       |       |       |
-| investigare        (tot) | (int) | 8    |      |      |      |      |      |      |       |       |       |
-| empatia          (bonus) | (car) | +1   |      |      |      |      |      | +4   |       |       |       |
-| empatia                  | (car) | 3    |      |      |      |      |      |      |       |       |       |
-| empatia            (tot) | (car) | 4    |      |      |      |      |      |      |       |       |       |
-| diplomazia       (bonus) | (car) | +1   |      |      |      |      | +3   | +11  |       |       |       |
-| diplomazia               | (car) | 3    |      |      |      |      |      |      |       |       |       |
-| diplomazia         (tot) | (car) | 4    |      |      |      |      |      |      |       |       |       |
-| con. (arcane)    (bonus) | (int) | +6   |      |      |      | +11  |      |      |       |       |       |
-| con. (arcane)            | (int) | 2    |      |      |      |      |      |      |       |       |       |
-| con. (arcane)      (tot) | (int) | 8    |      |      |      |      |      |      |       |       |       |
-| con. (piani)     (bonus) | (int) | +6   |      |      |      |      |      |      |       |       |       |
-| con. (piani)             | (int) | 2    |      |      |      |      |      |      |       |       |       |
-| con. (piani)       (tot) | (int) | 8    |      |      |      |      |      |      |       |       |       |
-| con. (religione) (bonus) | (int) | +8   |      |      |      |      | +9   |      |       |       |       |
-| con. (religione)         | (int) | 1    |      |      |      |      |      |      |       |       |       |
-| con. (religione)   (tot) | (int) | 9    |      |      |      |      |      |      |       |       |       |
+| sesto senso      | (sag) |      |      |      |      |      |      |      |
+| investigare      | (int) |      |      |      |      |      |      |      |
+| empatia          | (car) |      |      |      |      |      |      |      |
+| diplomazia       | (car) |      |      |      |      |      |      |      |
+| con. (arcane)    | (int) |      |      |      |      |      |      |      |
+| con. (piani)     | (int) |      |      |      |      |      |      |      |
+| con. (religione) | (int) |      |      |      |      |      |      |      |
