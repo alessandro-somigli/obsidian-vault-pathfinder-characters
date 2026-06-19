@@ -35,8 +35,7 @@
               "title": "Equipaggiamento"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +200,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "c0adfa323771a016",
+  "active": "708f3df53f6eddf2",
   "lastOpenFiles": [
-    "pf_ch_04/PG.md",
     "pf_ch_04/Equipaggiamento.md",
+    "pf_ch_04/PG.md",
     "pf_ch_04/Incantesimi.md",
     "pf_ch_04/Creature Evocate.md",
     "pf_ch_04/Creature Legame Planare.md",
