@@ -63,7 +63,7 @@ privilegi di classe:
 | lvl | chk | privilegio di classe                |
 | --- | --- | ----------------------------------- |
 | 1   | X   | lancio spontaneo (energia positiva) |
-| 1   | X   | incanalare energia positiva (3/g)   |
+| 1   | X   | incanalare energia positiva         |
 | 1   | X   | aura caotica                        |
 domini:
 
@@ -101,8 +101,8 @@ domini:
 | lvl | chk | talento                                                                                                                   |
 | --- | --- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1   | X   | [competenza negli scudi torre](https://golarion.altervista.org/wiki/Competenza_negli_Scudi_Torre)                         |
-| 3   |     | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (necromanzia)                     |
-| 5   |     | [competenza nelle armature pesanti](https://golarion.altervista.org/wiki/Competenza_nelle_Armature_Pesanti)               |
+| 3   | X   | [competenza nelle armature pesanti](https://golarion.altervista.org/wiki/Competenza_nelle_Armature_Pesanti)               |
+| 5   |     | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (necromanzia)                     |
 | 7   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (necromanzia) |
 | 9   |     | [incantesimi persistenti](https://golarion.altervista.org/wiki/Incantesimi_Persistenti)                                   |
 | 11  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
@@ -121,12 +121,32 @@ domini:
 | con. (piani)     | (int) |      | 1    |      | 2    | 3    | 4    |      | 5    | 6    | 7     |
 | con. (religione) | (int) |      | 1    | 2    | 3    |      | 4    | 5    | 6    |      | 7     |
 
-| abilità          | mod   | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 | lv.17 | lv.18 | lv.19 | lv.20 |
-| ---------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| sesto senso      | (sag) | 6     |       | 7     |       | 8     | 9     |       |       |       |       |
-| investigare      | (int) | 11    | 12    | 13    | 14    | 15    | 16    |       |       |       |       |
-| empatia          | (car) | 11    | 12    | 13    | 14    | 15    | 16    |       |       |       |       |
-| diplomazia       | (car) | 11    | 12    | 13    | 14    | 15    | 16    |       |       |       |       |
-| con. (arcane)    | (int) |       |       |       |       |       |       |       |       |       |       |
-| con. (piani)     | (int) |       | 8     | 9     | 10    |       | 11    |       |       |       |       |
-| con. (religione) | (int) | 8     | 9     |       | 10    | 11    |       |       |       |       |       |
+| abilità          | mod   | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 |
+| ---------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| sesto senso      | (sag) | 6     |       | 7     |       | 8     | 9     |
+| investigare      | (int) | 11    | 12    | 13    | 14    | 15    | 16    |
+| empatia          | (car) | 11    | 12    | 13    | 14    | 15    | 16    |
+| diplomazia       | (car) | 11    | 12    | 13    | 14    | 15    | 16    |
+| con. (arcane)    | (int) |       |       |       |       |       |       |
+| con. (piani)     | (int) |       | 8     | 9     | 10    |       | 11    |
+| con. (religione) | (int) | 8     | 9     |       | 10    | 11    |       |
+
+| abilità          | mod   | base | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | tot |
+| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | --- |
+| sesto senso      | (sag) | +8   | 1    |      | 2    |      | 3    | 4    | 12  |
+| investigare      | (int) | +6   | 2    | 3    | 4    |      | 5    |      | 11  |
+| empatia          | (car) | +1   | 3    | 4    | 5    | 6    | 7    | 8    | 9   |
+| diplomazia       | (car) | +1   | 3    | 4    | 5    | 6    | 7    | 8    | 9   |
+| con. (arcane)    | (int) | +6   | 2    | 3    |      | 4    | 5    |      | 11  |
+| con. (piani)     | (int) | +6   | 2    |      | 3    | 4    |      | 5    | 11  |
+| con. (religione) | (int) | +6   | 2    | 3    |      | 4    |      | 5    | 11  |
+
+| abilità          | mod   | lv.3 | lv.4 |
+| ---------------- | ----- | ---- | ---- |
+| sesto senso      | (sag) | +8   |      |
+| investigare      | (int) | +6   |      |
+| empatia          | (car) | +1   |      |
+| diplomazia       | (car) | +1   |      |
+| con. (arcane)    | (int) | +6   |      |
+| con. (piani)     | (int) | +6   |      |
+| con. (religione) | (int) | +6   |      |
