@@ -75,27 +75,35 @@ domini:
 | 8   |     | sollevare il velo (sop)  |
 
 ## Abilità
+| incrementi abilità | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 |
+| ------------------ | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| sesto senso        | (sag) | 1    |      | 2    |      | 3    |      | 4    |       | 5     |       | 6     | 7     |       | 8     |
+| investigare        | (int) | 3    | 4    | 5    | 6    | 7    |      |      |       | 8     | 9     | 10    | 11    |       |       |
+| empatia            | (car) | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10    | 11    | 12    | 13    | 14    | 15    | 16    |
+| diplomazia         | (car) | 3    | 4    | 5    | 6    | 7    |      |      |       | 8     | 9     |       | 10    | 11    |       |
+| con. (arcane)      | (int) | 2    | 3    | 4    |      |      |      |      | 5     | 6     |       | 7     |       | 8     | 9     |
+| con. (piani)       | (int) | 2    | 3    |      | 4    |      | 7    | 8    | 10    |       | 11    |       | 12    | 13    | 14    |
+| con. (religione)   | (int) | 1    |      |      | 2    | 3    | 4    | 6    | 7     |       | 8     | 9     |       | 10    | 11    |
 
-- [linguistica](https://golarion.altervista.org/wiki/Linguistica): 1
-- [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (religioni): MAX
-- [conoscenze](https://golarion.altervista.org/wiki/Conoscenze) (piani): MAX
-- [percezione](https://golarion.altervista.org/wiki/Percezione): MAX
-- [sapienza magica](https://golarion.altervista.org/wiki/Sapienza_Magica): MAX
+| bonus equip.     | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 |
+| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| sesto senso      | (sag) | +8   | +10  |      |      |      | +12  |      | +13   |       | +15   |       |       |       |       |
+| investigare      | (int) | +6   |      |      |      |      | +11  |      |       |       |       |       |       |       |       |
+| empatia          | (car) | +1   |      |      |      |      |      | +4   |       |       |       |       |       |       |       |
+| diplomazia       | (car) | +1   |      |      |      |      | +3   | +11  |       |       |       |       |       |       |       |
+| con. (arcane)    | (int) | +6   |      |      |      | +11  |      |      |       |       |       |       |       |       |       |
+| con. (piani)     | (int) | +6   |      |      |      |      |      |      |       |       |       |       |       |       |       |
+| con. (religione) | (int) | +8   |      |      |      |      | +9   |      |       |       |       |       |       |       |       |
 
-- [conoscenze (accademiche)](https://golarion.altervista.org/wiki/Conoscenze): 1
-- [conoscenze (religioni)](https://golarion.altervista.org/wiki/Conoscenze): MAX
-- [conoscenze (piani)](https://golarion.altervista.org/wiki/Conoscenze): MAX
-- [conoscenze (arcane)](https://golarion.altervista.org/wiki/Conoscenze): MAX
-- [sesto senso](): MAX
-- [indagare](): MAX
-
-- diplomazia: 10
-- conoscenze (religioni): 6
-- conoscenze (piani): 6
-- sesto senso: 5
-- indagare: 10
-- empatia: 10
-
+| totale abilità   | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 |
+| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| sesto senso      | (sag) | 9    | 11   | 12   | 12   | 13   | 15   | 16   | 17    | 18    | 20    | 21    | 22    | 22    | 23    |
+| investigare      | (int) | 9    | 10   | 11   | 12   | 13   | 18   | 18   | 18    | 19    | 20    | 21    | 22    | 22    | 22    |
+| empatia          | (car) | 4    | 5    | 6    | 7    | 8    | 9    | 13   | 14    | 15    | 16    | 17    | 18    | 19    | 20    |
+| diplomazia       | (car) | 4    | 5    | 6    | 7    | 8    | 10   | 18   | 18    | 19    | 20    | 21    | 21    | 21    | 22    |
+| con. (arcane)    | (int) | 8    | 9    | 10   | 10   | 15   | 15   | 15   | 16    | 17    | 17    | 18    | 18    | 19    | 20    |
+| con. (piani)     | (int) | 8    | 9    | 9    | 10   | 10   | 13   | 14   | 16    | 16    | 17    | 17    | 18    | 19    | 20    |
+| con. (religione) | (int) | 9    | 9    | 9    | 10   | 11   | 13   | 15   | 16    | 16    | 17    | 17    | 18    | 19    | 20    |
 ## Talenti
 
 | lvl | chk | talento                                                                                                                   |
@@ -110,33 +118,3 @@ domini:
 | 15  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                               |
 | 17  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
 | 19  |     |                                                                                                                           |
-
-| bonus equip.     | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 |
-| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| sesto senso      | (sag) | +8   | +10  |      |      |      | +12  |      | +13   |       | +15   |       |       |       |       |
-| investigare      | (int) | +6   |      |      |      |      | +11  |      |       |       |       |       |       |       |       |
-| empatia          | (car) | +1   |      |      |      |      |      | +4   |       |       |       |       |       |       |       |
-| diplomazia       | (car) | +1   |      |      |      |      | +3   | +11  |       |       |       |       |       |       |       |
-| con. (arcane)    | (int) | +6   |      |      |      | +11  |      |      |       |       |       |       |       |       |       |
-| con. (piani)     | (int) | +6   |      |      |      |      |      |      |       |       |       |       |       |       |       |
-| con. (religione) | (int) | +8   |      |      |      |      | +9   |      |       |       |       |       |       |       |       |
-
-| incrementi abilità | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 |
-| ------------------ | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| sesto senso        | (sag) | 1    |      | 2    |      | 3    |      | 4    |       | 5     |       | 6     | 7     |       | 8     |
-| investigare        | (int) | 3    | 4    | 5    | 6    | 7    |      |      |       | 8     | 9     | 10    | 11    |       |       |
-| empatia            | (car) | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10    | 11    | 12    | 13    | 14    | 15    | 16    |
-| diplomazia         | (car) | 3    | 4    | 5    | 6    | 7    |      |      |       | 8     | 9     |       | 10    | 11    |       |
-| con. (arcane)      | (int) | 2    | 3    | 4    |      |      |      |      | 5     | 6     |       | 7     |       | 8     | 9     |
-| con. (piani)       | (int) | 2    | 3    |      | 4    |      | 7    | 8    | 10    |       | 11    |       | 12    | 13    | 14    |
-| con. (religione)   | (int) | 1    |      |      | 2    | 3    | 4    | 6    | 7     |       | 8     | 9     |       | 10    | 11    |
-
-| totale abilità   | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 | lv.13 | lv.14 | lv.15 | lv.16 |
-| ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| sesto senso      | (sag) | 9    | 11   | 12   | 12   | 13   | 15   | 16   | 17    | 18    | 20    | 21    | 22    | 22    | 23    |
-| investigare      | (int) | 9    | 10   | 11   | 12   | 13   | 18   | 18   | 18    | 19    | 20    | 21    | 22    | 22    | 22    |
-| empatia          | (car) | 4    | 5    | 6    | 7    | 8    | 9    | 13   | 14    | 15    | 16    | 17    | 18    | 19    | 20    |
-| diplomazia       | (car) | 4    | 5    | 6    | 7    | 8    | 10   | 18   | 18    | 19    | 20    | 21    | 21    | 21    | 22    |
-| con. (arcane)    | (int) | 8    | 9    | 10   | 10   | 15   | 15   | 15   | 16    | 17    | 17    | 18    | 18    | 19    | 20    |
-| con. (piani)     | (int) | 8    | 9    | 9    | 10   | 10   | 13   | 14   | 16    | 16    | 17    | 17    | 18    | 19    | 20    |
-| con. (religione) | (int) | 9    | 9    | 9    | 10   | 11   | 13   | 15   | 16    | 16    | 17    | 17    | 18    | 19    | 20    |
