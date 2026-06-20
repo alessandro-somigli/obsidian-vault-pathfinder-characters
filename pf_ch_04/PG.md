@@ -146,19 +146,20 @@ domini:
 | abilità          | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 |
 | ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- |
 | sesto senso      | (sag) | 1    |      | 2    |      | 3    |      | 4    |       | 5     |       |
-| investigare      | (int) |      |      |      |      |      |      |      |       |       |       |
+| investigare      | (int) | 3    | 4    | 5    | 6    | 7    |      |      |       | 8     | 9     |
 | empatia          | (car) | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10    | 11    | 12    |
-| diplomazia       | (car) |      |      |      |      |      |      |      |       |       |       |
-| con. (arcane)    | (int) |      |      |      |      |      |      |      |       |       |       |
-| con. (piani)     | (int) |      |      |      |      |      |      |      |       |       |       |
-| con. (religione) | (int) |      |      |      |      |      |      |      |       |       |       |
+| diplomazia       | (car) | 3    | 4    | 5    | 6    | 7    |      |      |       | 8     | 9     |
+| con. (arcane)    | (int) | 2    | 3    |      | 4    |      | 5    | 6    | 7     |       |       |
+| con. (piani)     | (int) | 2    | 3    |      | 4    |      | 5    | 6    | 7     |       |       |
+| con. (religione) | (int) | 1    |      | 2    |      | 3    | 4    | 5    | 6     |       |       |
 
 | abilità          | mod   | lv.3 | lv.4 | lv.5 | lv.6 | lv.7 | lv.8 | lv.9 | lv.10 | lv.11 | lv.12 |
 | ---------------- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ----- |
-| sesto senso      | (sag) | 9    | 11   |      |      |      | 13   |      | 15    |       | 20    |
-| investigare      | (int) | 9    |      |      |      |      |      |      |       |       | 20    |
+| sesto senso      | (sag) | 9    | 11   | 12   | 12   | 13   | 15   | 16   | 17    | 18    | 20    |
+| investigare      | (int) | 9    | 10   | 11   | 12   | 13   | 18   | 18   | 18    | 19    | 20    |
 | empatia          | (car) | 4    | 5    | 6    | 7    | 8    | 9    | 13   | 14    | 15    | 16    |
-| diplomazia       | (car) | 4    | 5    | 6    |      |      |      |      |       |       | 20    |
-| con. (arcane)    | (int) | 8    |      |      |      |      |      |      |       |       | 17    |
-| con. (piani)     | (int) | 8    |      |      |      |      |      |      |       |       | 17    |
-| con. (religione) | (int) | 9    |      |      |      |      |      |      |       |       | 17    |
+| diplomazia       | (car) | 4    | 5    | 6    | 7    | 8    | 10   | 18   | 18    | 19    | 20    |
+| con. (arcane)    | (int) | 8    | 9    | 9    | 10   | 10   | 12   |      |       |       | 17    |
+| con. (piani)     | (int) | 8    | 9    | 9    | 10   | 10   | 11   |      |       |       | 17    |
+| con. (religione) | (int) | 9    | 9    | 10   | 10   | 11   | 12   |      |       |       | 17    |
+|                  |       |      | 2    | 1    | 2    | 1    | 4    | 3    | 4     | 1     | 2     |
