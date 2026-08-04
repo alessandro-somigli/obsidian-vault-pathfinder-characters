@@ -53,10 +53,14 @@
             "id": "b1462c57b4a18b1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pf_ch_04/Equipaggiamento.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Equipaggiamento"
             }
           }
         ],
@@ -228,8 +232,8 @@
   "active": "b1462c57b4a18b1d",
   "lastOpenFiles": [
     "pf_ch_04/Incantesimi.md",
-    "pf_ch_04/PG.md",
     "pf_ch_04/Equipaggiamento.md",
+    "pf_ch_04/PG.md",
     "pf_ch_04/Creature Evocate.md",
     "pf_ch_04/Creature Legame Planare.md",
     "pf_ch_04/Procedure e Rituali.md",
