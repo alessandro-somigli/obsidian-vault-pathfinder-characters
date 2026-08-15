@@ -1,4 +1,4 @@
-#### Consumabilii:
+#### Consumabili:
 - [Kit per Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (40 mo)
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
 - [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
