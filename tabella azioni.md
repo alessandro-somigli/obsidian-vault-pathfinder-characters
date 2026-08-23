@@ -14,7 +14,6 @@
 | Estrarre un'arma occultata (vedi [Rapidità di Mano](https://golarion.altervista.org/wiki/Rapidit%C3%A0_di_Mano "Rapidità di Mano"))                              | No                         |
 | [Fintare](https://golarion.altervista.org/wiki/Fintare "Fintare")                                                                                                | No                         |
 | [Incanalare Energia](https://golarion.altervista.org/wiki/Incanalare_Energia "Incanalare Energia")                                                               | No                         |
-| Interrompere un incantesimo                                                                                                                                      | No                         |
 | Lanciare un incantesimo (tempo di lancio 1 azione standard)                                                                                                      | Sì                         |
 | Leggere una pergamena                                                                                                                                            | Sì                         |
 | Liberarsi da una [Lotta](https://golarion.altervista.org/wiki/Lottare "Lottare")                                                                                 | No                         |
@@ -25,27 +24,24 @@
 | Usare una capacità soprannaturale                                                                                                                                | No                         |
 | Usare una capacità straordinaria                                                                                                                                 | No                         |
 
-|                                                                                                                                                                                                                               |                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | **Azione di Movimento**                                                                                                                                                                                                       | **Attacco di Opportunità** |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | Muoversi                                                                                                                                                                                                                      | Sì                         |
 | Alzarsi in piedi da [Prono](https://golarion.altervista.org/wiki/Prono "Prono")                                                                                                                                               | Sì                         |
 | Aprire o chiudere una porta                                                                                                                                                                                                   | No                         |
 | Caricare una [Balestra a Mano](https://golarion.altervista.org/wiki/Armi/Balestra_a_Mano "Armi/Balestra a Mano") o una [Balestra Leggera](https://golarion.altervista.org/wiki/Armi/Balestra_Leggera "Armi/Balestra Leggera") | Sì                         |
 | Controllare una cavalcatura [Spaventata](https://golarion.altervista.org/wiki/Spaventato "Spaventato")                                                                                                                        | Sì                         |
 | Dirigere o cambiare direzione a un incantesimo attivo                                                                                                                                                                         | No                         |
-| Estrarre un'arma2                                                                                                                                                                                                             | No                         |
 | Montare o smontare da cavallo                                                                                                                                                                                                 | No                         |
-| Preparare o lasciar cadere uno scudo2                                                                                                                                                                                         | No                         |
 | Raccogliere un oggetto                                                                                                                                                                                                        | Sì                         |
 | Recuperare un oggetto custodito                                                                                                                                                                                               | Sì                         |
-| Rinfoderare un'arma                                                                                                                                                                                                           | Sì                         |
+| Preparare/Rinfoderare un'arma                                                                                                                                                                                                 | No                         |
 | Spingere un oggetto pesante                                                                                                                                                                                                   | Sì                         |
 | Fiutare una creatura con [Fiuto](https://golarion.altervista.org/wiki/Fiuto "Fiuto")                                                                                                                                          | No                         |
+| Interrompere un incantesimo                                                                                                                                                                                                   | No                         |
 
-|                                                                                                             |                            |
-| ----------------------------------------------------------------------------------------------------------- | -------------------------- |
 | **Azione di Round Completo**                                                                                | **Attacco di Opportunità** |
+| ----------------------------------------------------------------------------------------------------------- | -------------------------- |
 | Attacco completo                                                                                            | No                         |
 | Accendere una torcia                                                                                        | Sì                         |
 | Assicurare o meno un'arma al guanto d'arme                                                                  | Sì                         |
@@ -85,7 +81,8 @@
 - è possibile costruirle con degli ingredienti?
 
 lv.1: 1d6
-lv.2: 2d6
+lv.3: 2d6
+lv.5: 
 
 
 
