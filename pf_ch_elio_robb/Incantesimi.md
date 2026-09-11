@@ -1,4 +1,3 @@
-
 ## Lv.1 (0):
 - buff:
 	- (0) [Acume Tattico](https://golarion.altervista.org/wiki/Incantesimi/Acume_Tattico)

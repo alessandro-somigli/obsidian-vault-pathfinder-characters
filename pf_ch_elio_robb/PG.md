@@ -17,7 +17,7 @@ tratti:
 livello: 3
 punti eroe: 0
 
-pf: 
+pf: -
 
 | stats | base | race | tot | mod |
 | ----- | ---- | ---- | --- | --- |
@@ -62,8 +62,6 @@ privilegi di classe:
 | 14  |     | Aura di Fede                |
 | 17  |     | Aura di Rettitudine         |
 | 20  |     | Campione Sacro              |
-
-
 ## Talenti:
 
 | lvl | chk | privilegio di classe                                                                            |
