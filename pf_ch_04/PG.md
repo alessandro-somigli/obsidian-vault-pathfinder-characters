@@ -18,8 +18,8 @@ tratti:
 
 ## Stats
 
-livello: 1
-punti eroe: 3
+livello: 3
+punti eroe: 0
 
 pf: 36
 

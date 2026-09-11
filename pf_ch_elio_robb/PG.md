@@ -1,12 +1,55 @@
 Nome: Robb
+allineamento: LB
+
+linguaggi: 
+età: 
+altezza: 
+peso: 
+
+classe preferita: [Paladino](https://golarion.altervista.org/wiki/Paladino)
+
+tratti:
+- [Auspicio](https://golarion.altervista.org/wiki/Tratti_Base#Auspicio)
+- [Tattico](https://golarion.altervista.org/wiki/Tratti_Base#Tattico)
+
+## Stats
+
+livello: 3
+punti eroe: 0
+
+pf: 
+
+| stats | base | race | age | tot | mod |
+| ----- | ---- | ---- | --- | --- | --- |
+| FOR   |      |      |     |     |     |
+| DEX   |      |      |     |     |     |
+| COS   |      |      |     |     |     |
+| INT   |      |      |     |     |     |
+| SAG   |      |      |     |     |     |
+| CAR   |      |      |     |     |     |
+## Razza
+
+razza: Androide
+
+tratti razziali:
+- 
+
+
+## Classe
 
 Classe: Paladino
 Archetipo: 
 
-Razza: Androide
+gradi abilità per livello: `2 + MOD.INT`
 
-Talenti: 
-intimidire:
+privilegi di classe:
+
+| lvl | chk | privilegio di classe |
+| --- | --- | -------------------- |
+| 1   | X   |                      |
+
+
+## Talenti:
 
 1:  [Arma Focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata)
 3:  [Attacco Poderoso](https://golarion.altervista.org/wiki/Attacco_Poderoso)
@@ -16,8 +59,8 @@ intimidire:
 11: [Abilità Distintiva](https://golarion.altervista.org/wiki/Abilit%C3%A0_Distintiva) (intimidire)
 13: [Furia Focalizzata](https://golarion.altervista.org/wiki/Furia_Focalizzata)
 15: [Vigoria in Combattimento](https://golarion.altervista.org/wiki/Vigoria_in_Combattimento)
-17: [Maestria Intimorente](https://golarion.altervista.org/wiki/Maestria_Intimorente)
-19: [Spezzare le Difese](https://golarion.altervista.org/wiki/Spezzare_le_Difese)
+17: [Maestria Intimorente](https://golarion.altervista.org/wiki/Maestria_Intimorente) (?)
+19: [Spezzare le Difese](https://golarion.altervista.org/wiki/Spezzare_le_Difese) (?)
 
 
 
