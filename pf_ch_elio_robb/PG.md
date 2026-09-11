@@ -49,19 +49,19 @@ privilegi di classe:
 | lvl | chk | privilegio di classe        |
 | --- | --- | --------------------------- |
 | 1   | X   | Individuazione del Male     |
-| 1   |     | Punire il Male              |
-| 2   |     | Grazia Divina               |
-| 2   |     | Imposizione delle Mani      |
-| 3   |     | Aura di Coraggio            |
-| 3   |     | Salute Divina               |
-| 3   |     | Indulgenza                  |
-|     |     | Incanalare Energia Positiva |
-|     |     | Legame Divi                 |
-|     |     |                             |
-|     |     |                             |
-|     |     |                             |
-|     |     |                             |
-|     |     |                             |
+| 1   | X   | Punire il Male              |
+| 2   | X   | Grazia Divina               |
+| 2   | X   | Imposizione delle Mani      |
+| 3   | X   | Aura di Coraggio            |
+| 3   | X   | Salute Divina               |
+| 3   | X   | Indulgenza                  |
+| 4   |     | Incanalare Energia Positiva |
+| 5   |     | Legame Divino               |
+| 8   |     | Aura di Fermezza            |
+| 11  |     | Aura di Giustizia           |
+| 14  |     | Aura di Fede                |
+| 17  |     | Aura di Rettitudine         |
+| 20  |     | Campione Sacro              |
 
 
 ## Talenti:
