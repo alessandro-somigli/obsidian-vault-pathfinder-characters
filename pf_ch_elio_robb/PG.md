@@ -19,26 +19,24 @@ punti eroe: 0
 
 pf: 
 
-| stats | base | race | age | tot | mod |
-| ----- | ---- | ---- | --- | --- | --- |
-| FOR   |      |      |     |     |     |
-| DEX   |      |      |     |     |     |
-| COS   |      |      |     |     |     |
-| INT   |      |      |     |     |     |
-| SAG   |      |      |     |     |     |
-| CAR   |      |      |     |     |     |
+| stats | base | race | tot | mod |
+| ----- | ---- | ---- | --- | --- |
+| FOR   | 18   |      | 18  | +4  |
+| DEX   | 12   | +2   | 14  | +2  |
+| COS   | 14   |      | 14  | +2  |
+| INT   | 12   | +2   | 14  | +2  |
+| SAG   | 8    |      | 8   | -1  |
+| CAR   | 18   | -2   | 16  | +3  |
 ## Razza
 
 razza: Androide
 
 tratti razziali:
-- privo di emozioni: `immunità paura, -4 intuizione`
-- impulso dei naniti: `azione immediata, bonus 3+livello a un tiro di d20`
-- sensi eccezionali: `scurovisione 18m, +2 percezione`
-- linguaggi:
- 
-
-
+- costrutto: +4 TS influenza mentale, paralisi, stordimento, veleno
+- privo di emozioni: immunità paura, -4 intuizione
+- impulso dei naniti: azione immediata, bonus 3+livello a un tiro di d20
+- sensi eccezionali: scurovisione 18m, +2 percezione
+- linguaggi: Comune, -, -
 ## Classe
 
 Classe: Paladino
