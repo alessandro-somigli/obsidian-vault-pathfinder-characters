@@ -1,3 +1,4 @@
+
 ## Lv.1:
 https://golarion.altervista.org/wiki/Incantesimi/Acume_Tattico
 https://golarion.altervista.org/wiki/Incantesimi/Benedizione
@@ -29,4 +30,13 @@ golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie
 
 https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo
 ## Lv.4:
+https://golarion.altervista.org/wiki/Incantesimi/Fiamme_della_Gloria (I)
+https://golarion.altervista.org/wiki/Incantesimi/Fermare_il_Colpo (I)
+https://golarion.altervista.org/wiki/Incantesimi/Litania_di_Vendetta (V)
+https://golarion.altervista.org/wiki/Incantesimi/Colpo_Riverberante (V)
+https://golarion.altervista.org/wiki/Incantesimi/Ristorare
+
+https://golarion.altervista.org/wiki/Incantesimi/Concedere_Grazia_del_Campione
+
+
 
