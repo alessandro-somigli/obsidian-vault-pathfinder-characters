@@ -10,6 +10,8 @@ sorting-spec: |-
   pf_ch_oneshot_5
   pf_ch_oneshot_6
   pf_test_adventure_1
+  pf_ch_zemenis
+  pf_ch_elio_robb
   sortspec
 
   target-folder: pf_ch_02

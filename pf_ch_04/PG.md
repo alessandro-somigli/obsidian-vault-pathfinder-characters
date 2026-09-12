@@ -21,7 +21,7 @@ tratti:
 livello: 3
 punti eroe: 0
 
-pf: 36
+pf: 32
 
 | stats | base | race | age | tot | mod |
 | ----- | ---- | ---- | --- | --- | --- |

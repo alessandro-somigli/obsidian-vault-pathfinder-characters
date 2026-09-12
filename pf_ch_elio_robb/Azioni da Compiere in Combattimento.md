@@ -1,10 +1,10 @@
 
 azioni standard:
 - attacco
-- lanciare incantesimo
+- lanciare un incantesimo
 - imposizione delle mani
 - incanalare energia
-- potenziamento legame divino
+- potenziamento del legame divino
 
 azioni di movimento:
 - muoversi
