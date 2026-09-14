@@ -74,9 +74,11 @@ Un personaggio può:
 #### Bab +11:
 - Attaccare 3 volte (+effetti di velocità)
 - Muoversi al doppio della propria velocità di movimento
-- Attaccare 1 volta e muoversi alla propria velocità di movimento (+effetti di velocità)
+- Attaccare 2 volte e muoversi alla propria velocità di movimento (+effetti di velocità)
 #### Bab +16:
-
+- Attaccare 4 volte (+effetti di velocità)
+- Muoversi al doppio della propria velocità di movimento
+- Attaccare 3 volte e muoversi alla propria velocità di movimento (+effetti di velocità)
 
 
 ### Fiala Curativa:
