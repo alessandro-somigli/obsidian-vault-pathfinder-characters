@@ -81,7 +81,6 @@ Un personaggio può:
 - Attaccare 2 volte e muoversi alla propria velocità di movimento (+effetti di velocità)
 - Muoversi al doppio della propria velocità di movimento
 
-
 ### Fiala Curativa:
 Si aggiungono i seguenti oggetti alla [lista degli oggetti d'avventura](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura):
 
@@ -106,8 +105,8 @@ fiala di cura lv.3:
 - è possibile costruirle con degli ingredienti?
 	- abilità sopravvivenza (?)
 
-
-
-
-
-
+### Buone idee per incentivare il movimento:
+- Creare meccaniche di terreno:
+	- Attacco in salto
+	- Bonus/Malus in base all'altezza relativa al nemico
+	- Implementare Copertura
