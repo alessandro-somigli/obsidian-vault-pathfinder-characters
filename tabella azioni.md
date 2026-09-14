@@ -74,15 +74,28 @@
 | Ritardare          | No                         |
 
 #### Definisci Fiala Curativa:
-- ci sono livelli di cura?
-- quanto costa?
-- quanto cura?
 - dove si possono comprare? sono disponibili dovunque?
 - è possibile costruirle con degli ingredienti?
 
-lv.1: 1d6
-lv.3: 2d6
-lv.5: 
+fiala piccola lv.1:
+- lv. 1, 2, 3
+- costo: 25mo
+- cura: 1d4+1 (3.5)
+fiala piccola lv.2:
+- lv. 4, 5, 6
+- costo: 75mo
+- cura: 2d4+3 (8)
+fiala piccola lv.3:
+- lv. 7, 8, 9
+- costo: 225mo
+- cura: 3d4+5 (12.5)
+
+
+
+Idee:
+cura piccola, azione veloce
+
+
 
 
 
