@@ -110,3 +110,9 @@ fiala di cura lv.3:
 	- Attacco in salto
 	- Bonus/Malus in base all'altezza relativa al nemico
 	- Implementare Copertura
+- Creare nuove azioni a distanza:
+	- Provocazione (+2 TPC)
+
+### Ridefinizione Regole di Copertura:
+- 
+
