@@ -65,20 +65,21 @@ L'azione di Round Completo si definisce in questo modo in base alla BAB del pers
 #### Bab +0:
 Un personaggio può:
 - Attaccare 1 volta (+effetti di velocità)
-- Muoversi al doppio della propria velocità di movimento
 - Attaccare 1 volta e muoversi alla propria velocità di movimento
+- Muoversi al doppio della propria velocità di movimento
 #### Bab +6:
 - Attaccare 2 volte (+effetti di velocità)
-- Muoversi al doppio della propria velocità di movimento
 - Attaccare 1 volta e muoversi alla propria velocità di movimento (+effetti di velocità)
+- Muoversi al doppio della propria velocità di movimento
 #### Bab +11:
 - Attaccare 3 volte (+effetti di velocità)
-- Muoversi al doppio della propria velocità di movimento
 - Attaccare 2 volte e muoversi alla propria velocità di movimento (+effetti di velocità)
+- Muoversi al doppio della propria velocità di movimento
 #### Bab +16:
 - Attaccare 4 volte (+effetti di velocità)
+- Attaccare 3 volte e muoversi a 3/4 della propria velocità di movimento (+effetti di velocità)
+- Attaccare 2 volte e muoversi alla propria velocità di movimento (+effetti di velocità)
 - Muoversi al doppio della propria velocità di movimento
-- Attaccare 3 volte e muoversi alla propria velocità di movimento (+effetti di velocità)
 
 
 ### Fiala Curativa:
