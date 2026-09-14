@@ -44,20 +44,17 @@
 | Spegnere le fiamme                                                                                          | No                         |
 | Usare un incantesimo a contatto su massimo 6 alleati                                                        | Sì                         |
 
-|                                |                            |
-| ------------------------------ | -------------------------- |
 | **Azione Veloce**              | **Attacco di Opportunità** |
+| ------------------------------ | -------------------------- |
 | Lanciare un incantesimo rapido | No                         |
 | Bere una fiala curativa        | No                         |
 
-|                                                                                                                                   |                            |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | **Azione Immediata**                                                                                                              | **Attacco di Opportunità** |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | Lanciare un incantesimo immediato (e.g. _[Caduta Morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida")_) | No                         |
 
-|                    |                            |
-| ------------------ | -------------------------- |
 | **Non un'Azione**  | **Attacco di Opportunità** |
+| ------------------ | -------------------------- |
 | Passo di 1,5 metri | No                         |
 | Ritardare          | No                         |
 ### Azione di Round Completo:
@@ -80,7 +77,6 @@ Un personaggio può:
 - Attaccare 3 volte e muoversi a 3/4 della propria velocità di movimento (+effetti di velocità)
 - Attaccare 2 volte e muoversi alla propria velocità di movimento (+effetti di velocità)
 - Muoversi al doppio della propria velocità di movimento
-
 ### Fiala Curativa:
 Si aggiungono i seguenti oggetti alla [lista degli oggetti d'avventura](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura):
 

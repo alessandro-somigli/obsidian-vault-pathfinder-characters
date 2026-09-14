@@ -64,7 +64,7 @@ privilegi di classe:
 | 20  |     | Campione Sacro              |
 ## Talenti:
 
-| lvl | chk | privilegio di classe                                                                            |
+| lvl | chk | talenti                                                                                         |
 | --- | --- | ----------------------------------------------------------------------------------------------- |
 | 1   | X   | [Arma Focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata)                       |
 | 3   | X   | [Attacco Poderoso](https://golarion.altervista.org/wiki/Attacco_Poderoso)                       |
