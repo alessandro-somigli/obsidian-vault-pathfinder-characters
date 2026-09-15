@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rework Abilità di Pathfinder.md",
+                "file": "Homebrew/Tabella Azioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rework Abilità di Pathfinder"
+              "title": "Tabella Azioni"
             }
           }
         ]
@@ -190,10 +190,10 @@
   },
   "active": "7afcce6a0aab29d7",
   "lastOpenFiles": [
-    "Homebrew/Tabella Azioni.md",
-    "Homebrew/Bonus e Malus in Base all'Altezza.md",
     "Homebrew/Rework Abilità di Pathfinder.md",
     "Homebrew/Regole di Copertura.md",
+    "Homebrew/Tabella Azioni.md",
+    "Homebrew/Bonus e Malus in Base all'Altezza.md",
     "Homebrew/Fiale di Cura.md",
     "Homebrew",
     "pf_ch_elio_robb/PG.md",

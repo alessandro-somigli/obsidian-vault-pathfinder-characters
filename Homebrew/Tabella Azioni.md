@@ -86,8 +86,17 @@ Un personaggio può:
 	- Provocazione (+2 TPC)
 
 ### Regole di Attacco in Salto:
+danno:
+- in base al livello personaggio, come attacco furtivo
+- ogni 3 metri +1 al danno
+- ogni 3 metri +1 al tiro per colpire
+- ogni 3 metri +1 alla minaccia di critico
+
 
 
 ### Regole di Provocazione:
 
+- muoversi alla propria velocità di movimento
+- prova di raggirare (azione standard)
+- se ha successo il bersaglio segue ed attacca
 
