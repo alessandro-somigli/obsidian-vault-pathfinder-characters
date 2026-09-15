@@ -89,5 +89,6 @@ Un personaggio può:
 
 ### Bonus e Malus in base all'altezza:
 
-### Ridefinizione Regole di Copertura:
+### Regole di Provocazione:
+
 
