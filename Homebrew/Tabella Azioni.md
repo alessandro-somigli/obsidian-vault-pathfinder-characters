@@ -87,7 +87,6 @@ Un personaggio può:
 
 ### Regole di Attacco in Salto:
 
-### Bonus e Malus in base all'altezza:
 
 ### Regole di Provocazione:
 
