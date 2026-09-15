@@ -110,5 +110,5 @@ fiala di cura lv.3:
 	- Provocazione (+2 TPC)
 
 ### Ridefinizione Regole di Copertura:
-- 
+- Traccia una linea dal 
 
