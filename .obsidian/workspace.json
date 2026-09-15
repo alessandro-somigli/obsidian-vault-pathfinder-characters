@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Tabella Azioni.md",
+                "file": "Homebrew/Azione di Round Completo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tabella Azioni"
+              "title": "Azione di Round Completo"
             }
           }
         ]
@@ -190,11 +190,12 @@
   },
   "active": "7afcce6a0aab29d7",
   "lastOpenFiles": [
-    "Homebrew/Rework Abilità di Pathfinder.md",
-    "Homebrew/Regole di Copertura.md",
-    "Homebrew/Tabella Azioni.md",
     "Homebrew/Bonus e Malus in Base all'Altezza.md",
     "Homebrew/Fiale di Cura.md",
+    "Homebrew/Regole di Copertura.md",
+    "Homebrew/Rework Abilità di Pathfinder.md",
+    "Homebrew/Tabella Azioni.md",
+    "Homebrew/Azione di Round Completo.md",
     "Homebrew",
     "pf_ch_elio_robb/PG.md",
     "pf_ch_elio_robb/Azioni da Compiere in Combattimento.md",
@@ -219,7 +220,6 @@
     "Cronaca.md",
     "[Cronaca.md",
     "pf_ch_02/Equipaggiamento.md",
-    "pf_ch_02/PG.md",
     "pf_ch_oneshot_6",
     "pf_test_adventure_1",
     "pf_ch_oneshot_5",
