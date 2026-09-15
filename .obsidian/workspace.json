@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Rework Abilità di Pathfinder.md",
+                "file": "Homebrew/Tabella Azioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rework Abilità di Pathfinder"
+              "title": "Tabella Azioni"
             }
           }
         ]
@@ -188,10 +188,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "06e52a5d61a5b2c5",
+  "active": "7afcce6a0aab29d7",
   "lastOpenFiles": [
-    "Homebrew",
+    "Homebrew/Rework Abilità di Pathfinder.md",
     "Homebrew/Tabella Azioni.md",
+    "Homebrew",
     "pf_ch_elio_robb/PG.md",
     "pf_ch_elio_robb/Azioni da Compiere in Combattimento.md",
     "pf_ch_elio_robb/Equipaggiamento.md",
@@ -212,7 +213,6 @@
     "Untitled.base",
     "pf_ch_04/Strategie.md",
     "pf_ch_elio_zemenis/PG.md",
-    "Homebrew/Rework Abilità di Pathfinder.md",
     "Cronaca.md",
     "[Cronaca.md",
     "pf_ch_02/Equipaggiamento.md",
@@ -225,7 +225,6 @@
     "pf_ch_oneshot_4",
     "pf_ch_oneshot_3",
     "pf_ch_oneshot_2",
-    "pf_ch_04",
     "Untitled.canvas"
   ]
 }
