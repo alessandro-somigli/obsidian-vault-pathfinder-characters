@@ -58,7 +58,14 @@
 | Passo di 1,5 metri | No                         |
 | Ritardare          | No                         |
 ### Regole di Attacco in Salto:
-Quando si è posizionati 
+Durante il combattimento se la propria base di appoggio è almeno 3m in altezza rispetto alla base d'appoggio del bersaglio, è possibile compiere un'attacco in salto come azione standard.
+
+L'azione di attacco in salto permette di compiere un passo di 1.5m per poi compiere un singolo attacco in mischia contro il bersaglio nel caso questo si trovi nel raggio di minaccia, per ogni 3 metri 
+
+
+
+
+
 danno:
 - in base al livello personaggio, come attacco furtivo
 - ogni 3 metri +1 al danno
