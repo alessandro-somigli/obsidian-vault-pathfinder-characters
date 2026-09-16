@@ -58,6 +58,7 @@
 | Passo di 1,5 metri | No                         |
 | Ritardare          | No                         |
 ### Regole di Attacco in Salto:
+Quando si è posizionati 
 danno:
 - in base al livello personaggio, come attacco furtivo
 - ogni 3 metri +1 al danno
