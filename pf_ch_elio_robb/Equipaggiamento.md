@@ -1,7 +1,5 @@
 - arma: [Mazzapicchio](https://golarion.altervista.org/wiki/Armi/Mazzapicchio "https://golarion.altervista.org/wiki/Armi/Mazzapicchio") +1 (2015mo)
 - armatura: [Corazza di Piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre "Armature/Corazza di Piastre") (200mo)
-
-
 ### Wishlist
 - arma: [Mazzapicchio](https://golarion.altervista.org/wiki/Armi/Mazzapicchio "https://golarion.altervista.org/wiki/Armi/Mazzapicchio") (8/18/32/50 kmo)
 - armatura: [Corazza di Piastre](https://golarion.altervista.org/wiki/Armature/Corazza_di_Piastre "Armature/Corazza di Piastre") (1/4/9/16/25 kmo)
@@ -13,6 +11,3 @@
 - anello 1: [Anello di Protezione](https://golarion.altervista.org/wiki/Anello_di_Protezione) (2/8/18 kmo)
 
 - [borsa conservante](https://golarion.altervista.org/wiki/Borsa_Conservante) (2.5/5/7.4 kmo)
-
-
-

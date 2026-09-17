@@ -1,7 +1,6 @@
 Nome: Robb
 allineamento: LB
 
-linguaggi: 
 età: 
 altezza: 
 peso: 
