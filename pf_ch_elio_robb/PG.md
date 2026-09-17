@@ -36,7 +36,7 @@ tratti razziali:
 - privo di emozioni: immunità paura, -4 intuizione
 - impulso dei naniti: azione immediata, bonus 3+livello a un tiro di d20
 - sensi eccezionali: scurovisione 18m, +2 percezione
-- linguaggi: Comune, -, -
+- linguaggi: Comune, Sottocomune, Silvano
 ## Classe
 
 Classe: Paladino

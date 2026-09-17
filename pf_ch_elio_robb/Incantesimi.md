@@ -9,7 +9,6 @@
 	- (0) [Comando di Liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 - utility:
 	- (0) [Conoscere il Nemico](https://golarion.altervista.org/wiki/Incantesimi/Conoscere_il_Nemico)
-
 ## Lv.2 (0):
 - buff:
 	- (0) [Giusto Vigore](https://golarion.altervista.org/wiki/Incantesimi/Giusto_Vigore)
@@ -20,7 +19,6 @@
 	- (0) [Scudo su Altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (1h/lv)
 - utility:
 	- (0) [Contrastare Elementi Collettivo](https://golarion.altervista.org/wiki/Incantesimi/Contrastare_Elementi_Collettivo) (1d)
-
 ## Lv.3 (0):
 - buff:
 	- (0) [Esplosione di Velocità](https://golarion.altervista.org/wiki/Incantesimi/Esplosione_di_Velocit%C3%A0) (V)
@@ -40,4 +38,3 @@
 - cure/protezioni:
 	- (0) [Ristorare](https://golarion.altervista.org/wiki/Incantesimi/Ristorare)
 	- (0) [Fiamme della Gloria](https://golarion.altervista.org/wiki/Incantesimi/Fiamme_della_Gloria) (I)
-
