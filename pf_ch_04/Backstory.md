@@ -49,7 +49,7 @@ Alhazred decide quindi di confrontare Llengrath, e inizialmente è lieto di sent
 
 Man mano che continua con la sua spiegazione, parla però anche di automi di sorveglianza e da guerra, prova a ..., giustificando la loro esistenza dipingendoli come parte essenziale di una vita pacifica e parlando di come potrebbero rimuovere le persone dalla guerra, un'altro aspetto orribile della vita.
 
-Alhazred sa che qualcosa non torna, il tono di Llengrath 
+Alhazred sa che qualcosa non torna, il tono di Llengrath ..., 
 
 
 
