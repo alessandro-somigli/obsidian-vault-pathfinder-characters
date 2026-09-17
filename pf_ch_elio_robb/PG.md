@@ -1,16 +1,15 @@
 Nome: Robb
 allineamento: LB
 
-età: 
-altezza: 
-peso: 
+età: -
+altezza: 2.5m
+peso: 300Kg
 
 classe preferita: [Paladino](https://golarion.altervista.org/wiki/Paladino)
 
 tratti:
 - [Auspicio](https://golarion.altervista.org/wiki/Tratti_Base#Auspicio)
 - [Tattico](https://golarion.altervista.org/wiki/Tratti_Base#Tattico)
-
 ## Stats
 
 livello: 3

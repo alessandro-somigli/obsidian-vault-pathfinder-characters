@@ -18,4 +18,3 @@
 - aura di giustizia
 ##### azioni immediate:
 - impulso dei naniti
-
