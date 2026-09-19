@@ -59,7 +59,7 @@ Alhazred si ricompone lentamente ed inizia a pensare: se non fosse uscito di nas
 
 ### Pt.6
 
-Quando Alhazred entra nel vasto sistema di caverne e cunicoli rimane stupito dalla moltitudine e varietà di cristalli presenti, sono anni che la miniera viene scavata eppure tutte le superfici sono talmente coperte di materiale che spesso la roccia non è proprio visibile.
+Quando Alhazred entra nel vasto sistema di caverne e cunicoli rimane stupito dalla moltitudine e varietà di cristalli presenti, sono anni che la miniera viene scavata eppure tutte le superfici sono talmente coperte di materiale che spesso la roccia non è neanche visibile.
 
 
 
