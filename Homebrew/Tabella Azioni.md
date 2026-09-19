@@ -62,10 +62,6 @@ Durante il combattimento se la propria base di appoggio è almeno 3m in altezza 
 
 L'azione di attacco in salto permette di compiere un passo di 1.5m per poi compiere un singolo attacco in mischia contro il bersaglio nel caso questo si trovi nel raggio di minaccia, per ogni 3 metri 
 
-
-
-
-
 danno:
 - in base al livello personaggio, come attacco furtivo
 - ogni 3 metri +1 al danno
@@ -76,4 +72,7 @@ danno:
 - muoversi alla propria velocità di movimento
 - prova di raggirare (azione standard)
 - se ha successo il bersaglio segue ed attacca
+### Regole di Duello
+
+
 

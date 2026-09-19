@@ -57,10 +57,9 @@ Mentre torna dalla città verso il suo laboratorio assiste però a qualcosa che 
 
 Alhazred si ricompone lentamente ed inizia a pensare: se non fosse uscito di nascosto quella sera sarebbe sicuramente morto, infatti è quasi un miracolo sia ancora vivo. Nonostante questo, le circostanze in cui si trova adesso potrebbero portare a dei vantaggi, in quanto Llengrath pensa sia morto. Decide quindi di ripiegare al piano B e si dirige immediatamente verso i depositi di cristalli per farli saltare in aria la sera stessa.
 
-###
+### Pt.6
 
-Dopo una lunga camminata Alhazred arriva ad uno dei depositi di cristalli, è ormai quasi mattina, scavalca le recinzioni ed entra nel vasto sistema di caverne sottostanti.
-
+Quando Alhazred entra nel vasto sistema di caverne e cunicoli rimane stupito dalla moltitudine e varietà di cristalli presenti, sono anni che la miniera viene scavata eppure tutte le superfici sono talmente coperte di materiale che spesso la roccia non è proprio visibile.
 
 
 
