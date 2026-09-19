@@ -36,7 +36,7 @@ Nei mesi successivi Alhazred conferma le ipotesi formulate inizialmente: lasciat
 
 Questa scoperta si rivela cruciale per la visione di Llengrath, adesso non è più necessario calibrare attentamente il comportamento dei cristalli da zero, è sufficiente 
 
-# Pt.4
+# Pt.4, 5
 
 Il risultato finale di questi quattro anni è un piccolo automa rudimentale ma funzionante, fatto principalmente di assi, chiodi, un cuore cristallino e apparecchiatura magica per tradurre i segnali del cristallo in forza motrice. Ha dei cingoli al posto delle gambe e le mani sono state rimpiazzate con delle goffe pinze, inoltre, a causa della natura flessibile e leggera del materiale di costruzione, è alquanto durevole contro traumi e cadute accidentali ma al contempo non può sfruttare il suo peso per compiere mansioni anche leggermente impegnative.
 L'automa è quindi relegato a compiti semplici e di poco sforzo, il che lo rendono pressoché inutile, ma al contempo una buona prova di concetto.
@@ -47,39 +47,13 @@ Anche Alhazred si dice contento ma recentemente ha iniziato a crescere dei dubbi
 
 Alhazred decide quindi di confrontare Llengrath, e inizialmente è lieto di sentire che le sue motivazioni non sono altro che altruiste: Llengrath parla di automazione dell'agricoltura, qualcosa che salverebbe molte vite dalla fame e renderebbe obsoleto parte del mercato degli schiavi, parla di grandi linee di produzione che renderebbero oggetti rari e costosi comodità mondane e parla addirittura di nuove forme d'arte che potrebbero essere esplorate solo grazie agli automi.
 
-Man mano che continua con la sua spiegazione, parla però anche di automi di sorveglianza e da guerra, prova a ..., giustificando la loro esistenza dipingendoli come parte essenziale di una vita pacifica e parlando di come potrebbero rimuovere le persone dalla guerra, un'altro aspetto orribile della vita.
+Man mano che continua con la sua spiegazione, parla però anche di automi di sorveglianza e da guerra, prova ad ammansire Alhazred, giustificando la loro esistenza dipingendoli come parte essenziale di una vita pacifica e parlando di come potrebbero rimuovere le persone dalla guerra, un'altro aspetto orribile della vita.
+Alhazred sente che qualcosa non torna, le parole di Llengrath sono fin troppo curate e nel suo tono è presente una leggera nota di insincerità, quasi come il discorso fosse stato preparao e studiato per questa eventualità.
 
-Alhazred sa che qualcosa non torna, il tono di Llengrath ..., 
+In quel momento, Alhazred realizza che tutti questi anni ha lavorato verso l'attuazione di un piano di cui non è mai stato a conoscenza e, sentendosi responsabile, decide di tentare di fermare o come minimo sabotare i progressi di Llengrath. Avendo però paura di confrontare un potente stregone faccia a faccia decide di fare buon viso a cattivo gioco ed agire in segreto.
+Quella sera Alhazred esce di nascosto dal palazzo di Llengrath e si dirige verso la città vicina, dove compra i materiali necessari per costruire grosse quantità di esplosivi. Ha intenzione di far saltare in aria i depositi di cristalli in modo che Llengrath non li possa utilizzare.
 
+Mentre torna dalla città verso il suo laboratorio assiste però a qualcosa che non avrebbe mai pensato possibile, uno sciame di meteore che colpisce incessantemente la sua ormai distrutta dimora. Aveva sempre pensato che se mai lui e Llengrath avessero trovato un disaccordo il caso peggiore sarebbe stato il licenziamento, ma per Llengrath i dubbi che Alhazred nutriva sono stati abbastanza da giustificare la morte.
 
-
-### 5
-
-Alhazred realizza ciò che ha messo in moto e decide di fermare Llengrath, lascia quindi la sua mansione e fugge, con l'idea di creare un piano per intralciare Llengrath. Questa decisione gli salverà la vita in quanto la sera stessa Llengrath cerca di assassinarlo.
-
-Alhazred si dirige in città e compra diversi esplosivi, per poi entrare nelle mine di Llengrath durante la notte con l'obiettivo di far saltare in aria i depositi di cristalli scoperti.
-
-### 6
-
-Mentre Alhazred è nelle caverne scopre nuove proprietà dei cristalli che li rendono quasi vivi, ne rimane affascinato ed inizia a percepire una presenza oltre il cristallo, una divinità che canta in un profondo abisso su un'altro pianeta. 
-
-Alhazred decide di ascoltare la voce, decide di fermare Llengrath ma senza al contempo senza ferire i cristalli aiutandone invece la crescita e la diffusione.
-
-### 7
-
-Alhazred si dirige ad Agakata, Agakata è la terra più vicina al luogo dove i cristalli sono apparsi originariamente e di conseguenza ci sono interi sistemi di caverne pieni di cristalli.
-
-Qui inizia a stabilire un suo culto con l'intento di ... ma fallisce miseramente.
-
-
-#####
-, avendo adesso piena fiducia di Alhazred, inizia ad aprirsi riguardo alla ragione per cui vuole esplorare questa tecnologia. 
-
-Inizialmente Alhazred è lieto di sentire che le motivazioni di Llengrath non sono altro che altruiste: Llengrath parla di automazione dell'agricoltura, qualcosa che salverebbe molte vite dalla fame e renderebbe obsoleto il mercato degli schiavi, parla di grandi linee di produzione  che renderebbero oggetti rari e costosi comodità mondane e parla addirittura di nuove forme d'arte che potrebbero essere esplorate solo grazie agli automi.
-
-Con il tempo però, le ambizioni di Llengrath si rivelano ben più sinistre, inizia a parlare di automi di sorveglianza e da guerra, giustificando la loro esistenza dipingendoli come parte essenziale di una vita pacifica e parlando di come potrebbero rimuovere le persone dalla guerra, un'altro aspetto orribile della vita.
-
-Alhazred rimane molto turbato dalle convinzioni di Llengrath e vorrebbe confrontarlo, ma si convince che almeno per adesso non ce ne sia bisogno. Passa del tempo, ma la situazione diventa intollerabile quando un giorno, per mostrare la sua fiducia in Alhazred, Llengrath decide di condividere i suoi piani futuri dopo che le ricerche sugli automi saranno completate, qualcosa di cui nessun altro è a conoscenza. 
-
-Alhazred non può credere a quello che sta sentendo
+Alhazred si ricompone lentamente ed inizia a pensare: se non fosse uscito di nascosto quella sera sarebbe sicuramente morto, infatti è quasi un miracolo sia ancora vivo. Nonostante questo, le circostanze in cui si trova adesso potrebbero portare a dei vantaggi, in quanto Llengrath pensa sia morto. Decide quindi di ripiegare al piano B e si dirige immediatamente verso i depositi di cristalli per farli saltare in aria la sera stessa.
 
