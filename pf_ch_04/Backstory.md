@@ -59,7 +59,14 @@ Alhazred si ricompone lentamente ed inizia a pensare: se non fosse uscito di nas
 
 ### Pt.6
 
-Quando Alhazred entra nel vasto sistema di caverne e cunicoli rimane stupito dalla moltitudine e varietà di cristalli presenti, sono anni che la miniera viene scavata eppure tutte le superfici sono talmente coperte di materiale che spesso la roccia non è neanche visibile.
+Quando Alhazred entra nel vasto sistema di caverne e cunicoli rimane stupito dalla moltitudine e varietà di cristalli presenti, sono anni che la miniera viene scavata eppure tutte le superfici sono talmente coperte di materiale che spesso la roccia non è neanche visibile. 
+
+Alhazred nota anche che mentre le pareti vicino all'entrata sono tappezzate di cristalli molto piccoli e fragili, mentre in quelle più profonde sono presenti cristalli sempre più grandi, decide però di non curarsene e, con un certo senso di urgenza, incomincia a lavorare sulla costruzione degli esplosivi.
+
+Lavora per qualche ora fino a che non si accorge con grande stupore che i piccoli cristalli vicino a lui sono cresciuti leggermente, si guarda attorno e nota che non solo i cristalli attorno a lui sono cresciuti e quelli più grandi hanno iniziato ad emanare una flebile luce azzurra. 
+
+
+
 
 
 
