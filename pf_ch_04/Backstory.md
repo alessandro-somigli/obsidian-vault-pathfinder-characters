@@ -63,7 +63,7 @@ Quando Alhazred entra nel vasto sistema di caverne e cunicoli rimane stupito dal
 
 Alhazred nota anche che mentre le pareti vicino all'entrata sono tappezzate di cristalli molto piccoli e fragili, mentre in quelle più profonde sono presenti cristalli sempre più grandi, decide però di non curarsene e, con un certo senso di urgenza, incomincia a lavorare sulla costruzione degli esplosivi.
 
-Lavora per qualche ora fino a che non si accorge con grande stupore che i piccoli cristalli che aveva accanto sono cresciuti considerevolmente, si guarda attorno e nota che tutta la caverna ne è ancora più piena e quelli più grandi hanno iniziato ad emanare una flebile luce azzurra.
+Lavora per qualche ora fino a che non si accorge con grande stupore che i piccoli cristalli che aveva accanto sono cresciuti considerevolmente, si guarda attorno accorgendosi che tutta la caverna ne è ancora più piena e quelli più grandi hanno iniziato ad emanare una flebile luce azzurra.
 
 
 
