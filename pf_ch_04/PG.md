@@ -65,6 +65,7 @@ privilegi di classe:
 | 1   | X   | lancio spontaneo (energia positiva) |
 | 1   | X   | incanalare energia positiva         |
 | 1   | X   | aura caotica                        |
+
 domini:
 
 | lvl | chk | privilegio di classe     |
@@ -113,8 +114,8 @@ domini:
 | 5   |     | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (necromanzia)                     |
 | 7   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (necromanzia) |
 | 9   |     | [incantesimi persistenti](https://golarion.altervista.org/wiki/Incantesimi_Persistenti)                                   |
-| 11  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
-| 13  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                           |
+| 11  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                           |
+| 13  |     | [incantesimi rapidi](https://golarion.altervista.org/wiki/Incantesimi_Rapidi)                                             |
 | 15  |     | [incantesimi inarrestabili](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili)                               |
 | 17  |     | [incantesimi inarrestabili superiore](https://golarion.altervista.org/wiki/Incantesimi_Inarrestabili_Superiore)           |
 | 19  |     |                                                                                                                           |

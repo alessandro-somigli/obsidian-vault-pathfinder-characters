@@ -57,17 +57,19 @@ Mentre torna dalla città verso il suo laboratorio assiste però a qualcosa che 
 
 Alhazred si ricompone lentamente ed inizia a pensare: se non fosse uscito di nascosto quella sera sarebbe sicuramente morto, infatti è quasi un miracolo sia ancora vivo. Nonostante questo, le circostanze in cui si trova adesso potrebbero portare a dei vantaggi, in quanto Llengrath pensa sia morto. Decide quindi di ripiegare al piano B e si dirige immediatamente verso i depositi di cristalli per farli saltare in aria la sera stessa.
 
-### Pt.6
+## Pt.6
 
 Quando Alhazred entra nel vasto sistema di caverne e cunicoli rimane stupito dalla moltitudine e varietà di cristalli presenti, sono anni che la miniera viene scavata eppure tutte le superfici sono talmente coperte di materiale che spesso la roccia non è neanche visibile. 
 
 Alhazred nota anche che mentre le pareti vicino all'entrata sono tappezzate di cristalli molto piccoli e fragili, mentre in quelle più profonde sono presenti cristalli sempre più grandi, decide però di non curarsene e, con un certo senso di urgenza, incomincia a lavorare sulla costruzione degli esplosivi.
 
-Lavora per qualche ora fino a che non si accorge con grande stupore che i piccoli cristalli vicino a lui sono cresciuti leggermente, si guarda attorno e nota che non solo i cristalli attorno a lui sono cresciuti e quelli più grandi hanno iniziato ad emanare una flebile luce azzurra. 
+Lavora per qualche ora fino a che non si accorge con grande stupore che i piccoli cristalli che aveva accanto sono cresciuti considerevolmente, si guarda attorno e nota che tutta la caverna ne è ancora più piena e quelli più grandi hanno iniziato ad emanare una flebile luce azzurra.
 
 
 
+Adesso Alhazred riesce a vedere un'enorme cristallo nella distanza, più grande di centinaia di volte di qualsiasi cristallo avesse mai visto prima. 
 
+## Pt.7
 
 
 ### Lavoro di Alhazred
