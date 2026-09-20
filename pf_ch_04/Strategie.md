@@ -1,5 +1,4 @@
 ## Downtime
-
 1) vincolare esterni con legame planare
 2) animare morti
 3) scrutare qualcuno
