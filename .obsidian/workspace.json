@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/Incantesimi.md",
+                "file": "Homebrew/Duello.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incantesimi"
+              "title": "Duello"
             }
           }
         ],
@@ -205,6 +205,11 @@
   },
   "active": "72d103c2869be5db",
   "lastOpenFiles": [
+    "Homebrew/Bonus e Malus in Base all'Altezza.md",
+    "Homebrew/Fiale di Cura.md",
+    "Homebrew/Duello.md",
+    "Homebrew/Tabella Azioni.md",
+    "pf_ch_04/Incantesimi.md",
     "Homebrew/Attacco in Salto.md",
     "pf_ch_04/Creature Rianimate.md",
     "pf_ch_04/Creature Evocate.md",
@@ -215,17 +220,13 @@
     "pf_ch_elio_robb/PG.md",
     "pf_ch_04/Backstory.md",
     "Homebrew/Azione di Round Completo.md",
-    "Homebrew/Bonus e Malus in Base all'Altezza.md",
-    "Homebrew/Fiale di Cura.md",
     "Homebrew/Regole di Copertura.md",
     "Homebrew/Rework Abilità di Pathfinder.md",
-    "Homebrew/Tabella Azioni.md",
     "pf_ch_elio_robb/Incantesimi.md",
     "pf_ch_elio_robb/Azioni da Compiere in Combattimento.md",
     "pf_ch_elio_robb/Equipaggiamento.md",
     "Homebrew",
     "sortspec.md",
-    "pf_ch_04/Incantesimi.md",
     "Appunti.md",
     "pf_ch_elio_robb",
     "Untitled.md",
@@ -234,7 +235,6 @@
     "Untitled.base",
     "pf_ch_elio_zemenis/PG.md",
     "Cronaca.md",
-    "[Cronaca.md",
     "pf_ch_oneshot_6",
     "pf_test_adventure_1",
     "pf_ch_oneshot_5",
