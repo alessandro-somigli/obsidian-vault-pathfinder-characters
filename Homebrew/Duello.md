@@ -4,7 +4,7 @@ Per evitare morte e sofferenza vane proprio ad Agakata si inizia a formare la cu
 
 Perdere un duello è considerato disonorevole ma vincerlo rompendone le regole è ben peggio, ad Agakata uccidendo il proprio avversario o una persona non coinvolta si rischia addirittura la pena di morte. Giocare sporco o ricevere aiuto volontario da fonti esterne invece concede automaticamente la vittoria all'avversario e discredita pesantemente la propria reputazione.
 
-
+Le regole nei duelli variano in base al 
 
 
 
