@@ -25,7 +25,7 @@ Allo stesso modo il _secondo duellante_ può:
 	- in caso uno dei due duellanti non abbia abbastanza _punti vantaggio_ da mettere in gioco per tenere testa all'avversario allora dovrà dedicare tutti i suoi punti rimanenti e, anche se questi ultimi fossero meno di quelli del nemico si considerano le due quantità uguali.
 - _proteggersi_, ovvero concedere all'avversario tutti i _punti vantaggio in gioco_ e terminare il turno.
 
-Successivamente si rivelano i dadi di entrambi i duellanti e comparando i risultati si determina il vincitore del turno, che si appropria di tutti i _punti vantaggio in gioco_. In caso di un pareggio i _punti vantaggio in gioco_ vengono ripartiti ai giocatori e si passa al turno successivo. 
+Successivamente si rivelano i dadi di entrambi i duellanti e comparando i risultati si determina il vincitore del turno, che si appropria di tutti i _punti vantaggio in gioco_. In caso di un pareggio i _punti vantaggio in gioco_ vengono ripartiti ai giocatori e si passa al turno successivo.
 
 I turni si ripetono fino a che uno dei due contendenti raggiunge i 20 punti (portando la controparte a 0) e vince lo scontro.
 #### Comparare i Dadi
@@ -60,6 +60,8 @@ Tutte le possibili combinazioni di 5d6 dadi sono rappresentate nella tabella, le
 Nel caso i duellanti hanno combinazioni identiche oppure entrambi non hanno nessuna combinazione allora il turno si considera un pareggio. 
 
 ## Il Duello del Mercato Nero
+
+
 
 
 

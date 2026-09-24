@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Duello.md",
+                "file": "Homebrew/Tabella Azioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duello"
+              "title": "Tabella Azioni"
             }
           }
         ],
@@ -205,10 +205,10 @@
   },
   "active": "72d103c2869be5db",
   "lastOpenFiles": [
+    "Homebrew/Duello.md",
     "Homebrew/Bonus e Malus in Base all'Altezza.md",
     "Homebrew/Azione di Round Completo.md",
     "Homebrew/Attacco in Salto.md",
-    "Homebrew/Duello.md",
     "Homebrew/Regole di Copertura.md",
     "Homebrew/Rework Abilità di Pathfinder.md",
     "pf_ch_04/PG.md",

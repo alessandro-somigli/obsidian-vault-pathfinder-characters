@@ -63,5 +63,7 @@
 - prova di raggirare (azione standard)
 - se ha successo il bersaglio segue ed attacca
 
+### Idee Duello 2
+- 
 
 
