@@ -26,11 +26,13 @@ Allo stesso modo il _secondo duellante_ può:
 	- in caso uno dei due duellanti non abbia abbastanza _punti vantaggio_ da mettere in gioco per tenere testa all'avversario allora dovrà dedicare tutti i suoi punti rimanenti e, anche se questi ultimi fossero meno di quelli del nemico si considerano le due quantità uguali.
 - _proteggersi_, ovvero concedere all'avversario tutti i _punti vantaggio in gioco_ e terminare il turno.
 
-Successivamente si rivelano i dadi di entrambi i duellanti e comparando i risultati si determina il vincitore del turno, che si appropria di tutti i _punti vantaggio in gioco_. 
+Successivamente si rivelano i dadi di entrambi i duellanti e comparando i risultati si determina il vincitore del turno, che si appropria di tutti i _punti vantaggio in gioco_. In caso di un pareggio i _punti vantaggio in gioco_ vengono ripartiti ai giocatori e si passa al turno successivo. 
 
 I turni si ripetono fino a che uno dei due contendenti raggiunge i 20 punti (portando la controparte a 0) e vince lo scontro.
 #### Comparare i Dadi
-Quando si comparano i risultati dei dadi lanciati dai duellanti si utilizzano queste regole per determinare il vincitore del turno:
+Quando si comparano i risultati dei dadi lanciati dai duellanti si utilizzano le seguenti regole per determinare il vincitore del turno:
+
+
 
 | Combinazioni  | Dadi                                                           | Esempio       |
 | ------------- | -------------------------------------------------------------- | ------------- |
@@ -42,7 +44,7 @@ Quando si comparano i risultati dei dadi lanciati dai duellanti si utilizzano qu
 | Doppia Coppia | due coppie di valori diversi                                   | 4, 4, 2, 2, 1 |
 | Coppia        | due dadi dello stesso valore                                   | 4, 4, 3, 2, 1 |
 | /             | nessuna combinazione                                           | 6, 4, 3, 2, 1 |
-Le combinazioni più in alto sono quelle 
+Le combinazioni più in alto vincono contro le combinazioni sottostanti, nel caso entrambi i duellanti hanno la stessa combinazione si utilizzano le seguenti regole per determinare il vincitore: 
 
 
 ## Il Duello del Mercato Nero
