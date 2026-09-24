@@ -62,7 +62,6 @@
 - muoversi alla propria velocità di movimento
 - prova di raggirare (azione standard)
 - se ha successo il bersaglio segue ed attacca
-### Regole di Duello
 
 
 
