@@ -46,15 +46,19 @@ Tutte le possibili combinazioni di 5d6 dadi sono rappresentate nella tabella, le
 - Cinquina:
 	- la cinquina con il valore più alto vince.
 - Quartina:
-	- la quartina con il valore più alto vince, se hanno lo stesso valore il valore del dado restante vince.
+	- la quartina con il valore più alto vince, se le quartine hanno lo stesso valore il dado restante con il valore più alto vince.
 - Tris e Coppia:
+	- il tris con il valore più alto vince, se i tris hanno lo stesso valore la coppia con il valore più alto vince.
 - Scala:
+	- la scala con il massimo più alto vince.
 - Tris:
+	- il tris con il valore più alto vince, se i tris hanno lo stesso valore si considera il maggiore fra i due dadi restanti e quello con il valore più alto vince, se anche questi hanno lo stesso valore si considera l'ultimo dado restante e quello con il valore più alto vince.
 - Doppia Coppia:
+	- si compara la coppia maggiore fra le due e quella con il valore più alto vince, se queste hanno lo stesso valore si compara la seconda coppia e quella con il valore più alto vince, se entrambe le coppie sono identiche si compara l'ultimo dado restante e quello con il valore più alto vince.
 - Coppia:
+	- la coppia con il valore più alto vince, se le coppie hanno lo stesso valore si considera il maggiore fra i tre dadi restanti e quello con il valore più alto vince, se anche questi hanno lo stesso valore si considera il maggiore fra i due dadi restanti e quello con il valore più alto vince, se anche questi hanno lo stesso valore si compara l'ultimo dado restante e quello con il valore più alto vince.
 
-
-
+Nel caso i duellanti hanno combinazioni identiche oppure entrambi non hanno nessuna combinazione allora il turno si considera un pareggio. 
 
 ## Il Duello del Mercato Nero
 
