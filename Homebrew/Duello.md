@@ -10,7 +10,11 @@ Le regole nei duelli possono variare in base alla cultura locale e i duellanti p
 
 Durante il gioco si utilizzano le seguenti regole per gestire un duello:
 
+I due duellanti partono con 10 _punti vantaggio_ ciascuno, durante la durata del duello questi punti vengono presi o concessi e quando uno dei due contendenti raggiunge i 20 punti (portando la controparte a 0) ha l'opportunità di sferzare un colpo e vincere il duello.
 
+Ogni turno del duello comincia con entrambi i contendenti che mettono in gioco 1 _punto vantaggio_, rimuovendolo dalla proria quota e aggiungendolo all'ammontare di _punti vantaggio in gioco_, poi ogni giocatore tira in segreto 5d6 ed in base al risultato può decidere di compiere due azioni:
+- mettere in gioco altri punti vantaggio
+- _proteggersi_
 
 
 
