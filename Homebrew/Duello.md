@@ -19,10 +19,15 @@ Ogni turno del duello si apre con entrambi i contendenti che mettono in gioco 1 
 (scrivi ritira d6 2 volte)
 
 A questo punto il _primo duellante_ può compiere una di due azioni:
-- mettere in gioco ulteriori _punti vantaggio_ (senza eccedere la sua quota di punti).
+- mettere in gioco ulteriori _punti vantaggio_ (senza eccedere la propria quota di punti).
 - _proteggersi_, ovvero concedere all'avversario tutti i _punti vantaggio in gioco_ e terminare il turno.
 
-Il _secondo duellante_ deve rispondere mettendo a sua volta tanti _punti vantaggio_ in gioco quanti il _primo duellante_ se non di più
+Allo stesso modo il _secondo duellante_ può:
+- mettere in gioco ulteriori _punti vantaggio_ (senza eccedere la propria quota di punti), ma  i punti che il _secondo duellante_ mette in gioco devono essere almeno tanti quanti i punti messi dal _primo duellante_.
+	- se il _secondo duellante_ mette in gioco più punti di quanti ne abbia messi il primo allora sarà il _primo duellante_ a dover alzare nuovamente la quota, questo continua fino a che le due quantità messe in gioco sono uguali oppure uno dei due duellanti decide di _proteggersi_.
+	- nel caso in cui uno dei due duellanti non abbia abbastanza _punti vantaggio_ da mettere in gioco per tenere testa all'avversario allora è sufficiente 
+- _proteggersi_, ovvero concedere all'avversario tutti i _punti vantaggio in gioco_ e terminare il turno.
+
 
 
 
