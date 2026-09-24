@@ -32,6 +32,17 @@ I turni si ripetono fino a che uno dei due contendenti raggiunge i 20 punti (por
 #### Comparare i Dadi
 Quando si comparano i risultati dei dadi lanciati dai duellanti si utilizzano queste regole per determinare il vincitore del turno:
 
+| Combinazioni  | Dadi                                                           | Esempio       |
+| ------------- | -------------------------------------------------------------- | ------------- |
+| Cinquina      | cinque dadi dello stesso valore                                | 5, 5, 5, 5, 5 |
+| Quartina      | quattro dadi dello stesso valore                               | 4, 4, 4, 4, 1 |
+| Tris e Coppia | tre dadi dello stesso valore e una coppia di un valore diverso | 3, 3, 3, 2, 2 |
+| Scala         | cinque dadi con valori sequenziali                             | 5, 4, 3, 2, 1 |
+| Tris          | tre dadi dello stesso valore                                   | 3, 3, 3, 2, 1 |
+| Doppia Coppia | due coppie di valori diversi                                   | 4, 4, 2, 2, 1 |
+| Coppia        | due dadi dello stesso valore                                   | 4, 4, 3, 2, 1 |
+| /             | nessuna combinazione                                           | 6, 4, 3, 2, 1 |
+Le combinazioni più in alto sono quelle 
 
 
 ## Il Duello del Mercato Nero
