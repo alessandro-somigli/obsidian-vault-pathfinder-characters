@@ -1,30 +1,30 @@
 - scudo: [Scudo Torre](https://golarion.altervista.org/wiki/Armature) +0
 - armatura: [Armatura Completa](https://golarion.altervista.org/wiki/Armature) +0
+- altro:
+	- [Pietra Magica Sfera Rosa e Verde Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche)
+- soldi: 840mo
+	- dedicati: 800mo
+	- liberi: 40mo
 
+#### Oggetti non Magici e Consumabili:
+- [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile)
+- [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura)
+- [Piede di Porco](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura)
+- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (Okoniwa)
 
-- [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile) (400 mo)
-- [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (85 mo)
-- [Piede di Porco](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (2 mo)
-
-- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) x10 (50 mo)
-- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) x4 (25mo)
-- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x20 (20mo)
-- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (5 mo)
-
-1940
-1500+30
-	+85+2+400
-	+
+- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) x10
+- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) x4
+- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x23
+- [Segnale di Fumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo) x1
 
 ---
 #### Consumabili:
-- [Kit per Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (40 mo)
-- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (1mo)
-- [Cronaca dei Cercatori](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
-- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
-- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (5 mo)
-- [Segnale di Fumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo) (5 mo)
-- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) (25 mo)
+- [Kit per Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) x10 (40 mo)
+- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x1 (1mo)
+- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) x10 (50 mo)
+- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) x1 (5 mo)
+- [Segnale di Fumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo) x1 (5 mo)
+- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) x1 (25 mo)
 #### Equipaggiamento Magico:
 - testa: [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (4.5 kmo)
 - fronte: [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +2/+4/+6 (4/16/36 kmo)
@@ -72,20 +72,6 @@ https://golarion.altervista.org/wiki/Braccialetti_del_Tocco_Fatato
 https://golarion.altervista.org/wiki/Stivali_dell%27Escursione
 
 - [Pietra Magica Sfera Scarlatta e Blu Incrinata](https://golarion.altervista.org/wiki/Pietre_Magiche) (200 mo)
-### Lv.1 (240 mo):
-- [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (85 mo)
-- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (50 mo)
-- [Scudo Torre](https://golarion.altervista.org/wiki/Armature) (30 mo)
-- [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) x2 (25mo)
-- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x18 (18mo)
-- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (5 mo)
-- [Piede di Porco](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (2 mo)
-tot: 240
-### Lv.2 (1 kmo):
-
-### Lv.3 (3 kmo):
-- [Armatura Completa](https://golarion.altervista.org/wiki/Armature) (1.5 kmo)
-tot: 1.7
 ### Lv.4 (6 kmo):
 - [Fascia dell'Ispirazione](https://golarion.altervista.org/wiki/Fascia_dell%27Ispirazione) +2 (4 kmo)
 tot: 5.7
