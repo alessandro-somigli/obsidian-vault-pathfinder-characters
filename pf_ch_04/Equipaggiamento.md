@@ -5,7 +5,6 @@
 - soldi: 840mo
 	- dedicati: 800mo
 	- liberi: 40mo
-
 #### Oggetti non Magici e Consumabili:
 - [Berretto del Vigile](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Berretto_del_Vigile)
 - [Passe Partout](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura)
