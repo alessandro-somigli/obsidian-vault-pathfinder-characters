@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homebrew/Tabella Azioni.md",
+                "file": "pf_ch_04/Equipaggiamento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tabella Azioni"
+              "title": "Equipaggiamento"
             }
           }
         ]
@@ -163,8 +163,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a5a3bb34bf5d3a8a",
+  "active": "ceec9e14f00fc4bf",
   "lastOpenFiles": [
+    "pf_ch_04/Procedure e Rituali.md",
+    "pf_ch_04/Strategie.md",
+    "pf_ch_04/PG.md",
+    "Homebrew/Tabella Azioni.md",
     "/pf_ch_04/Equipaggiamento.md",
     "/pf_ch_04",
     "Homebrew/Duello.md",
@@ -173,12 +177,8 @@
     "/Homebrew/Attacco in Salto.md",
     "/Homebrew",
     "Homebrew/Attacco in Salto.md",
-    "Homebrew/Tabella Azioni.md",
-    "pf_ch_04/PG.md",
     "pf_ch_04/Backstory.md",
     "pf_ch_04/Creature Evocate.md",
-    "pf_ch_04/Procedure e Rituali.md",
-    "pf_ch_04/Strategie.md",
     "/pf_ch_elio_robb/PG.md",
     "/pf_ch_elio_robb/Incantesimi.md",
     "/pf_ch_elio_robb/Equipaggiamento.md",
