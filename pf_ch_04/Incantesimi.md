@@ -33,7 +33,7 @@
 - utility:
 	- contestuale:
 		- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica) (A)
-		- (2) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P) (A)
+		- (1) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P) (A)
 		- (0) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (10min/lv) (A)
 		- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (10min/lv) (P)
 		- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10min/lv)

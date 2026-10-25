@@ -19,7 +19,7 @@ tratti:
 ## Stats
 
 livello: 4
-punti eroe: 0
+punti eroe: 1
 
 pf: 42
 
