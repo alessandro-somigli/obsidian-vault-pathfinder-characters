@@ -22,7 +22,7 @@
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
 	- damage/control/summons:
-		- (0) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
+		- (1) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
 		- (1) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
 		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
 	- buff/defense:
@@ -33,7 +33,7 @@
 - utility:
 	- contestuale:
 		- (0) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica) (A)
-		- (1) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P) (A)
+		- (2) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (P) (A)
 		- (0) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (10min/lv) (A)
 		- (0) [comprensione dei linguaggi](https://golarion.altervista.org/wiki/Incantesimi/Comprensione_dei_Linguaggi) (10min/lv) (P)
 		- (0) [nascondersi ai non morti](https://golarion.altervista.org/wiki/Incantesimi/Nascondersi_ai_Non_Morti) (10min/lv)
@@ -54,7 +54,7 @@
 	- (0) [cuore del nemico](https://golarion.altervista.org/wiki/Incantesimi/Cuore_del_Nemico)
 	- (0) [splendore dell'aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila)
 - preparazioni:
-	- (0) [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
+	- (1) [osso difendente](https://golarion.altervista.org/wiki/Incantesimi/Osso_Difendente) (P) (1h/lv)
 	- (0) [scudo su altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (F 50mo) (1h/lv)
 - combattimento:
 	- damage/control/summons:
@@ -62,7 +62,7 @@
 		- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
 		- (1) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
 		- (0) [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
-		- (0) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
+		- (1) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
 		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
 	- buff/defense:
 		- (0) [castigo dell'erede](https://golarion.altervista.org/wiki/Incantesimi/Castigo_dell%27Erede) (P) (I)
