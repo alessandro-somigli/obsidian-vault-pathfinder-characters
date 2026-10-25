@@ -16,13 +16,13 @@
 - (1) [luce](https://golarion.altervista.org/wiki/Incantesimi/Luce)
 - (0) [riparare](https://golarion.altervista.org/wiki/Riparare "Riparare")
 - (0) [creare acqua](https://golarion.altervista.org/wiki/Creare_Acqua "Creare Acqua")
-### lv.1 (4+1):
+### lv.1 (5+1):
 - dominio:
 	- (1) [caduta morbida](https://golarion.altervista.org/wiki/Caduta_Morbida "Caduta Morbida") (I)
 	- (0) [confusione inferiore](https://golarion.altervista.org/wiki/Confusione_Inferiore "Confusione Inferiore")
 - combattimento:
 	- damage/control/summons:
-		- (1) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
+		- (0) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
 		- (1) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
 		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
 	- buff/defense:
@@ -42,7 +42,7 @@
 		- (0) [numero fortunato](https://golarion.altervista.org/wiki/Incantesimi/Numero_Fortunato) (24h) (A)
 		- (0) [germoglio di fiordimetallo](https://golarion.altervista.org/wiki/Incantesimi/Germogli_di_Fiordimetallo) (1g/lv)
 		- (0) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo)
-### lv.2 (2+1):
+### lv.2 (4+1):
 - dominio:
 	- (1) [evoca mostri II](https://golarion.altervista.org/wiki/Evoca_Mostri#Evoca_Mostri_II "Evoca Mostri")
 	- (0) [tocco di idiozia](https://golarion.altervista.org/wiki/Tocco_di_Idiozia "Tocco di Idiozia")

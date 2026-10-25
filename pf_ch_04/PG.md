@@ -18,10 +18,10 @@ tratti:
 
 ## Stats
 
-livello: 3
+livello: 4
 punti eroe: 0
 
-pf: 32
+pf: 42
 
 | stats | base | race | age | tot | mod |
 | ----- | ---- | ---- | --- | --- | --- |
@@ -29,7 +29,7 @@ pf: 32
 | DEX   | 13   |      | -1  | 12  | +1  |
 | COS   | 17   | +2   | -1  | 18  | +4  |
 | INT   | 15   |      | +1  | 16  | +3  |
-| SAG   | 18   | +2   | +1  | 21  | +5  |
+| SAG   | 19   | +2   | +1  | 22  | +6  |
 | CAR   | 7    | -2   | +1  | 6   | -2  |
 
 ## Razza
