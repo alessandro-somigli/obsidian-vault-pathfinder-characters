@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/Equipaggiamento.md",
+                "file": "Homebrew/Regole di Copertura.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipaggiamento"
+              "title": "Regole di Copertura"
             }
           },
           {
@@ -204,8 +204,8 @@
   },
   "active": "bfa3b3e5d6a073d7",
   "lastOpenFiles": [
-    "pf_ch_04/PG.md",
     "pf_ch_04/Equipaggiamento.md",
+    "pf_ch_04/PG.md",
     "Homebrew/Regole di Copertura.md",
     "Homebrew/Azione di Round Completo.md",
     "Homebrew/Attacco in Salto.md",
