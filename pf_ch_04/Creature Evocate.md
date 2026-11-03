@@ -58,7 +58,7 @@
 		- (4) [Blocca Persone](https://golarion.altervista.org/wiki/Blocca_Persone "Blocca Persone") (CD 16), [Invisibilità](https://golarion.altervista.org/wiki/Incantesimi/Invisibilit%C3%A0 "Incantesimi/Invisibilità")
 		- (2) [Cura Ferite Gravi](https://golarion.altervista.org/wiki/Cura_Ferite_Gravi "Cura Ferite Gravi")
 		
-		- (3) [Scassinare](https://golarion.altervista.org/wiki/Scassinare "Scassinare"), [Terreno Illusorio](https://golarion.altervista.org/wiki/Terreno_Illusorio "Terreno Illusorio") (CD 18)
+			- (3) [Scassinare](https://golarion.altervista.org/wiki/Scassinare "Scassinare"), [Terreno Illusorio](https://golarion.altervista.org/wiki/Terreno_Illusorio "Terreno Illusorio") (CD 18)
 		- (1) [Parlare con gli Animali](https://golarion.altervista.org/wiki/Parlare_con_gli_Animali "Parlare con gli Animali"), [Parlare con i Vegetali](https://golarion.altervista.org/wiki/Parlare_con_i_Vegetali "Parlare con i Vegetali")
 ### Evoca Mostri VII:
 - [Tirannosauro](https://golarion.altervista.org/wiki/Tirannosauro) © ☆:
