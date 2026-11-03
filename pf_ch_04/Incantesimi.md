@@ -23,7 +23,7 @@
 - combattimento:
 	- damage/control/summons:
 		- (1) [catene uncinate](https://golarion.altervista.org/wiki/Catene_Uncinate)
-		- (1) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
+		- (0) [disarmare bruciante](https://golarion.altervista.org/wiki/Incantesimi/Disarmare_Bruciante)
 		- (0) [evoca mostri minori](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri_Minori)
 	- buff/defense:
 		- (1) [benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)

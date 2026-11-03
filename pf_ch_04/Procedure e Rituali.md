@@ -123,6 +123,7 @@ procedimento:
 
 ## Migliorare la Diplomazia
 #### Incantesimi:
+- [Diplomazia Potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata) (lv.0) (+2 DIP)
 - [Adattamento Culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (lv.1) (+2 DIP)
 - [Splendore dell'Aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila) (lv.2) (+2 CAR)
 #### Oggetti Magici:
