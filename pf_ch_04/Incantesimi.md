@@ -58,15 +58,15 @@
 	- (0) [scudo su altri](https://golarion.altervista.org/wiki/Incantesimi/Scudo_su_Altri) (F 50mo) (1h/lv)
 - combattimento:
 	- damage/control/summons:
-		- (0) [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
-		- (0) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
-		- (1) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
+		- (1) [scuotiossa](https://golarion.altervista.org/wiki/Scuotiossa) (N)
+		- (1) [suono dirompente](https://golarion.altervista.org/wiki/Incantesimi/Suono_Dirompente)
+		- (0) [respiro dell'ubriaco](https://golarion.altervista.org/wiki/Incantesimi/Respiro_dell%27Ubriaco)
 		- (0) [strumento di agonia](https://golarion.altervista.org/wiki/Incantesimi/Strumento_di_Agonia)
 		- (1) [silenzio](https://golarion.altervista.org/wiki/Incantesimi/Silenzio)
 		- (0) [arma spirituale](https://golarion.altervista.org/wiki/Incantesimi/Arma_Spirituale)
 	- buff/defense:
 		- (0) [castigo dell'erede](https://golarion.altervista.org/wiki/Incantesimi/Castigo_dell%27Erede) (P) (I)
-		- (1) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
+		- (0) [forza del toro](https://golarion.altervista.org/wiki/Incantesimi/Forza_del_Toro)
 		- (0) [ira non morta](https://golarion.altervista.org/wiki/Incantesimi/Ira_Non_Morta) (C+1rd/lv)
 		- (0) [protezione dal male collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dal_Male_Collettivo)
 		- (0) [protezione dalla legge collettivo](https://golarion.altervista.org/wiki/Incantesimi/Protezione_dalla_Legge_Collettivo)
