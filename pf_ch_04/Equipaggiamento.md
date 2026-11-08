@@ -15,8 +15,14 @@
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) x4
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x23
 
+#### Da Comprare:
 - onice 300mo
 - acqua sacrilega x2 50mo
+- maschera, abito da viaggiatore x2 2.2mo
+- [Rospo](https://golarion.altervista.org/wiki/Rospo), [Topo](https://golarion.altervista.org/wiki/Animali_e_Trasporti) 3 mr
+- [Corda](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) x2 2mo
+- [Pugnale](https://golarion.altervista.org/wiki/Armi/Pugnale) 2mo
+- tot: 356.2.3mo
 
 ---
 #### Consumabili:
