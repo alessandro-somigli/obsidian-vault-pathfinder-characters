@@ -14,7 +14,9 @@
 - [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) x10
 - [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue) x4
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x23
-- [Segnale di Fumo](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Segnale_di_Fumo) x1
+
+- onice 300mo
+- acqua sacrilega x2 50mo
 
 ---
 #### Consumabili:
