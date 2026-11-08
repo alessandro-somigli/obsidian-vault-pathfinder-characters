@@ -12,7 +12,7 @@ classe preferita: [Chierico](https://golarion.altervista.org/wiki/Chierico)
 
 tratti:
  - mente focalizzata: `+2 prove di concentrazione`
- - missionario: `+1 CD, CL di 3 incantesimi a scelta`
+ - missionario: `+1 CD, CL di 3 incantesimi a scelta` (aura di devastazione, maledizione maggiore, ferire)
  - cercante: `+1 percezione, percezione abilità di classe`
  - affamato di potere: `-2 TS VOL contro effetti di Charme e Compulsione se la creatura che ha creato l’effetto promette ricchezza o potere`
 
