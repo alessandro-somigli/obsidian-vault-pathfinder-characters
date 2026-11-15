@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "Consolas",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "showRibbon": true
 }
