@@ -82,9 +82,9 @@
 		- (0) [presagio](https://golarion.altervista.org/wiki/Incantesimi/Presagio) (P) (M 25mo) (F 25mo)
 	- downtime/riposo:
 		- (0) [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150/300mo)
-### lv.3 (0):
+### lv.3 (2+1):
 - dominio:
-	- (0) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
+	- (1) [volare](https://golarion.altervista.org/wiki/Incantesimi/Volare "Incantesimi/Volare")
 	- (0) [ira](https://golarion.altervista.org/wiki/Incantesimi/Ira)
 - rituali:
 	- (0) [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti) (M 25mo per dv)
@@ -96,7 +96,7 @@
 	- (0) [acque di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Acque_di_Lamashtu) (M 250 mo)
 - combattimento:
 	- damage/debuff/control/summons:
-		- (0) [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
+		- (1) [scagliare maledizione](https://golarion.altervista.org/wiki/Incantesimi/Scagliare_Maledizione) (N)
 		- (0) [catena di perdizione](https://golarion.altervista.org/wiki/Incantesimi/Catena_di_Perdizione)
 		- (0) [vortice di sabbia](https://golarion.altervista.org/wiki/Incantesimi/Vortice_di_Sabbia)
 		- (0) [barriera stordente superiore](https://golarion.altervista.org/wiki/Incantesimi/Barriera_Stordente_Superiore) (P)
@@ -104,7 +104,7 @@
 		- (0) [evoca guardiano ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Guardiano_Ancestrale)
 		- (0) [evoca mostri III](https://golarion.altervista.org/wiki/Incantesimi/Evoca_Mostri#Evoca_Mostri_III)
 	- buff/defense:
-		- (0) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
+		- (1) [aura dell'arconte](https://golarion.altervista.org/wiki/Aura_dell%27Arconte "Aura dell'Arconte")
 		- (0) [resistere all'energia collettivo](https://golarion.altervista.org/wiki/Incantesimi/Resistere_all%27Energia_Collettivo) (10min/lv)
 		- (0) [allineare arma collettivo](https://golarion.altervista.org/wiki/Incantesimi/Allineare_Arma_Collettivo)
 - cure:

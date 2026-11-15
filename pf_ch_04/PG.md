@@ -1,4 +1,4 @@
-nome: Alhazred/Thaos
+nome: Alhazred
 soprannome: -
 
 allineamento: CN
@@ -12,13 +12,13 @@ classe preferita: [Chierico](https://golarion.altervista.org/wiki/Chierico)
 
 tratti:
  - mente focalizzata: `+2 prove di concentrazione`
- - missionario: `+1 CD, CL di 3 incantesimi a scelta` (aura di devastazione, maledizione maggiore, ferire)
+ - missionario: `+1 CD, CL di 3 incantesimi a scelta (aura di devastazione, maledizione maggiore, ferire)`
  - cercante: `+1 percezione, percezione abilità di classe`
  - affamato di potere: `-2 TS VOL contro effetti di Charme e Compulsione se la creatura che ha creato l’effetto promette ricchezza o potere`
 
 ## Stats
 
-livello: 4
+livello: 5
 punti eroe: 1
 
 pf: 42
@@ -111,7 +111,7 @@ domini:
 | --- | --- | ------------------------------------------------------------------------------------------------------------------------- |
 | 1   | X   | [competenza negli scudi torre](https://golarion.altervista.org/wiki/Competenza_negli_Scudi_Torre)                         |
 | 3   | X   | [competenza nelle armature pesanti](https://golarion.altervista.org/wiki/Competenza_nelle_Armature_Pesanti)               |
-| 5   |     | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (necromanzia)                     |
+| 5   | X   | [incantesimi focalizzati](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati) (necromanzia)                     |
 | 7   |     | [incantesimi focalizzati superiore](https://golarion.altervista.org/wiki/Incantesimi_Focalizzati_Superiore) (necromanzia) |
 | 9   |     | [incantesimi persistenti](https://golarion.altervista.org/wiki/Incantesimi_Persistenti)                                   |
 | 11  |     | [interferenza divina](https://golarion.altervista.org/wiki/Interferenza_Divina)                                           |
