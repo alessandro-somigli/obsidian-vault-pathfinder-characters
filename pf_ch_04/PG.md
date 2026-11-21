@@ -1,5 +1,4 @@
 nome: Alhazred
-soprannome: -
 
 allineamento: CN
 
