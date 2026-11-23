@@ -3,13 +3,13 @@
 1) potenziare equipaggiamento con [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150/300mo)
 2) creare scheletri insanguinati con [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
 3) vincolare esterni con [legame planare](https://golarion.altervista.org/wiki/Incantesimi/Legame_Planare)
-4) maledire qualcuno tramite [visione di lamasthu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu):
+4) ricercare nuovo incantesimo:
+	1) [Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue), divino
+5) maledire qualcuno tramite [visione di lamasthu](https://golarion.altervista.org/wiki/Incantesimi/Visione_di_Lamashtu):
 	1) [maledizione condizionata](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Condizionata)
 	2) [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore)
 	3) [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore)
 	4) [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
-5) ricercare nuovo incantesimo:
-	1) [Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue), divino
 6) usare incantesimi a lunga durata:
 	1) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (7g) (M 25mo)
 	2) [memoria ombra di sarzari](https://golarion.altervista.org/wiki/Incantesimi/Memoria_Ombra_di_Sarzari) (30g) (M 1500mo)

@@ -35,7 +35,8 @@
               "title": "Strategie"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,10 +203,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "bfa3b3e5d6a073d7",
+  "active": "e490fb155ba2917f",
   "lastOpenFiles": [
-    "pf_ch_04/Strategie.md",
     "pf_ch_04/Incantesimi.md",
+    "pf_ch_04/Strategie.md",
     "pf_ch_04/Procedure e Rituali.md",
     "pf_ch_04/Equipaggiamento.md",
     "pf_ch_04/PG.md",
