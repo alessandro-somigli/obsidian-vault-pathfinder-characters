@@ -29,4 +29,3 @@
 	- (lv.9) [contratto incantato inferiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Inferiore) (∞)
 	- (lv.13) [contratto incantato](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato) (∞)
 	- (lv.17) [contratto incantato superiore](https://golarion.altervista.org/wiki/Incantesimi/Contratto_Incantato_Superiore) (∞)
-
