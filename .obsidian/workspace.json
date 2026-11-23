@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pf_ch_04/Procedure e Rituali.md",
+                "file": "pf_ch_04/Creature Rianimate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Procedure e Rituali"
+              "title": "Creature Rianimate"
             }
           }
         ],
@@ -205,9 +205,9 @@
   },
   "active": "e490fb155ba2917f",
   "lastOpenFiles": [
-    "pf_ch_04/Strategie.md",
     "pf_ch_04/Incantesimi.md",
     "pf_ch_04/Procedure e Rituali.md",
+    "pf_ch_04/Strategie.md",
     "pf_ch_04/Equipaggiamento.md",
     "pf_ch_04/PG.md",
     "pf_ch_04/Backstory.md",
