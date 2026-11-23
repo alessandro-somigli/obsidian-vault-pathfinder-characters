@@ -16,6 +16,7 @@
 - [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) x23
 
 #### Da Comprare:
+[Altare Portatile](https://golarion.altervista.org/wiki/Attrezzi_di_Classe_e_Abilit%C3%A0) (250 mo)
 - onice 300mo
 - acqua sacrilega x2 50mo
 - maschera, abito da viaggiatore x2 2.2mo
