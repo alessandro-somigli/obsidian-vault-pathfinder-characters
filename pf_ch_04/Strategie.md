@@ -7,7 +7,7 @@
 	- [maledizione maggiore](https://golarion.altervista.org/wiki/Incantesimi/Maledizione_Maggiore)
 	- [dissolvi magie superiore](https://golarion.altervista.org/wiki/Incantesimi/Dissolvi_Magie_Superiore)
 	- [costrizione/cerca](https://golarion.altervista.org/wiki/Incantesimi/Costrizione/Cerca)
-- ricercare nuovo incantesimo:
+- ricercare nuovi incantesimi:
 	- (lv.1) [Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue), divino
 - usare incantesimi a lunga durata:
 	- (lv.7) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (7g) (M 25mo)
