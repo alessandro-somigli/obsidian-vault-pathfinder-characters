@@ -66,7 +66,7 @@ privilegi di classe:
 | --- | --- | ----------------------------------------------------------------------------------------------- |
 | 1   | X   | [Arma Focalizzata](https://golarion.altervista.org/wiki/Arma_Focalizzata)                       |
 | 3   | X   | [Attacco Poderoso](https://golarion.altervista.org/wiki/Attacco_Poderoso)                       |
-| 5   |     | [Riflessi in Combattimento](https://golarion.altervista.org/wiki/Riflessi_in_Combattimento)     |
+| 5   | X   | [Riflessi in Combattimento](https://golarion.altervista.org/wiki/Riflessi_in_Combattimento)     |
 | 7   |     | [Schianto del Cornugon](https://golarion.altervista.org/wiki/Schianto_del_Cornugon)             |
 | 9   |     | [Prodezza Intimidatrice](https://golarion.altervista.org/wiki/Prodezza_Intimidatrice)           |
 | 11  |     | [Abilità Distintiva](https://golarion.altervista.org/wiki/Abilit%C3%A0_Distintiva) (intimidire) |
