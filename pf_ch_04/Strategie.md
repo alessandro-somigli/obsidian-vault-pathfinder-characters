@@ -13,7 +13,7 @@
 	- (lv.7) [divinazione](https://golarion.altervista.org/wiki/Incantesimi/Divinazione) (7g) (M 25mo)
 	- (lv.11) [memoria ombra di sarzari](https://golarion.altervista.org/wiki/Incantesimi/Memoria_Ombra_di_Sarzari) (30g) (M 1500mo)
 	- (lv.15) [legione delle tombe](https://golarion.altervista.org/wiki/Incantesimi/Legione_delle_Tombe) (7g)
-- creare materiali/consumabili
+- creare materiali/consumabili:
 	- (lv.1) [germoglio di fiordimetallo](https://golarion.altervista.org/wiki/Incantesimi/Germogli_di_Fiordimetallo) (1g/lv)
 	- (lv.1) [ritratto istantaneo](https://golarion.altervista.org/wiki/Incantesimi/Ritratto_Istantaneo) (∞)
 	- (lv.5) [acque di lamashtu](https://golarion.altervista.org/wiki/Incantesimi/Acque_di_Lamashtu) (∞) (M 250mo)
