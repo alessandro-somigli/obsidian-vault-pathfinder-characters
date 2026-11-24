@@ -1,11 +1,11 @@
-## Lv.1 (0):
+## Lv.1 (2):
 - buff:
 	- (0) [Acume Tattico](https://golarion.altervista.org/wiki/Incantesimi/Acume_Tattico)
 	- (0) [Benedizione](https://golarion.altervista.org/wiki/Incantesimi/Benedizione)
 - cure/protezioni:
-	- (0) [Sfida dell'Eroe](https://golarion.altervista.org/wiki/Incantesimi/Sfida_dell%27Eroe) (I)
+	- (1) [Sfida dell'Eroe](https://golarion.altervista.org/wiki/Incantesimi/Sfida_dell%27Eroe) (I)
 	- (0) [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore)
-	- (0) [Grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (V)
+	- (1) [Grazia](https://golarion.altervista.org/wiki/Incantesimi/Grazia) (V)
 	- (0) [Comando di Liberazione](https://golarion.altervista.org/wiki/Incantesimi/Comando_di_Liberazione) (I)
 - utility:
 	- (0) [Conoscere il Nemico](https://golarion.altervista.org/wiki/Incantesimi/Conoscere_il_Nemico)
