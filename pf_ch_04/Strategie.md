@@ -1,26 +1,26 @@
 ## Aumentare la Diplomazia:
 - incantesimi:
-	- (lv.1) [diplomazia potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata) (+2) (Bonus Competenza)
-	- (lv.1) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (+2)
-	- (lv.3) [Splendore dell'Aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila) (+2) (Bonus Potenziamento)
+	- (sl.0) [diplomazia potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata) (+2) (Bonus Competenza)
+	- (sl.1) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (+2)
+	- (sl.2) [Splendore dell'Aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila) (+2) (Bonus Potenziamento)
 - consumabili:
 	- [Kit per Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+1)
 	- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (+2)
 	- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+2)
 ## Aumentare le Conoscenze:
 - incantesimi:
-	- (lv.3) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (+4/.../+8) (Bonus Cognitivo)
-	- (lv.3) [epifania della pagina legata](https://golarion.altervista.org/wiki/Incantesimi/Epifania_della_Pagina_Legata) (+1/.../+10)
-	- (lv.5) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (+4) (Bonus Competenza)
+	- (sl.2) [comunione ancestrale](https://golarion.altervista.org/wiki/Incantesimi/Comunione_Ancestrale) (+4/.../+8) (Bonus Cognitivo)
+	- (sl.2) [epifania della pagina legata](https://golarion.altervista.org/wiki/Incantesimi/Epifania_della_Pagina_Legata) (+1/.../+10)
+	- (sl.3) [incanalare vigore](https://golarion.altervista.org/wiki/Incantesimi/Incanalare_Vigore) (+4) (Bonus Competenza)
 - consumabili:
 	- [Libro dei Rompicapi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (V)
 ## Aumentare un'Abilità
 - incantesimi:
-	- (lv.1) [guida](https://golarion.altervista.org/wiki/Guida "Guida") (+1) (Bonus Competenza)
-	- (lv.1) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica) (+3)
-	- (lv.1) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (V)
-	- (lv.3) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (+1/.../+4) (Bonus Fortuna)
-	- (lv.5) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione) (+2/.../+6) (V) (Bonus Cognitivo)
+	- (sl.0) [guida](https://golarion.altervista.org/wiki/Guida "Guida") (+1) (Bonus Competenza)
+	- (sl.1) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica) (+3)
+	- (sl.1) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (V)
+	- (sl.2) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (+1/.../+4) (Bonus Fortuna)
+	- (sl.3) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione) (+2/.../+6) (V) (Bonus Cognitivo)
 - oggetti attivabili:
 	- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (+2) (Bonus Fortuna)
 - poteri di dominio:
