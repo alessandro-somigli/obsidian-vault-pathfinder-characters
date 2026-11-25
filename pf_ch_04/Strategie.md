@@ -23,6 +23,8 @@
 	- (lv.5) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione) (+2/.../+6) (V) (Bonus Cognitivo)
 - oggetti attivabili:
 	- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (+2) (Bonus Fortuna)
+- poteri di dominio:
+	- [visione di follia](https://golarion.altervista.org/wiki/Dominio_della_Follia) (+1/.../+10)
 
 ## Downtime:
 - (lv.3) potenziare equipaggiamento con [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150/300mo)
