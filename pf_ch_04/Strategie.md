@@ -1,3 +1,24 @@
+## Aumentare la Diplomazia:
+- incantesimi:
+	- (lv.1) [diplomazia potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata) (+2)
+	- (lv.1) [adattamento culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (+2)
+	- (lv.3) [Splendore dell'Aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila) (+2)
+- consumabili:
+	- [Kit di Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+1)
+	- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (+2)
+	- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+2)
+## Aumentare un'Abilità
+- incantesimi:
+	- (lv.1) [guida](https://golarion.altervista.org/wiki/Guida "Guida") (+1)
+	- (lv.1) [benedizione karmica](https://golarion.altervista.org/wiki/Incantesimi/Benedizione_Karmica) (+3)
+	- (lv.1) [strategia di ripiego](https://golarion.altervista.org/wiki/Incantesimi/Strategia_di_Ripiego) (V)
+	- (lv.3) [cleromanzia](https://golarion.altervista.org/wiki/Incantesimi/Cleromanzia) (+1/.../+4)
+	- (lv.5) [concedere cognizione](https://golarion.altervista.org/wiki/Incantesimi/Concedere_Cognizione) (+2/.../+6) (V)
+- consumabili:
+	- 
+- oggetti attivabili:
+	- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (+2)
+
 ## Downtime:
 - (lv.3) potenziare equipaggiamento con [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150/300mo)
 - (lv.5) creare scheletri insanguinati con [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
