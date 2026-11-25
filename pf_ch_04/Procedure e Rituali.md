@@ -119,18 +119,3 @@ procedimento:
 2) utilizzare la [Pergamena di Moneta di Sangue](https://golarion.altervista.org/wiki/Incantesimi/Moneta_di_Sangue)
 3) lanciare l'incantesimo [Trasformazione Perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) per potenziare l'oggetto
 4) lanciare l'incantesimo [Ristorare Inferiore](https://golarion.altervista.org/wiki/Incantesimi/Ristorare_Inferiore) per recuperare i punti di caratteristica persi
-
-
-## Migliorare la Diplomazia
-#### Incantesimi:
-- [Diplomazia Potenziata](https://golarion.altervista.org/wiki/Incantesimi/Diplomazia_Potenziata) (lv.0) (+2 DIP)
-- [Adattamento Culturale](https://golarion.altervista.org/wiki/Incantesimi/Adattamento_Culturale) (lv.1) (+2 DIP)
-- [Splendore dell'Aquila](https://golarion.altervista.org/wiki/Incantesimi/Splendore_dell%27Aquila) (lv.2) (+2 CAR)
-#### Oggetti Magici:
-- [Diadema della Persuasione](https://golarion.altervista.org/wiki/Diadema_della_Persuasione) (+3 CAR)
-- [Veste Vivente](https://golarion.altervista.org/wiki/Veste_Vivente) (+5 DIP)
-- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (+2 DIP)
-#### Oggetti Non Magici:
-- [Kit di Profumi](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+1 DIP)
-- [Profumo e Colonia](https://golarion.altervista.org/wiki/Equipaggiamento_di_Golarion#Profumo/Colonia) (+2 DIP)
-- [Libro Blu](https://golarion.altervista.org/wiki/Oggetti_d%27Avventura) (+2 DIP)
