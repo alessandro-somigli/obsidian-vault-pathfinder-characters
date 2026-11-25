@@ -25,7 +25,6 @@
 	- [Quadrifoglio](https://golarion.altervista.org/wiki/Quadrifoglio) (+2) (Bonus Fortuna)
 - poteri di dominio:
 	- [visione di follia](https://golarion.altervista.org/wiki/Dominio_della_Follia) (+1/.../+10)
-
 ## Downtime:
 - (lv.3) potenziare equipaggiamento con [trasformazione perfetta](https://golarion.altervista.org/wiki/Incantesimi/Trasformazione_Perfetta) (M 150/300mo)
 - (lv.5) creare scheletri insanguinati con [animare morti](https://golarion.altervista.org/wiki/Incantesimi/Animare_Morti)
